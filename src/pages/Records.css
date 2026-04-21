@@ -1,0 +1,135 @@
+.records-toolbar {
+  --background: #ffffff;
+  --border-color: transparent;
+  box-shadow: 0 1px 8px rgba(0,0,0,0.08);
+}
+
+.records-title {
+  font-size: 20px;
+  font-weight: 700;
+  color: #1a1a2e;
+}
+
+.records-content {
+  --background: #f4f6fb;
+}
+
+.records-empty {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+  gap: 8px;
+}
+
+.records-empty-icon {
+  font-size: 64px;
+  margin-bottom: 8px;
+}
+
+.records-empty-title {
+  font-size: 18px;
+  font-weight: 600;
+  color: #333;
+  margin: 0;
+}
+
+.records-empty-sub {
+  font-size: 14px;
+  color: #999;
+  margin: 0;
+}
+
+.records-list {
+  padding: 16px 16px calc(80px + env(safe-area-inset-bottom));
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.record-card {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+  cursor: pointer;
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+
+.record-card:active {
+  transform: scale(0.98);
+  box-shadow: 0 1px 6px rgba(0,0,0,0.1);
+}
+
+.record-card-main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.record-date {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 15px;
+  font-weight: 600;
+  color: #1a1a2e;
+}
+
+.record-date ion-icon {
+  color: #4285f4;
+  font-size: 16px;
+}
+
+.record-stats {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.record-stat {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.record-stat ion-icon {
+  color: #888;
+  font-size: 14px;
+}
+
+.stat-value {
+  font-size: 14px;
+  font-weight: 600;
+  color: #333;
+}
+
+.stat-unit {
+  font-size: 12px;
+  color: #999;
+}
+
+.record-stat-divider {
+  width: 1px;
+  height: 14px;
+  background: #e0e0e0;
+}
+
+.record-card-actions {
+  display: flex;
+  align-items: center;
+  gap: 0;
+  margin-left: 8px;
+}
+
+.record-arrow {
+  color: #ccc;
+  font-size: 18px;
+  margin-left: 4px;
+}

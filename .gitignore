@@ -1,0 +1,30 @@
+node_modules
+dist
+.DS_Store
+*.aab
+*.apk
+
+# Android 키스토어 파일 (보안상 Git에 커밋하면 안 됨)
+android/app/*.keystore
+android/app/*.jks
+android/keystore.properties
+*.keystore
+*.jks
+keystore.properties
+
+# Android build
+android/app/build/
+android/build/
+android/.gradle/
+android/app/google-services.json
+
+# Playwright logs
+.playwright-mcp/
+
+# IDE
+.idea/
+.vscode/
+
+# Misc
+*.log
+.env
