@@ -4,7 +4,7 @@ import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import { Place, useTrip } from '../context/TripContext';
 import { CAT_COLORS, INK, PAPER } from '../theme/palette';
-import { dayDate, fmtDay, isTouchDevice, readDayParam, tripCenter, tripRange, tripSearchArea } from '../utils/trip';
+import { dayDate, fmtDay, readDayParam, tripCenter, tripRange, tripSearchArea } from '../utils/trip';
 import DayGrid from '../components/DayGrid';
 import NavCard from '../components/NavCard';
 import { walkerClass, walkerSvg } from '../components/walkerSvg';
@@ -304,7 +304,6 @@ const MapPage: React.FC = () => {
 
   const date = dayDate(activeTrip, day);
   const dayDateLabel = date ? fmtDay(date) : '날짜 미정';
-  const swipeHint = isTouchDevice() && days.length > 1 ? ' · 좌우로 스와이프' : '';
   const canNav = list.some((p) => typeof p.lat === 'number');
   const missing = list.filter((p) => typeof p.lat !== 'number' || typeof p.lng !== 'number');
 
@@ -384,7 +383,7 @@ const MapPage: React.FC = () => {
 
   return (
     <div style={{ width: '100%', maxWidth: 390, height: 'calc(100vh - var(--ad-h, 0px))', maxHeight: 844, margin: '0 auto', boxSizing: 'border-box', background: PAPER, display: 'flex', flexDirection: 'column', overflow: 'hidden' }}>
-      <div style={{ background: '#2F3CF0', borderBottom: '2px solid #14162B', padding: '14px 20px 18px', display: 'flex', flexDirection: 'column', gap: 8, color: '#FFFFFF' }}>
+      <div style={{ flexShrink: 0, background: '#2F3CF0', borderBottom: '2px solid #14162B', padding: '14px 20px 18px', display: 'flex', flexDirection: 'column', gap: 8, color: '#FFFFFF' }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginLeft: -10 }}>
           <button type="button" aria-label="뒤로" onClick={() => history.push('/my-trips')} style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', width: 44, height: 44, border: 0, background: 'transparent', cursor: 'pointer' }}>
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#FFFFFF" strokeWidth={2.4} strokeLinecap="square" aria-hidden="true">
@@ -396,12 +395,12 @@ const MapPage: React.FC = () => {
         <h1 style={{ margin: 0, fontFamily: "'Black Han Sans', sans-serif", fontSize: 36, lineHeight: 1.1, fontWeight: 400 }}>{activeTrip.destination}</h1>
       </div>
 
-      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, minmax(0, 1fr))', margin: '16px 20px 0', border: '2px solid #14162B', borderRadius: 10, overflow: 'hidden' }}>
+      <div style={{ flexShrink: 0, height: 48, boxSizing: 'border-box', display: 'grid', gridTemplateColumns: 'repeat(2, minmax(0, 1fr))', margin: '16px 20px 0', border: '2px solid #14162B', borderRadius: 10, overflow: 'hidden' }}>
         <button type="button" onClick={() => history.push('/itinerary?day=' + day)} style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', height: 44, borderRight: '2px solid #14162B', background: '#FFFFFF', color: INK, fontFamily: "'Black Han Sans', sans-serif", fontSize: 16, cursor: 'pointer' }}>목록</button>
         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', height: 44, background: '#FFD84A', color: INK, fontFamily: "'Black Han Sans', sans-serif", fontSize: 16 }}>지도</div>
       </div>
 
-      <div style={{ display: 'flex', alignItems: 'center', gap: 8, padding: '14px 20px 0' }}>
+      <div style={{ flexShrink: 0, display: 'flex', alignItems: 'center', gap: 8, padding: '14px 20px 0' }}>
         <div style={{ flexGrow: 1, minWidth: 0, display: 'flex', gap: 8, overflowX: 'auto', padding: '2px 2px 8px' }}>
           {days.map((_, i) => (
             <button
@@ -484,7 +483,7 @@ const MapPage: React.FC = () => {
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: 8, padding: '8px 20px 4px' }}>
             <div style={{ display: 'flex', flexDirection: 'column', gap: 2, minWidth: 0 }}>
               <div style={{ fontSize: 15, fontWeight: 700 }}>{day + 1}일차</div>
-              <div style={{ fontFamily: "'DM Mono', monospace", fontSize: 11, color: '#4A4D66' }}>{dayDateLabel}{swipeHint}</div>
+              <div style={{ fontFamily: "'DM Mono', monospace", fontSize: 11, color: '#4A4D66' }}>{dayDateLabel}</div>
             </div>
             <button
               type="button"

@@ -38,6 +38,11 @@ android {
         }
     }
     buildTypes {
+        // 개발용: 스토어 앱(com.polyrun.app)과 나란히 설치되게 다른 패키지로 (홈 화면 이름은 src/debug 의 "런플리 DEV")
+        debug {
+            applicationIdSuffix ".debug"
+            versionNameSuffix "-dev"
+        }
         release {
             minifyEnabled true
             shrinkResources true

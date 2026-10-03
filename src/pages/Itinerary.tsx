@@ -2,7 +2,7 @@ import React, { useEffect, useRef, useState } from 'react';
 import { useHistory, useLocation } from 'react-router-dom';
 import { Place, useTrip } from '../context/TripContext';
 import { CAT_COLORS, INK, PAPER } from '../theme/palette';
-import { dayDate, daySchedule, fmtDay, fmtTravel, isTouchDevice, readDayParam, travelBetween, tripRange } from '../utils/trip';
+import { dayDate, daySchedule, fmtDay, fmtTravel, readDayParam, travelBetween, tripRange } from '../utils/trip';
 import { loadAllLegs, useRouteLegs } from '../hooks/useRouteLegs';
 import DayGrid from '../components/DayGrid';
 import DayExpenses from '../components/DayExpenses';
@@ -292,7 +292,7 @@ const Itinerary: React.FC = () => {
 
   return (
     <div style={{ position: 'relative', width: '100%', maxWidth: 390, height: 'calc(100vh - var(--ad-h, 0px))', maxHeight: 844, margin: '0 auto', boxSizing: 'border-box', background: PAPER, display: 'flex', flexDirection: 'column', overflow: 'hidden' }}>
-      <div style={{ background: '#2F3CF0', borderBottom: '2px solid #14162B', padding: '14px 20px 18px', display: 'flex', flexDirection: 'column', gap: 8, color: '#FFFFFF' }}>
+      <div style={{ flexShrink: 0, background: '#2F3CF0', borderBottom: '2px solid #14162B', padding: '14px 20px 18px', display: 'flex', flexDirection: 'column', gap: 8, color: '#FFFFFF' }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginLeft: -10 }}>
           <button type="button" aria-label="뒤로" onClick={() => history.push('/my-trips')} style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', width: 44, height: 44, border: 0, background: 'transparent', cursor: 'pointer' }}>
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#FFFFFF" strokeWidth={2.4} strokeLinecap="square" aria-hidden="true">
@@ -312,12 +312,12 @@ const Itinerary: React.FC = () => {
         <h1 style={{ margin: 0, fontFamily: "'Black Han Sans', sans-serif", fontSize: 36, lineHeight: 1.1, fontWeight: 400 }}>{activeTrip.destination}</h1>
       </div>
 
-      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, minmax(0, 1fr))', margin: '16px 20px 0', border: '2px solid #14162B', borderRadius: 10, overflow: 'hidden' }}>
+      <div style={{ flexShrink: 0, height: 48, boxSizing: 'border-box', display: 'grid', gridTemplateColumns: 'repeat(2, minmax(0, 1fr))', margin: '16px 20px 0', border: '2px solid #14162B', borderRadius: 10, overflow: 'hidden' }}>
         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', height: 44, borderRight: '2px solid #14162B', background: '#FFD84A', color: INK, fontFamily: "'Black Han Sans', sans-serif", fontSize: 16 }}>목록</div>
         <button type="button" onClick={() => history.push('/map?day=' + day)} style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', height: 44, border: 0, background: '#FFFFFF', color: INK, fontFamily: "'Black Han Sans', sans-serif", fontSize: 16, cursor: 'pointer' }}>지도</button>
       </div>
 
-      <div style={{ display: 'flex', alignItems: 'center', gap: 8, padding: '14px 20px 0' }}>
+      <div style={{ flexShrink: 0, display: 'flex', alignItems: 'center', gap: 8, padding: '14px 20px 0' }}>
         <div style={{ flexGrow: 1, minWidth: 0, display: 'flex', gap: 8, overflowX: 'auto', padding: '2px 2px 8px' }}>
           {days.map((_, i) => (
             <button
@@ -349,7 +349,7 @@ const Itinerary: React.FC = () => {
               <div style={{ fontSize: 15, fontWeight: 700 }}>
                 {day + 1}일차
               </div>
-              <div style={{ fontFamily: "'DM Mono', monospace", fontSize: 11, color: '#4A4D66' }}>{dayDateLabel} · {list.length}곳{isTouchDevice() && days.length > 1 ? ' · 좌우로 스와이프' : ''}</div>
+              <div style={{ fontFamily: "'DM Mono', monospace", fontSize: 11, color: '#4A4D66' }}>{dayDateLabel} · {list.length}곳</div>
             </div>
             <button type="button" onClick={autoSort} style={{ flexShrink: 0, display: 'flex', alignItems: 'center', gap: 6, height: 44, padding: '0 14px', border: '2px solid #14162B', borderRadius: 8, background: '#FFD84A', color: INK, fontFamily: "'Black Han Sans', sans-serif", fontSize: 15, cursor: 'pointer' }}>
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#14162B" strokeWidth={2.4} strokeLinecap="square" aria-hidden="true">

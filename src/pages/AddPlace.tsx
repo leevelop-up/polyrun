@@ -5,7 +5,7 @@ import 'leaflet/dist/leaflet.css';
 import { Category, Place, useTrip } from '../context/TripContext';
 import { CAT_COLORS, INK, PAPER } from '../theme/palette';
 import { reverseGeocode, GeoSearchResult } from '../api/geo';
-import { findDestination, loadPicks, matchPick, PlacePick } from '../data/destinations';
+import { findTripDestination, loadPicks, matchPick, PlacePick } from '../data/destinations';
 import { usePlaceSearch } from '../hooks/usePlaceSearch';
 import { dayDate, fmtDay, readDayParam, tripCenter, tripRange, tripSearchArea } from '../utils/trip';
 
@@ -65,7 +65,7 @@ const AddPlace: React.FC = () => {
   }, [activeTrip?.id]);
 
   const list = activeTrip ? activeTrip.days[day] || [] : [];
-  const dest = activeTrip ? findDestination(activeTrip.destination) : undefined;
+  const dest = activeTrip ? findTripDestination(activeTrip) : undefined;
   const picks = allPicks || dest?.picks || [];
   const areas = dest?.areas || [];
   useEffect(() => {

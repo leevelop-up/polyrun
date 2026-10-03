@@ -24,10 +24,14 @@ export interface Destination {
   areas: string[];
   // 직접 고른 추천 장소 (바로 쓸 수 있음). Wikidata 관광지까지 합친 목록은 loadPicks 로 받는다.
   picks: PlacePick[];
+  // 목적지 검색용 다른 이름 (LA, 로스앤젤레스, 하와이 등)
+  aliases: string[];
+  // 관광지 범위 [lat, lng, km]: 검색으로 만든 일정도 이 안이면 이 목적지로 본다
+  search: [number, number, number][];
 }
 
 const PICKS = picksData as Record<string, { areas: string[]; picks: PlacePick[] }>;
-type CityRow = { id: string; name: string; code: string; center: number[]; zoom: number };
+type CityRow = { id: string; name: string; code: string; center: number[]; zoom: number; search: number[][]; aliases?: string[] };
 
 export const DESTINATIONS: Destination[] = (citiesData as CityRow[]).map((c) => ({
   id: c.id,
@@ -36,7 +40,9 @@ export const DESTINATIONS: Destination[] = (citiesData as CityRow[]).map((c) => 
   center: [c.center[0], c.center[1]],
   zoom: c.zoom,
   areas: PICKS[c.name]?.areas || [],
-  picks: PICKS[c.name]?.picks || []
+  picks: PICKS[c.name]?.picks || [],
+  aliases: c.aliases || [],
+  search: c.search.map((x) => [x[0], x[1], x[2]] as [number, number, number])
 }));
 
 // 도시별 Wikidata 관광지 (scripts/build-places.mjs 로 생성). 도시를 열 때만 그 파일을 불러온다.
@@ -71,3 +77,23 @@ const RENAMED: Record<string, string> = { '스페인·포르투갈': '바르셀�
 
 export const findDestination = (name: string): Destination | undefined =>
   DESTINATIONS.find((d) => d.name === (RENAMED[name] || name));
+
+// 목적지 목록 검색: 대소문자·띄어쓰기 무시, 한국어 이름·영어 id·별칭 어디에든 들어 있으면 맞음 ("La" → LA · 라스베가스)
+export const matchDestination = (d: Destination, query: string): boolean => {
+  const q = norm(query);
+  return !q || [d.name, d.id, ...d.aliases].some((x) => norm(x).includes(q));
+};
+
+const kmBetween = (a: [number, number], b: [number, number]): number => {
+  const rad = Math.PI / 180;
+  const h = Math.sin(((b[0] - a[0]) * rad) / 2) ** 2 + Math.cos(a[0] * rad) * Math.cos(b[0] * rad) * Math.sin(((b[1] - a[1]) * rad) / 2) ** 2;
+  return 12742 * Math.asin(Math.sqrt(h));
+};
+
+// 일정의 목적지: 이름이 목록과 같으면 그 목적지, 아니면(검색으로 고른 "로스앤젤레스, 미국" 등) 지도 중심이 관광지 범위 안인 목적지
+export const findTripDestination = (trip: { destination: string; center?: [number, number] }): Destination | undefined => {
+  const byName = findDestination(trip.destination);
+  if (byName || !trip.center) return byName;
+  const c = trip.center;
+  return DESTINATIONS.find((d) => d.search.some(([lat, lng, km]) => kmBetween(c, [lat, lng]) <= km));
+};

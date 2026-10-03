@@ -3,7 +3,7 @@ import { useHistory, useLocation } from 'react-router-dom';
 import { useTrip } from '../context/TripContext';
 import { dayCount } from '../utils/trip';
 import { INK, PAPER } from '../theme/palette';
-import { DESTINATIONS, findDestination } from '../data/destinations';
+import { DESTINATIONS, findDestination, matchDestination } from '../data/destinations';
 import { GeoSearchResult, searchPlaces } from '../api/geo';
 
 const DAY_LABELS = ['일', '월', '화', '수', '목', '금', '토'];
@@ -64,7 +64,7 @@ const Main: React.FC<{ editing?: boolean }> = ({ editing = false }) => {
   const atMin = !editing && vy === now.getFullYear() && vm === now.getMonth();
 
   const qTrim = q.trim();
-  const places = DESTINATIONS.filter((p) => !qTrim || p.name.indexOf(qTrim) >= 0);
+  const places = DESTINATIONS.filter((p) => matchDestination(p, qTrim));
 
   const searchCity = async () => {
     if (!qTrim) return;

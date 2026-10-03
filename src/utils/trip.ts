@@ -1,5 +1,5 @@
 import type { Category, Place, Trip } from '../context/TripContext';
-import { DESTINATIONS, findDestination } from '../data/destinations';
+import { DESTINATIONS, findTripDestination } from '../data/destinations';
 import type { RouteLeg, SearchArea } from '../api/geo';
 
 const DAY_MS = 86400000;
@@ -31,7 +31,7 @@ export const tripRange = (trip: Pick<Trip, 'startDate' | 'endDate'>): string => 
 // 지도 시작 위치: 저장된 목적지 좌표 → 목적지 목록 → 이미 추가한 장소 → 기본값 순
 export const tripCenter = (trip: Trip | null): { center: [number, number]; zoom: number } => {
   if (trip?.center) return { center: trip.center, zoom: 12 };
-  const dest = trip ? findDestination(trip.destination) : undefined;
+  const dest = trip ? findTripDestination(trip) : undefined;
   if (dest) return { center: dest.center, zoom: dest.zoom };
   const placed = trip?.days.flat().find((p) => typeof p.lat === 'number' && typeof p.lng === 'number');
   if (placed) return { center: [placed.lat as number, placed.lng as number], zoom: 13 };
@@ -46,7 +46,7 @@ const REGION_RADIUS_KM = 800;
 export const tripSearchArea = (trip: Trip | null): SearchArea | undefined => {
   if (!trip) return undefined;
   if (trip.center) return { lat: trip.center[0], lng: trip.center[1], radiusKm: CITY_RADIUS_KM };
-  const dest = findDestination(trip.destination);
+  const dest = findTripDestination(trip);
   if (dest) return { lat: dest.center[0], lng: dest.center[1], radiusKm: dest.zoom >= 10 ? CITY_RADIUS_KM : REGION_RADIUS_KM };
   const placed = trip.days.flat().find((p) => typeof p.lat === 'number' && typeof p.lng === 'number');
   if (placed) return { lat: placed.lat as number, lng: placed.lng as number, radiusKm: CITY_RADIUS_KM };
@@ -269,7 +269,7 @@ const sameName = (a: string, b: string) => a.replace(/\s+/g, '').toLowerCase() =
 export const fillMissingCoords = (trips: Trip[]): Trip[] =>
   trips.map((t) => {
     if (t.days.every((d) => d.every((p) => typeof p.lat === 'number'))) return t;
-    const own = findDestination(t.destination);
+    const own = findTripDestination(t);
     const picks = (own ? [own] : []).concat(DESTINATIONS.filter((d) => d !== own)).flatMap((d) => d.picks);
     let changed = false;
     const days = t.days.map((d) =>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <!-- 개발용 빌드 표시 이름 (스토어 앱과 구분) -->
+    <string name="app_name">런플리 DEV</string>
+    <string name="title_activity_main">런플리 DEV</string>
+</resources>
