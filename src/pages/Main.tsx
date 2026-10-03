@@ -23,7 +23,10 @@ const Main: React.FC<{ editing?: boolean }> = ({ editing = false }) => {
   const [confirmShrink, setConfirmShrink] = useState<{ removed: number; places: number; lastDay: number } | null>(null);
 
   const now = new Date();
-  const [dest, setDest] = useState('도쿄, 일본');
+  // 새 일정은 목적지를 비워 두고 직접 고르게 한다
+  const [dest, setDest] = useState('');
+  // 목적지 없이 "일정 만들기"를 누르면 목적지부터 고르게 하고, 고르면 이어서 날짜를 고르게 한다
+  const [createAfterDest, setCreateAfterDest] = useState(false);
   // 목록에 없는 도시를 검색해서 고른 경우의 지도 중심
   const [destCenter, setDestCenter] = useState<[number, number] | undefined>(undefined);
   const [sheet, setSheet] = useState<'dest' | 'date' | null>(null);
@@ -181,6 +184,11 @@ const Main: React.FC<{ editing?: boolean }> = ({ editing = false }) => {
   };
 
   const handleCreate = () => {
+    if (!dest) {
+      setCreateAfterDest(true);
+      setSheet('dest');
+      return;
+    }
     if (!start || !end) {
       setCreateAfterDate(true);
       setSheet('date');
@@ -188,6 +196,16 @@ const Main: React.FC<{ editing?: boolean }> = ({ editing = false }) => {
     }
     save(start, end);
   };
+
+  useEffect(() => {
+    if (!createAfterDest || !dest) return;
+    setCreateAfterDest(false);
+    if (!start || !end) {
+      setCreateAfterDate(true);
+      setSheet('date');
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [dest, createAfterDest]);
 
   const closeDateSheet = () => {
     setSheet(null);
@@ -290,7 +308,7 @@ const Main: React.FC<{ editing?: boolean }> = ({ editing = false }) => {
               width: '100%'
             }}
           >
-            <span style={{ minWidth: 0, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{dest}</span>
+            <span style={{ minWidth: 0, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', color: dest ? undefined : '#8A8CA3' }}>{dest || '목적지 선택'}</span>
             <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#14162B" strokeWidth={2.6} strokeLinecap="square" aria-hidden="true">
               <path d="M5 9l7 7 7-7" />
             </svg>
@@ -408,7 +426,7 @@ const Main: React.FC<{ editing?: boolean }> = ({ editing = false }) => {
           <div role="dialog" aria-label="목적지 선택" style={{ width: '100%', boxSizing: 'border-box', maxHeight: 640, background: PAPER, borderTop: '2px solid #14162B', padding: '16px 20px 20px', display: 'flex', flexDirection: 'column', gap: 12 }}>
             <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
               <div style={{ fontFamily: "'Black Han Sans', sans-serif", fontSize: 24 }}>어디로 가세요?</div>
-              <button type="button" aria-label="닫기" onClick={closeDestSheet} style={{ width: 44, height: 44, marginRight: -10, border: 0, background: 'transparent', cursor: 'pointer', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+              <button type="button" aria-label="닫기" onClick={() => { setCreateAfterDest(false); closeDestSheet(); }} style={{ width: 44, height: 44, marginRight: -10, border: 0, background: 'transparent', cursor: 'pointer', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#14162B" strokeWidth={2.6} strokeLinecap="square" aria-hidden="true">
                   <path d="M5 5l14 14M19 5L5 19" />
                 </svg>
