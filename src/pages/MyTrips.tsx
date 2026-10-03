@@ -1,6 +1,6 @@
 import React, { useRef, useState } from 'react';
 import { useHistory } from 'react-router-dom';
-import { useTrip } from '../context/TripContext';
+import { Trip, useTrip } from '../context/TripContext';
 import { INK, PAPER } from '../theme/palette';
 import { backupJson, fmtWon, parseBackup, RETENTION_DAYS, spentOf, tripExpiresAt, tripStatus } from '../utils/trip';
 import { Capacitor } from '@capacitor/core';
@@ -20,10 +20,18 @@ const BACKUP_FOLDER = '런트립';
 // 예전 이름으로 만든 백업 폴더도 불러오기 목록에 보여 준다
 const BACKUP_FOLDERS = [BACKUP_FOLDER, '런플리'];
 const FOLDER_LABEL = isIOS ? '파일 앱 > 나의 iPhone > ' + BACKUP_FOLDER : '내 파일 > Documents > ' + BACKUP_FOLDER;
-async function saveBackup(text: string): Promise<string | null> {
+// 파일 이름에 넣을 여행지: "로스앤젤레스", 여러 개면 "로스앤젤레스 외 1" (파일 이름에 못 쓰는 문자는 뺀다)
+const placeTag = (trips: Trip[]): string => {
+  if (!trips.length) return '';
+  const first = trips[0].destination.split(',')[0].replace(/[\\/:*?"<>|]/g, '').trim().slice(0, 20);
+  return first ? '-' + first + (trips.length > 1 ? ' 외 ' + (trips.length - 1) : '') : '';
+};
+
+async function saveBackup(trips: Trip[]): Promise<string | null> {
+  const text = backupJson(trips);
   const d = new Date();
   const pad = (n: number) => String(n).padStart(2, '0');
-  const name = 'runtrip-backup-' + d.getFullYear() + pad(d.getMonth() + 1) + pad(d.getDate()) + '-' + pad(d.getHours()) + pad(d.getMinutes()) + '.json';
+  const name = 'runtrip-backup-' + d.getFullYear() + pad(d.getMonth() + 1) + pad(d.getDate()) + '-' + pad(d.getHours()) + pad(d.getMinutes()) + placeTag(trips) + '.json';
   if (isNative) {
     try {
       await Filesystem.writeFile({ path: BACKUP_FOLDER + '/' + name, data: text, directory: Directory.Documents, encoding: Encoding.UTF8, recursive: true });
@@ -59,13 +67,25 @@ async function saveBackup(text: string): Promise<string | null> {
 }
 
 // 런트립 폴더에 있는 백업 파일 (최근 것부터)
-type BackupFile = { folder: string; name: string; mtime: number };
+// trips: 파일 안의 일정 (읽을 수 없는 파일이면 null)
+type BackupFile = { folder: string; name: string; mtime: number; trips: Trip[] | null };
 async function listBackups(): Promise<BackupFile[]> {
   const out: BackupFile[] = [];
   for (const folder of BACKUP_FOLDERS) {
     try {
       const { files } = await Filesystem.readdir({ path: folder, directory: Directory.Documents });
-      for (const f of files) if (f.type === 'file' && f.name.endsWith('.json')) out.push({ folder, name: f.name, mtime: Number(f.mtime) || 0 });
+      for (const f of files) {
+        if (f.type !== 'file' || !f.name.endsWith('.json')) continue;
+        // 목록에서 내용을 미리 보여 주려고 읽어 둔다 (백업 파일은 작다)
+        let trips: Trip[] | null = null;
+        try {
+          const { data } = await Filesystem.readFile({ path: folder + '/' + f.name, directory: Directory.Documents, encoding: Encoding.UTF8 });
+          trips = parseBackup(typeof data === 'string' ? data : await data.text());
+        } catch {
+          trips = null;
+        }
+        out.push({ folder, name: f.name, mtime: Number(f.mtime) || 0, trips });
+      }
     } catch {
       // 폴더가 아직 없거나 읽을 수 없음
     }
@@ -73,9 +93,9 @@ async function listBackups(): Promise<BackupFile[]> {
   return out.sort((a, b) => b.mtime - a.mtime || b.name.localeCompare(a.name));
 }
 
-// "runtrip-backup-20261004-0001.json" → "2026.10.04 00:01" (이름에 날짜가 없으면 파일 이름 그대로)
+// "runtrip-backup-20261004-0001-로스앤젤레스.json" → "2026.10.04 00:01" (이름에 날짜가 없으면 파일 이름 그대로)
 const backupLabel = (f: BackupFile): string => {
-  const m = /(\d{4})(\d{2})(\d{2})(?:-(\d{2})(\d{2}))?\.json$/.exec(f.name);
+  const m = /(\d{4})(\d{2})(\d{2})(?:-(\d{2})(\d{2}))?/.exec(f.name);
   return m ? m[1] + '.' + m[2] + '.' + m[3] + (m[4] ? ' ' + m[4] + ':' + m[5] : '') : f.name;
 };
 
@@ -110,6 +130,22 @@ const MyTrips: React.FC = () => {
   // 앱: 런트립 폴더의 백업 목록 (null 이면 닫힘)
   const [backups, setBackups] = useState<BackupFile[] | null>(null);
 
+  // 백업 안의 일정 중 지금 앱에 없는 것 수
+  const newCount = (f: BackupFile): number => (f.trips ? f.trips.filter((t) => !trips.some((x) => x.id === t.id)).length : 0);
+  // 목적지 줄: "로스앤젤레스, 미국 외 1곳"
+  const backupDest = (f: BackupFile): string => {
+    if (!f.trips) return '읽을 수 없는 파일';
+    if (!f.trips.length) return '일정 없음';
+    return f.trips[0].destination + (f.trips.length > 1 ? ' 외 ' + (f.trips.length - 1) + '곳' : '');
+  };
+  // 개수 줄: "일정 2개 · 장소 12곳" (예전 폴더면 폴더 이름도)
+  const backupCounts = (f: BackupFile): string => {
+    const where = f.folder !== BACKUP_FOLDER ? ' · ' + f.folder + ' 폴더' : '';
+    if (!f.trips) return f.name + where;
+    const places = f.trips.reduce((n, t) => n + t.days.reduce((m, d) => m + d.length, 0), 0);
+    return '일정 ' + f.trips.length + '개 · 장소 ' + places + '곳' + where;
+  };
+
   const openImport = async () => {
     if (!isNative) {
       fileRef.current?.click();
@@ -120,6 +156,10 @@ const MyTrips: React.FC = () => {
 
   const importFromFolder = async (f: BackupFile) => {
     setBackups(null);
+    if (f.trips) {
+      importParsed(f.trips);
+      return;
+    }
     try {
       const { data } = await Filesystem.readFile({ path: f.folder + '/' + f.name, directory: Directory.Documents, encoding: Encoding.UTF8 });
       importText(typeof data === 'string' ? data : await data.text());
@@ -139,6 +179,10 @@ const MyTrips: React.FC = () => {
       showToast('백업 파일을 읽지 못했어요');
       return;
     }
+    importParsed(parsed);
+  };
+
+  const importParsed = (parsed: Trip[]) => {
     const n = importTrips(parsed);
     showToast(n ? '일정 ' + n + '개를 불러왔어요' : '새로 불러올 일정이 없어요 (이미 있어요)');
   };
@@ -272,7 +316,7 @@ const MyTrips: React.FC = () => {
               type="button"
               disabled={trips.length === 0}
               onClick={() =>
-                saveBackup(backupJson(trips))
+                saveBackup(trips)
                   .then((msg) => msg && showToast(msg))
                   .catch(() => showToast('백업 파일을 저장하지 못했어요'))
               }
@@ -354,10 +398,14 @@ const MyTrips: React.FC = () => {
                   key={f.folder + '/' + f.name}
                   type="button"
                   onClick={() => importFromFolder(f)}
-                  style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 8, minHeight: 52, padding: '0 14px', border: '2px solid #14162B', borderRadius: 8, background: '#FFFFFF', color: INK, cursor: 'pointer', textAlign: 'left' }}
+                  style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 10, minHeight: 60, padding: '8px 14px', border: '2px solid #14162B', borderRadius: 8, background: '#FFFFFF', color: INK, cursor: 'pointer', textAlign: 'left' }}
                 >
-                  <span style={{ fontFamily: "'DM Mono', monospace", fontSize: 15, fontWeight: 500 }}>{backupLabel(f)}</span>
-                  <span style={{ fontSize: 12, color: '#4A4D66' }}>{f.folder === BACKUP_FOLDER ? '불러오기' : f.folder + ' 폴더'}</span>
+                  <span style={{ display: 'flex', flexDirection: 'column', gap: 3, minWidth: 0 }}>
+                    <span style={{ fontFamily: "'DM Mono', monospace", fontSize: 13, color: '#4A4D66' }}>{backupLabel(f)}</span>
+                    <span style={{ fontSize: 15, fontWeight: 700, color: f.trips ? INK : '#FF5A3C', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{backupDest(f)}</span>
+                    <span style={{ fontSize: 12, color: '#4A4D66', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{backupCounts(f)}</span>
+                  </span>
+                  <span style={{ flexShrink: 0, fontSize: 12, fontWeight: 700, color: newCount(f) ? '#2F3CF0' : '#8A8CA3' }}>{f.trips ? (newCount(f) ? '새 일정 ' + newCount(f) + '개' : '모두 있음') : ''}</span>
                 </button>
               ))}
               {backups.length === 0 && <div style={{ padding: '8px 2px', fontSize: 14, color: '#4A4D66', lineHeight: 1.5 }}>런트립 폴더에 저장한 백업이 없어요.</div>}
