@@ -16,6 +16,8 @@ export interface Place {
   time?: string;
   // 머무는 시간(분). 없으면 카테고리 기본값.
   stay?: number;
+  // Wikidata 항목 ID (추천 장소에서 고른 경우). 장소 상세정보를 찾는 데 쓴다
+  wd?: string;
 }
 
 export interface Trip {

@@ -6,6 +6,8 @@ import { dayDate, daySchedule, fmtDay, fmtTravel, readDayParam, travelBetween, t
 import { loadAllLegs, useRouteLegs } from '../hooks/useRouteLegs';
 import DayGrid from '../components/DayGrid';
 import DayExpenses from '../components/DayExpenses';
+import { findTripDestination, loadPicks } from '../data/destinations';
+import { daySpreadKm, Pace, PACE_LABEL, PACE_SIGHTS, recommendDays } from '../utils/recommend';
 
 // 두 장소 사이 이동 시간(분)
 type Cost = (a: Place, b: Place) => number;
@@ -85,7 +87,11 @@ const Itinerary: React.FC = () => {
   const [day, setDay] = useState(() => readDayParam(location.search, activeTrip ? activeTrip.days.length : 1));
   const [grid, setGrid] = useState(false);
   const [moving, setMoving] = useState<{ day: number; id: string } | null>(null);
-  const [toast, setToast] = useState<{ text: string; undo: boolean; sort: boolean; prev: Place[] | null } | null>(null);
+  // prevAll: 여러 날을 한꺼번에 바꾼 경우(추천 일정) 되돌릴 전체 일정
+  const [toast, setToast] = useState<{ text: string; undo: boolean; sort: boolean; prev: Place[] | null; prevAll?: Place[][] } | null>(null);
+  // 추천 일정 시트: 하루 일정 양(pace), 이 날만/빈 날 모두
+  const [rec, setRec] = useState<{ pace: Pace; scope: 'day' | 'empty' } | null>(null);
+  const recBusy = useRef(false);
   const toastTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
   const swipeStart = useRef({ x: 0, y: 0 });
   // 드래그로 순서 바꾸기: 손잡이를 누른 채 위아래로 끌면 놓은 자리로 옮긴다
@@ -132,9 +138,10 @@ const Itinerary: React.FC = () => {
   };
 
   const doUndo = () => {
-    if (!toast || !toast.prev) return;
+    if (!toast || (!toast.prev && !toast.prevAll)) return;
     if (toastTimer.current) clearTimeout(toastTimer.current);
-    updateDayItems(activeTrip.id, day, toast.prev);
+    if (toast.prevAll) toast.prevAll.forEach((d, i) => updateDayItems(activeTrip.id, i, d));
+    else if (toast.prev) updateDayItems(activeTrip.id, day, toast.prev);
     setToast(null);
   };
 
@@ -178,6 +185,36 @@ const Itinerary: React.FC = () => {
     }
     const kept = fixStart && fixEnd ? '출발·도착지는 그대로, ' : fixStart ? '출발지는 그대로, ' : fixEnd ? '도착지는 그대로, ' : '';
     setDayList(nl, kept + '이동 시간이 ' + pct + '% 줄었어요' + basis, true);
+  };
+
+  const dest = findTripDestination(activeTrip);
+  const emptyDays = days.map((d, i) => (d.length ? -1 : i)).filter((i) => i >= 0);
+  const openRec = () => setRec({ pace: 'normal', scope: emptyDays.length > 1 ? 'empty' : 'day' });
+
+  // 추천 일정 넣기: 인기 관광지를 가까운 곳끼리 하루씩 묶어 고른 날에 더한다
+  const applyRec = async () => {
+    if (!rec || !dest || recBusy.current) return;
+    recBusy.current = true;
+    const picks = await loadPicks(dest);
+    recBusy.current = false;
+    const targets = rec.scope === 'day' ? [day] : emptyDays;
+    const made = recommendDays(picks, targets.length, rec.pace, daySpreadKm(dest), new Set(days.flat().map((p) => p.name)));
+    const prevAll = days.map((d) => d.slice());
+    let n = 0;
+    targets.forEach((di, k) => {
+      if (!made[k] || !made[k].length) return;
+      updateDayItems(activeTrip.id, di, days[di].concat(made[k]));
+      n += made[k].length;
+    });
+    setRec(null);
+    if (toastTimer.current) clearTimeout(toastTimer.current);
+    if (!n) {
+      setToast({ text: '더 추천할 장소가 없어요', undo: false, sort: false, prev: null });
+    } else {
+      const where = targets.length === 1 ? targets[0] + 1 + '일차에 ' : targets.length + '일에 걸쳐 ';
+      setToast({ text: where + n + '곳을 넣었어요. 마음에 안 드는 곳은 빼 주세요', undo: true, sort: false, prev: null, prevAll });
+    }
+    toastTimer.current = setTimeout(() => setToast(null), 6000);
   };
 
   const removeItem = (p: Place) => {
@@ -352,6 +389,14 @@ const Itinerary: React.FC = () => {
               </div>
               <div style={{ fontFamily: "'DM Mono', monospace", fontSize: 11, color: '#4A4D66' }}>{dayDateLabel} · {list.length}곳</div>
             </div>
+            {dest && (
+              <button type="button" onClick={openRec} style={{ flexShrink: 0, marginLeft: 'auto', display: 'flex', alignItems: 'center', gap: 4, height: 44, padding: '0 10px', border: '2px solid #14162B', borderRadius: 8, background: '#FFFFFF', color: INK, fontFamily: "'Black Han Sans', sans-serif", fontSize: 15, cursor: 'pointer' }}>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="#14162B" aria-hidden="true">
+                  <path d="M12 2l2.4 7.2H22l-6 4.6 2.3 7.2L12 16.6 5.7 21l2.3-7.2-6-4.6h7.6z" />
+                </svg>
+                추천
+              </button>
+            )}
             <button type="button" onClick={autoSort} style={{ flexShrink: 0, display: 'flex', alignItems: 'center', gap: 6, height: 44, padding: '0 14px', border: '2px solid #14162B', borderRadius: 8, background: '#FFD84A', color: INK, fontFamily: "'Black Han Sans', sans-serif", fontSize: 15, cursor: 'pointer' }}>
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#14162B" strokeWidth={2.4} strokeLinecap="square" aria-hidden="true">
                 <path d="M7 4v16M3 16l4 4 4-4M17 20V4M13 8l4-4 4 4" />
@@ -418,6 +463,14 @@ const Itinerary: React.FC = () => {
             {list.length === 0 && (
               <div style={{ padding: '16px 0 14px' }}>
                 <div style={{ fontSize: 15, lineHeight: 1.5, color: '#4A4D66' }}>이 날은 아직 장소가 없어요.</div>
+                {dest && (
+                  <button type="button" onClick={openRec} style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 6, width: '100%', height: 52, marginTop: 10, border: '2px solid #14162B', borderRadius: 8, background: '#FFD84A', boxShadow: '3px 3px 0 #14162B', color: INK, fontFamily: "'Black Han Sans', sans-serif", fontSize: 16, cursor: 'pointer' }}>
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="#14162B" aria-hidden="true">
+                      <path d="M12 2l2.4 7.2H22l-6 4.6 2.3 7.2L12 16.6 5.7 21l2.3-7.2-6-4.6h7.6z" />
+                    </svg>
+                    추천 일정으로 채우기
+                  </button>
+                )}
               </div>
             )}
             <button
@@ -462,6 +515,40 @@ const Itinerary: React.FC = () => {
             <button type="button" onClick={doUndo} style={{ flexShrink: 0, whiteSpace: 'nowrap', height: 44, padding: '0 12px', border: 0, background: 'transparent', color: '#FFD84A', fontFamily: "'Black Han Sans', sans-serif", fontSize: 15, cursor: 'pointer' }}>되돌리기</button>
           )}
         </div>
+      )}
+
+      {rec && (
+        <>
+          <div onClick={() => setRec(null)} style={{ position: 'absolute', left: 0, top: 0, right: 0, bottom: 0, background: 'rgba(20,22,43,0.45)' }} />
+          <div style={{ position: 'absolute', left: 0, right: 0, bottom: 0, display: 'flex', flexDirection: 'column', gap: 12, padding: '18px 20px 20px', borderTop: '2px solid #14162B', background: PAPER }}>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: 4 }}>
+              <div style={{ fontFamily: "'Black Han Sans', sans-serif", fontSize: 20 }}>추천 일정 만들기</div>
+              <div style={{ fontSize: 13, lineHeight: 1.5, color: '#4A4D66' }}>인기 있는 곳을 가까운 곳끼리 하루씩 묶어 넣어요. 넣은 뒤 빼거나 자동 정렬로 다듬을 수 있어요.</div>
+            </div>
+            <div style={{ fontSize: 13, fontWeight: 700 }}>하루 일정</div>
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, minmax(0, 1fr))', gap: 8 }}>
+              {(['easy', 'normal', 'busy'] as Pace[]).map((p) => (
+                <button key={p} type="button" onClick={() => setRec({ ...rec, pace: p })} style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: 2, height: 56, border: '2px solid #14162B', borderRadius: 8, background: rec.pace === p ? '#14162B' : '#FFFFFF', color: rec.pace === p ? '#FFD84A' : INK, cursor: 'pointer' }}>
+                  <span style={{ fontFamily: "'Black Han Sans', sans-serif", fontSize: 16 }}>{PACE_LABEL[p]}</span>
+                  <span style={{ fontFamily: "'DM Mono', monospace", fontSize: 11 }}>관광 {PACE_SIGHTS[p]}곳</span>
+                </button>
+              ))}
+            </div>
+            <div style={{ fontSize: 13, fontWeight: 700 }}>넣을 날</div>
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, minmax(0, 1fr))', gap: 8 }}>
+              <button type="button" onClick={() => setRec({ ...rec, scope: 'day' })} style={{ height: 48, border: '2px solid #14162B', borderRadius: 8, background: rec.scope === 'day' ? '#14162B' : '#FFFFFF', color: rec.scope === 'day' ? '#FFD84A' : INK, fontFamily: "'Black Han Sans', sans-serif", fontSize: 15, cursor: 'pointer' }}>
+                {day + 1}일차만
+              </button>
+              <button type="button" disabled={!emptyDays.length} onClick={() => setRec({ ...rec, scope: 'empty' })} style={{ height: 48, border: '2px solid #14162B', borderRadius: 8, background: rec.scope === 'empty' ? '#14162B' : '#FFFFFF', color: rec.scope === 'empty' ? '#FFD84A' : INK, fontFamily: "'Black Han Sans', sans-serif", fontSize: 15, cursor: emptyDays.length ? 'pointer' : 'default', opacity: emptyDays.length ? 1 : 0.35 }}>
+                빈 날 모두 ({emptyDays.length}일)
+              </button>
+            </div>
+            <div style={{ display: 'grid', gridTemplateColumns: '1fr 2fr', gap: 8, marginTop: 4 }}>
+              <button type="button" onClick={() => setRec(null)} style={{ height: 52, border: '2px solid #14162B', borderRadius: 10, background: '#FFFFFF', color: INK, fontFamily: "'Black Han Sans', sans-serif", fontSize: 17, cursor: 'pointer' }}>취소</button>
+              <button type="button" onClick={applyRec} style={{ height: 52, border: '2px solid #14162B', borderRadius: 10, background: INK, boxShadow: '3px 3px 0 #FFD84A', color: '#FFD84A', fontFamily: "'Black Han Sans', sans-serif", fontSize: 17, cursor: 'pointer' }}>일정 넣기</button>
+            </div>
+          </div>
+        </>
       )}
 
       {movingItem && (

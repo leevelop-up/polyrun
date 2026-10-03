@@ -9,7 +9,7 @@ import { findTripDestination, loadPicks, matchPick, PlacePick } from '../data/de
 import { usePlaceSearch } from '../hooks/usePlaceSearch';
 import { dayDate, fmtDay, readDayParam, tripCenter, tripRange, tripSearchArea } from '../utils/trip';
 
-type Candidate = { name: string; cat: Category; lat: number; lng: number };
+type Candidate = { name: string; cat: Category; lat: number; lng: number; wd?: string };
 
 const newId = () => 'p_' + Date.now().toString(36) + Math.random().toString(36).slice(2, 6);
 
@@ -107,7 +107,7 @@ const AddPlace: React.FC = () => {
     if (existing) {
       removePlaceFromDay(activeTrip.id, day, existing.id);
     } else {
-      addPlacesToDay(activeTrip.id, day, [{ id: newId(), name: c.name, cat: c.cat, lat: c.lat, lng: c.lng }]);
+      addPlacesToDay(activeTrip.id, day, [{ id: newId(), name: c.name, cat: c.cat, lat: c.lat, lng: c.lng, ...(c.wd ? { wd: c.wd } : {}) }]);
     }
   };
 

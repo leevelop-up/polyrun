@@ -12,6 +12,8 @@ export interface PlacePick {
   lng: number;
   // 영어/현지 이름, 한국어 별칭 등 다른 표기 (추천 목록 검색용)
   aliases?: string[];
+  // Wikidata 항목 ID (장소 상세정보: 사진·설명·위키백과)
+  wd?: string;
 }
 
 export interface Destination {
