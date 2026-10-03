@@ -10,10 +10,10 @@ import { Share } from '@capacitor/share';
 const isNative = Capacitor.isNativePlatform();
 
 // 백업 파일 저장. 저장한 위치 안내 문구를 돌려준다 (공유 창으로 넘겼으면 null).
-// - 앱: 폰의 Documents/런플리 폴더에 바로 저장 (내 파일 앱에서 보임). 안 되면(안드로이드 10 이하 등) 공유 창으로
+// - 앱: 폰의 Documents/런트립 폴더에 바로 저장 (내 파일 앱에서 보임). 안 되면(안드로이드 10 이하 등) 공유 창으로
 // - 웹: 공유 시트(모바일 브라우저)가 되면 그걸로, 아니면 파일 다운로드
 // (앱의 WebView 는 웹 공유·다운로드를 지원하지 않아 예전엔 아무 일도 일어나지 않았다)
-const BACKUP_FOLDER = '런플리';
+const BACKUP_FOLDER = '런트립';
 async function saveBackup(text: string): Promise<string | null> {
   const d = new Date();
   const pad = (n: number) => String(n).padStart(2, '0');

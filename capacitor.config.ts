@@ -2,7 +2,7 @@ import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'com.polyrun.app',
-  appName: '런플리',
+  appName: '런트립',
   webDir: 'dist',
   android: {
     // Android 15+ 는 앱을 상태바·내비게이션 바 밑까지 그린다(edge-to-edge).
