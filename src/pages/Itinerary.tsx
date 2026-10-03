@@ -432,6 +432,7 @@ const Itinerary: React.FC = () => {
           </div>
           <button
             type="button"
+            className="hide-on-kb"
             onClick={() => history.push('/my-trips')}
             style={{ flexShrink: 0, display: 'flex', alignItems: 'center', justifyContent: 'center', height: 56, margin: '8px 20px 20px', border: '2px solid #14162B', borderRadius: 10, background: INK, boxShadow: '4px 4px 0 #FFD84A', color: '#FFD84A', fontFamily: "'Black Han Sans', sans-serif", fontSize: 20, cursor: 'pointer' }}
           >

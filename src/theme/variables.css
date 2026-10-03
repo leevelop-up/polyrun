@@ -13,6 +13,11 @@ ion-app {
   background-color: #F4F1EA;
 }
 
+/* 키패드가 올라와 있는 동안 숨기는 하단 고정 버튼 (KeyboardAware) */
+body.kb-open .hide-on-kb {
+  display: none !important;
+}
+
 input,
 button {
   font-family: inherit;

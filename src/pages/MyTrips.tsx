@@ -376,6 +376,7 @@ const MyTrips: React.FC = () => {
 
       <button
         type="button"
+        className="hide-on-kb"
         onClick={() => history.push('/main')}
         style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', height: 56, margin: '0 20px 20px', border: '2px solid #14162B', borderRadius: 10, background: INK, boxShadow: '4px 4px 0 #FFD84A', color: '#FFD84A', fontFamily: "'Black Han Sans', sans-serif", fontSize: 20, cursor: 'pointer' }}
       >

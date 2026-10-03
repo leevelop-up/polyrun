@@ -17,7 +17,8 @@ const init = (): Promise<boolean> =>
       await AdMob.initialize({ initializeForTesting: TESTING });
       // 배너가 화면 아래를 덮는 높이를 CSS 변수로 알려 화면이 그만큼 짧아지게 한다 (--ad-h)
       await AdMob.addListener(BannerAdPluginEvents.SizeChanged, (size) => {
-        document.documentElement.style.setProperty('--ad-h', Math.max(0, Math.round(size.height)) + 'px');
+        bannerHeight = Math.max(0, Math.round(size.height));
+        if (!paused) document.documentElement.style.setProperty('--ad-h', bannerHeight + 'px');
       });
       return true;
     } catch (e) {
@@ -27,6 +28,9 @@ const init = (): Promise<boolean> =>
   })());
 
 let shown = false;
+// 잠시 숨김(키패드가 올라와 있는 동안): 배너를 지우지 않고 감췄다가 다시 보인다 (새로 불러오지 않음)
+let paused = false;
+let bannerHeight = 0;
 // 화면을 빠르게 오가도 보이기/숨기기가 순서대로 처리되게 줄 세운다
 let queue: Promise<void> = Promise.resolve();
 
@@ -34,6 +38,7 @@ let queue: Promise<void> = Promise.resolve();
 export const setBanner = (want: boolean): Promise<void> =>
   (queue = queue.then(async () => {
     if (want === shown || !(await init())) return;
+    paused = false;
     if (want) {
       try {
         await AdMob.showBanner({ adId: BANNER_ID, adSize: BannerAdSize.ADAPTIVE_BANNER, position: BannerAdPosition.BOTTOM_CENTER, margin: 0, isTesting: TESTING });
@@ -46,4 +51,13 @@ export const setBanner = (want: boolean): Promise<void> =>
       document.documentElement.style.setProperty('--ad-h', '0px');
       await AdMob.removeBanner().catch(() => undefined);
     }
+  }));
+
+// 키패드가 올라와 있는 동안 배너를 잠시 감춘다 (화면 높이에서도 빼서 입력 칸이 그만큼 위로 보이게)
+export const pauseBanner = (pause: boolean): Promise<void> =>
+  (queue = queue.then(async () => {
+    if (!shown || pause === paused) return;
+    paused = pause;
+    document.documentElement.style.setProperty('--ad-h', (pause ? 0 : bannerHeight) + 'px');
+    await (pause ? AdMob.hideBanner() : AdMob.resumeBanner()).catch(() => undefined);
   }));

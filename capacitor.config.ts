@@ -5,9 +5,9 @@ const config: CapacitorConfig = {
   appName: '런트립',
   webDir: 'dist',
   android: {
-    // Android 15+ 는 앱을 상태바·내비게이션 바 밑까지 그린다(edge-to-edge).
-    // 화면이 시스템 바와 겹치지 않게(시계와 제목, 내비게이션 바·광고와 하단 버튼) 그 안쪽에만 그린다
-    adjustMarginsForEdgeToEdge: 'force'
+    // Android 15+ edge-to-edge 여백은 MainActivity 에서 직접 준다 (시스템 바 + 키패드 높이).
+    // Capacitor 기본 처리(force)는 키패드 높이를 빼지 않아 입력 칸이 키패드에 가려졌다
+    adjustMarginsForEdgeToEdge: 'disable'
   },
   plugins: {
     AdMob: {

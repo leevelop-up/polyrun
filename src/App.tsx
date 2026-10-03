@@ -13,6 +13,7 @@ import Map from './pages/Map';
 import MovePrompt from './components/MovePrompt';
 import AdBanner from './components/AdBanner';
 import BackButton from './components/BackButton';
+import KeyboardAware from './components/KeyboardAware';
 
 /* Core CSS required for Ionic components to work properly */
 import '@ionic/react/css/core.css';
@@ -76,6 +77,8 @@ const App: React.FC = () => {
           <AdBanner />
           {/* 안드로이드 뒤로가기: 위 페이지로 */}
           <BackButton />
+          {/* 키패드가 올라오면 입력 칸이 가려지지 않게 */}
+          <KeyboardAware />
         </IonReactRouter>
         </NavProvider>
       </TripProvider>
