@@ -3,11 +3,29 @@ import { useHistory } from 'react-router-dom';
 import { useTrip } from '../context/TripContext';
 import { INK, PAPER } from '../theme/palette';
 import { backupJson, fmtWon, parseBackup, RETENTION_DAYS, spentOf, tripExpiresAt, tripStatus } from '../utils/trip';
+import { Capacitor } from '@capacitor/core';
+import { Directory, Encoding, Filesystem } from '@capacitor/filesystem';
+import { Share } from '@capacitor/share';
 
-// 백업 파일 저장: 공유 시트(모바일)가 되면 그걸로, 아니면 파일 다운로드
+const isNative = Capacitor.isNativePlatform();
+
+// 백업 파일 저장. 앱: 파일을 만든 뒤 공유 창(드라이브·카톡·내 파일 등에 저장),
+// 웹: 공유 시트(모바일 브라우저)가 되면 그걸로, 아니면 파일 다운로드.
+// (앱의 WebView 는 웹 공유·다운로드를 지원하지 않아 아무 일도 일어나지 않았다)
 async function saveBackup(text: string): Promise<void> {
   const d = new Date();
   const name = 'polyrun-backup-' + d.getFullYear() + String(d.getMonth() + 1).padStart(2, '0') + String(d.getDate()).padStart(2, '0') + '.json';
+  if (isNative) {
+    const { uri } = await Filesystem.writeFile({ path: name, data: text, directory: Directory.Cache, encoding: Encoding.UTF8 });
+    try {
+      await Share.share({ title: '여행 일정 백업', dialogTitle: '백업 파일 저장', files: [uri] });
+    } catch (e) {
+      // 공유 창을 그냥 닫은 경우
+      if (/cancel/i.test((e as Error).message || '')) return;
+      throw e;
+    }
+    return;
+  }
   const file = new File([text], name, { type: 'application/json' });
   if (navigator.canShare?.({ files: [file] })) {
     try {
@@ -204,7 +222,7 @@ const MyTrips: React.FC = () => {
           <input
             ref={fileRef}
             type="file"
-            accept="application/json,.json"
+            accept={isNative ? undefined : 'application/json,.json'}
             aria-label="백업 파일 선택"
             style={{ display: 'none' }}
             onChange={(e) => {

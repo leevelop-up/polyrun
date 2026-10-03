@@ -61,6 +61,22 @@ const Main: React.FC<{ editing?: boolean }> = ({ editing = false }) => {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [editing, location.pathname, activeTrip?.id]);
 
+  // 새 일정 화면에 들어올 때마다 입력을 비운다 (다른 화면에 다녀와도 전에 고른 목적지·날짜가 남지 않게)
+  useEffect(() => {
+    if (editing || location.pathname !== '/main') return;
+    setDest('');
+    setDestCenter(undefined);
+    setStart(null);
+    setEnd(null);
+    setPax(2);
+    setSheet(null);
+    setCreateAfterDest(false);
+    setCreateAfterDate(false);
+    setVy(now.getFullYear());
+    setVm(now.getMonth());
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [editing, location.pathname]);
+
   const today = new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime();
   const first = new Date(vy, vm, 1);
   const daysInMonth = new Date(vy, vm + 1, 0).getDate();
