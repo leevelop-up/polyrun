@@ -12,6 +12,7 @@ import Itinerary from './pages/Itinerary';
 import Map from './pages/Map';
 import MovePrompt from './components/MovePrompt';
 import AdBanner from './components/AdBanner';
+import BackButton from './components/BackButton';
 
 /* Core CSS required for Ionic components to work properly */
 import '@ionic/react/css/core.css';
@@ -73,6 +74,8 @@ const App: React.FC = () => {
           <MovePrompt />
           {/* AdMob 하단 배너 (안드로이드, 내 일정·목록 화면) */}
           <AdBanner />
+          {/* 안드로이드 뒤로가기: 위 페이지로 */}
+          <BackButton />
         </IonReactRouter>
         </NavProvider>
       </TripProvider>
