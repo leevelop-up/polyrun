@@ -2,6 +2,8 @@ import React, { useEffect, useState } from 'react';
 import type { Category } from '../context/TripContext';
 import { CAT_COLORS, INK, MUTED, PAPER } from '../theme/palette';
 import { fetchPlaceInfo, PlaceInfo } from '../api/geo';
+import BookingLinks, { BookingLink } from './BookingLinks';
+import { agodaHotelsUrl, BookingInfo, klookUrl, tripActivitiesUrl } from '../utils/booking';
 
 export type DetailPlace = { name: string; cat: Category; lat?: number; lng?: number; wd?: string; area?: string; aliases?: string[] };
 
@@ -12,10 +14,12 @@ type Props = {
   region?: string[];
   // 장소 추가 화면의 "추가/추가됨" 같은 버튼
   action?: { label: string; active?: boolean; onClick: () => void };
+  // 예약 링크용 여행 정보 (여행지, 날짜, 인원)
+  booking?: BookingInfo;
 };
 
 // 장소 상세정보 시트: 위키백과 사진·설명, 위키백과/구글 지도 링크
-const PlaceDetail: React.FC<Props> = ({ place, onClose, region, action }) => {
+const PlaceDetail: React.FC<Props> = ({ place, onClose, region, action, booking }) => {
   // undefined: 불러오는 중, null: 못 찾음
   const [info, setInfo] = useState<PlaceInfo | null | undefined>(undefined);
   const [imgOk, setImgOk] = useState(true);
@@ -44,6 +48,17 @@ const PlaceDetail: React.FC<Props> = ({ place, onClose, region, action }) => {
   const mapsHref = 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(localName || place.name);
   const open = (url: string) => window.open(url, '_blank');
   const sub = [place.cat, place.area].filter(Boolean).join(' · ');
+  // 관광지·쇼핑은 입장권·투어, 숙소는 여행지 숙소 검색 (식당·교통은 없음)
+  const hotels = booking && place.cat === '숙박' ? agodaHotelsUrl(booking) : null;
+  const bookLinks: BookingLink[] =
+    place.cat === '관광' || place.cat === '쇼핑'
+      ? [
+          { label: '입장권·투어', site: '클룩', href: klookUrl(place.name) },
+          { label: '입장권·투어', site: '트립닷컴', href: tripActivitiesUrl(place.name) }
+        ]
+      : hotels
+        ? [{ label: booking!.city + ' 숙소', site: '아고다', href: hotels }]
+        : [];
 
   return (
     <>
@@ -81,6 +96,11 @@ const PlaceDetail: React.FC<Props> = ({ place, onClose, region, action }) => {
                 출처: {info.lang === 'ko' ? '한국어' : '영어'} 위키백과 「{info.title}」 (CC BY-SA)
               </div>
             </>
+          )}
+          {info !== undefined && bookLinks.length > 0 && (
+            <div style={{ marginTop: 4, paddingTop: 12, borderTop: '1px solid #C9C4B8' }}>
+              <BookingLinks title={place.cat === '숙박' ? '숙소 예약' : '입장권 · 투어 예약'} links={bookLinks} />
+            </div>
           )}
         </div>
         <div style={{ flexShrink: 0, display: 'flex', gap: 8, padding: '8px 20px 20px' }}>

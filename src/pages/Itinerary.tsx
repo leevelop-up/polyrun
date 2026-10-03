@@ -7,6 +7,8 @@ import { loadAllLegs, useRouteLegs } from '../hooks/useRouteLegs';
 import DayGrid from '../components/DayGrid';
 import DayExpenses from '../components/DayExpenses';
 import PlaceDetail from '../components/PlaceDetail';
+import BookingLinks from '../components/BookingLinks';
+import { agodaHotelsUrl, klookUrl, tripActivitiesUrl, tripBooking } from '../utils/booking';
 import { findTripDestination, loadPicks } from '../data/destinations';
 import { daySpreadKm, Pace, PACE_LABEL, PACE_SIGHTS, recommendDays } from '../utils/recommend';
 
@@ -191,6 +193,8 @@ const Itinerary: React.FC = () => {
   };
 
   const dest = findTripDestination(activeTrip);
+  const booking = tripBooking(activeTrip);
+  const hotelsUrl = agodaHotelsUrl(booking);
   const emptyDays = days.map((d, i) => (d.length ? -1 : i)).filter((i) => i >= 0);
   const openRec = () => setRec({ pace: 'normal', scope: emptyDays.length > 1 ? 'empty' : 'day' });
 
@@ -485,6 +489,16 @@ const Itinerary: React.FC = () => {
               + {day + 1}일차에 장소 추가
             </button>
             <DayExpenses trip={activeTrip} day={day} />
+            <div style={{ flexShrink: 0, margin: '14px 0 16px', paddingTop: 14, borderTop: '2px solid #14162B' }}>
+              <BookingLinks
+                title={booking.city + ' 숙소 · 투어 예약'}
+                links={[
+                  ...(hotelsUrl ? [{ label: '숙소', site: '아고다', href: hotelsUrl }] : []),
+                  { label: '투어·입장권', site: '클룩', href: klookUrl(booking.city) },
+                  { label: '투어·입장권', site: '트립닷컴', href: tripActivitiesUrl(booking.city) }
+                ]}
+              />
+            </div>
           </div>
           <button
             type="button"
@@ -554,7 +568,7 @@ const Itinerary: React.FC = () => {
         </>
       )}
 
-      {detail && <PlaceDetail place={detail} region={tripRegion(activeTrip)} onClose={() => setDetail(null)} />}
+      {detail && <PlaceDetail place={detail} region={tripRegion(activeTrip)} booking={booking} onClose={() => setDetail(null)} />}
 
       {movingItem && (
         <>

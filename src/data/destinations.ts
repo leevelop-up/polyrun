@@ -30,10 +30,12 @@ export interface Destination {
   aliases: string[];
   // 관광지 범위 [lat, lng, km]: 검색으로 만든 일정도 이 안이면 이 목적지로 본다
   search: [number, number, number][];
+  // 아고다 도시 ID (숙소 예약 링크)
+  agoda?: number;
 }
 
 const PICKS = picksData as Record<string, { areas: string[]; picks: PlacePick[] }>;
-type CityRow = { id: string; name: string; code: string; center: number[]; zoom: number; search: number[][]; aliases?: string[] };
+type CityRow = { id: string; name: string; code: string; center: number[]; zoom: number; search: number[][]; aliases?: string[]; agoda?: number };
 
 export const DESTINATIONS: Destination[] = (citiesData as CityRow[]).map((c) => ({
   id: c.id,
@@ -44,6 +46,7 @@ export const DESTINATIONS: Destination[] = (citiesData as CityRow[]).map((c) => 
   areas: PICKS[c.name]?.areas || [],
   picks: PICKS[c.name]?.picks || [],
   aliases: c.aliases || [],
+  agoda: c.agoda,
   search: c.search.map((x) => [x[0], x[1], x[2]] as [number, number, number])
 }));
 

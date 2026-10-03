@@ -8,6 +8,7 @@ import { reverseGeocode, GeoSearchResult } from '../api/geo';
 import { findTripDestination, loadPicks, matchPick, PlacePick } from '../data/destinations';
 import { usePlaceSearch } from '../hooks/usePlaceSearch';
 import PlaceDetail from '../components/PlaceDetail';
+import { tripBooking } from '../utils/booking';
 import { dayDate, fmtDay, readDayParam, tripCenter, tripRange, tripRegion, tripSearchArea } from '../utils/trip';
 
 type Candidate = { name: string; cat: Category; lat: number; lng: number; wd?: string; area?: string; aliases?: string[] };
@@ -511,6 +512,7 @@ const AddPlace: React.FC = () => {
         <PlaceDetail
           place={detail}
           region={activeTrip ? tripRegion(activeTrip) : undefined}
+          booking={activeTrip ? tripBooking(activeTrip) : undefined}
           onClose={() => setDetail(null)}
           action={{ label: findAdded(detail.name) ? '추가됨' : day + 1 + '일차에 추가', active: !!findAdded(detail.name), onClick: () => toggle(detail) }}
         />
