@@ -9,7 +9,7 @@ import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 const SRC = new URL('./picks-source.json', import.meta.url);
 const CACHE = new URL('./.geocode-cache.json', import.meta.url);
 const OUT = new URL('../src/data/picks.json', import.meta.url);
-const USER_AGENT = process.env.GEO_USER_AGENT || 'trip-scheduler/0.0.1 (picks geocoding script)';
+const USER_AGENT = process.env.GEO_USER_AGENT || 'runtrip/0.0.8 (picks geocoding script)';
 const NOMINATIM_URL = process.env.NOMINATIM_URL || 'https://nominatim.openstreetmap.org';
 
 const readJson = (url) => (existsSync(url) ? JSON.parse(readFileSync(url, 'utf8')) : {});

@@ -1,4 +1,4 @@
-// AdMob 배너 (예전 폴리런과 같은 계정·광고 단위). 안드로이드에서만 띄운다:
+// AdMob 배너 (런트립 AdMob 계정·광고 단위). 안드로이드에서만 띄운다:
 // iOS 는 AdMob 앱 ID(Info.plist GADApplicationIdentifier)가 없어 초기화하면 앱이 죽는다.
 import { Capacitor } from '@capacitor/core';
 import { AdMob, BannerAdPluginEvents, BannerAdPosition, BannerAdSize } from '@capacitor-community/admob';

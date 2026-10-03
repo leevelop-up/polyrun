@@ -1,9 +1,9 @@
 # Cloudflare Workers: 장소 검색·길찾기 중계 서버 (server/worker.ts)
-# 배포: npm run api:deploy  →  나온 주소(https://trip-scheduler-api.<계정>.workers.dev)를 .env.production 의 VITE_API_BASE 에
-name = "trip-scheduler-api"
+# 배포: npm run api:deploy  →  나온 주소(https://runtrip-api.<계정>.workers.dev)를 .env.production 의 VITE_API_BASE 에
+name = "runtrip-api"
 main = "server/worker.ts"
 compatibility_date = "2025-09-01"
 
 [vars]
 # Nominatim 이용 정책: 앱을 알아볼 수 있는 이름 + 연락처(이메일이나 웹사이트)를 넣어야 한다
-GEO_USER_AGENT = "trip-scheduler/0.0.1 (contact: CHANGE-ME)"
+GEO_USER_AGENT = "runtrip/0.0.8 (contact: CHANGE-ME)"

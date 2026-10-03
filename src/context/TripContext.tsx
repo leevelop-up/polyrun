@@ -64,11 +64,28 @@ interface TripContextValue {
 
 const TripContext = createContext<TripContextValue | undefined>(undefined);
 
-const STORAGE_KEY = 'polyrun_trips';
-const ACTIVE_KEY = 'polyrun_active_trip';
+const STORAGE_KEY = 'runtrip_trips';
+const ACTIVE_KEY = 'runtrip_active_trip';
+// 예전 이름(폴리런 시절)으로 저장된 키. 처음 열 때 새 키로 옮긴다
+const OLD_KEYS: [string, string][] = [
+  ['polyrun_trips', STORAGE_KEY],
+  ['polyrun_active_trip', ACTIVE_KEY]
+];
+const migrateKeys = () => {
+  try {
+    for (const [from, to] of OLD_KEYS) {
+      const v = window.localStorage.getItem(from);
+      if (v !== null && window.localStorage.getItem(to) === null) window.localStorage.setItem(to, v);
+      if (v !== null) window.localStorage.removeItem(from);
+    }
+  } catch {
+    // localStorage 사용 불가 환경은 무시
+  }
+};
 
 
 function loadTrips(): Trip[] {
+  migrateKeys();
   try {
     const raw = window.localStorage.getItem(STORAGE_KEY);
     if (!raw) return [];
@@ -82,6 +99,7 @@ function loadTrips(): Trip[] {
 }
 
 function loadActiveId(): string | null {
+  migrateKeys();
   try {
     return window.localStorage.getItem(ACTIVE_KEY);
   } catch {

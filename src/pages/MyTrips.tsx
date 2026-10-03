@@ -8,20 +8,26 @@ import { Directory, Encoding, Filesystem } from '@capacitor/filesystem';
 import { Share } from '@capacitor/share';
 
 const isNative = Capacitor.isNativePlatform();
+const isIOS = Capacitor.getPlatform() === 'ios';
 
 // 백업 파일 저장. 저장한 위치 안내 문구를 돌려준다 (공유 창으로 넘겼으면 null).
-// - 앱: 폰의 Documents/런트립 폴더에 바로 저장 (내 파일 앱에서 보임). 안 되면(안드로이드 10 이하 등) 공유 창으로
+// - 앱: 런트립 폴더에 바로 저장. 안드로이드는 내 파일 > Documents > 런트립,
+//   아이폰은 파일 앱 > 나의 iPhone > 런트립 (Info.plist 의 UIFileSharingEnabled 로 보이게 함).
+//   바로 저장할 수 없으면(안드로이드 10 이하 등) 공유 창으로
 // - 웹: 공유 시트(모바일 브라우저)가 되면 그걸로, 아니면 파일 다운로드
 // (앱의 WebView 는 웹 공유·다운로드를 지원하지 않아 예전엔 아무 일도 일어나지 않았다)
 const BACKUP_FOLDER = '런트립';
+// 예전 이름으로 만든 백업 폴더도 불러오기 목록에 보여 준다
+const BACKUP_FOLDERS = [BACKUP_FOLDER, '런플리'];
+const FOLDER_LABEL = isIOS ? '파일 앱 > 나의 iPhone > ' + BACKUP_FOLDER : '내 파일 > Documents > ' + BACKUP_FOLDER;
 async function saveBackup(text: string): Promise<string | null> {
   const d = new Date();
   const pad = (n: number) => String(n).padStart(2, '0');
-  const name = 'polyrun-backup-' + d.getFullYear() + pad(d.getMonth() + 1) + pad(d.getDate()) + '-' + pad(d.getHours()) + pad(d.getMinutes()) + '.json';
+  const name = 'runtrip-backup-' + d.getFullYear() + pad(d.getMonth() + 1) + pad(d.getDate()) + '-' + pad(d.getHours()) + pad(d.getMinutes()) + '.json';
   if (isNative) {
     try {
       await Filesystem.writeFile({ path: BACKUP_FOLDER + '/' + name, data: text, directory: Directory.Documents, encoding: Encoding.UTF8, recursive: true });
-      return '내 파일 > Documents > ' + BACKUP_FOLDER + ' 폴더에 저장했어요';
+      return FOLDER_LABEL + ' 폴더에 저장했어요';
     } catch {
       // 바로 저장할 수 없는 기기: 파일을 만들어 공유 창으로 (드라이브·카톡 등에 저장)
     }
@@ -52,6 +58,27 @@ async function saveBackup(text: string): Promise<string | null> {
   return '백업 파일을 내려받았어요';
 }
 
+// 런트립 폴더에 있는 백업 파일 (최근 것부터)
+type BackupFile = { folder: string; name: string; mtime: number };
+async function listBackups(): Promise<BackupFile[]> {
+  const out: BackupFile[] = [];
+  for (const folder of BACKUP_FOLDERS) {
+    try {
+      const { files } = await Filesystem.readdir({ path: folder, directory: Directory.Documents });
+      for (const f of files) if (f.type === 'file' && f.name.endsWith('.json')) out.push({ folder, name: f.name, mtime: Number(f.mtime) || 0 });
+    } catch {
+      // 폴더가 아직 없거나 읽을 수 없음
+    }
+  }
+  return out.sort((a, b) => b.mtime - a.mtime || b.name.localeCompare(a.name));
+}
+
+// "runtrip-backup-20261004-0001.json" → "2026.10.04 00:01" (이름에 날짜가 없으면 파일 이름 그대로)
+const backupLabel = (f: BackupFile): string => {
+  const m = /(\d{4})(\d{2})(\d{2})(?:-(\d{2})(\d{2}))?\.json$/.exec(f.name);
+  return m ? m[1] + '.' + m[2] + '.' + m[3] + (m[4] ? ' ' + m[4] + ':' + m[5] : '') : f.name;
+};
+
 function dRange(trip: { startDate: number | null; endDate: number | null }): string {
   if (!trip.startDate) return '일정 작성 중';
   const s = new Date(trip.startDate);
@@ -80,9 +107,34 @@ const MyTrips: React.FC = () => {
     toastTimer.current = setTimeout(() => setToast(null), 3500);
   };
 
+  // 앱: 런트립 폴더의 백업 목록 (null 이면 닫힘)
+  const [backups, setBackups] = useState<BackupFile[] | null>(null);
+
+  const openImport = async () => {
+    if (!isNative) {
+      fileRef.current?.click();
+      return;
+    }
+    setBackups(await listBackups());
+  };
+
+  const importFromFolder = async (f: BackupFile) => {
+    setBackups(null);
+    try {
+      const { data } = await Filesystem.readFile({ path: f.folder + '/' + f.name, directory: Directory.Documents, encoding: Encoding.UTF8 });
+      importText(typeof data === 'string' ? data : await data.text());
+    } catch {
+      showToast('백업 파일을 읽지 못했어요');
+    }
+  };
+
   const onImport = async (file: File | undefined) => {
     if (!file) return;
-    const parsed = parseBackup(await file.text());
+    importText(await file.text());
+  };
+
+  const importText = (text: string) => {
+    const parsed = parseBackup(text);
     if (!parsed) {
       showToast('백업 파일을 읽지 못했어요');
       return;
@@ -228,7 +280,7 @@ const MyTrips: React.FC = () => {
             >
               백업 파일 저장
             </button>
-            <button type="button" onClick={() => fileRef.current?.click()} style={{ height: 48, border: '2px dashed #14162B', borderRadius: 8, background: '#FFFFFF', color: INK, fontSize: 14, fontWeight: 700, cursor: 'pointer' }}>
+            <button type="button" onClick={openImport} style={{ height: 48, border: '2px dashed #14162B', borderRadius: 8, background: '#FFFFFF', color: INK, fontSize: 14, fontWeight: 700, cursor: 'pointer' }}>
               백업 불러오기
             </button>
           </div>
@@ -280,6 +332,49 @@ const MyTrips: React.FC = () => {
             </div>
           </div>
         </div>
+      )}
+      {backups && (
+        <>
+          <div onClick={() => setBackups(null)} style={{ position: 'absolute', left: 0, top: 0, right: 0, bottom: 0, background: 'rgba(20,22,43,0.45)', zIndex: 20 }} />
+          <div role="dialog" aria-label="백업 불러오기" style={{ position: 'absolute', left: 0, right: 0, bottom: 0, zIndex: 21, display: 'flex', flexDirection: 'column', gap: 12, maxHeight: '75%', padding: '18px 20px 20px', borderTop: '2px solid #14162B', background: PAPER }}>
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 8 }}>
+              <div style={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
+                <div style={{ fontFamily: "'Black Han Sans', sans-serif", fontSize: 22 }}>백업 불러오기</div>
+                <div style={{ fontSize: 12, color: '#4A4D66' }}>{FOLDER_LABEL}</div>
+              </div>
+              <button type="button" aria-label="닫기" onClick={() => setBackups(null)} style={{ width: 44, height: 44, marginRight: -10, border: 0, background: 'transparent', cursor: 'pointer', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#14162B" strokeWidth={2.6} strokeLinecap="square" aria-hidden="true">
+                  <path d="M5 5l14 14M19 5L5 19" />
+                </svg>
+              </button>
+            </div>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: 8, overflowY: 'auto', minHeight: 0 }}>
+              {backups.map((f) => (
+                <button
+                  key={f.folder + '/' + f.name}
+                  type="button"
+                  onClick={() => importFromFolder(f)}
+                  style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 8, minHeight: 52, padding: '0 14px', border: '2px solid #14162B', borderRadius: 8, background: '#FFFFFF', color: INK, cursor: 'pointer', textAlign: 'left' }}
+                >
+                  <span style={{ fontFamily: "'DM Mono', monospace", fontSize: 15, fontWeight: 500 }}>{backupLabel(f)}</span>
+                  <span style={{ fontSize: 12, color: '#4A4D66' }}>{f.folder === BACKUP_FOLDER ? '불러오기' : f.folder + ' 폴더'}</span>
+                </button>
+              ))}
+              {backups.length === 0 && <div style={{ padding: '8px 2px', fontSize: 14, color: '#4A4D66', lineHeight: 1.5 }}>런트립 폴더에 저장한 백업이 없어요.</div>}
+            </div>
+            {/* 드라이브·카톡 등 다른 곳에 저장한 파일 */}
+            <button
+              type="button"
+              onClick={() => {
+                setBackups(null);
+                fileRef.current?.click();
+              }}
+              style={{ height: 48, border: '2px dashed #14162B', borderRadius: 8, background: 'transparent', color: INK, fontSize: 14, fontWeight: 700, cursor: 'pointer' }}
+            >
+              다른 위치에서 찾기
+            </button>
+          </div>
+        </>
       )}
     </div>
   );

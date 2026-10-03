@@ -20,10 +20,10 @@ keytool -genkeypair -v -storetype PKCS12 -keystore my-release-key.keystore -alia
 ```
 
 **입력 정보:**
-- 키스토어 비밀번호: (예: `PolyRun2024!`)
+- 키스토어 비밀번호: (예: `RunTrip2026!`)
 - 이름: (예: `Lee`)
 - 조직 단위: (예: `Development`)
-- 조직: (예: `PolyRun`)
+- 조직: (예: `RunTrip`)
 - 도시: (예: `Seoul`)
 - 시/도: (예: `Seoul`)
 - 국가 코드: (예: `KR`)

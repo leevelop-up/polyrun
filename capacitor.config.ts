@@ -11,7 +11,7 @@ const config: CapacitorConfig = {
   },
   plugins: {
     AdMob: {
-      appId: 'ca-app-pub-8432922669855664~4570632564' // PolyRun 앱 ID
+      appId: 'ca-app-pub-8432922669855664~4570632564' // 런트립 AdMob 앱 ID
     }
   }
 };

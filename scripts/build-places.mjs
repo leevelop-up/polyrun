@@ -11,7 +11,7 @@ const CITIES = new URL('../src/data/cities.json', import.meta.url);
 const CURATED = new URL('../src/data/picks.json', import.meta.url);
 const OUT_DIR = new URL('../src/data/places/', import.meta.url);
 const CACHE_DIR = new URL('./.wikidata-cache/', import.meta.url);
-const USER_AGENT = process.env.GEO_USER_AGENT || 'trip-scheduler/0.0.1 (attraction data build script)';
+const USER_AGENT = process.env.GEO_USER_AGENT || 'runtrip/0.0.8 (attraction data build script)';
 const MAX_PER_CITY = 100;
 const CONCURRENCY = 1;
 

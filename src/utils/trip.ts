@@ -72,7 +72,9 @@ export const tripStatus = (trip: Pick<Trip, 'startDate' | 'endDate'>, now = Date
 };
 
 // ---------- 백업 파일 ----------
-const BACKUP_APP = 'polyrun-trips';
+const BACKUP_APP = 'runtrip-trips';
+// 예전 이름으로 저장한 백업도 불러온다
+const BACKUP_APPS = [BACKUP_APP, 'polyrun-trips'];
 const CATS: Category[] = ['식당', '관광', '쇼핑', '숙박', '교통'];
 const num = (v: unknown): v is number => typeof v === 'number' && Number.isFinite(v);
 
@@ -86,7 +88,7 @@ export const parseBackup = (text: string): Trip[] | null => {
   } catch {
     return null;
   }
-  const raw = Array.isArray(data) ? data : (data as { app?: string; trips?: unknown })?.app === BACKUP_APP ? (data as { trips: unknown }).trips : null;
+  const raw = Array.isArray(data) ? data : BACKUP_APPS.includes((data as { app?: string })?.app || '') ? (data as { trips: unknown }).trips : null;
   if (!Array.isArray(raw)) return null;
   const place = (p: Record<string, unknown>): Place | null => {
     if (typeof p?.id !== 'string' || typeof p.name !== 'string' || !CATS.includes(p.cat as Category)) return null;
