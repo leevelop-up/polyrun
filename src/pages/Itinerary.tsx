@@ -2,7 +2,7 @@ import React, { useEffect, useRef, useState } from 'react';
 import { useHistory, useLocation } from 'react-router-dom';
 import { Place, useTrip } from '../context/TripContext';
 import { CAT_COLORS, INK, PAPER } from '../theme/palette';
-import { dayDate, daySchedule, fmtDay, fmtTravel, readDayParam, travelBetween, tripRange } from '../utils/trip';
+import { dayDate, daySchedule, fmtDay, fmtTravel, readDayParam, travelBetween, tripRange, tripTitle } from '../utils/trip';
 import { loadAllLegs, useRouteLegs } from '../hooks/useRouteLegs';
 import DayGrid from '../components/DayGrid';
 import DayExpenses from '../components/DayExpenses';
@@ -309,7 +309,8 @@ const Itinerary: React.FC = () => {
             수정
           </button>
         </div>
-        <h1 style={{ margin: 0, fontFamily: "'Black Han Sans', sans-serif", fontSize: 36, lineHeight: 1.1, fontWeight: 400 }}>{activeTrip.destination}</h1>
+        <h1 style={{ margin: 0, fontFamily: "'Black Han Sans', sans-serif", fontSize: 36, lineHeight: 1.1, fontWeight: 400 }}>{tripTitle(activeTrip)}</h1>
+        {activeTrip.title && <div style={{ fontSize: 13, fontWeight: 700, opacity: 0.85 }}>여행지 · {activeTrip.destination}</div>}
       </div>
 
       <div style={{ flexShrink: 0, height: 48, boxSizing: 'border-box', display: 'grid', gridTemplateColumns: 'repeat(2, minmax(0, 1fr))', margin: '16px 20px 0', border: '2px solid #14162B', borderRadius: 10, overflow: 'hidden' }}>

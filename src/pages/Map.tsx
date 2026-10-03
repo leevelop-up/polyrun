@@ -4,7 +4,7 @@ import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import { Place, useTrip } from '../context/TripContext';
 import { CAT_COLORS, INK, PAPER } from '../theme/palette';
-import { dayDate, fmtDay, readDayParam, tripCenter, tripRange, tripSearchArea } from '../utils/trip';
+import { dayDate, fmtDay, readDayParam, tripCenter, tripRange, tripSearchArea, tripTitle } from '../utils/trip';
 import DayGrid from '../components/DayGrid';
 import NavCard from '../components/NavCard';
 import { walkerClass, walkerSvg } from '../components/walkerSvg';
@@ -392,7 +392,8 @@ const MapPage: React.FC = () => {
           </button>
           <div style={{ fontFamily: "'DM Mono', monospace", fontSize: 12, letterSpacing: '0.12em' }}>{tripRange(activeTrip)} · {activeTrip.pax}명</div>
         </div>
-        <h1 style={{ margin: 0, fontFamily: "'Black Han Sans', sans-serif", fontSize: 36, lineHeight: 1.1, fontWeight: 400 }}>{activeTrip.destination}</h1>
+        <h1 style={{ margin: 0, fontFamily: "'Black Han Sans', sans-serif", fontSize: 36, lineHeight: 1.1, fontWeight: 400 }}>{tripTitle(activeTrip)}</h1>
+        {activeTrip.title && <div style={{ fontSize: 13, fontWeight: 700, opacity: 0.85 }}>여행지 · {activeTrip.destination}</div>}
       </div>
 
       <div style={{ flexShrink: 0, height: 48, boxSizing: 'border-box', display: 'grid', gridTemplateColumns: 'repeat(2, minmax(0, 1fr))', margin: '16px 20px 0', border: '2px solid #14162B', borderRadius: 10, overflow: 'hidden' }}>

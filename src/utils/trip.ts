@@ -120,6 +120,7 @@ export const parseBackup = (text: string): Trip[] | null => {
     const c = t.center as unknown[];
     if (Array.isArray(c) && num(c[0]) && num(c[1])) trip.center = [c[0], c[1]];
     if (t.keep === true) trip.keep = true;
+    if (typeof t.title === 'string' && t.title.trim()) trip.title = t.title.trim().slice(0, 40);
     if (Array.isArray(t.expenses)) {
       const n = trip.days.length;
       trip.expenses = (t.expenses as Record<string, unknown>[]).flatMap((e) =>
@@ -285,6 +286,9 @@ export const fillMissingCoords = (trips: Trip[]): Trip[] =>
     );
     return changed ? { ...t, days } : t;
   });
+
+// 화면에 보여 줄 일정 이름: 제목이 있으면 제목, 없으면 여행지
+export const tripTitle = (t: Pick<Trip, 'title' | 'destination'>): string => t.title?.trim() || t.destination;
 
 // ---------- 사용 금액 ----------
 // 일차의 사용 금액 합계 (day 를 빼면 여행 전체)

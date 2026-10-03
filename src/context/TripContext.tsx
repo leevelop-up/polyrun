@@ -20,6 +20,9 @@ export interface Place {
 
 export interface Trip {
   id: string;
+  // 여행 제목 (예: "엄마랑 LA 여행"). 없으면 화면에 여행지를 제목처럼 보여 준다
+  title?: string;
+  // 여행지 (예: "로스앤젤레스, 미국")
   destination: string;
   startDate: number | null;
   endDate: number | null;
@@ -42,13 +45,13 @@ export interface Expense {
 }
 
 // 일정 수정에서 바꿀 수 있는 정보
-export type TripInfo = Pick<Trip, 'destination' | 'startDate' | 'endDate' | 'pax' | 'center'>;
+export type TripInfo = Pick<Trip, 'title' | 'destination' | 'startDate' | 'endDate' | 'pax' | 'center'>;
 
 interface TripContextValue {
   trips: Trip[];
   activeTripId: string | null;
   activeTrip: Trip | null;
-  createTrip: (destination: string, startDate: number | null, endDate: number | null, pax: number, center?: [number, number]) => string;
+  createTrip: (destination: string, startDate: number | null, endDate: number | null, pax: number, center?: [number, number], title?: string) => string;
   updateTrip: (id: string, info: TripInfo) => void;
   setKeep: (id: string, keep: boolean) => void;
   // 백업 파일의 일정을 더한다. 같은 일정(id)이 이미 있으면 건너뛴다. 더한 개수를 돌려준다.
@@ -127,10 +130,11 @@ export const TripProvider: React.FC<{ children: React.ReactNode }> = ({ children
     }
   }, [activeTripId]);
 
-  const createTrip = (destination: string, startDate: number | null, endDate: number | null, pax: number, center?: [number, number]) => {
+  const createTrip = (destination: string, startDate: number | null, endDate: number | null, pax: number, center?: [number, number], title?: string) => {
     const id = 'trip_' + Date.now().toString(36) + Math.random().toString(36).slice(2, 7);
     const days: Place[][] = Array.from({ length: dayCount(startDate, endDate) }, () => []);
     const trip: Trip = { id, destination, startDate, endDate, pax, center, days, createdAt: Date.now() };
+    if (title?.trim()) trip.title = title.trim();
     setTrips((prev) => [trip, ...prev]);
     setActiveTripId(id);
     return id;
@@ -147,7 +151,7 @@ export const TripProvider: React.FC<{ children: React.ReactNode }> = ({ children
         while (days.length < n) days.push([]);
         // 없어지는 일차의 사용 금액도 장소처럼 마지막 일차로 옮긴다
         const expenses = t.expenses?.map((e) => (e.day >= n ? { ...e, day: n - 1 } : e));
-        return { ...t, ...info, days, ...(expenses ? { expenses } : {}) };
+        return { ...t, ...info, title: info.title?.trim() || undefined, days, ...(expenses ? { expenses } : {}) };
       })
     );
   };

@@ -25,6 +25,8 @@ const Main: React.FC<{ editing?: boolean }> = ({ editing = false }) => {
   const now = new Date();
   // 새 일정은 목적지를 비워 두고 직접 고르게 한다
   const [dest, setDest] = useState('');
+  // 여행 제목 (선택)
+  const [title, setTitle] = useState('');
   // 목적지 없이 "일정 만들기"를 누르면 목적지부터 고르게 하고, 고르면 이어서 날짜를 고르게 한다
   const [createAfterDest, setCreateAfterDest] = useState(false);
   // 목록에 없는 도시를 검색해서 고른 경우의 지도 중심
@@ -48,6 +50,7 @@ const Main: React.FC<{ editing?: boolean }> = ({ editing = false }) => {
   useEffect(() => {
     if (!editing || location.pathname !== '/edit-trip' || !activeTrip) return;
     setDest(activeTrip.destination);
+    setTitle(activeTrip.title || '');
     setDestCenter(activeTrip.center);
     setStart(activeTrip.startDate);
     setEnd(activeTrip.endDate);
@@ -65,6 +68,7 @@ const Main: React.FC<{ editing?: boolean }> = ({ editing = false }) => {
   useEffect(() => {
     if (editing || location.pathname !== '/main') return;
     setDest('');
+    setTitle('');
     setDestCenter(undefined);
     setStart(null);
     setEnd(null);
@@ -177,11 +181,11 @@ const Main: React.FC<{ editing?: boolean }> = ({ editing = false }) => {
       }
     }
     if (editTrip) {
-      updateTrip(editTrip.id, { destination: dest, startDate: s, endDate: e, pax, center });
+      updateTrip(editTrip.id, { title, destination: dest, startDate: s, endDate: e, pax, center });
       history.push('/itinerary?day=0');
       return;
     }
-    createTrip(dest, s, e, pax, center);
+    createTrip(dest, s, e, pax, center, title);
     history.push('/add-place?day=0');
   };
 
@@ -359,7 +363,20 @@ const Main: React.FC<{ editing?: boolean }> = ({ editing = false }) => {
             </button>
           </div>
         </div>
-        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', padding: '4px 10px 8px 18px', borderTop: '2px dashed #14162B', marginTop: 8 }}>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 2, padding: '10px 18px 6px', borderTop: '2px dashed #14162B', marginTop: 8 }}>
+          <div style={{ fontFamily: "'DM Mono', monospace", fontSize: 11, letterSpacing: '0.12em', color: '#4A4D66' }}>TITLE · 여행 제목 (선택)</div>
+          <input
+            type="text"
+            aria-label="여행 제목"
+            value={title}
+            maxLength={30}
+            placeholder={dest ? '예: ' + dest.split(',')[0] + ' 가족 여행' : '예: 엄마랑 오사카 여행'}
+            onChange={(e) => setTitle(e.target.value)}
+            enterKeyHint="done"
+            style={{ height: 44, boxSizing: 'border-box', padding: 0, border: 0, outline: 0, background: 'transparent', fontFamily: "'Noto Sans KR', sans-serif", fontSize: 17, fontWeight: 700, color: INK }}
+          />
+        </div>
+        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', padding: '4px 10px 8px 18px', borderTop: '2px dashed #14162B' }}>
           <div style={{ fontFamily: "'DM Mono', monospace", fontSize: 11, letterSpacing: '0.12em', color: '#4A4D66' }}>PASSENGERS · 인원</div>
           <div style={{ display: 'flex', alignItems: 'center', gap: 2 }}>
             <button

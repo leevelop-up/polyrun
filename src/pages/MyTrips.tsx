@@ -2,7 +2,7 @@ import React, { useRef, useState } from 'react';
 import { useHistory } from 'react-router-dom';
 import { Trip, useTrip } from '../context/TripContext';
 import { INK, PAPER } from '../theme/palette';
-import { backupJson, fmtWon, parseBackup, RETENTION_DAYS, spentOf, tripExpiresAt, tripStatus } from '../utils/trip';
+import { backupJson, fmtWon, parseBackup, RETENTION_DAYS, spentOf, tripExpiresAt, tripStatus, tripTitle } from '../utils/trip';
 import { Capacitor } from '@capacitor/core';
 import { Directory, Encoding, Filesystem } from '@capacitor/filesystem';
 import { Share } from '@capacitor/share';
@@ -20,26 +20,38 @@ const BACKUP_FOLDER = '런트립';
 // 예전 이름으로 만든 백업 폴더도 불러오기 목록에 보여 준다
 const BACKUP_FOLDERS = [BACKUP_FOLDER, '런플리'];
 const FOLDER_LABEL = isIOS ? '파일 앱 > 나의 iPhone > ' + BACKUP_FOLDER : '내 파일 > Documents > ' + BACKUP_FOLDER;
-// 파일 이름에 넣을 여행지: "로스앤젤레스", 여러 개면 "로스앤젤레스 외 1" (파일 이름에 못 쓰는 문자는 뺀다)
-const placeTag = (trips: Trip[]): string => {
-  if (!trips.length) return '';
-  const first = trips[0].destination.split(',')[0].replace(/[\\/:*?"<>|]/g, '').trim().slice(0, 20);
-  return first ? '-' + first + (trips.length > 1 ? ' 외 ' + (trips.length - 1) : '') : '';
+// 백업 파일 이름: "런트립 로스앤젤레스", 제목이 있으면 "런트립 엄마랑 LA 여행", 여러 일정이면 "… 외 1"
+// (파일 이름에 못 쓰는 문자는 뺀다)
+const backupBaseName = (trips: Trip[]): string => {
+  const first = trips[0] ? (trips[0].title?.trim() || trips[0].destination.split(',')[0]).replace(/[\\/:*?"<>|]/g, '').trim().slice(0, 24) : '';
+  return '런트립' + (first ? ' ' + first : ' 백업') + (trips.length > 1 ? ' 외 ' + (trips.length - 1) : '');
 };
+
+// 같은 이름이 이미 있으면 덮어쓰지 않게 "… 2", "… 3"
+async function freeName(base: string): Promise<string> {
+  for (let i = 1; i < 100; i++) {
+    const name = base + (i > 1 ? ' ' + i : '') + '.json';
+    try {
+      await Filesystem.stat({ path: BACKUP_FOLDER + '/' + name, directory: Directory.Documents });
+    } catch {
+      return name;
+    }
+  }
+  return base + ' ' + Date.now() + '.json';
+}
 
 async function saveBackup(trips: Trip[]): Promise<string | null> {
   const text = backupJson(trips);
-  const d = new Date();
-  const pad = (n: number) => String(n).padStart(2, '0');
-  const name = 'runtrip-backup-' + d.getFullYear() + pad(d.getMonth() + 1) + pad(d.getDate()) + '-' + pad(d.getHours()) + pad(d.getMinutes()) + placeTag(trips) + '.json';
+  const base = backupBaseName(trips);
   if (isNative) {
     try {
+      const name = await freeName(base);
       await Filesystem.writeFile({ path: BACKUP_FOLDER + '/' + name, data: text, directory: Directory.Documents, encoding: Encoding.UTF8, recursive: true });
       return FOLDER_LABEL + ' 폴더에 저장했어요';
     } catch {
       // 바로 저장할 수 없는 기기: 파일을 만들어 공유 창으로 (드라이브·카톡 등에 저장)
     }
-    const { uri } = await Filesystem.writeFile({ path: name, data: text, directory: Directory.Cache, encoding: Encoding.UTF8 });
+    const { uri } = await Filesystem.writeFile({ path: base + '.json', data: text, directory: Directory.Cache, encoding: Encoding.UTF8 });
     try {
       await Share.share({ title: '여행 일정 백업', dialogTitle: '백업 파일 저장', files: [uri] });
     } catch (e) {
@@ -48,6 +60,7 @@ async function saveBackup(trips: Trip[]): Promise<string | null> {
     }
     return null;
   }
+  const name = base + '.json';
   const file = new File([text], name, { type: 'application/json' });
   if (navigator.canShare?.({ files: [file] })) {
     try {
@@ -93,10 +106,14 @@ async function listBackups(): Promise<BackupFile[]> {
   return out.sort((a, b) => b.mtime - a.mtime || b.name.localeCompare(a.name));
 }
 
-// "runtrip-backup-20261004-0001-로스앤젤레스.json" → "2026.10.04 00:01" (이름에 날짜가 없으면 파일 이름 그대로)
+// 목록에 보여 줄 저장 시각 "2026.10.04 00:01": 예전 형식 이름(…-20261004-0001…)이면 이름에서, 아니면 파일 저장 시각
 const backupLabel = (f: BackupFile): string => {
-  const m = /(\d{4})(\d{2})(\d{2})(?:-(\d{2})(\d{2}))?/.exec(f.name);
-  return m ? m[1] + '.' + m[2] + '.' + m[3] + (m[4] ? ' ' + m[4] + ':' + m[5] : '') : f.name;
+  const m = /(\d{4})(\d{2})(\d{2})-(\d{2})(\d{2})/.exec(f.name);
+  if (m) return m[1] + '.' + m[2] + '.' + m[3] + ' ' + m[4] + ':' + m[5];
+  if (!f.mtime) return f.name.replace(/\.json$/, '');
+  const d = new Date(f.mtime);
+  const pad = (n: number) => String(n).padStart(2, '0');
+  return d.getFullYear() + '.' + pad(d.getMonth() + 1) + '.' + pad(d.getDate()) + ' ' + pad(d.getHours()) + ':' + pad(d.getMinutes());
 };
 
 function dRange(trip: { startDate: number | null; endDate: number | null }): string {
@@ -136,7 +153,7 @@ const MyTrips: React.FC = () => {
   const backupDest = (f: BackupFile): string => {
     if (!f.trips) return '읽을 수 없는 파일';
     if (!f.trips.length) return '일정 없음';
-    return f.trips[0].destination + (f.trips.length > 1 ? ' 외 ' + (f.trips.length - 1) + '곳' : '');
+    return tripTitle(f.trips[0]) + (f.trips.length > 1 ? ' 외 ' + (f.trips.length - 1) + '곳' : '');
   };
   // 개수 줄: "일정 2개 · 장소 12곳" (예전 폴더면 폴더 이름도)
   const backupCounts = (f: BackupFile): string => {
@@ -257,7 +274,8 @@ const MyTrips: React.FC = () => {
                 <div style={{ display: 'flex', alignItems: 'flex-end', justifyContent: 'space-between', padding: '14px 56px 10px 18px' }}>
                   <div style={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
                     <div style={{ fontFamily: "'DM Mono', monospace", fontSize: 11, letterSpacing: '0.12em', color: '#4A4D66' }}>{dRange(t)}</div>
-                    <div style={{ fontFamily: "'Black Han Sans', sans-serif", fontSize: 30, lineHeight: 1.15, color: '#2F3CF0' }}>{t.destination}</div>
+                    <div style={{ fontFamily: "'Black Han Sans', sans-serif", fontSize: 30, lineHeight: 1.15, color: '#2F3CF0' }}>{tripTitle(t)}</div>
+                    {t.title && <div style={{ fontSize: 13, fontWeight: 700, color: '#4A4D66' }}>여행지 · {t.destination}</div>}
                     <div style={{ fontFamily: "'DM Mono', monospace", fontSize: 13, fontWeight: 500, color: spentOf(t) ? INK : '#8A8CA3' }}>총 사용 금액 {fmtWon(spentOf(t))}</div>
                   </div>
                 </div>
@@ -276,7 +294,7 @@ const MyTrips: React.FC = () => {
               </a>
               <button
                 type="button"
-                aria-label={t.destination + ' 일정 삭제'}
+                aria-label={tripTitle(t) + ' 일정 삭제'}
                 onClick={() => setConfirmId(t.id)}
                 style={{ position: 'absolute', right: 4, top: 4, width: 44, height: 44, border: 0, background: 'transparent', cursor: 'pointer', display: 'flex', alignItems: 'center', justifyContent: 'center' }}
               >
@@ -290,7 +308,7 @@ const MyTrips: React.FC = () => {
                   aria-pressed={!!t.keep}
                   onClick={() => {
                     setKeep(t.id, !t.keep);
-                    showToast(t.keep ? '보관을 풀었어요. 끝난 지 ' + RETENTION_DAYS + '일이 지나면 삭제돼요' : "'" + t.destination + "' 일정을 보관했어요");
+                    showToast(t.keep ? '보관을 풀었어요. 끝난 지 ' + RETENTION_DAYS + '일이 지나면 삭제돼요' : "'" + tripTitle(t) + "' 일정을 보관했어요");
                   }}
                   style={{ display: 'flex', alignItems: 'center', gap: 6, height: 36, marginTop: 10, padding: '0 12px', border: '2px solid #14162B', borderRadius: 8, background: t.keep ? '#14162B' : '#FFFFFF', color: t.keep ? '#FFD84A' : INK, fontSize: 13, fontWeight: 700, cursor: 'pointer' }}
                 >
@@ -358,7 +376,7 @@ const MyTrips: React.FC = () => {
         <div style={{ position: 'absolute', left: 0, right: 0, top: 0, bottom: 0, background: 'rgba(20,22,43,0.5)', display: 'flex', alignItems: 'flex-end' }}>
           <div role="dialog" aria-label="일정 삭제" style={{ width: '100%', boxSizing: 'border-box', background: PAPER, borderTop: '2px solid #14162B', padding: '24px 20px 20px', display: 'flex', flexDirection: 'column', gap: 16 }}>
             <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
-              <div style={{ fontFamily: "'Black Han Sans', sans-serif", fontSize: 24 }}>{target.destination} 일정을 삭제할까요?</div>
+              <div style={{ fontFamily: "'Black Han Sans', sans-serif", fontSize: 24 }}>{tripTitle(target)} 일정을 삭제할까요?</div>
               <div style={{ fontSize: 13, lineHeight: 1.5, color: '#4A4D66' }}>삭제하면 되돌릴 수 없어요.</div>
             </div>
             <div style={{ display: 'flex', gap: 10 }}>
