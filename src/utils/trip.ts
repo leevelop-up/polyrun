@@ -297,3 +297,10 @@ export const spentOf = (trip: Pick<Trip, 'expenses'>, day?: number): number =>
 
 // 12000 -> "12,000원"
 export const fmtWon = (n: number): string => n.toLocaleString('ko-KR') + '원';
+
+// 여행지를 부르는 이름들 ("제주, 한국" → 제주, 제주도, 서귀포). 장소 상세정보에서 같은 이름의 다른 지역 문서를 거른다
+export const tripRegion = (trip: Pick<Trip, 'destination' | 'center'>): string[] => {
+  const parts = trip.destination.split(',')[0].split('·').map((s) => s.trim()).filter(Boolean);
+  const dest = findTripDestination(trip);
+  return [...new Set([...parts, ...(dest?.aliases || [])])].slice(0, 4);
+};

@@ -64,3 +64,20 @@ export const fetchPath = async (a: { lat: number; lng: number }, b: { lat: numbe
   if (!res.ok) throw new Error('path failed');
   return (await res.json()) as RoutePath;
 };
+
+// 장소 상세정보 (위키백과 요약). 문서를 못 찾으면 null
+export type PlaceInfo = { title: string; lang: 'ko' | 'en'; extract: string; image: string | null; url: string; description: string | null };
+
+export const fetchPlaceInfo = async (p: { name: string; lat?: number; lng?: number; wd?: string; alt?: string[]; region?: string[] }, signal?: AbortSignal): Promise<PlaceInfo | null> => {
+  const params = new URLSearchParams({ name: p.name });
+  if (p.wd) params.set('wd', p.wd);
+  if (p.lat !== undefined && p.lng !== undefined) {
+    params.set('lat', p.lat.toFixed(5));
+    params.set('lng', p.lng.toFixed(5));
+  }
+  (p.alt || []).slice(0, 3).forEach((a) => params.append('alt', a));
+  (p.region || []).slice(0, 4).forEach((r) => params.append('region', r));
+  const res = await fetch(`${API_BASE}/api/place?${params.toString()}`, { signal });
+  if (!res.ok) throw new Error('place info failed');
+  return ((await res.json()) as { info: PlaceInfo | null }).info;
+};

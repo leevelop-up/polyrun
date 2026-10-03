@@ -7,9 +7,10 @@ import { CAT_COLORS, INK, PAPER } from '../theme/palette';
 import { reverseGeocode, GeoSearchResult } from '../api/geo';
 import { findTripDestination, loadPicks, matchPick, PlacePick } from '../data/destinations';
 import { usePlaceSearch } from '../hooks/usePlaceSearch';
-import { dayDate, fmtDay, readDayParam, tripCenter, tripRange, tripSearchArea } from '../utils/trip';
+import PlaceDetail from '../components/PlaceDetail';
+import { dayDate, fmtDay, readDayParam, tripCenter, tripRange, tripRegion, tripSearchArea } from '../utils/trip';
 
-type Candidate = { name: string; cat: Category; lat: number; lng: number; wd?: string };
+type Candidate = { name: string; cat: Category; lat: number; lng: number; wd?: string; area?: string; aliases?: string[] };
 
 const newId = () => 'p_' + Date.now().toString(36) + Math.random().toString(36).slice(2, 6);
 
@@ -33,6 +34,8 @@ const AddPlace: React.FC = () => {
   const [mapQuery, setMapQuery] = useState('');
   // 추천 장소 지역 필터 (null = 전체)
   const [area, setArea] = useState<string | null>(null);
+  // 장소 상세정보 시트
+  const [detail, setDetail] = useState<Candidate | null>(null);
 
   const mapElRef = useRef<HTMLDivElement>(null);
   const mapInstanceRef = useRef<L.Map | null>(null);
@@ -231,10 +234,10 @@ const AddPlace: React.FC = () => {
     return (
       <div key={key} style={{ flexShrink: 0, display: 'flex', alignItems: 'center', gap: 10, padding: '8px 8px 8px 14px', background: '#FFFFFF', border: '2px solid #14162B', borderRadius: 8 }}>
         <div style={{ width: 12, height: 12, flexShrink: 0, border: '2px solid #14162B', background: CAT_COLORS[c.cat][0] }} />
-        <div style={{ flexGrow: 1, minWidth: 0, display: 'flex', flexDirection: 'column', gap: 1 }}>
+        <button type="button" aria-label={c.name + ' 상세정보'} onClick={() => setDetail(c)} style={{ flexGrow: 1, minWidth: 0, display: 'flex', flexDirection: 'column', alignItems: 'stretch', gap: 1, padding: 0, border: 0, background: 'transparent', color: INK, textAlign: 'left', cursor: 'pointer' }}>
           <div style={{ fontSize: 15, fontWeight: 700 }}>{c.name}</div>
           <div style={{ fontSize: 12, color: '#4A4D66', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{sub}</div>
-        </div>
+        </button>
         <button
           type="button"
           aria-label={c.name + (added ? ' 빼기' : ' 추가')}
@@ -503,6 +506,15 @@ const AddPlace: React.FC = () => {
           일정 보기
         </button>
       </div>
+
+      {detail && (
+        <PlaceDetail
+          place={detail}
+          region={activeTrip ? tripRegion(activeTrip) : undefined}
+          onClose={() => setDetail(null)}
+          action={{ label: findAdded(detail.name) ? '추가됨' : day + 1 + '일차에 추가', active: !!findAdded(detail.name), onClick: () => toggle(detail) }}
+        />
+      )}
 
       {toast && (
         <div role="status" style={{ position: 'absolute', left: 20, right: 20, bottom: 100, padding: '12px 16px', border: '2px solid #14162B', borderRadius: 10, background: INK, boxShadow: '4px 4px 0 #FFD84A', color: '#FFFFFF', fontSize: 14, fontWeight: 700, zIndex: 1100 }}>

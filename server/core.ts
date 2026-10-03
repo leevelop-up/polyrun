@@ -4,6 +4,7 @@
 // - GET /api/route?points=lat,lng;lat,lng   연속한 지점 사이 도보/차량 이동 시간
 // - GET /api/matrix?points=lat,lng;lat,lng  모든 지점 쌍의 도보/차량 이동 시간 (자동 정렬용)
 // - GET /api/path?points=lat,lng;lat,lng&profile=foot|car  두 지점 사이 실제 길 모양 (이동 중 화면용)
+// - GET /api/place?name=&lat=&lng=&wd=&alt=&region=  장소 상세정보 (위키백과 요약·사진·링크)
 // 이 파일은 실행 환경과 상관없는 로직만 담는다. 실행은
 // - 로컬 개발: server/index.ts (npm run server)
 // - 배포: server/worker.ts (Cloudflare Workers, npm run api:deploy)
@@ -587,6 +588,86 @@ const parsePoints = (v: string | null): [number, number][] | null => {
   return pts as [number, number][];
 };
 
+// ---------- 장소 상세정보 (위키백과 요약: 설명, 사진, 링크) ----------
+export type PlaceInfo = { title: string; lang: 'ko' | 'en'; extract: string; image: string | null; url: string; description: string | null };
+const placeCache = new TtlCache<PlaceInfo | null>(7 * DAY, 5000);
+const throttledWiki = makeThrottle(200);
+const normTitle = (s: string) => s.toLowerCase().replace(/\([^)]*\)/g, '').replace(/[\s·・'’.,\-_]/g, '');
+
+// 위키백과 문서 요약. 동음이의 문서나 내용이 없으면 null
+// coord: 문서에 적힌 좌표 (없으면 undefined). 이름으로 바로 찾은 문서가 맞는 곳인지 확인할 때 쓴다
+const wikiSummary = async (lang: 'ko' | 'en', title: string, coord?: { lat?: number; lng?: number }): Promise<PlaceInfo | null> => {
+  const s = await throttledWiki(() =>
+    fetchJson(`https://${lang}.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(title.replace(/ /g, '_'))}`)
+  ).catch(() => null);
+  if (!s || s.type === 'disambiguation' || !s.extract) return null;
+  const extract = String(s.extract);
+  if (coord && s.coordinates) {
+    coord.lat = s.coordinates.lat;
+    coord.lng = s.coordinates.lon;
+  }
+  return {
+    title: s.title,
+    lang,
+    extract: extract.length > 700 ? extract.slice(0, 700).replace(/[^.。!?]*$/, '') || extract.slice(0, 700) + '…' : extract,
+    // 요약의 썸네일(330px)은 화면에 작아서 500px 로 받는다 (위키미디어는 정해진 폭만 허용: 250, 330, 500, 960 …)
+    image: s.thumbnail?.source ? String(s.thumbnail.source).replace(/\/(\d+)px-/,(m: string, w: string) => (+w < 500 ? '/500px-' : m)) : null,
+    url: s.content_urls?.mobile?.page || `https://${lang}.wikipedia.org/wiki/${encodeURIComponent(title)}`,
+    description: s.description || null
+  };
+};
+
+// 좌표 주변(1.5km) 위키백과 문서 중 이름이 맞는 것
+const wikiNearby = async (lang: 'ko' | 'en', names: string[], lat: number, lng: number): Promise<string | null> => {
+  const data = await throttledWiki(() =>
+    fetchJson(`https://${lang}.wikipedia.org/w/api.php?action=query&format=json&list=geosearch&gscoord=${lat}|${lng}&gsradius=1500&gslimit=50`)
+  ).catch(() => null);
+  const pages: { title: string; dist: number }[] = data?.query?.geosearch || [];
+  const keys = names.map(normTitle).filter((k) => k.length >= 2);
+  const hit = pages.find((p) => keys.some((k) => normTitle(p.title) === k))
+    || pages.find((p) => keys.some((k) => { const t = normTitle(p.title); return t.length >= 2 && (t.includes(k) || k.includes(t)); }));
+  return hit ? hit.title : null;
+};
+
+// region: 여행지 이름들 (제주, 도쿄 …). 좌표 없는 문서를 이름으로 찾았을 때 다른 지역의 같은 이름 문서를 거르는 데 쓴다
+const placeInfo = async (name: string, alt: string[], region: string[], lat?: number, lng?: number, wd?: string): Promise<PlaceInfo | null> => {
+  const key = [wd || '', name, lat?.toFixed(3), lng?.toFixed(3), region.join(',')].join('|');
+  const cached = placeCache.get(key);
+  if (cached !== undefined) return cached;
+  let info: PlaceInfo | null = null;
+  if (wd) {
+    // Wikidata 항목이 있으면 거기 연결된 한국어(없으면 영어) 문서
+    const data = await throttledWikidata(() =>
+      fetchJson(`${WIKIDATA_URL}?action=wbgetentities&format=json&ids=${wd}&props=sitelinks&sitefilter=kowiki|enwiki`)
+    ).catch(() => null);
+    const links = data?.entities?.[wd]?.sitelinks || {};
+    if (links.kowiki) info = await wikiSummary('ko', links.kowiki.title);
+    if (!info && links.enwiki) info = await wikiSummary('en', links.enwiki.title);
+  }
+  if (!info && lat !== undefined && lng !== undefined) {
+    const ko = await wikiNearby('ko', [name, ...alt], lat, lng);
+    if (ko) info = await wikiSummary('ko', ko);
+    if (!info && alt.length) {
+      const en = await wikiNearby('en', [name, ...alt], lat, lng);
+      if (en) info = await wikiSummary('en', en);
+    }
+  }
+  // 문서에 좌표가 없어 주변 검색에 안 걸리는 곳(예: 용두암)은 이름으로 바로 찾는다.
+  // 문서 좌표가 5km 안이거나, 좌표가 없으면 설명에 여행지 이름이 들어 있어야 같은 곳으로 본다
+  if (!info && name.length >= 2) {
+    const c: { lat?: number; lng?: number } = {};
+    const s = await wikiSummary('ko', name, c);
+    if (s) {
+      const near = c.lat !== undefined && c.lng !== undefined && lat !== undefined && lng !== undefined
+        ? Math.hypot(c.lat - lat, (c.lng - lng) * Math.cos((lat * Math.PI) / 180)) * 111 < 5
+        : c.lat === undefined && region.some((r) => r.length >= 2 && s.extract.includes(r));
+      if (near) info = s;
+    }
+  }
+  placeCache.set(key, info);
+  return info;
+};
+
 // ---------- 요청 처리 (Node 서버와 Cloudflare Workers 공통) ----------
 export const RESPONSE_HEADERS = {
   'Content-Type': 'application/json; charset=utf-8',
@@ -648,6 +729,16 @@ export const handleApi = async (method: string, url: URL, isClosed: () => boolea
     const profile = url.searchParams.get('profile') === 'car' ? 'car' : 'foot';
     if (!pts || pts.length !== 2) return send(400, { error: 'points: lat,lng;lat,lng (2개)' });
     return send(200, await routePath(profile, pts[0], pts[1]));
+  }
+
+  if (url.pathname === '/api/place') {
+    const name = (url.searchParams.get('name') || '').trim().slice(0, 100);
+    const wdParam = url.searchParams.get('wd') || '';
+    const wd = /^Q\d{1,12}$/.test(wdParam) ? wdParam : undefined;
+    const alt = url.searchParams.getAll('alt').map((a) => a.trim().slice(0, 100)).filter(Boolean).slice(0, 3);
+    const region = url.searchParams.getAll('region').map((a) => a.trim().slice(0, 40)).filter(Boolean).slice(0, 4);
+    if (!name && !wd) return send(400, { error: 'name or wd required' });
+    return send(200, { info: await placeInfo(name, alt, region, lat, lng, wd) });
   }
 
   if (url.pathname === '/api/health') return send(200, { ok: true });

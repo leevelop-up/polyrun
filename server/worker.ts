@@ -9,7 +9,8 @@ const CACHE_SECONDS: Record<string, number> = {
   '/api/matrix': 30 * 86400,
   '/api/path': 86400,
   '/api/reverse': 7 * 86400,
-  '/api/search': 86400
+  '/api/search': 86400,
+  '/api/place': 7 * 86400
 };
 
 type Ctx = { waitUntil(p: Promise<unknown>): void };

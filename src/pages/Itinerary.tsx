@@ -2,10 +2,11 @@ import React, { useEffect, useRef, useState } from 'react';
 import { useHistory, useLocation } from 'react-router-dom';
 import { Place, useTrip } from '../context/TripContext';
 import { CAT_COLORS, INK, PAPER } from '../theme/palette';
-import { dayDate, daySchedule, fmtDay, fmtTravel, readDayParam, travelBetween, tripRange, tripTitle } from '../utils/trip';
+import { dayDate, daySchedule, fmtDay, fmtTravel, readDayParam, travelBetween, tripRange, tripRegion, tripTitle } from '../utils/trip';
 import { loadAllLegs, useRouteLegs } from '../hooks/useRouteLegs';
 import DayGrid from '../components/DayGrid';
 import DayExpenses from '../components/DayExpenses';
+import PlaceDetail from '../components/PlaceDetail';
 import { findTripDestination, loadPicks } from '../data/destinations';
 import { daySpreadKm, Pace, PACE_LABEL, PACE_SIGHTS, recommendDays } from '../utils/recommend';
 
@@ -92,6 +93,8 @@ const Itinerary: React.FC = () => {
   // 추천 일정 시트: 하루 일정 양(pace), 이 날만/빈 날 모두
   const [rec, setRec] = useState<{ pace: Pace; scope: 'day' | 'empty' } | null>(null);
   const recBusy = useRef(false);
+  // 장소 상세정보 시트
+  const [detail, setDetail] = useState<Place | null>(null);
   const toastTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
   const swipeStart = useRef({ x: 0, y: 0 });
   // 드래그로 순서 바꾸기: 손잡이를 누른 채 위아래로 끌면 놓은 자리로 옮긴다
@@ -442,10 +445,10 @@ const Itinerary: React.FC = () => {
                       <circle cx="4" cy="4" r="1.8" /><circle cx="10" cy="4" r="1.8" /><circle cx="4" cy="10" r="1.8" /><circle cx="10" cy="10" r="1.8" /><circle cx="4" cy="16" r="1.8" /><circle cx="10" cy="16" r="1.8" />
                     </svg>
                   </button>
-                  <div style={{ flexGrow: 1, minWidth: 0, display: 'flex', flexDirection: 'column', alignItems: 'flex-start', gap: 2 }}>
+                  <button type="button" aria-label={it.name + ' 상세정보'} onClick={() => setDetail(it)} style={{ flexGrow: 1, minWidth: 0, display: 'flex', flexDirection: 'column', alignItems: 'flex-start', gap: 2, padding: 0, border: 0, background: 'transparent', color: INK, textAlign: 'left', cursor: 'pointer' }}>
                     <div style={{ fontSize: 15, fontWeight: 700 }}>{it.name}</div>
                     <div style={{ fontSize: 12, color: '#4A4D66' }}>{k === 0 ? it.cat + ' · 이 날의 첫 장소' : it.cat + ' · ' + fmtTravel({ mins: row.travel, mode: row.mode })}</div>
-                  </div>
+                  </button>
                   {days.length > 1 && (
                     <button type="button" aria-label={it.name + ' 다른 일차로 옮기기'} onClick={() => setMoving({ day, id: it.id })} style={{ flexShrink: 0, height: 32, padding: '0 8px', margin: '0 4px', border: '2px solid #14162B', borderRadius: 6, background: '#FFFFFF', color: INK, fontSize: 12, fontWeight: 700, cursor: 'pointer', whiteSpace: 'nowrap' }}>
                       다른 날로
@@ -550,6 +553,8 @@ const Itinerary: React.FC = () => {
           </div>
         </>
       )}
+
+      {detail && <PlaceDetail place={detail} region={tripRegion(activeTrip)} onClose={() => setDetail(null)} />}
 
       {movingItem && (
         <>
