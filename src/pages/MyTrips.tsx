@@ -146,6 +146,19 @@ const MyTrips: React.FC = () => {
 
   // 앱: 런트립 폴더의 백업 목록 (null 이면 닫힘)
   const [backups, setBackups] = useState<BackupFile[] | null>(null);
+  // 삭제를 확인 중인 백업 파일 ("폴더/이름")
+  const [deleting, setDeleting] = useState<string | null>(null);
+
+  const deleteBackup = async (f: BackupFile) => {
+    setDeleting(null);
+    try {
+      await Filesystem.deleteFile({ path: f.folder + '/' + f.name, directory: Directory.Documents });
+      setBackups((list) => (list ? list.filter((x) => !(x.folder === f.folder && x.name === f.name)) : list));
+      showToast('백업 파일을 삭제했어요');
+    } catch {
+      showToast('백업 파일을 삭제하지 못했어요');
+    }
+  };
 
   // 백업 안의 일정 중 지금 앱에 없는 것 수
   const newCount = (f: BackupFile): number => (f.trips ? f.trips.filter((t) => !trips.some((x) => x.id === t.id)).length : 0);
@@ -168,6 +181,7 @@ const MyTrips: React.FC = () => {
       fileRef.current?.click();
       return;
     }
+    setDeleting(null);
     setBackups(await listBackups());
   };
 
@@ -411,12 +425,31 @@ const MyTrips: React.FC = () => {
               </button>
             </div>
             <div style={{ display: 'flex', flexDirection: 'column', gap: 8, overflowY: 'auto', minHeight: 0 }}>
-              {backups.map((f) => (
+              {backups.map((f) => {
+                const key = f.folder + '/' + f.name;
+                // 휴지통을 누르면 이 줄이 삭제 확인으로 바뀐다
+                if (deleting === key) {
+                  return (
+                    <div key={key} role="alertdialog" aria-label="백업 파일 삭제 확인" style={{ display: 'flex', alignItems: 'center', gap: 8, minHeight: 60, padding: '8px 8px 8px 14px', border: '2px solid #FF5A3C', borderRadius: 8, background: '#FFF4F1' }}>
+                      <span style={{ flexGrow: 1, minWidth: 0, display: 'flex', flexDirection: 'column', gap: 2 }}>
+                        <span style={{ fontSize: 14, fontWeight: 700, color: INK }}>이 백업 파일을 삭제할까요?</span>
+                        <span style={{ fontSize: 12, color: '#4A4D66', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{backupLabel(f)} · {backupDest(f)}</span>
+                      </span>
+                      <button type="button" onClick={() => setDeleting(null)} style={{ flexShrink: 0, height: 40, padding: '0 12px', border: '2px solid #14162B', borderRadius: 6, background: '#FFFFFF', color: INK, fontSize: 13, fontWeight: 700, cursor: 'pointer' }}>
+                        취소
+                      </button>
+                      <button type="button" onClick={() => deleteBackup(f)} style={{ flexShrink: 0, height: 40, padding: '0 12px', border: '2px solid #14162B', borderRadius: 6, background: '#FF5A3C', color: '#FFFFFF', fontSize: 13, fontWeight: 700, cursor: 'pointer' }}>
+                        삭제
+                      </button>
+                    </div>
+                  );
+                }
+                return (
+                <div key={key} style={{ display: 'flex', alignItems: 'stretch', border: '2px solid #14162B', borderRadius: 8, background: '#FFFFFF', overflow: 'hidden' }}>
                 <button
-                  key={f.folder + '/' + f.name}
                   type="button"
                   onClick={() => importFromFolder(f)}
-                  style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 10, minHeight: 60, padding: '8px 14px', border: '2px solid #14162B', borderRadius: 8, background: '#FFFFFF', color: INK, cursor: 'pointer', textAlign: 'left' }}
+                  style={{ flexGrow: 1, minWidth: 0, display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 10, minHeight: 60, padding: '8px 10px 8px 14px', border: 0, background: 'transparent', color: INK, cursor: 'pointer', textAlign: 'left' }}
                 >
                   <span style={{ display: 'flex', flexDirection: 'column', gap: 3, minWidth: 0 }}>
                     <span style={{ fontFamily: "'DM Mono', monospace", fontSize: 13, color: '#4A4D66' }}>{backupLabel(f)}</span>
@@ -425,7 +458,19 @@ const MyTrips: React.FC = () => {
                   </span>
                   <span style={{ flexShrink: 0, fontSize: 12, fontWeight: 700, color: newCount(f) ? '#2F3CF0' : '#8A8CA3' }}>{f.trips ? (newCount(f) ? '새 일정 ' + newCount(f) + '개' : '모두 있음') : ''}</span>
                 </button>
-              ))}
+                <button
+                  type="button"
+                  aria-label={backupLabel(f) + ' 백업 파일 삭제'}
+                  onClick={() => setDeleting(key)}
+                  style={{ flexShrink: 0, width: 48, border: 0, borderLeft: '2px solid #14162B', background: 'transparent', cursor: 'pointer', display: 'flex', alignItems: 'center', justifyContent: 'center' }}
+                >
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#14162B" strokeWidth={2.2} strokeLinecap="square" aria-hidden="true">
+                    <path d="M4 7h16M9 7V4h6v3M6 7l1 13h10l1-13M10 11v6M14 11v6" />
+                  </svg>
+                </button>
+                </div>
+                );
+              })}
               {backups.length === 0 && <div style={{ padding: '8px 2px', fontSize: 14, color: '#4A4D66', lineHeight: 1.5 }}>런트립 폴더에 저장한 백업이 없어요.</div>}
             </div>
             {/* 드라이브·카톡 등 다른 곳에 저장한 파일 */}
