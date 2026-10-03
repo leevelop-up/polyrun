@@ -1,0 +1,879 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "바투 동굴",
+   "cat": "관광",
+   "area": "Gombak",
+   "lat": 3.2374,
+   "lng": 101.68391,
+   "aliases": [
+    "Batu Caves"
+   ],
+   "wd": "Q687629"
+  },
+  {
+   "name": "마스지드 느가르",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.14194,
+   "lng": 101.69167,
+   "aliases": [
+    "National Mosque of Malaysia"
+   ],
+   "wd": "Q1356818"
+  },
+  {
+   "name": "자멕 이슬람 사원",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.14891,
+   "lng": 101.69596,
+   "aliases": [
+    "Sultan Abdul Samad Jamek Mosque"
+   ],
+   "wd": "Q1143296"
+  },
+  {
+   "name": "국립박물관",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.13758,
+   "lng": 101.68739,
+   "aliases": [
+    "National Museum of Malaysia",
+    "말레이시아 국립박물관"
+   ],
+   "wd": "Q917630"
+  },
+  {
+   "name": "므르데카 광장",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.14882,
+   "lng": 101.69367,
+   "aliases": [
+    "Independence Square"
+   ],
+   "wd": "Q3043065"
+  },
+  {
+   "name": "말레이시아 이슬람 미술관",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.14292,
+   "lng": 101.689,
+   "aliases": [
+    "Islamic Arts Museum Malaysia"
+   ],
+   "wd": "Q3330187"
+  },
+  {
+   "name": "Federal Territory Mosque",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.17194,
+   "lng": 101.67111,
+   "wd": "Q2474998"
+  },
+  {
+   "name": "Kuala Lumpur Bird Park",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.14243,
+   "lng": 101.68847,
+   "wd": "Q2660049"
+  },
+  {
+   "name": "수리아 KLCC",
+   "cat": "쇼핑",
+   "area": "쿠알라룸푸르",
+   "lat": 3.15672,
+   "lng": 101.712,
+   "aliases": [
+    "Suria KLCC"
+   ],
+   "wd": "Q1306924"
+  },
+  {
+   "name": "아쿠아리아 KLCC",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.15339,
+   "lng": 101.71308,
+   "aliases": [
+    "Aquaria KLCC"
+   ],
+   "wd": "Q29168"
+  },
+  {
+   "name": "As Syakirin Mosque",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.15722,
+   "lng": 101.71611,
+   "wd": "Q3396984"
+  },
+  {
+   "name": "말레이시아 국립동물원",
+   "cat": "관광",
+   "area": "Gombak",
+   "lat": 3.20972,
+   "lng": 101.75778,
+   "aliases": [
+    "National Zoo of Malaysia"
+   ],
+   "wd": "Q1142942"
+  },
+  {
+   "name": "국립기념비 (말레이시아)",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.14886,
+   "lng": 101.68383,
+   "aliases": [
+    "National Monument"
+   ],
+   "wd": "Q724745"
+  },
+  {
+   "name": "Planetarium Negara",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.13947,
+   "lng": 101.68937,
+   "wd": "Q924297"
+  },
+  {
+   "name": "바투 동굴 무루간상",
+   "cat": "관광",
+   "area": "Gombak",
+   "lat": 3.2374,
+   "lng": 101.68391,
+   "aliases": [
+    "Batu Caves Murugan Statue"
+   ],
+   "wd": "Q6679799"
+  },
+  {
+   "name": "파사르 세니",
+   "cat": "쇼핑",
+   "area": "쿠알라룸푸르",
+   "lat": 3.14583,
+   "lng": 101.69556,
+   "aliases": [
+    "Central Market"
+   ],
+   "wd": "Q1041262"
+  },
+  {
+   "name": "페트로나스 필하모닉 홀",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.15803,
+   "lng": 101.71168,
+   "aliases": [
+    "Petronas Philharmonic Hall"
+   ],
+   "wd": "Q5268050"
+  },
+  {
+   "name": "페르다나 식물원",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.143,
+   "lng": 101.685,
+   "aliases": [
+    "Perdana Botanical Gardens"
+   ],
+   "wd": "Q12061078"
+  },
+  {
+   "name": "Istana Budaya",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.13333,
+   "lng": 101.7,
+   "wd": "Q576601"
+  },
+  {
+   "name": "St. John's Cathedral",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.14983,
+   "lng": 101.69937,
+   "wd": "Q5552448"
+  },
+  {
+   "name": "KLCC 공원",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.15565,
+   "lng": 101.715,
+   "aliases": [
+    "KLCC Park"
+   ],
+   "wd": "Q6332465"
+  },
+  {
+   "name": "Thean Hou Temple",
+   "cat": "관광",
+   "area": "Seputeh",
+   "lat": 3.12185,
+   "lng": 101.68764,
+   "wd": "Q2639733"
+  },
+  {
+   "name": "Al-Amaniah Mosque",
+   "cat": "관광",
+   "area": "Selayang",
+   "lat": 3.23633,
+   "lng": 101.6745,
+   "wd": "Q4702183"
+  },
+  {
+   "name": "Saidina Abu Bakar As Siddiq Mosque",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.12958,
+   "lng": 101.67181,
+   "wd": "Q3407638"
+  },
+  {
+   "name": "Al Akram Mosque",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.16667,
+   "lng": 101.7295,
+   "wd": "Q4703464"
+  },
+  {
+   "name": "Sri Mahamariamman Temple",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.14333,
+   "lng": 101.696,
+   "wd": "Q7586152"
+  },
+  {
+   "name": "Al-Rahman Kuala Lumpur Mosque",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.11858,
+   "lng": 101.66272,
+   "wd": "Q27962665"
+  },
+  {
+   "name": "미드 밸리 메가몰",
+   "cat": "쇼핑",
+   "area": "쿠알라룸푸르",
+   "lat": 3.11804,
+   "lng": 101.67656,
+   "aliases": [
+    "Mid Valley Megamall"
+   ],
+   "wd": "Q1481063"
+  },
+  {
+   "name": "Abdul Rahman Auf Mosque",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.07937,
+   "lng": 101.666,
+   "wd": "Q4665631"
+  },
+  {
+   "name": "Al Taqwa Mosque",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.14611,
+   "lng": 101.62972,
+   "wd": "Q4704867"
+  },
+  {
+   "name": "Al-Bukhary Mosque",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.13972,
+   "lng": 101.70481,
+   "wd": "Q8050516"
+  },
+  {
+   "name": "Imam Al Ghazali Mosque",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.19639,
+   "lng": 101.62814,
+   "wd": "Q17005328"
+  },
+  {
+   "name": "Four Seasons Place Kuala Lumpur",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.15856,
+   "lng": 101.71335,
+   "wd": "Q30643059"
+  },
+  {
+   "name": "Sultan Abdul Aziz Shah Jamek Mosque",
+   "cat": "관광",
+   "area": "슬랑오르주",
+   "lat": 3.09078,
+   "lng": 101.65044,
+   "wd": "Q3408450"
+  },
+  {
+   "name": "Lot 10",
+   "cat": "쇼핑",
+   "area": "쿠알라룸푸르",
+   "lat": 3.1463,
+   "lng": 101.71197,
+   "wd": "Q535177"
+  },
+  {
+   "name": "숭가이 왕 플라자",
+   "cat": "쇼핑",
+   "area": "쿠알라룸푸르",
+   "lat": 3.14459,
+   "lng": 101.71084,
+   "aliases": [
+    "Sungei Wang Plaza"
+   ],
+   "wd": "Q3503888"
+  },
+  {
+   "name": "Plaza Low Yat",
+   "cat": "쇼핑",
+   "area": "쿠알라룸푸르",
+   "lat": 3.14401,
+   "lng": 101.7105,
+   "wd": "Q6692970"
+  },
+  {
+   "name": "쿠알라룸푸르 아시아 미술관",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.11826,
+   "lng": 101.65322,
+   "aliases": [
+    "Museum of Asian Art"
+   ],
+   "wd": "Q7393569"
+  },
+  {
+   "name": "Saidina Uthman Bin Affan Mosque",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.09111,
+   "lng": 101.71806,
+   "wd": "Q7399970"
+  },
+  {
+   "name": "Darul Ehsan Mosque",
+   "cat": "관광",
+   "area": "슬랑오르주",
+   "lat": 3.08028,
+   "lng": 101.58722,
+   "wd": "Q5225772"
+  },
+  {
+   "name": "Subang Airport Mosque",
+   "cat": "관광",
+   "area": "슬랑오르주",
+   "lat": 3.11989,
+   "lng": 101.56442,
+   "wd": "Q7630742"
+  },
+  {
+   "name": "Tun Abdul Aziz Mosque",
+   "cat": "관광",
+   "area": "슬랑오르주",
+   "lat": 3.11222,
+   "lng": 101.6355,
+   "wd": "Q7852754"
+  },
+  {
+   "name": "1 Utama",
+   "cat": "쇼핑",
+   "area": "프탈링자야",
+   "lat": 3.14815,
+   "lng": 101.61584,
+   "wd": "Q209013"
+  },
+  {
+   "name": "패런하이트 88",
+   "cat": "쇼핑",
+   "area": "",
+   "lat": 3.1475,
+   "lng": 101.7125,
+   "aliases": [
+    "Fahrenheit 88"
+   ],
+   "wd": "Q1081260"
+  },
+  {
+   "name": "Amru Al-As Mosque",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.18,
+   "lng": 101.69861,
+   "wd": "Q4748715"
+  },
+  {
+   "name": "쿠알라룸푸르 나비 공원",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.14573,
+   "lng": 101.689,
+   "aliases": [
+    "Kuala Lumpur Butterfly Park"
+   ],
+   "wd": "Q6440990"
+  },
+  {
+   "name": "Tun Abdul Razak Memorial",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.14243,
+   "lng": 101.68658,
+   "wd": "Q12697599"
+  },
+  {
+   "name": "Zaid bin Haritsah Mosque",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.21114,
+   "lng": 101.70564,
+   "wd": "Q16876881"
+  },
+  {
+   "name": "Al Mujaheddin Mosque",
+   "cat": "관광",
+   "area": "슬랑오르주",
+   "lat": 3.13894,
+   "lng": 101.62044,
+   "wd": "Q4704484"
+  },
+  {
+   "name": "스타힐 갤러리",
+   "cat": "쇼핑",
+   "area": "",
+   "lat": 3.14772,
+   "lng": 101.713,
+   "aliases": [
+    "Starhill Gallery"
+   ],
+   "wd": "Q922702"
+  },
+  {
+   "name": "National Art Gallery",
+   "cat": "관광",
+   "area": "",
+   "lat": 3.17353,
+   "lng": 101.705,
+   "wd": "Q3294835"
+  },
+  {
+   "name": "Sunway Pyramid",
+   "cat": "쇼핑",
+   "area": "",
+   "lat": 3.0725,
+   "lng": 101.607,
+   "wd": "Q7443923"
+  },
+  {
+   "name": "Sin Sze Si Ya Temple",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.14553,
+   "lng": 101.69628,
+   "wd": "Q2494864"
+  },
+  {
+   "name": "Sunway Lagoon",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.06921,
+   "lng": 101.607,
+   "wd": "Q3503999"
+  },
+  {
+   "name": "Coliseum Theatre",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.1535,
+   "lng": 101.69634,
+   "wd": "Q5145769"
+  },
+  {
+   "name": "Kuala Lumpur Courts Complex",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.17695,
+   "lng": 101.6711,
+   "wd": "Q6440994"
+  },
+  {
+   "name": "Kuala Lumpur General Post Office",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.14404,
+   "lng": 101.69263,
+   "wd": "Q6441016"
+  },
+  {
+   "name": "국립역사박물관 (말레이시아)",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.14706,
+   "lng": 101.69361,
+   "aliases": [
+    "National History Museum"
+   ],
+   "wd": "Q6973386"
+  },
+  {
+   "name": "살로마 링크",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.16104,
+   "lng": 101.70808,
+   "aliases": [
+    "Saloma Link"
+   ],
+   "wd": "Q85513950"
+  },
+  {
+   "name": "Saidina Umar Al Khattab Mosque",
+   "cat": "관광",
+   "area": "Bukit Damansara",
+   "lat": 3.15,
+   "lng": 101.65511,
+   "wd": "Q20460422"
+  },
+  {
+   "name": "Kuala Lumpur Performing Arts Centre",
+   "cat": "관광",
+   "area": "",
+   "lat": 3.186,
+   "lng": 101.68,
+   "wd": "Q6441030"
+  },
+  {
+   "name": "Makam Pahlawan",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.14196,
+   "lng": 101.69068,
+   "wd": "Q6738654"
+  },
+  {
+   "name": "Titiwangsa Lake Park",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.17808,
+   "lng": 101.70769,
+   "wd": "Q20457989"
+  },
+  {
+   "name": "Exchange Square",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.14825,
+   "lng": 101.70133,
+   "wd": "Q25206685"
+  },
+  {
+   "name": "Kuala Lumpur Guandi Temple",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.14399,
+   "lng": 101.69693,
+   "wd": "Q106179173"
+  },
+  {
+   "name": "Pavilion Bukit Jalil",
+   "cat": "쇼핑",
+   "area": "쿠알라룸푸르",
+   "lat": 3.05042,
+   "lng": 101.67101,
+   "wd": "Q109906715"
+  },
+  {
+   "name": "The Curve",
+   "cat": "쇼핑",
+   "area": "슬랑오르주",
+   "lat": 3.15782,
+   "lng": 101.61155,
+   "wd": "Q7728499"
+  },
+  {
+   "name": "Petaling Jaya Museum",
+   "cat": "관광",
+   "area": "프탈링자야",
+   "lat": 3.10469,
+   "lng": 101.65086,
+   "wd": "Q27473082"
+  },
+  {
+   "name": "Sunway Velocity Mall",
+   "cat": "쇼핑",
+   "area": "체라스",
+   "lat": 3.12706,
+   "lng": 101.72494,
+   "wd": "Q48733880"
+  },
+  {
+   "name": "Berjaya Times Square Theme Park",
+   "cat": "관광",
+   "area": "",
+   "lat": 3.14222,
+   "lng": 101.71056,
+   "wd": "Q2998295"
+  },
+  {
+   "name": "Ampang Park",
+   "cat": "쇼핑",
+   "area": "",
+   "lat": 3.16074,
+   "lng": 101.71871,
+   "wd": "Q4748043"
+  },
+  {
+   "name": "Kenanga Wholesale City",
+   "cat": "쇼핑",
+   "area": "",
+   "lat": 3.13624,
+   "lng": 101.708,
+   "wd": "Q6388788"
+  },
+  {
+   "name": "Sri Kandaswamy Kovil",
+   "cat": "관광",
+   "area": "",
+   "lat": 3.13396,
+   "lng": 101.69338,
+   "wd": "Q13161247"
+  },
+  {
+   "name": "Menara Multi Purpose",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.1556,
+   "lng": 101.6989,
+   "wd": "Q970936"
+  },
+  {
+   "name": "Bukit Bintang Plaza",
+   "cat": "쇼핑",
+   "area": "쿠알라룸푸르",
+   "lat": 3.14549,
+   "lng": 101.71065,
+   "wd": "Q2927808"
+  },
+  {
+   "name": "Maybank Numismatic Museum",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.14722,
+   "lng": 101.69715,
+   "wd": "Q6796899"
+  },
+  {
+   "name": "Quill City Mall",
+   "cat": "쇼핑",
+   "area": "쿠알라룸푸르",
+   "lat": 3.1595,
+   "lng": 101.69967,
+   "wd": "Q7936141"
+  },
+  {
+   "name": "Wei-Ling Gallery",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.13588,
+   "lng": 101.6915,
+   "wd": "Q18394769"
+  },
+  {
+   "name": "UM Arena Stadium",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.13097,
+   "lng": 101.65933,
+   "wd": "Q56822872"
+  },
+  {
+   "name": "The Exchange TRX",
+   "cat": "쇼핑",
+   "area": "쿠알라룸푸르",
+   "lat": 3.14356,
+   "lng": 101.71673,
+   "wd": "Q123699989"
+  },
+  {
+   "name": "Pusat Sains Negara",
+   "cat": "관광",
+   "area": "Bukit Kiara",
+   "lat": 3.14887,
+   "lng": 101.64485,
+   "wd": "Q7261706"
+  },
+  {
+   "name": "Ombak KLCC",
+   "cat": "쇼핑",
+   "area": "쿠알라룸푸르 시티 센터",
+   "lat": 3.15681,
+   "lng": 101.71778,
+   "wd": "Q136464527"
+  },
+  {
+   "name": "IPC Shopping Centre",
+   "cat": "쇼핑",
+   "area": "슬랑오르주",
+   "lat": 3.15593,
+   "lng": 101.611,
+   "wd": "Q5973004"
+  },
+  {
+   "name": "Sri Sithi Vinayagar Temple",
+   "cat": "관광",
+   "area": "슬랑오르주",
+   "lat": 3.09112,
+   "lng": 101.646,
+   "wd": "Q7586271"
+  },
+  {
+   "name": "St. Francis Xavier's Church, Petaling Jaya",
+   "cat": "관광",
+   "area": "슬랑오르주",
+   "lat": 3.10894,
+   "lng": 101.65257,
+   "wd": "Q7588006"
+  },
+  {
+   "name": "Paradigm Mall, Petaling Jaya",
+   "cat": "쇼핑",
+   "area": "프탈링자야",
+   "lat": 3.10508,
+   "lng": 101.59594,
+   "wd": "Q20462804"
+  },
+  {
+   "name": "Ara Damansara Mosque",
+   "cat": "관광",
+   "area": "수방자야",
+   "lat": 3.11711,
+   "lng": 101.58394,
+   "wd": "Q24907926"
+  },
+  {
+   "name": "Wat Chetawan",
+   "cat": "관광",
+   "area": "Petaling District",
+   "lat": 3.10264,
+   "lng": 101.65131,
+   "wd": "Q7972928"
+  },
+  {
+   "name": "Royal Selangor Golf Club",
+   "cat": "쇼핑",
+   "area": "",
+   "lat": 3.14539,
+   "lng": 101.726,
+   "wd": "Q1822228"
+  },
+  {
+   "name": "Mid Valley City",
+   "cat": "쇼핑",
+   "area": "",
+   "lat": 3.11793,
+   "lng": 101.67685,
+   "wd": "Q6841040"
+  },
+  {
+   "name": "림바 일무 식물원",
+   "cat": "관광",
+   "area": "",
+   "lat": 3.13107,
+   "lng": 101.658,
+   "aliases": [
+    "Rimba Ilmu Botanical Gardens"
+   ],
+   "wd": "Q7334402"
+  },
+  {
+   "name": "Empire Tower",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.16197,
+   "lng": 101.72,
+   "wd": "Q3053263"
+  },
+  {
+   "name": "ASEAN Sculpture Garden",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.15042,
+   "lng": 101.684,
+   "wd": "Q4654181"
+  },
+  {
+   "name": "Petronas Gallery",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.15749,
+   "lng": 101.70902,
+   "wd": "Q5337739"
+  },
+  {
+   "name": "Headquarters of Keretapi Tanah Melayu",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.14019,
+   "lng": 101.69263,
+   "wd": "Q7311238"
+  },
+  {
+   "name": "Petrosains",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.15748,
+   "lng": 101.7122,
+   "wd": "Q7408028"
+  },
+  {
+   "name": "Sunway Putra Mall",
+   "cat": "쇼핑",
+   "area": "쿠알라룸푸르",
+   "lat": 3.16638,
+   "lng": 101.6924,
+   "wd": "Q7449373"
+  },
+  {
+   "name": "Hotel Majestic",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.13883,
+   "lng": 101.69178,
+   "wd": "Q16873604"
+  },
+  {
+   "name": "Setapak Central",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.20386,
+   "lng": 101.721,
+   "wd": "Q22075159"
+  },
+  {
+   "name": "Kuala Lumpur City Gallery",
+   "cat": "관광",
+   "area": "쿠알라룸푸르",
+   "lat": 3.14716,
+   "lng": 101.69325,
+   "wd": "Q66041057"
+  }
+ ]
+}

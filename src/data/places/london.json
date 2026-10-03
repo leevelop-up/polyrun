@@ -1,0 +1,1076 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "대영박물관",
+   "cat": "관광",
+   "area": "캠던구",
+   "lat": 51.51944,
+   "lng": -0.12694,
+   "aliases": [
+    "British Museum"
+   ],
+   "wd": "Q6373"
+  },
+  {
+   "name": "버킹엄 궁전",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.501,
+   "lng": -0.142,
+   "aliases": [
+    "Buckingham Palace",
+    "버킹엄궁",
+    "버킹검 궁전"
+   ],
+   "wd": "Q42182"
+  },
+  {
+   "name": "웨스트민스터 사원",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.4994,
+   "lng": -0.12737,
+   "aliases": [
+    "Westminster Abbey"
+   ],
+   "wd": "Q5933"
+  },
+  {
+   "name": "빅 벤",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.50067,
+   "lng": -0.12457,
+   "aliases": [
+    "Big Ben"
+   ],
+   "wd": "Q41225"
+  },
+  {
+   "name": "런던탑",
+   "cat": "관광",
+   "area": "타워햄리츠구",
+   "lat": 51.5082,
+   "lng": -0.0762,
+   "aliases": [
+    "Tower of London"
+   ],
+   "wd": "Q62378"
+  },
+  {
+   "name": "타워 브리지",
+   "cat": "관광",
+   "area": "타워햄리츠구",
+   "lat": 51.50556,
+   "lng": -0.07528,
+   "aliases": [
+    "Tower Bridge",
+    "타워 브릿지"
+   ],
+   "wd": "Q83125"
+  },
+  {
+   "name": "런던 브리지",
+   "cat": "관광",
+   "area": "런던",
+   "lat": 51.50806,
+   "lng": -0.08778,
+   "aliases": [
+    "London Bridge",
+    "런던 브릿지",
+    "런던교"
+   ],
+   "wd": "Q130206"
+  },
+  {
+   "name": "런던 아이",
+   "cat": "관광",
+   "area": "램버스",
+   "lat": 51.50333,
+   "lng": -0.11972,
+   "aliases": [
+    "London Eye"
+   ],
+   "wd": "Q160659"
+  },
+  {
+   "name": "트라팔가 광장",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.50806,
+   "lng": -0.12806,
+   "aliases": [
+    "Trafalgar Square",
+    "트래펄가 광장",
+    "트래팔가 광장",
+    "트라팔가"
+   ],
+   "wd": "Q129143"
+  },
+  {
+   "name": "내셔널 갤러리",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.50889,
+   "lng": -0.12833,
+   "aliases": [
+    "National Gallery",
+    "런던 국립화랑",
+    "런던국립미술관",
+    "런던 국립 화랑"
+   ],
+   "wd": "Q180788"
+  },
+  {
+   "name": "하이드 파크, 런던",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.50861,
+   "lng": -0.16361,
+   "aliases": [
+    "Hyde Park"
+   ],
+   "wd": "Q123738"
+  },
+  {
+   "name": "빅토리아 앨버트 박물관",
+   "cat": "관광",
+   "area": "켄징턴 첼시 구",
+   "lat": 51.49685,
+   "lng": -0.17162,
+   "aliases": [
+    "Victoria and Albert Museum",
+    "빅토리아 앤드 앨버트 박물관",
+    "빅토리아 앨버트 미술관"
+   ],
+   "wd": "Q213322"
+  },
+  {
+   "name": "테이트 모던",
+   "cat": "관광",
+   "area": "서더크구",
+   "lat": 51.50778,
+   "lng": -0.09944,
+   "aliases": [
+    "Tate Modern"
+   ],
+   "wd": "Q193375"
+  },
+  {
+   "name": "그리니치 천문대",
+   "cat": "관광",
+   "area": "그리니치 왕립구",
+   "lat": 51.47783,
+   "lng": -0.00139,
+   "aliases": [
+    "Royal Observatory",
+    "왕립 그리니치 천문대"
+   ],
+   "wd": "Q192988"
+  },
+  {
+   "name": "로열 오페라 하우스",
+   "cat": "관광",
+   "area": "런던",
+   "lat": 51.51306,
+   "lng": -0.12278,
+   "aliases": [
+    "Royal Opera House"
+   ],
+   "wd": "Q55018"
+  },
+  {
+   "name": "런던 자연사 박물관",
+   "cat": "관광",
+   "area": "켄징턴 첼시 구",
+   "lat": 51.49611,
+   "lng": -0.17611,
+   "aliases": [
+    "Natural History Museum"
+   ],
+   "wd": "Q309388"
+  },
+  {
+   "name": "켄징턴궁",
+   "cat": "관광",
+   "area": "켄징턴 첼시 구",
+   "lat": 51.50528,
+   "lng": -0.18833,
+   "aliases": [
+    "Kensington Palace",
+    "켄싱턴 궁전",
+    "켄징턴 궁전"
+   ],
+   "wd": "Q207385"
+  },
+  {
+   "name": "로열 앨버트 홀",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.50105,
+   "lng": -0.17748,
+   "aliases": [
+    "Royal Albert Hall",
+    "앨버트 홀",
+    "로열 알버트 홀",
+    "알버트 홀"
+   ],
+   "wd": "Q193639"
+  },
+  {
+   "name": "큐 왕립식물원",
+   "cat": "관광",
+   "area": "리치먼드어폰템스구",
+   "lat": 51.47889,
+   "lng": -0.29361,
+   "aliases": [
+    "Kew Gardens"
+   ],
+   "wd": "Q188617"
+  },
+  {
+   "name": "세인트제임스궁",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.50472,
+   "lng": -0.13778,
+   "aliases": [
+    "St James's Palace"
+   ],
+   "wd": "Q272162"
+  },
+  {
+   "name": "웨스트민스터 브리지",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.50083,
+   "lng": -0.12194,
+   "aliases": [
+    "Westminster Bridge"
+   ],
+   "wd": "Q456960"
+  },
+  {
+   "name": "밀레니엄교",
+   "cat": "관광",
+   "area": "시티오브런던",
+   "lat": 51.51017,
+   "lng": -0.09844,
+   "aliases": [
+    "Millennium Bridge"
+   ],
+   "wd": "Q44057"
+  },
+  {
+   "name": "국립 초상화 미술관",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.50944,
+   "lng": -0.12806,
+   "aliases": [
+    "National Portrait Gallery"
+   ],
+   "wd": "Q238587"
+  },
+  {
+   "name": "해러즈",
+   "cat": "쇼핑",
+   "area": "켄징턴 첼시 구",
+   "lat": 51.49959,
+   "lng": -0.16352,
+   "aliases": [
+    "Harrods"
+   ],
+   "wd": "Q332474"
+  },
+  {
+   "name": "과학박물관",
+   "cat": "관광",
+   "area": "사우스켄싱턴",
+   "lat": 51.4975,
+   "lng": -0.17472,
+   "aliases": [
+    "Science Museum"
+   ],
+   "wd": "Q674773"
+  },
+  {
+   "name": "웨스트민스터 대성당",
+   "cat": "관광",
+   "area": "런던",
+   "lat": 51.49583,
+   "lng": -0.13947,
+   "aliases": [
+    "Westminster Cathedral",
+    "웨스트민스터 주교좌 성당",
+    "웨스트민스터 성당"
+   ],
+   "wd": "Q739364"
+  },
+  {
+   "name": "글로브 극장",
+   "cat": "관광",
+   "area": "서더크구",
+   "lat": 51.50667,
+   "lng": -0.09472,
+   "aliases": [
+    "Globe Theatre"
+   ],
+   "wd": "Q272434"
+  },
+  {
+   "name": "채링크로스",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.5073,
+   "lng": -0.12755,
+   "aliases": [
+    "Charing Cross"
+   ],
+   "wd": "Q216185"
+  },
+  {
+   "name": "세인트 제임시즈 공원",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.5025,
+   "lng": -0.135,
+   "aliases": [
+    "St James's Park",
+    "세인트 제임스 공원"
+   ],
+   "wd": "Q216914"
+  },
+  {
+   "name": "런던 동물원",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.53556,
+   "lng": -0.15583,
+   "aliases": [
+    "London Zoo"
+   ],
+   "wd": "Q270263"
+  },
+  {
+   "name": "리젠츠 파크",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.53222,
+   "lng": -0.15667,
+   "aliases": [
+    "Regent's Park"
+   ],
+   "wd": "Q739341"
+  },
+  {
+   "name": "영국 왕립미술원",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.50917,
+   "lng": -0.13944,
+   "aliases": [
+    "Royal Academy of Arts",
+    "로열 아카데미 오브 아츠"
+   ],
+   "wd": "Q270920"
+  },
+  {
+   "name": "워털루교",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.50861,
+   "lng": -0.11694,
+   "aliases": [
+    "Waterloo Bridge"
+   ],
+   "wd": "Q501003"
+  },
+  {
+   "name": "레스터 광장",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.51028,
+   "lng": -0.13028,
+   "aliases": [
+    "Leicester Square"
+   ],
+   "wd": "Q848912"
+  },
+  {
+   "name": "그린 파크",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.50417,
+   "lng": -0.14361,
+   "aliases": [
+    "Green Park"
+   ],
+   "wd": "Q119892"
+  },
+  {
+   "name": "세인트 마틴 인 더 필즈",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.50889,
+   "lng": -0.12694,
+   "aliases": [
+    "St Martin-in-the-Fields"
+   ],
+   "wd": "Q1335201"
+  },
+  {
+   "name": "임페리얼 전쟁 박물관",
+   "cat": "관광",
+   "area": "서더크구",
+   "lat": 51.49583,
+   "lng": -0.10861,
+   "aliases": [
+    "Imperial War Museum London"
+   ],
+   "wd": "Q749808"
+  },
+  {
+   "name": "바비칸 센터",
+   "cat": "관광",
+   "area": "시티오브런던",
+   "lat": 51.5202,
+   "lng": -0.095,
+   "aliases": [
+    "Barbican Centre"
+   ],
+   "wd": "Q653858"
+  },
+  {
+   "name": "런던 박물관",
+   "cat": "관광",
+   "area": "시티오브런던",
+   "lat": 51.5179,
+   "lng": -0.1048,
+   "aliases": [
+    "London Museum"
+   ],
+   "wd": "Q917820"
+  },
+  {
+   "name": "테이트 브리튼",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.49111,
+   "lng": -0.1275,
+   "aliases": [
+    "Tate Britain"
+   ],
+   "wd": "Q195436"
+  },
+  {
+   "name": "켄징턴 가든스",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.50722,
+   "lng": -0.18028,
+   "aliases": [
+    "Kensington Gardens"
+   ],
+   "wd": "Q822607"
+  },
+  {
+   "name": "램버스궁",
+   "cat": "관광",
+   "area": "램버스",
+   "lat": 51.49556,
+   "lng": -0.11972,
+   "aliases": [
+    "Lambeth Palace"
+   ],
+   "wd": "Q1130266"
+  },
+  {
+   "name": "Clarence House",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.504,
+   "lng": -0.1385,
+   "wd": "Q565521"
+  },
+  {
+   "name": "국립해양박물관",
+   "cat": "관광",
+   "area": "그리니치 왕립구",
+   "lat": 51.4811,
+   "lng": -0.00556,
+   "aliases": [
+    "National Maritime Museum"
+   ],
+   "wd": "Q1199924"
+  },
+  {
+   "name": "그리니치 공원",
+   "cat": "관광",
+   "area": "그리니치 왕립구",
+   "lat": 51.4767,
+   "lng": 0.00013,
+   "aliases": [
+    "Greenwich Park"
+   ],
+   "wd": "Q929586"
+  },
+  {
+   "name": "HMS 벨파스트",
+   "cat": "관광",
+   "area": "서더크구",
+   "lat": 51.50667,
+   "lng": -0.08139,
+   "aliases": [
+    "HMS Belfast"
+   ],
+   "wd": "Q757178"
+  },
+  {
+   "name": "Somerset House",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.51111,
+   "lng": -0.11778,
+   "wd": "Q1344889"
+  },
+  {
+   "name": "영국 국립극장",
+   "cat": "관광",
+   "area": "램버스구",
+   "lat": 51.5071,
+   "lng": -0.1141,
+   "aliases": [
+    "Royal National Theatre"
+   ],
+   "wd": "Q511108"
+  },
+  {
+   "name": "서더크 브리지",
+   "cat": "관광",
+   "area": "서더크구",
+   "lat": 51.50889,
+   "lng": -0.09444,
+   "aliases": [
+    "Southwark Bridge",
+    "서더크 브릿지",
+    "서더크교"
+   ],
+   "wd": "Q1324578"
+  },
+  {
+   "name": "퀸스 하우스",
+   "cat": "관광",
+   "area": "그리니치 왕립구",
+   "lat": 51.4812,
+   "lng": -0.00378,
+   "aliases": [
+    "Queen's House",
+    "퀸즈 하우스"
+   ],
+   "wd": "Q564981"
+  },
+  {
+   "name": "리치먼드 공원",
+   "cat": "관광",
+   "area": "리치먼드어폰템스구",
+   "lat": 51.44333,
+   "lng": -0.275,
+   "aliases": [
+    "Richmond Park"
+   ],
+   "wd": "Q1142072"
+  },
+  {
+   "name": "앨버트 기념관",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.50241,
+   "lng": -0.17774,
+   "aliases": [
+    "Albert Memorial",
+    "앨버트 기념비"
+   ],
+   "wd": "Q281465"
+  },
+  {
+   "name": "램버스 브리지",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.49464,
+   "lng": -0.12388,
+   "aliases": [
+    "Lambeth Bridge"
+   ],
+   "wd": "Q1130666"
+  },
+  {
+   "name": "Baitul Futuh Mosque",
+   "cat": "관광",
+   "area": "런던",
+   "lat": 51.39611,
+   "lng": -0.19889,
+   "wd": "Q788652"
+  },
+  {
+   "name": "블랙프라이어스교",
+   "cat": "관광",
+   "area": "시티오브런던",
+   "lat": 51.50972,
+   "lng": -0.10444,
+   "aliases": [
+    "Blackfriars Bridge"
+   ],
+   "wd": "Q880843"
+  },
+  {
+   "name": "복솔 브리지",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.4875,
+   "lng": -0.12694,
+   "aliases": [
+    "Vauxhall Bridge"
+   ],
+   "wd": "Q1142134"
+  },
+  {
+   "name": "올드빅",
+   "cat": "관광",
+   "area": "램버스구",
+   "lat": 51.502,
+   "lng": -0.10931,
+   "aliases": [
+    "The Old Vic",
+    "올드빅 극장"
+   ],
+   "wd": "Q868806"
+  },
+  {
+   "name": "앨버트 브리지",
+   "cat": "관광",
+   "area": "완즈워스 구",
+   "lat": 51.48237,
+   "lng": -0.16678,
+   "aliases": [
+    "Albert Bridge"
+   ],
+   "wd": "Q1972207"
+  },
+  {
+   "name": "Banqueting House",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.5046,
+   "lng": -0.1259,
+   "wd": "Q642039"
+  },
+  {
+   "name": "햄프스티드 히스",
+   "cat": "관광",
+   "area": "바닛구",
+   "lat": 51.56111,
+   "lng": -0.16111,
+   "aliases": [
+    "Hampstead Heath"
+   ],
+   "wd": "Q1570958"
+  },
+  {
+   "name": "월리스 컬렉션",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.51745,
+   "lng": -0.15302,
+   "aliases": [
+    "Wallace Collection",
+    "월레스 컬렉션"
+   ],
+   "wd": "Q1327919"
+  },
+  {
+   "name": "팔러먼트 광장",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.50056,
+   "lng": -0.12667,
+   "aliases": [
+    "Parliament Square"
+   ],
+   "wd": "Q1368556"
+  },
+  {
+   "name": "셜록 홈즈 박물관",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.52369,
+   "lng": -0.161,
+   "aliases": [
+    "Sherlock Holmes Museum"
+   ],
+   "wd": "Q1990172"
+  },
+  {
+   "name": "헝거퍼드교",
+   "cat": "관광",
+   "area": "런던",
+   "lat": 51.50611,
+   "lng": -0.12,
+   "aliases": [
+    "Hungerford Bridge and Golden Jubilee Bridges"
+   ],
+   "wd": "Q1436185"
+  },
+  {
+   "name": "드루리 레인 왕립극장",
+   "cat": "관광",
+   "area": "런던",
+   "lat": 51.51306,
+   "lng": -0.12028,
+   "aliases": [
+    "The Theatre Royal"
+   ],
+   "wd": "Q1756626"
+  },
+  {
+   "name": "런던 대화재 기념비",
+   "cat": "관광",
+   "area": "시티오브런던",
+   "lat": 51.51014,
+   "lng": -0.08594,
+   "aliases": [
+    "Monument to the Great Fire of London"
+   ],
+   "wd": "Q607700"
+  },
+  {
+   "name": "Speakers' Corner",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.51171,
+   "lng": -0.15978,
+   "wd": "Q510323"
+  },
+  {
+   "name": "여왕 폐하의 극장",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.5081,
+   "lng": -0.132,
+   "aliases": [
+    "His Majesty's Theatre"
+   ],
+   "wd": "Q1155331"
+  },
+  {
+   "name": "Victoria Memorial",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.50183,
+   "lng": -0.14064,
+   "wd": "Q1333411"
+  },
+  {
+   "name": "첼시교",
+   "cat": "관광",
+   "area": "켄징턴 첼시 구",
+   "lat": 51.48472,
+   "lng": -0.15,
+   "aliases": [
+    "Chelsea Bridge"
+   ],
+   "wd": "Q1069141"
+  },
+  {
+   "name": "영국 왕실 컬렉션",
+   "cat": "관광",
+   "area": "",
+   "lat": 51.501,
+   "lng": -0.142,
+   "aliases": [
+    "Royal Collection",
+    "로열 컬렉션"
+   ],
+   "wd": "Q1459037"
+  },
+  {
+   "name": "Royal Exchange",
+   "cat": "관광",
+   "area": "시티오브런던",
+   "lat": 51.51361,
+   "lng": -0.08722,
+   "wd": "Q1241240"
+  },
+  {
+   "name": "Apsley House",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.50347,
+   "lng": -0.15167,
+   "wd": "Q622206"
+  },
+  {
+   "name": "호스 가즈 퍼레이드",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.5047,
+   "lng": -0.1283,
+   "aliases": [
+    "Horse Guards Parade"
+   ],
+   "wd": "Q1254964"
+  },
+  {
+   "name": "브로드캐스팅 하우스",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.51856,
+   "lng": -0.14383,
+   "aliases": [
+    "Broadcasting House"
+   ],
+   "wd": "Q2914560"
+  },
+  {
+   "name": "BT Tower",
+   "cat": "관광",
+   "area": "캠던구",
+   "lat": 51.5215,
+   "lng": -0.1389,
+   "wd": "Q797085"
+  },
+  {
+   "name": "프림로즈힐",
+   "cat": "관광",
+   "area": "캠던구",
+   "lat": 51.5396,
+   "lng": -0.1608,
+   "aliases": [
+    "Primrose Hill"
+   ],
+   "wd": "Q149942"
+  },
+  {
+   "name": "프로이트 박물관",
+   "cat": "관광",
+   "area": "캠던구",
+   "lat": 51.5483,
+   "lng": -0.17778,
+   "aliases": [
+    "Freud Museum London"
+   ],
+   "wd": "Q1455777"
+  },
+  {
+   "name": "해머스미스교",
+   "cat": "관광",
+   "area": "리치먼드어폰템스구",
+   "lat": 51.4889,
+   "lng": -0.22973,
+   "aliases": [
+    "Hammersmith Bridge"
+   ],
+   "wd": "Q1573860"
+  },
+  {
+   "name": "Serpentine Galleries",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.5047,
+   "lng": -0.17505,
+   "wd": "Q591086"
+  },
+  {
+   "name": "London Palladium",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.51458,
+   "lng": -0.1405,
+   "wd": "Q676755"
+  },
+  {
+   "name": "London Central Mosque",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.52917,
+   "lng": -0.16528,
+   "wd": "Q1811339"
+  },
+  {
+   "name": "로열 페스티벌 홀",
+   "cat": "관광",
+   "area": "램버스구",
+   "lat": 51.50584,
+   "lng": -0.11679,
+   "aliases": [
+    "Royal Festival Hall"
+   ],
+   "wd": "Q647390"
+  },
+  {
+   "name": "Petrie Museum of Egyptian Archaeology",
+   "cat": "관광",
+   "area": "캠던구",
+   "lat": 51.5236,
+   "lng": -0.13306,
+   "wd": "Q2002512"
+  },
+  {
+   "name": "켄우드 하우스",
+   "cat": "관광",
+   "area": "캠던구",
+   "lat": 51.57139,
+   "lng": -0.1675,
+   "aliases": [
+    "Kenwood House"
+   ],
+   "wd": "Q764804"
+  },
+  {
+   "name": "Mansion House",
+   "cat": "관광",
+   "area": "시티오브런던",
+   "lat": 51.51325,
+   "lng": -0.08936,
+   "wd": "Q1786933"
+  },
+  {
+   "name": "Sir John Soane's Museum",
+   "cat": "관광",
+   "area": "캠던타운",
+   "lat": 51.5171,
+   "lng": -0.11691,
+   "wd": "Q2060860"
+  },
+  {
+   "name": "사치 갤러리",
+   "cat": "관광",
+   "area": "켄징턴 첼시 구",
+   "lat": 51.4906,
+   "lng": -0.1589,
+   "aliases": [
+    "Saatchi Gallery"
+   ],
+   "wd": "Q1311497"
+  },
+  {
+   "name": "대영 왕립아시아학회",
+   "cat": "관광",
+   "area": "캠던구",
+   "lat": 51.52653,
+   "lng": -0.13533,
+   "aliases": [
+    "Royal Asiatic Society of Great Britain and Ireland"
+   ],
+   "wd": "Q1417172"
+  },
+  {
+   "name": "버러 마켓",
+   "cat": "관광",
+   "area": "서더크구",
+   "lat": 51.50556,
+   "lng": -0.09083,
+   "aliases": [
+    "Borough Market"
+   ],
+   "wd": "Q894072"
+  },
+  {
+   "name": "Dulwich Picture Gallery",
+   "cat": "관광",
+   "area": "덜리치",
+   "lat": 51.44611,
+   "lng": -0.08639,
+   "wd": "Q1241163"
+  },
+  {
+   "name": "런던 교통 박물관",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.51194,
+   "lng": -0.12167,
+   "aliases": [
+    "London Transport Museum"
+   ],
+   "wd": "Q1541098"
+  },
+  {
+   "name": "Victoria Tower",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.49834,
+   "lng": -0.12549,
+   "wd": "Q1858077"
+  },
+  {
+   "name": "London Coliseum",
+   "cat": "관광",
+   "area": "시티오브웨스트민스터",
+   "lat": 51.5097,
+   "lng": -0.12639,
+   "wd": "Q1868965"
+  },
+  {
+   "name": "Chelsea Physic Garden",
+   "cat": "관광",
+   "area": "켄징턴 첼시 구",
+   "lat": 51.485,
+   "lng": -0.16278,
+   "wd": "Q1069148"
+  },
+  {
+   "name": "러셀 스퀘어",
+   "cat": "관광",
+   "area": "캠던구",
+   "lat": 51.52213,
+   "lng": -0.12637,
+   "aliases": [
+    "Russell Square"
+   ],
+   "wd": "Q1346906"
+  },
+  {
+   "name": "해머스미스 아폴로",
+   "cat": "관광",
+   "area": "해머스미스 풀럼구",
+   "lat": 51.4907,
+   "lng": -0.22446,
+   "aliases": [
+    "Hammersmith Apollo"
+   ],
+   "wd": "Q1337772"
+  },
+  {
+   "name": "Kew Palace",
+   "cat": "관광",
+   "area": "그레이터런던",
+   "lat": 51.4838,
+   "lng": -0.29506,
+   "wd": "Q1050082"
+  },
+  {
+   "name": "레든홀 마켓",
+   "cat": "쇼핑",
+   "area": "시티오브런던",
+   "lat": 51.5127,
+   "lng": -0.0835,
+   "aliases": [
+    "Leadenhall Market"
+   ],
+   "wd": "Q961148"
+  },
+  {
+   "name": "College of Arms",
+   "cat": "관광",
+   "area": "시티오브런던",
+   "lat": 51.51225,
+   "lng": -0.09872,
+   "wd": "Q1109101",
+   "aliases": [
+    "문장원"
+   ]
+  }
+ ]
+}

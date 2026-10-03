@@ -1,0 +1,117 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "웅천친수공원",
+   "cat": "관광",
+   "area": "전라남도",
+   "lat": 34.74721,
+   "lng": 127.66777,
+   "aliases": [
+    "Ungcheon Beach Park"
+   ],
+   "wd": "Q123039046"
+  },
+  {
+   "name": "여수소방서",
+   "cat": "관광",
+   "area": "여수시",
+   "lat": 34.75994,
+   "lng": 127.66512,
+   "aliases": [
+    "Yeosu Fire Station"
+   ],
+   "wd": "Q11677357"
+  },
+  {
+   "name": "거북선대교",
+   "cat": "관광",
+   "area": "여수시",
+   "lat": 34.7348,
+   "lng": 127.74884,
+   "aliases": [
+    "Geobukseon bridge"
+   ],
+   "wd": "Q17964690"
+  },
+  {
+   "name": "돌산대교",
+   "cat": "관광",
+   "area": "여수시",
+   "lat": 34.73087,
+   "lng": 127.73457,
+   "aliases": [
+    "Dolsan Bridge"
+   ],
+   "wd": "Q22973659"
+  },
+  {
+   "name": "이순신공원",
+   "cat": "관광",
+   "area": "",
+   "lat": 34.74439,
+   "lng": 127.67983,
+   "aliases": [
+    "Yi Sun-sin Park"
+   ],
+   "wd": "Q123018362"
+  },
+  {
+   "name": "흥국사 (여수시)",
+   "cat": "관광",
+   "area": "전라남도",
+   "lat": 34.82131,
+   "lng": 127.69517,
+   "aliases": [
+    "Heung-guksa temple at Yeosu, Korea"
+   ],
+   "wd": "Q12626175"
+  },
+  {
+   "name": "거북선공원",
+   "cat": "관광",
+   "area": "전라남도",
+   "lat": 34.76137,
+   "lng": 127.66695,
+   "aliases": [
+    "Geobukseon Park"
+   ],
+   "wd": "Q123038995"
+  },
+  {
+   "name": "안산근린공원",
+   "cat": "관광",
+   "area": "전라남도",
+   "lat": 34.75939,
+   "lng": 127.65855,
+   "aliases": [
+    "Ansan Neighborhood Park",
+    "안산공원"
+   ],
+   "wd": "Q123039008"
+  },
+  {
+   "name": "여수우체국",
+   "cat": "관광",
+   "area": "여수시",
+   "lat": 34.7628,
+   "lng": 127.66506,
+   "aliases": [
+    "Yeosu Post Office"
+   ],
+   "wd": "Q12606899"
+  },
+  {
+   "name": "여수 고락산성",
+   "cat": "관광",
+   "area": "",
+   "lat": 34.7625,
+   "lng": 127.69972,
+   "aliases": [
+    "Yeosu Goraksanseong Fortress"
+   ],
+   "wd": "Q18052746"
+  }
+ ]
+}

@@ -1,0 +1,711 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "테이블 마운틴 국립공원",
+   "cat": "관광",
+   "area": "웨스턴케이프주",
+   "lat": -33.9667,
+   "lng": 18.425,
+   "aliases": [
+    "Table Mountain National Park"
+   ],
+   "wd": "Q1818952"
+  },
+  {
+   "name": "Royal Observatory, Cape of Good Hope",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.93436,
+   "lng": 18.47739,
+   "wd": "Q15273525"
+  },
+  {
+   "name": "커스텐보쉬 식물원",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.9875,
+   "lng": 18.4325,
+   "aliases": [
+    "Kirstenbosch National Botanical Garden"
+   ],
+   "wd": "Q289277"
+  },
+  {
+   "name": "Iziko South African Museum",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.92864,
+   "lng": 18.41522,
+   "wd": "Q6102031"
+  },
+  {
+   "name": "Two Oceans Aquarium",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.90806,
+   "lng": 18.41767,
+   "wd": "Q1783786"
+  },
+  {
+   "name": "Zeitz Museum of Contemporary Art Africa",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.90833,
+   "lng": 18.42278,
+   "wd": "Q28003638"
+  },
+  {
+   "name": "South African National Gallery",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.92898,
+   "lng": 18.41717,
+   "wd": "Q1419469"
+  },
+  {
+   "name": "Rhodes Memorial",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.95236,
+   "lng": 18.45908,
+   "wd": "Q3429602"
+  },
+  {
+   "name": "Auwal Mosque",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.92228,
+   "lng": 18.41492,
+   "wd": "Q4026797"
+  },
+  {
+   "name": "Palm Tree Mosque",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.92477,
+   "lng": 18.41679,
+   "wd": "Q7128085"
+  },
+  {
+   "name": "Houses of Parliament",
+   "cat": "관광",
+   "area": "케이프타운",
+   "lat": -33.92611,
+   "lng": 18.41917,
+   "wd": "Q18125735"
+  },
+  {
+   "name": "Artscape Theatre Centre",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.92,
+   "lng": 18.4305,
+   "wd": "Q557606"
+  },
+  {
+   "name": "Green Point Lighthouse",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.90141,
+   "lng": 18.39994,
+   "wd": "Q3642248"
+  },
+  {
+   "name": "Groote Schuur",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.96378,
+   "lng": 18.464,
+   "wd": "Q3643657"
+  },
+  {
+   "name": "Nurul Islam Mosque",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.92194,
+   "lng": 18.41556,
+   "wd": "Q7070309"
+  },
+  {
+   "name": "Jagger Library",
+   "cat": "관광",
+   "area": "케이프타운",
+   "lat": -33.95806,
+   "lng": 18.46083,
+   "wd": "Q106545856"
+  },
+  {
+   "name": "SS Oakburn and Bos 400",
+   "cat": "관광",
+   "area": "Table Mountain National Park Marine Protected Area",
+   "lat": -34.0369,
+   "lng": 18.30884,
+   "wd": "Q2877353"
+  },
+  {
+   "name": "Company's Garden",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.92778,
+   "lng": 18.41694,
+   "wd": "Q590259"
+  },
+  {
+   "name": "St. Mary's Cathedral",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.92826,
+   "lng": 18.41936,
+   "wd": "Q21515150"
+  },
+  {
+   "name": "Statue of Jan Hendrik Hofmeyr",
+   "cat": "관광",
+   "area": "케이프타운",
+   "lat": -33.92514,
+   "lng": 18.42139,
+   "wd": "Q20981990"
+  },
+  {
+   "name": "Milnerton Lighthouse",
+   "cat": "관광",
+   "area": "Milnerton",
+   "lat": -33.88152,
+   "lng": 18.48848,
+   "wd": "Q6860227"
+  },
+  {
+   "name": "SS Maori",
+   "cat": "관광",
+   "area": "Table Mountain National Park Marine Protected Area",
+   "lat": -34.03437,
+   "lng": 18.31322,
+   "wd": "Q7394006"
+  },
+  {
+   "name": "District Six Museum",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.9277,
+   "lng": 18.4237,
+   "wd": "Q2616757"
+  },
+  {
+   "name": "Mutual Building",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.92429,
+   "lng": 18.42229,
+   "wd": "Q3331005"
+  },
+  {
+   "name": "Robben Island Lighthouse",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.8145,
+   "lng": 18.37479,
+   "wd": "Q3643705"
+  },
+  {
+   "name": "메트라이프 센터",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.91639,
+   "lng": 18.42611,
+   "aliases": [
+    "Metlife Centre"
+   ],
+   "wd": "Q6824178"
+  },
+  {
+   "name": "Naspers Centre",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.91803,
+   "lng": 18.42883,
+   "wd": "Q6967251"
+  },
+  {
+   "name": "Slave Lodge",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.92506,
+   "lng": 18.42039,
+   "wd": "Q20981944"
+  },
+  {
+   "name": "HMS Sceptre",
+   "cat": "관광",
+   "area": "",
+   "lat": -33.92,
+   "lng": 18.45,
+   "wd": "Q4040231"
+  },
+  {
+   "name": "Greenmarket Square",
+   "cat": "관광",
+   "area": "웨스턴케이프주",
+   "lat": -33.9228,
+   "lng": 18.42,
+   "wd": "Q5604316"
+  },
+  {
+   "name": "Baxter Theatre Centre",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.9572,
+   "lng": 18.4706,
+   "wd": "Q557245"
+  },
+  {
+   "name": "De Waal Park",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.93666,
+   "lng": 18.41248,
+   "wd": "Q5244833"
+  },
+  {
+   "name": "Rust en Vreugd",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.93032,
+   "lng": 18.42058,
+   "wd": "Q5712574"
+  },
+  {
+   "name": "Statue of Maria van Riebeeck",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.91935,
+   "lng": 18.42594,
+   "wd": "Q13035403"
+  },
+  {
+   "name": "statue of Cecil Rhodes",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.9325,
+   "lng": 18.41722,
+   "wd": "Q17006916"
+  },
+  {
+   "name": "Irma Stern Museum",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.95276,
+   "lng": 18.46942,
+   "wd": "Q113331159"
+  },
+  {
+   "name": "Statue of Jan van Riebeeck",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.91944,
+   "lng": 18.42598,
+   "wd": "Q30755202"
+  },
+  {
+   "name": "Rondebosch Fountain",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.96144,
+   "lng": 18.47008,
+   "wd": "Q60764452"
+  },
+  {
+   "name": "Nobel Square",
+   "cat": "관광",
+   "area": "",
+   "lat": -33.90658,
+   "lng": 18.41972,
+   "wd": "Q1994692"
+  },
+  {
+   "name": "Ratanga Junction",
+   "cat": "관광",
+   "area": "",
+   "lat": -33.89854,
+   "lng": 18.50621,
+   "wd": "Q30640902"
+  },
+  {
+   "name": "Statue of Sir George Grey",
+   "cat": "관광",
+   "area": "케이프타운",
+   "lat": -33.9256,
+   "lng": 18.41853,
+   "wd": "Q19623279"
+  },
+  {
+   "name": "Arderne Gardens",
+   "cat": "관광",
+   "area": "케이프타운",
+   "lat": -33.98728,
+   "lng": 18.46486,
+   "wd": "Q20981364"
+  },
+  {
+   "name": "ABSA Centre Cape Town",
+   "cat": "관광",
+   "area": "케이프타운",
+   "lat": -33.92039,
+   "lng": 18.42431,
+   "wd": "Q96912117"
+  },
+  {
+   "name": "Central Methodist Church, Cape Town",
+   "cat": "관광",
+   "area": "케이프타운",
+   "lat": -33.9228,
+   "lng": 18.4195,
+   "wd": "Q124397537"
+  },
+  {
+   "name": "Glen Beach",
+   "cat": "관광",
+   "area": "웨스턴케이프주",
+   "lat": -33.9469,
+   "lng": 18.3781,
+   "wd": "Q5567593"
+  },
+  {
+   "name": "Sandy Bay",
+   "cat": "관광",
+   "area": "웨스턴케이프주",
+   "lat": -34.0233,
+   "lng": 18.3308,
+   "wd": "Q7417149"
+  },
+  {
+   "name": "Canal Walk",
+   "cat": "쇼핑",
+   "area": "Century City",
+   "lat": -33.89306,
+   "lng": 18.51111,
+   "wd": "Q4816007"
+  },
+  {
+   "name": "Koopmans-de Wet House",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.92094,
+   "lng": 18.42129,
+   "wd": "Q6430729"
+  },
+  {
+   "name": "Labia Theatre",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.93,
+   "lng": 18.41222,
+   "wd": "Q6467028"
+  },
+  {
+   "name": "Bertram House",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.93056,
+   "lng": 18.41361,
+   "wd": "Q13034337"
+  },
+  {
+   "name": "Groote Kerk",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.92475,
+   "lng": 18.4209,
+   "wd": "Q13035555"
+  },
+  {
+   "name": "MTN Sciencentre",
+   "cat": "관광",
+   "area": "Observatory",
+   "lat": -33.93848,
+   "lng": 18.46386,
+   "wd": "Q15243271"
+  },
+  {
+   "name": "South African Sendinggestig Museum",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.92133,
+   "lng": 18.42051,
+   "wd": "Q18083021"
+  },
+  {
+   "name": "Iziko Museums of South Africa",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.9289,
+   "lng": 18.415,
+   "wd": "Q19798563"
+  },
+  {
+   "name": "Church Square",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.92506,
+   "lng": 18.42147,
+   "wd": "Q20614346"
+  },
+  {
+   "name": "Atterbury House",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.92023,
+   "lng": 18.42292,
+   "wd": "Q28449992"
+  },
+  {
+   "name": "Queen Victoria Mosque",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.92282,
+   "lng": 18.41215,
+   "wd": "Q48727508"
+  },
+  {
+   "name": "Nelson Mandela",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.92522,
+   "lng": 18.42394,
+   "wd": "Q55619041"
+  },
+  {
+   "name": "World of Birds Wildlife Sanctuary and Monkey Park",
+   "cat": "관광",
+   "area": "",
+   "lat": -34.0175,
+   "lng": 18.3625,
+   "wd": "Q8036586"
+  },
+  {
+   "name": "Foreshore Freeway Bridge",
+   "cat": "관광",
+   "area": "",
+   "lat": -33.91477,
+   "lng": 18.42181,
+   "wd": "Q24233841"
+  },
+  {
+   "name": "Statue of Edward VII",
+   "cat": "관광",
+   "area": "케이프타운",
+   "lat": -33.92488,
+   "lng": 18.42434,
+   "wd": "Q19623378"
+  },
+  {
+   "name": "Egyptian Building",
+   "cat": "관광",
+   "area": "케이프타운",
+   "lat": -33.93034,
+   "lng": 18.41393,
+   "wd": "Q25615107"
+  },
+  {
+   "name": "Commercial Union Building",
+   "cat": "관광",
+   "area": "케이프타운",
+   "lat": -33.92286,
+   "lng": 18.42059,
+   "wd": "Q134561967"
+  },
+  {
+   "name": "Chavonnes Battery",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.90722,
+   "lng": 18.42139,
+   "wd": "Q5088529"
+  },
+  {
+   "name": "Maynardville Open-Air Theatre",
+   "cat": "관광",
+   "area": "Wynberg",
+   "lat": -34.00676,
+   "lng": 18.4645,
+   "wd": "Q6797448"
+  },
+  {
+   "name": "African Theatre (Cape Town)",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.92111,
+   "lng": 18.41778,
+   "wd": "Q13034196"
+  },
+  {
+   "name": "Grand Parade",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.92472,
+   "lng": 18.42472,
+   "wd": "Q15222018"
+  },
+  {
+   "name": "Cape Town Holocaust Centre",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.9303,
+   "lng": 18.41663,
+   "wd": "Q17514353"
+  },
+  {
+   "name": "Harold Cressy High School",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.93133,
+   "lng": 18.42486,
+   "wd": "Q18125461"
+  },
+  {
+   "name": "Theatre on the Bay",
+   "cat": "관광",
+   "area": "Camps Bay",
+   "lat": -33.9541,
+   "lng": 18.3767,
+   "wd": "Q19623720"
+  },
+  {
+   "name": "Greek Orthodox Cathedral of St George",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.9324,
+   "lng": 18.44959,
+   "wd": "Q112228484"
+  },
+  {
+   "name": "Statue of Bartolomeu Dias",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.91752,
+   "lng": 18.42799,
+   "wd": "Q114773673"
+  },
+  {
+   "name": "Old Standard Bank Building",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.92339,
+   "lng": 18.42219,
+   "wd": "Q121435586"
+  },
+  {
+   "name": "Statue of Queen Victoria",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.92539,
+   "lng": 18.42016,
+   "wd": "Q20614583"
+  },
+  {
+   "name": "Riebeeck Square",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.92122,
+   "lng": 18.41779,
+   "wd": "Q20618380"
+  },
+  {
+   "name": "Lutheran Church in Strand Street",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.91894,
+   "lng": 18.41956,
+   "wd": "Q55621473"
+  },
+  {
+   "name": "Centre for the Book",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.92717,
+   "lng": 18.41584,
+   "wd": "Q55822962"
+  },
+  {
+   "name": "South African Jewish Museum",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.92986,
+   "lng": 18.41698,
+   "wd": "Q55978914"
+  },
+  {
+   "name": "Stalplein",
+   "cat": "관광",
+   "area": "케이프타운시",
+   "lat": -33.927,
+   "lng": 18.41778,
+   "wd": "Q61356690"
+  },
+  {
+   "name": "Gallery Mau Mau",
+   "cat": "관광",
+   "area": "",
+   "lat": -33.92528,
+   "lng": 18.41583,
+   "wd": "Q5518993"
+  },
+  {
+   "name": "District Six Homecoming Centre",
+   "cat": "관광",
+   "area": "",
+   "lat": -33.92715,
+   "lng": 18.42463,
+   "wd": "Q13034757"
+  },
+  {
+   "name": "Hawthorndon House",
+   "cat": "관광",
+   "area": "",
+   "lat": -33.9979,
+   "lng": 18.4577,
+   "wd": "Q20613636"
+  },
+  {
+   "name": "Martin Melck House",
+   "cat": "관광",
+   "area": "",
+   "lat": -33.91917,
+   "lng": 18.41972,
+   "wd": "Q20615074"
+  },
+  {
+   "name": "Parow Park",
+   "cat": "관광",
+   "area": "",
+   "lat": -33.89511,
+   "lng": 18.57887,
+   "wd": "Q55886596"
+  },
+  {
+   "name": "Mandela Rhodes Building",
+   "cat": "관광",
+   "area": "",
+   "lat": -33.92419,
+   "lng": 18.41934,
+   "wd": "Q105627686"
+  },
+  {
+   "name": "C. H. Pearne Building",
+   "cat": "관광",
+   "area": "",
+   "lat": -33.92418,
+   "lng": 18.4212,
+   "wd": "Q113453861"
+  },
+  {
+   "name": "Lichtenstein Castle",
+   "cat": "관광",
+   "area": "",
+   "lat": -34.04217,
+   "lng": 18.34186,
+   "wd": "Q123413959"
+  }
+ ]
+}

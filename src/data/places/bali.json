@@ -1,0 +1,344 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "타나롯",
+   "cat": "관광",
+   "area": "Beraban",
+   "lat": -8.62114,
+   "lng": 115.08675,
+   "aliases": [
+    "Tanah Lot"
+   ],
+   "wd": "Q515253"
+  },
+  {
+   "name": "Sanur Beach",
+   "cat": "관광",
+   "area": "발리주",
+   "lat": -8.68333,
+   "lng": 115.26667,
+   "wd": "Q1789991"
+  },
+  {
+   "name": "Goa Gajah",
+   "cat": "관광",
+   "area": "기안일",
+   "lat": -8.52339,
+   "lng": 115.28633,
+   "wd": "Q2037360"
+  },
+  {
+   "name": "Tirta Empul Temple",
+   "cat": "관광",
+   "area": "기안일",
+   "lat": -8.41639,
+   "lng": 115.315,
+   "wd": "Q7809287"
+  },
+  {
+   "name": "타만 아윤 사원",
+   "cat": "관광",
+   "area": "Mengwi",
+   "lat": -8.54161,
+   "lng": 115.1726,
+   "aliases": [
+    "Pura Taman Ayun"
+   ],
+   "wd": "Q1028566"
+  },
+  {
+   "name": "Garuda Wisnu Kencana",
+   "cat": "관광",
+   "area": "바둥군",
+   "lat": -8.80981,
+   "lng": 115.16805,
+   "wd": "Q1132052"
+  },
+  {
+   "name": "Big Vishnu",
+   "cat": "관광",
+   "area": "Ungasan",
+   "lat": -8.8141,
+   "lng": 115.16661,
+   "wd": "Q12498977"
+  },
+  {
+   "name": "우붓 몽키 포레스트",
+   "cat": "관광",
+   "area": "기안일",
+   "lat": -8.51882,
+   "lng": 115.25838,
+   "aliases": [
+    "Ubud Monkey Forest"
+   ],
+   "wd": "Q3025956"
+  },
+  {
+   "name": "발리 박물관",
+   "cat": "관광",
+   "area": "덴파사르",
+   "lat": -8.6575,
+   "lng": 115.21853,
+   "aliases": [
+    "Bali Museum"
+   ],
+   "wd": "Q1992789"
+  },
+  {
+   "name": "Gunung Kawi",
+   "cat": "관광",
+   "area": "Tampaksiring",
+   "lat": -8.42336,
+   "lng": 115.31233,
+   "wd": "Q2605109"
+  },
+  {
+   "name": "Pura Kehen",
+   "cat": "관광",
+   "area": "Bangli",
+   "lat": -8.44183,
+   "lng": 115.3599,
+   "wd": "Q43389200"
+  },
+  {
+   "name": "우붓 왕궁",
+   "cat": "관광",
+   "area": "우붓",
+   "lat": -8.5068,
+   "lng": 115.2626,
+   "aliases": [
+    "Ubud Palace"
+   ],
+   "wd": "Q19646466"
+  },
+  {
+   "name": "Bajra Sandhi Monument",
+   "cat": "관광",
+   "area": "덴파사르",
+   "lat": -8.67167,
+   "lng": 115.23389,
+   "wd": "Q4848938"
+  },
+  {
+   "name": "발리 만다라 고속도로",
+   "cat": "관광",
+   "area": "바둥군",
+   "lat": -8.76649,
+   "lng": 115.19723,
+   "aliases": [
+    "Bali Mandara Toll Road"
+   ],
+   "wd": "Q15071570"
+  },
+  {
+   "name": "Pura Maospahit",
+   "cat": "관광",
+   "area": "덴파사르",
+   "lat": -8.65379,
+   "lng": 115.21009,
+   "wd": "Q48730124"
+  },
+  {
+   "name": "Holy Spirit Cathedral",
+   "cat": "관광",
+   "area": "Sumerta Kelod",
+   "lat": -8.67402,
+   "lng": 115.22985,
+   "wd": "Q19745990"
+  },
+  {
+   "name": "Pura Dalem Agung Padangtegal",
+   "cat": "관광",
+   "area": "기안일",
+   "lat": -8.51882,
+   "lng": 115.25838,
+   "wd": "Q7260781"
+  },
+  {
+   "name": "Puri Lukisan Museum",
+   "cat": "관광",
+   "area": "기안일",
+   "lat": -8.5051,
+   "lng": 115.26028,
+   "wd": "Q7261229"
+  },
+  {
+   "name": "Pura Penataran Sasih",
+   "cat": "관광",
+   "area": "기안일",
+   "lat": -8.51377,
+   "lng": 115.29347,
+   "wd": "Q19595604"
+  },
+  {
+   "name": "Agung Rai Museum of Art",
+   "cat": "관광",
+   "area": "기안일",
+   "lat": -8.51835,
+   "lng": 115.26208,
+   "wd": "Q398622"
+  },
+  {
+   "name": "Neka Art Museum",
+   "cat": "관광",
+   "area": "기안일",
+   "lat": -8.48899,
+   "lng": 115.25364,
+   "wd": "Q924394"
+  },
+  {
+   "name": "Le Mayeur Museum",
+   "cat": "관광",
+   "area": "덴파사르",
+   "lat": -8.67501,
+   "lng": 115.26373,
+   "wd": "Q6507227"
+  },
+  {
+   "name": "Pura Dalem Sakenan",
+   "cat": "관광",
+   "area": "세랑안섬",
+   "lat": -8.72513,
+   "lng": 115.2294,
+   "wd": "Q19752612"
+  },
+  {
+   "name": "Bali Bird Park",
+   "cat": "관광",
+   "area": "",
+   "lat": -8.6,
+   "lng": 115.251,
+   "wd": "Q16744229"
+  },
+  {
+   "name": "Istana Tampaksiring",
+   "cat": "관광",
+   "area": "",
+   "lat": -8.4156,
+   "lng": 115.3124,
+   "wd": "Q19752904"
+  },
+  {
+   "name": "Museum Pasifika",
+   "cat": "관광",
+   "area": "South Kuta",
+   "lat": -8.8,
+   "lng": 115.2306,
+   "wd": "Q6940675"
+  },
+  {
+   "name": "Pantai Kuta",
+   "cat": "관광",
+   "area": "쿠타",
+   "lat": -8.72083,
+   "lng": 115.16917,
+   "wd": "Q7475907"
+  },
+  {
+   "name": "Blanco Renaissance Museum",
+   "cat": "관광",
+   "area": "우붓",
+   "lat": -8.5058,
+   "lng": 115.2543,
+   "wd": "Q4924960"
+  },
+  {
+   "name": "Pura Taman Saraswati",
+   "cat": "관광",
+   "area": "Ubud",
+   "lat": -8.50595,
+   "lng": 115.26149,
+   "wd": "Q48841813"
+  },
+  {
+   "name": "Museum Rudana",
+   "cat": "관광",
+   "area": "기안일",
+   "lat": -8.52964,
+   "lng": 115.27128,
+   "wd": "Q6940689"
+  },
+  {
+   "name": "Pura Kebo Edan",
+   "cat": "관광",
+   "area": "기안일",
+   "lat": -8.51779,
+   "lng": 115.29259,
+   "wd": "Q56391208"
+  },
+  {
+   "name": "Taman Safari Bali (Bali Safari)",
+   "cat": "관광",
+   "area": "기안일",
+   "lat": -8.581,
+   "lng": 115.3441,
+   "wd": "Q4850846"
+  },
+  {
+   "name": "Tegenungan Waterfall",
+   "cat": "관광",
+   "area": "기안일",
+   "lat": -8.57523,
+   "lng": 115.2907,
+   "wd": "Q25462922"
+  },
+  {
+   "name": "Purbakala Archaeological Museum",
+   "cat": "관광",
+   "area": "기안일",
+   "lat": -8.51943,
+   "lng": 115.29312,
+   "wd": "Q7260864"
+  },
+  {
+   "name": "Pura Petitenget",
+   "cat": "관광",
+   "area": "바둥군",
+   "lat": -8.68184,
+   "lng": 115.15243,
+   "wd": "Q56247112"
+  },
+  {
+   "name": "Pantai Seminyak",
+   "cat": "관광",
+   "area": "발리주",
+   "lat": -8.6925,
+   "lng": 115.15861,
+   "wd": "Q12502896"
+  },
+  {
+   "name": "Satya Dharma Temple",
+   "cat": "관광",
+   "area": "Benoa",
+   "lat": -8.72098,
+   "lng": 115.21424,
+   "wd": "Q21175556"
+  },
+  {
+   "name": "Sangeh",
+   "cat": "관광",
+   "area": "바둥군",
+   "lat": -8.4817,
+   "lng": 115.2068,
+   "wd": "Q13096785"
+  },
+  {
+   "name": "Mengening Temple",
+   "cat": "관광",
+   "area": "기안일",
+   "lat": -8.42002,
+   "lng": 115.31203,
+   "wd": "Q66582204"
+  },
+  {
+   "name": "Taman Pujaan Bangsa Margarana",
+   "cat": "관광",
+   "area": "발리주",
+   "lat": -8.46578,
+   "lng": 115.16345,
+   "wd": "Q31174050"
+  }
+ ]
+}

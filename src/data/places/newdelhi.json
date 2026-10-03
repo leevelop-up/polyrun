@@ -1,0 +1,848 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "델리 성",
+   "cat": "관광",
+   "area": "Chandni Chowk tehsil",
+   "lat": 28.65583,
+   "lng": 77.24028,
+   "aliases": [
+    "Red Fort",
+    "붉은 성",
+    "붉은 요새"
+   ],
+   "wd": "Q45957"
+  },
+  {
+   "name": "델리의 후마윤 묘지",
+   "cat": "관광",
+   "area": "Jangpura tehsil",
+   "lat": 28.59326,
+   "lng": 77.2506,
+   "aliases": [
+    "Humayun's Tomb",
+    "후마윤 묘지"
+   ],
+   "wd": "Q189648"
+  },
+  {
+   "name": "자마 마스지드",
+   "cat": "관광",
+   "area": "Chandni Chowk tehsil",
+   "lat": 28.65083,
+   "lng": 77.23306,
+   "aliases": [
+    "Jama Masjid, Delhi"
+   ],
+   "wd": "Q233678"
+  },
+  {
+   "name": "연꽃 사원",
+   "cat": "관광",
+   "area": "델리",
+   "lat": 28.55333,
+   "lng": 77.2586,
+   "aliases": [
+    "Lotus Temple"
+   ],
+   "wd": "Q940843"
+  },
+  {
+   "name": "인도문",
+   "cat": "관광",
+   "area": "New Delhi district",
+   "lat": 28.61286,
+   "lng": 77.22931,
+   "aliases": [
+    "India Gate"
+   ],
+   "wd": "Q245347"
+  },
+  {
+   "name": "델리의 철 기둥",
+   "cat": "관광",
+   "area": "South Delhi district",
+   "lat": 28.52466,
+   "lng": 77.18507,
+   "aliases": [
+    "iron pillar of Delhi"
+   ],
+   "wd": "Q543419"
+  },
+  {
+   "name": "Akshardham",
+   "cat": "관광",
+   "area": "East Delhi district",
+   "lat": 28.6125,
+   "lng": 77.2773,
+   "wd": "Q1849858"
+  },
+  {
+   "name": "Qutb complex",
+   "cat": "관광",
+   "area": "Mehrauli tehsil",
+   "lat": 28.52438,
+   "lng": 77.18543,
+   "wd": "Q1074330"
+  },
+  {
+   "name": "Tomb of Safdar Jang",
+   "cat": "관광",
+   "area": "New Delhi district",
+   "lat": 28.58929,
+   "lng": 77.21061,
+   "wd": "Q375624"
+  },
+  {
+   "name": "국립박물관",
+   "cat": "관광",
+   "area": "뉴델리",
+   "lat": 28.61181,
+   "lng": 77.21926,
+   "aliases": [
+    "National Museum"
+   ],
+   "wd": "Q1356138"
+  },
+  {
+   "name": "올드델리",
+   "cat": "관광",
+   "area": "Old Delhi district",
+   "lat": 28.66,
+   "lng": 77.23,
+   "aliases": [
+    "Old Delhi"
+   ],
+   "wd": "Q3242297"
+  },
+  {
+   "name": "라지가트",
+   "cat": "관광",
+   "area": "Jangpura tehsil",
+   "lat": 28.64055,
+   "lng": 77.24943,
+   "aliases": [
+    "Raj Ghat and associated memorials"
+   ],
+   "wd": "Q1210083"
+  },
+  {
+   "name": "Moti Masjid, Delhi",
+   "cat": "관광",
+   "area": "델리",
+   "lat": 28.65682,
+   "lng": 77.24319,
+   "wd": "Q2991448"
+  },
+  {
+   "name": "Gurudwara Bangla Sahib",
+   "cat": "관광",
+   "area": "뉴델리",
+   "lat": 28.6267,
+   "lng": 77.2089,
+   "wd": "Q2375435"
+  },
+  {
+   "name": "Laxminarayan Temple",
+   "cat": "관광",
+   "area": "뉴델리",
+   "lat": 28.63278,
+   "lng": 77.19889,
+   "wd": "Q2426584"
+  },
+  {
+   "name": "Purana Qila",
+   "cat": "관광",
+   "area": "Jangpura tehsil",
+   "lat": 28.60944,
+   "lng": 77.24417,
+   "wd": "Q1151529"
+  },
+  {
+   "name": "National Gandhi Museum",
+   "cat": "관광",
+   "area": "뉴델리",
+   "lat": 28.63891,
+   "lng": 77.24591,
+   "wd": "Q2991098"
+  },
+  {
+   "name": "Tughlaqabad Fort",
+   "cat": "관광",
+   "area": "Badarpur tehsil",
+   "lat": 28.51461,
+   "lng": 77.25997,
+   "wd": "Q2511605"
+  },
+  {
+   "name": "National Gallery of Modern Art",
+   "cat": "관광",
+   "area": "뉴델리",
+   "lat": 28.61018,
+   "lng": 77.2344,
+   "wd": "Q1338832"
+  },
+  {
+   "name": "Fatehpuri Masjid",
+   "cat": "관광",
+   "area": "델리",
+   "lat": 28.65667,
+   "lng": 77.2225,
+   "wd": "Q1110101"
+  },
+  {
+   "name": "Kashmiri Gate",
+   "cat": "관광",
+   "area": "Chandni Chowk tehsil",
+   "lat": 28.66639,
+   "lng": 77.22889,
+   "wd": "Q1196073"
+  },
+  {
+   "name": "Lodi Gardens",
+   "cat": "관광",
+   "area": "New Delhi district",
+   "lat": 28.59444,
+   "lng": 77.22,
+   "wd": "Q2985076"
+  },
+  {
+   "name": "Sacred Heart Cathedral, New Delhi",
+   "cat": "관광",
+   "area": "New Delhi district",
+   "lat": 28.6287,
+   "lng": 77.20665,
+   "wd": "Q1089554"
+  },
+  {
+   "name": "Bharat Mandapam",
+   "cat": "관광",
+   "area": "Jangpura tehsil",
+   "lat": 28.61681,
+   "lng": 77.24336,
+   "wd": "Q2723163"
+  },
+  {
+   "name": "인도 국립 철도박물관",
+   "cat": "관광",
+   "area": "New Delhi district",
+   "lat": 28.58483,
+   "lng": 77.18143,
+   "aliases": [
+    "National Rail Museum"
+   ],
+   "wd": "Q1138924"
+  },
+  {
+   "name": "Secretariat Building",
+   "cat": "관광",
+   "area": "New Delhi district",
+   "lat": 28.615,
+   "lng": 77.20583,
+   "wd": "Q15275798"
+  },
+  {
+   "name": "Teen Murti Bhavan",
+   "cat": "관광",
+   "area": "New Delhi district",
+   "lat": 28.6026,
+   "lng": 77.1988,
+   "wd": "Q3595320"
+  },
+  {
+   "name": "Akbarabadi Mosque",
+   "cat": "관광",
+   "area": "델리",
+   "lat": 28.6499,
+   "lng": 77.2379,
+   "wd": "Q4700472"
+  },
+  {
+   "name": "Gurdwara Sis Ganj Sahib",
+   "cat": "관광",
+   "area": "델리",
+   "lat": 28.6558,
+   "lng": 77.2325,
+   "wd": "Q5620491"
+  },
+  {
+   "name": "Lal Masjid, Delhi",
+   "cat": "관광",
+   "area": "델리",
+   "lat": 28.66519,
+   "lng": 77.22961,
+   "wd": "Q6480077"
+  },
+  {
+   "name": "St. James' Church, Delhi",
+   "cat": "관광",
+   "area": "델리",
+   "lat": 28.66564,
+   "lng": 77.23078,
+   "wd": "Q2985087"
+  },
+  {
+   "name": "Kalka Mandir",
+   "cat": "관광",
+   "area": "델리",
+   "lat": 28.54979,
+   "lng": 77.26071,
+   "wd": "Q6353337"
+  },
+  {
+   "name": "Sunehri Masjid",
+   "cat": "관광",
+   "area": "델리",
+   "lat": 28.656,
+   "lng": 77.2319,
+   "wd": "Q16900897"
+  },
+  {
+   "name": "Lahore Gate",
+   "cat": "관광",
+   "area": "Central Delhi district",
+   "lat": 28.65592,
+   "lng": 77.23846,
+   "wd": "Q16931856"
+  },
+  {
+   "name": "Tomb of Adham Khan",
+   "cat": "관광",
+   "area": "South Delhi district",
+   "lat": 28.52305,
+   "lng": 77.18196,
+   "wd": "Q4150017"
+  },
+  {
+   "name": "Tomb of Balban",
+   "cat": "관광",
+   "area": "South Delhi district",
+   "lat": 28.5194,
+   "lng": 77.1886,
+   "wd": "Q7818610"
+  },
+  {
+   "name": "7, Race Course Road",
+   "cat": "관광",
+   "area": "뉴델리",
+   "lat": 28.6,
+   "lng": 77.2,
+   "wd": "Q2030145"
+  },
+  {
+   "name": "Subz Burz",
+   "cat": "관광",
+   "area": "뉴델리",
+   "lat": 28.59309,
+   "lng": 77.24371,
+   "wd": "Q41650552"
+  },
+  {
+   "name": "National War Memorial",
+   "cat": "관광",
+   "area": "뉴델리",
+   "lat": 28.61277,
+   "lng": 77.23305,
+   "wd": "Q17747063"
+  },
+  {
+   "name": "Shahi Sunehri Masjid",
+   "cat": "관광",
+   "area": "North Delhi district",
+   "lat": 28.6505,
+   "lng": 77.2395,
+   "wd": "Q16900896"
+  },
+  {
+   "name": "Siri Fort",
+   "cat": "관광",
+   "area": "South Delhi district",
+   "lat": 28.5524,
+   "lng": 77.2235,
+   "wd": "Q12069185"
+  },
+  {
+   "name": "Hyderabad House",
+   "cat": "관광",
+   "area": "New Delhi district",
+   "lat": 28.61603,
+   "lng": 77.2278,
+   "wd": "Q5953898"
+  },
+  {
+   "name": "Lal Bangla",
+   "cat": "관광",
+   "area": "South East Delhi district",
+   "lat": 28.60028,
+   "lng": 77.23806,
+   "wd": "Q6480027"
+  },
+  {
+   "name": "인도 공군박물관",
+   "cat": "관광",
+   "area": "Palam",
+   "lat": 28.57389,
+   "lng": 77.11694,
+   "aliases": [
+    "Indian Air Force Museum Palam"
+   ],
+   "wd": "Q15228644"
+  },
+  {
+   "name": "시칸다르 로디 묘",
+   "cat": "관광",
+   "area": "New Delhi district",
+   "lat": 28.59626,
+   "lng": 77.22156,
+   "aliases": [
+    "Tomb of Sikandar Lodi"
+   ],
+   "wd": "Q21475086"
+  },
+  {
+   "name": "Tomb of Isa Khan",
+   "cat": "관광",
+   "area": "South East Delhi district",
+   "lat": 28.5922,
+   "lng": 77.2462,
+   "wd": "Q65041035"
+  },
+  {
+   "name": "Amar Jawan Jyoti",
+   "cat": "관광",
+   "area": "",
+   "lat": 28.61286,
+   "lng": 77.22931,
+   "wd": "Q28172084"
+  },
+  {
+   "name": "Ramlila Maidan",
+   "cat": "관광",
+   "area": "뉴델리",
+   "lat": 28.64189,
+   "lng": 77.2307,
+   "wd": "Q7289726"
+  },
+  {
+   "name": "Chhatarpur Temple",
+   "cat": "관광",
+   "area": "델리",
+   "lat": 28.49438,
+   "lng": 77.18415,
+   "wd": "Q12414975"
+  },
+  {
+   "name": "Salimgarh Fort",
+   "cat": "관광",
+   "area": "Central Delhi district",
+   "lat": 28.661,
+   "lng": 77.24,
+   "wd": "Q2336156"
+  },
+  {
+   "name": "Khirki Masjid",
+   "cat": "관광",
+   "area": "South Delhi district",
+   "lat": 28.53135,
+   "lng": 77.21971,
+   "wd": "Q6401780"
+  },
+  {
+   "name": "페로즈 샤 코틀라",
+   "cat": "관광",
+   "area": "Jangpura tehsil",
+   "lat": 28.63496,
+   "lng": 77.24269,
+   "aliases": [
+    "Feroz Shah Kotla"
+   ],
+   "wd": "Q1187568"
+  },
+  {
+   "name": "National Zoological Park Delhi",
+   "cat": "관광",
+   "area": "Jangpura tehsil",
+   "lat": 28.60444,
+   "lng": 77.2462,
+   "wd": "Q3364809"
+  },
+  {
+   "name": "Bara Gumbad",
+   "cat": "관광",
+   "area": "New Delhi district",
+   "lat": 28.59309,
+   "lng": 77.22034,
+   "wd": "Q11914956"
+  },
+  {
+   "name": "Nila Gumbad",
+   "cat": "관광",
+   "area": "South East Delhi district",
+   "lat": 28.59194,
+   "lng": 77.25306,
+   "wd": "Q12435951"
+  },
+  {
+   "name": "Sulabh International Museum of Toilets",
+   "cat": "관광",
+   "area": "뉴델리",
+   "lat": 28.5966,
+   "lng": 77.0808,
+   "wd": "Q18953525"
+  },
+  {
+   "name": "Roshanara Bagh",
+   "cat": "관광",
+   "area": "델리",
+   "lat": 28.67306,
+   "lng": 77.19778,
+   "wd": "Q7368825"
+  },
+  {
+   "name": "Diwan-i-Am",
+   "cat": "관광",
+   "area": "델리",
+   "lat": 28.6557,
+   "lng": 77.2423,
+   "wd": "Q16829863"
+  },
+  {
+   "name": "Khas Mahal",
+   "cat": "관광",
+   "area": "델리",
+   "lat": 28.6561,
+   "lng": 77.2436,
+   "wd": "Q16852143"
+  },
+  {
+   "name": "Qila Rai Pithora",
+   "cat": "관광",
+   "area": "South Delhi district",
+   "lat": 28.5276,
+   "lng": 77.20252,
+   "wd": "Q14512138"
+  },
+  {
+   "name": "National Charkha Museum",
+   "cat": "관광",
+   "area": "Connaught Place",
+   "lat": 28.63143,
+   "lng": 77.2174,
+   "wd": "Q64798321"
+  },
+  {
+   "name": "National Handicrafts and Handlooms Museum, New Delhi",
+   "cat": "관광",
+   "area": "South East Delhi district",
+   "lat": 28.61355,
+   "lng": 77.24232,
+   "wd": "Q3630755"
+  },
+  {
+   "name": "Shish Gumbad",
+   "cat": "관광",
+   "area": "New Delhi district",
+   "lat": 28.59375,
+   "lng": 77.22017,
+   "wd": "Q22077087"
+  },
+  {
+   "name": "Khair-ul-Manzil",
+   "cat": "관광",
+   "area": "New Delhi district",
+   "lat": 28.6075,
+   "lng": 77.23944,
+   "wd": "Q22680377"
+  },
+  {
+   "name": "Jagannath Temple",
+   "cat": "관광",
+   "area": "",
+   "lat": 28.55429,
+   "lng": 77.19966,
+   "wd": "Q1092289"
+  },
+  {
+   "name": "Maidens Hotel, Delhi",
+   "cat": "관광",
+   "area": "",
+   "lat": 28.56445,
+   "lng": 77.22619,
+   "wd": "Q6735451"
+  },
+  {
+   "name": "Hanuman Temple, Connaught Place",
+   "cat": "관광",
+   "area": "",
+   "lat": 28.63,
+   "lng": 77.215,
+   "wd": "Q12459599"
+  },
+  {
+   "name": "Mirza Ghalib Museum",
+   "cat": "관광",
+   "area": "",
+   "lat": 28.59146,
+   "lng": 77.24325,
+   "wd": "Q15961642"
+  },
+  {
+   "name": "Gurdwara Rakab Ganj Sahib",
+   "cat": "관광",
+   "area": "뉴델리",
+   "lat": 28.61819,
+   "lng": 77.20481,
+   "wd": "Q5619976"
+  },
+  {
+   "name": "Hijron Ka Khanqah",
+   "cat": "관광",
+   "area": "뉴델리",
+   "lat": 28.52194,
+   "lng": 77.17861,
+   "wd": "Q5760318"
+  },
+  {
+   "name": "Khan Market",
+   "cat": "관광",
+   "area": "델리",
+   "lat": 28.60028,
+   "lng": 77.22681,
+   "wd": "Q6400083"
+  },
+  {
+   "name": "National Science Centre",
+   "cat": "관광",
+   "area": "델리",
+   "lat": 28.61415,
+   "lng": 77.24477,
+   "wd": "Q6978272"
+  },
+  {
+   "name": "Jaipur House",
+   "cat": "관광",
+   "area": "델리",
+   "lat": 28.6101,
+   "lng": 77.2344,
+   "wd": "Q16849360"
+  },
+  {
+   "name": "Nizamuddin Markaz Masjeed",
+   "cat": "관광",
+   "area": "델리",
+   "lat": 28.59157,
+   "lng": 77.24336,
+   "wd": "Q16887347"
+  },
+  {
+   "name": "Naubat Khana",
+   "cat": "관광",
+   "area": "델리",
+   "lat": 28.6558,
+   "lng": 77.241,
+   "wd": "Q16895720"
+  },
+  {
+   "name": "Rang Mahal",
+   "cat": "관광",
+   "area": "델리",
+   "lat": 28.6557,
+   "lng": 77.2435,
+   "wd": "Q16899120"
+  },
+  {
+   "name": "Red Fort Archaeological Museum",
+   "cat": "관광",
+   "area": "델리",
+   "lat": 28.6545,
+   "lng": 77.2434,
+   "wd": "Q16899203"
+  },
+  {
+   "name": "Kiran Nadar Museum of Art",
+   "cat": "관광",
+   "area": "델리",
+   "lat": 28.52884,
+   "lng": 77.22008,
+   "wd": "Q55616048"
+  },
+  {
+   "name": "Masjid Mubarak Begum",
+   "cat": "관광",
+   "area": "델리",
+   "lat": 28.65,
+   "lng": 77.226,
+   "wd": "Q97585918"
+  },
+  {
+   "name": "Kalan Masjid",
+   "cat": "관광",
+   "area": "델리",
+   "lat": 28.64512,
+   "lng": 77.23093,
+   "wd": "Q123367092"
+  },
+  {
+   "name": "Sunehri Bagh Mosque",
+   "cat": "관광",
+   "area": "델리",
+   "lat": 28.61028,
+   "lng": 77.21194,
+   "wd": "Q124054045"
+  },
+  {
+   "name": "Qila-i-Kuhna Mosque",
+   "cat": "관광",
+   "area": "Central Delhi district",
+   "lat": 28.61,
+   "lng": 77.245,
+   "wd": "Q19895556"
+  },
+  {
+   "name": "Chor Minar",
+   "cat": "관광",
+   "area": "South Delhi district",
+   "lat": 28.54767,
+   "lng": 77.20596,
+   "wd": "Q5104929"
+  },
+  {
+   "name": "Tomb of Imam Zamin",
+   "cat": "관광",
+   "area": "South Delhi district",
+   "lat": 28.52417,
+   "lng": 77.18583,
+   "wd": "Q65065419"
+  },
+  {
+   "name": "Zeenat-ul-Masajid",
+   "cat": "관광",
+   "area": "Kotwali tehsil",
+   "lat": 28.64664,
+   "lng": 77.24492,
+   "wd": "Q97225700"
+  },
+  {
+   "name": "Sri Digambar Jain Lal Mandir",
+   "cat": "관광",
+   "area": "",
+   "lat": 28.6558,
+   "lng": 77.2363,
+   "wd": "Q3635137"
+  },
+  {
+   "name": "Khari Baoli",
+   "cat": "쇼핑",
+   "area": "",
+   "lat": 28.6579,
+   "lng": 77.2212,
+   "wd": "Q6400651"
+  },
+  {
+   "name": "Buddha Jayanti Park",
+   "cat": "관광",
+   "area": "뉴델리",
+   "lat": 28.61481,
+   "lng": 77.18173,
+   "wd": "Q4984155"
+  },
+  {
+   "name": "Ghalib ki Haveli",
+   "cat": "관광",
+   "area": "델리",
+   "lat": 28.65442,
+   "lng": 77.22569,
+   "wd": "Q15816551"
+  },
+  {
+   "name": "Zafar Mahal",
+   "cat": "관광",
+   "area": "South Delhi district",
+   "lat": 28.5158,
+   "lng": 77.1775,
+   "wd": "Q8064241"
+  },
+  {
+   "name": "Moth Ki Masjid",
+   "cat": "관광",
+   "area": "South Delhi district",
+   "lat": 28.5625,
+   "lng": 77.21778,
+   "wd": "Q12062083"
+  },
+  {
+   "name": "Ahinsa Sthal",
+   "cat": "관광",
+   "area": "Mehrauli",
+   "lat": 28.52028,
+   "lng": 77.19,
+   "wd": "Q25543168"
+  },
+  {
+   "name": "Chittaranjan Park Kali Mandir",
+   "cat": "관광",
+   "area": "South East Delhi district",
+   "lat": 28.53667,
+   "lng": 77.2475,
+   "wd": "Q15091480"
+  },
+  {
+   "name": "Baroda House",
+   "cat": "관광",
+   "area": "New Delhi district",
+   "lat": 28.6168,
+   "lng": 77.2305,
+   "wd": "Q16207035"
+  },
+  {
+   "name": "Afsarwala Tomb",
+   "cat": "관광",
+   "area": "South East Delhi district",
+   "lat": 28.59258,
+   "lng": 77.24792,
+   "wd": "Q41650707"
+  },
+  {
+   "name": "Sher Mandal",
+   "cat": "관광",
+   "area": "New Delhi district",
+   "lat": 28.60861,
+   "lng": 77.245,
+   "wd": "Q63929741"
+  },
+  {
+   "name": "Dholpur House",
+   "cat": "관광",
+   "area": "",
+   "lat": 28.6082,
+   "lng": 77.2267,
+   "wd": "Q5269721"
+  },
+  {
+   "name": "New Delhi Kali Bari",
+   "cat": "관광",
+   "area": "",
+   "lat": 28.63033,
+   "lng": 77.19724,
+   "wd": "Q7006850"
+  },
+  {
+   "name": "Uttara Swami Malai Temple",
+   "cat": "관광",
+   "area": "",
+   "lat": 28.5675,
+   "lng": 77.1665,
+   "wd": "Q7903382"
+  },
+  {
+   "name": "Yogmaya Neupane",
+   "cat": "관광",
+   "area": "",
+   "lat": 28.525,
+   "lng": 77.1825,
+   "wd": "Q8054419"
+  }
+ ]
+}

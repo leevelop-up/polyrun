@@ -1,0 +1,916 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "벨베데레궁",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.1934,
+   "lng": 16.38052,
+   "aliases": [
+    "Belvedere"
+   ],
+   "wd": "Q211818"
+  },
+  {
+   "name": "슈테판 대성당",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.20843,
+   "lng": 16.37326,
+   "aliases": [
+    "St. Stephen's Cathedral"
+   ],
+   "wd": "Q5943"
+  },
+  {
+   "name": "빈 국립 오페라 극장",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.20333,
+   "lng": 16.36917,
+   "aliases": [
+    "Vienna State Opera house",
+    "빈 국립 가극장",
+    "비엔나 국립 오페라 극장",
+    "빈 국립가극장"
+   ],
+   "wd": "Q209937"
+  },
+  {
+   "name": "호프부르크 왕궁",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.20639,
+   "lng": 16.36528,
+   "aliases": [
+    "Hofburg Palace"
+   ],
+   "wd": "Q46242"
+  },
+  {
+   "name": "빈 미술사 박물관",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.20388,
+   "lng": 16.3616,
+   "aliases": [
+    "Kunsthistorisches Museum"
+   ],
+   "wd": "Q95569"
+  },
+  {
+   "name": "알베르티나",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.20472,
+   "lng": 16.36833,
+   "aliases": [
+    "Albertina"
+   ],
+   "wd": "Q371908"
+  },
+  {
+   "name": "오스트리아 국립도서관",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.20614,
+   "lng": 16.36627,
+   "aliases": [
+    "Austrian National Library"
+   ],
+   "wd": "Q304037"
+  },
+  {
+   "name": "빈 자연사 박물관",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.20513,
+   "lng": 16.35993,
+   "aliases": [
+    "Natural History Museum, Vienna"
+   ],
+   "wd": "Q688704"
+  },
+  {
+   "name": "부르크 극장",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.21028,
+   "lng": 16.36139,
+   "aliases": [
+    "Burgtheater"
+   ],
+   "wd": "Q308720"
+  },
+  {
+   "name": "카를 성당",
+   "cat": "관광",
+   "area": "비덴",
+   "lat": 48.19828,
+   "lng": 16.37188,
+   "aliases": [
+    "Karlskirche"
+   ],
+   "wd": "Q408847"
+  },
+  {
+   "name": "쇤브룬 동물원",
+   "cat": "관광",
+   "area": "히칭",
+   "lat": 48.18222,
+   "lng": 16.3025,
+   "aliases": [
+    "Schönbrunn Zoo"
+   ],
+   "wd": "Q752283"
+  },
+  {
+   "name": "프라터",
+   "cat": "관광",
+   "area": "레오폴트슈타트",
+   "lat": 48.21611,
+   "lng": 16.39556,
+   "aliases": [
+    "Prater"
+   ],
+   "wd": "Q264752"
+  },
+  {
+   "name": "빈 음악협회",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.20049,
+   "lng": 16.37274,
+   "aliases": [
+    "Musikverein"
+   ],
+   "wd": "Q686720"
+  },
+  {
+   "name": "포티프 성당",
+   "cat": "관광",
+   "area": "알저그룬트",
+   "lat": 48.21545,
+   "lng": 16.3591,
+   "aliases": [
+    "Votive Church",
+    "보티프 교회"
+   ],
+   "wd": "Q254476"
+  },
+  {
+   "name": "안 데르 빈 극장",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.19968,
+   "lng": 16.36393,
+   "aliases": [
+    "Theater an der Wien"
+   ],
+   "wd": "Q374336"
+  },
+  {
+   "name": "리히텐슈타인성",
+   "cat": "관광",
+   "area": "마리아엔처스도르프",
+   "lat": 48.0927,
+   "lng": 16.27036,
+   "aliases": [
+    "Liechtenstein Castle"
+   ],
+   "wd": "Q699474"
+  },
+  {
+   "name": "군사사박물관",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.18536,
+   "lng": 16.38739,
+   "aliases": [
+    "Heeresgeschichtliches Museum"
+   ],
+   "wd": "Q700751"
+  },
+  {
+   "name": "빈 분리파 전시관",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.2004,
+   "lng": 16.36593,
+   "aliases": [
+    "Secession Building",
+    "제체시온 빌딩"
+   ],
+   "wd": "Q265129"
+  },
+  {
+   "name": "도나우탑",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.24023,
+   "lng": 16.41003,
+   "aliases": [
+    "Donauturm"
+   ],
+   "wd": "Q686544"
+  },
+  {
+   "name": "Vienna Volksoper",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.2245,
+   "lng": 16.3504,
+   "wd": "Q694747"
+  },
+  {
+   "name": "응용미술관",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.20767,
+   "lng": 16.38137,
+   "aliases": [
+    "MAK – Museum of Applied Arts"
+   ],
+   "wd": "Q478455"
+  },
+  {
+   "name": "Reichsbrücke",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.2283,
+   "lng": 16.41,
+   "wd": "Q684821"
+  },
+  {
+   "name": "레오폴트 미술관",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.20265,
+   "lng": 16.35914,
+   "aliases": [
+    "Leopold Museum"
+   ],
+   "wd": "Q59435"
+  },
+  {
+   "name": "헬덴 광장",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.20628,
+   "lng": 16.36376,
+   "aliases": [
+    "Heldenplatz"
+   ],
+   "wd": "Q700128"
+  },
+  {
+   "name": "카를 광장",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.1992,
+   "lng": 16.37,
+   "aliases": [
+    "Karlsplatz"
+   ],
+   "wd": "Q700753"
+  },
+  {
+   "name": "Pestsäule",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.20872,
+   "lng": 16.36981,
+   "wd": "Q688614"
+  },
+  {
+   "name": "빈 대관람차",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.21683,
+   "lng": 16.39592,
+   "aliases": [
+    "Wiener Riesenrad"
+   ],
+   "wd": "Q697578"
+  },
+  {
+   "name": "Stephansplatz",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.2084,
+   "lng": 16.3725,
+   "wd": "Q701662"
+  },
+  {
+   "name": "Urania",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.2117,
+   "lng": 16.3836,
+   "wd": "Q259553"
+  },
+  {
+   "name": "빈 기술박물관",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.19093,
+   "lng": 16.31803,
+   "aliases": [
+    "Vienna Technical Museum"
+   ],
+   "wd": "Q372676"
+  },
+  {
+   "name": "St. Peter's Church",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.20944,
+   "lng": 16.37,
+   "wd": "Q693884"
+  },
+  {
+   "name": "St. Michael's Church",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.208,
+   "lng": 16.367,
+   "wd": "Q700199"
+  },
+  {
+   "name": "빈 이슬람 센터",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.245,
+   "lng": 16.3975,
+   "aliases": [
+    "Vienna Islamic Centre"
+   ],
+   "wd": "Q874615"
+  },
+  {
+   "name": "Klosterneuburg Monastery",
+   "cat": "관광",
+   "area": "클로스터노이부르크",
+   "lat": 48.30719,
+   "lng": 16.32664,
+   "wd": "Q697145"
+  },
+  {
+   "name": "빈 모차르트하우스",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.20816,
+   "lng": 16.37491,
+   "aliases": [
+    "Mozarthaus Vienna"
+   ],
+   "wd": "Q387667"
+  },
+  {
+   "name": "지그문트 프로이트 박물관",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.2186,
+   "lng": 16.3631,
+   "aliases": [
+    "Sigmund Freud Museum"
+   ],
+   "wd": "Q694810"
+  },
+  {
+   "name": "Graben",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.20861,
+   "lng": 16.36991,
+   "wd": "Q699937"
+  },
+  {
+   "name": "빈 콘체르트하우스",
+   "cat": "관광",
+   "area": "란트스트라세",
+   "lat": 48.20088,
+   "lng": 16.37738,
+   "aliases": [
+    "Konzerthaus"
+   ],
+   "wd": "Q695126"
+  },
+  {
+   "name": "Mumok",
+   "cat": "관광",
+   "area": "노이바우",
+   "lat": 48.20372,
+   "lng": 16.35744,
+   "wd": "Q689951"
+  },
+  {
+   "name": "Kirche am Steinhof",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.21063,
+   "lng": 16.27879,
+   "wd": "Q441668"
+  },
+  {
+   "name": "Theater in der Josefstadt",
+   "cat": "관광",
+   "area": "요제프슈타트",
+   "lat": 48.20953,
+   "lng": 16.35108,
+   "wd": "Q167619"
+  },
+  {
+   "name": "Naschmarkt",
+   "cat": "관광",
+   "area": "비덴",
+   "lat": 48.1989,
+   "lng": 16.3636,
+   "wd": "Q417645"
+  },
+  {
+   "name": "Hermesvilla",
+   "cat": "관광",
+   "area": "히칭",
+   "lat": 48.17068,
+   "lng": 16.24617,
+   "wd": "Q204129"
+  },
+  {
+   "name": "Augustinian Church",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.20567,
+   "lng": 16.3677,
+   "wd": "Q693869"
+  },
+  {
+   "name": "마리아 테레지아 광장",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.2046,
+   "lng": 16.3605,
+   "aliases": [
+    "Maria-Theresien-Platz"
+   ],
+   "wd": "Q699952"
+  },
+  {
+   "name": "Palais Schwarzenberg",
+   "cat": "관광",
+   "area": "란트스트라세",
+   "lat": 48.19697,
+   "lng": 16.37689,
+   "wd": "Q651030"
+  },
+  {
+   "name": "Volkstheater",
+   "cat": "관광",
+   "area": "노이바우",
+   "lat": 48.20517,
+   "lng": 16.357,
+   "wd": "Q688555"
+  },
+  {
+   "name": "Maria am Gestade",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.21274,
+   "lng": 16.37069,
+   "wd": "Q701837"
+  },
+  {
+   "name": "Carltheater",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.215,
+   "lng": 16.3844,
+   "wd": "Q877699"
+  },
+  {
+   "name": "Liechtenstein Museum",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.2225,
+   "lng": 16.3594,
+   "wd": "Q1824069"
+  },
+  {
+   "name": "Augarten",
+   "cat": "관광",
+   "area": "레오폴트슈타트",
+   "lat": 48.22611,
+   "lng": 16.37639,
+   "wd": "Q143265"
+  },
+  {
+   "name": "Palais Augarten",
+   "cat": "관광",
+   "area": "레오폴트슈타트",
+   "lat": 48.222,
+   "lng": 16.3794,
+   "wd": "Q873332"
+  },
+  {
+   "name": "Minoritenkirche",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.20972,
+   "lng": 16.36389,
+   "wd": "Q688468"
+  },
+  {
+   "name": "Jesuit Church",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.20905,
+   "lng": 16.37762,
+   "wd": "Q688472"
+  },
+  {
+   "name": "Haas House",
+   "cat": "쇼핑",
+   "area": "인네레슈타트",
+   "lat": 48.20833,
+   "lng": 16.37167,
+   "wd": "Q697572"
+  },
+  {
+   "name": "붉은 군대 영웅 기념물",
+   "cat": "관광",
+   "area": "란트스트라세",
+   "lat": 48.19802,
+   "lng": 16.37634,
+   "aliases": [
+    "Soviet War Memorial"
+   ],
+   "wd": "Q177008"
+  },
+  {
+   "name": "Architekturzentrum Wien",
+   "cat": "관광",
+   "area": "노이바우",
+   "lat": 48.20417,
+   "lng": 16.35778,
+   "wd": "Q635399"
+  },
+  {
+   "name": "왕실 보물관",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.20657,
+   "lng": 16.36542,
+   "aliases": [
+    "Imperial Treasury"
+   ],
+   "wd": "Q317701"
+  },
+  {
+   "name": "Stadtpark",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.20472,
+   "lng": 16.38056,
+   "wd": "Q688588"
+  },
+  {
+   "name": "폴크스가르텐",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.2081,
+   "lng": 16.36176,
+   "aliases": [
+    "Volksgarten"
+   ],
+   "wd": "Q875751"
+  },
+  {
+   "name": "Piarist Church",
+   "cat": "관광",
+   "area": "요제프슈타트",
+   "lat": 48.2105,
+   "lng": 16.3491,
+   "wd": "Q695388"
+  },
+  {
+   "name": "Weltmuseum Wien",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.205,
+   "lng": 16.36306,
+   "wd": "Q686488"
+  },
+  {
+   "name": "Gartenpalais Liechtenstein",
+   "cat": "관광",
+   "area": "알저그룬트",
+   "lat": 48.2225,
+   "lng": 16.3594,
+   "wd": "Q689043"
+  },
+  {
+   "name": "Schottenstift",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.21212,
+   "lng": 16.3646,
+   "wd": "Q549585"
+  },
+  {
+   "name": "St. Rupert's Church",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.21194,
+   "lng": 16.37444,
+   "wd": "Q689008"
+  },
+  {
+   "name": "Schloss Hetzendorf",
+   "cat": "관광",
+   "area": "마이들링",
+   "lat": 48.1661,
+   "lng": 16.3083,
+   "wd": "Q664880"
+  },
+  {
+   "name": "Druk Yul Park",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.15623,
+   "lng": 16.27368,
+   "wd": "Q22670941"
+  },
+  {
+   "name": "Wotruba Church",
+   "cat": "관광",
+   "area": "리징",
+   "lat": 48.14764,
+   "lng": 16.25344,
+   "wd": "Q684334"
+  },
+  {
+   "name": "Schwarzenbergplatz",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.1986,
+   "lng": 16.3761,
+   "wd": "Q686552"
+  },
+  {
+   "name": "Palais Coburg",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.20578,
+   "lng": 16.37673,
+   "wd": "Q692117"
+  },
+  {
+   "name": "슈베덴플라츠",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.2114,
+   "lng": 16.3789,
+   "wd": "Q874951"
+  },
+  {
+   "name": "Holy Trinity Greek Orthodox Church",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.2106,
+   "lng": 16.3774,
+   "wd": "Q877807"
+  },
+  {
+   "name": "Judenplatz",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.2116,
+   "lng": 16.3696,
+   "wd": "Q390730"
+  },
+  {
+   "name": "Palais Todesco",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.20331,
+   "lng": 16.37034,
+   "wd": "Q664155"
+  },
+  {
+   "name": "Palais Kinsky",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.2115,
+   "lng": 16.3638,
+   "wd": "Q670935"
+  },
+  {
+   "name": "Franciscan Church",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.2062,
+   "lng": 16.3746,
+   "wd": "Q688524"
+  },
+  {
+   "name": "Judenplatz Holocaust Memorial",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.21165,
+   "lng": 16.36942,
+   "wd": "Q869983"
+  },
+  {
+   "name": "라타우스 광장",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.2103,
+   "lng": 16.3588,
+   "aliases": [
+    "Rathausplatz"
+   ],
+   "wd": "Q2132674"
+  },
+  {
+   "name": "Gloriette",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.17828,
+   "lng": 16.30869,
+   "wd": "Q873139"
+  },
+  {
+   "name": "Vienna Museum",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.1989,
+   "lng": 16.3731,
+   "wd": "Q505873"
+  },
+  {
+   "name": "Globe Museum",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.2093,
+   "lng": 16.3653,
+   "wd": "Q666713"
+  },
+  {
+   "name": "Botanical Garden of the University of Vienna",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.19167,
+   "lng": 16.38389,
+   "wd": "Q677602"
+  },
+  {
+   "name": "St. Francis of Assisi Church, Vienna",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.22453,
+   "lng": 16.40548,
+   "wd": "Q1445930"
+  },
+  {
+   "name": "부르스텔프라터",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.2147,
+   "lng": 16.4022,
+   "aliases": [
+    "Wurstelprater"
+   ],
+   "wd": "Q3487269"
+  },
+  {
+   "name": "Vienna Künstlerhaus",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.2006,
+   "lng": 16.3717,
+   "wd": "Q284902"
+  },
+  {
+   "name": "Palais Mollard-Clary",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.20942,
+   "lng": 16.36572,
+   "wd": "Q610784"
+  },
+  {
+   "name": "Palais Harrach",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.21129,
+   "lng": 16.36531,
+   "wd": "Q670068"
+  },
+  {
+   "name": "Maltese Church",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.205,
+   "lng": 16.37111,
+   "wd": "Q700863"
+  },
+  {
+   "name": "Winter Palace of Prince Eugene",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.2056,
+   "lng": 16.3728,
+   "wd": "Q874905"
+  },
+  {
+   "name": "Josefsplatz",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.20644,
+   "lng": 16.36722,
+   "wd": "Q3573245"
+  },
+  {
+   "name": "Saint Charles Borromeo Church",
+   "cat": "관광",
+   "area": "지머링",
+   "lat": 48.15085,
+   "lng": 16.43815,
+   "wd": "Q16102021"
+  },
+  {
+   "name": "Shopping City Süd",
+   "cat": "쇼핑",
+   "area": "Vösendorf",
+   "lat": 48.10833,
+   "lng": 16.31694,
+   "wd": "Q667591"
+  },
+  {
+   "name": "Church of Mariahilf",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.1989,
+   "lng": 16.3531,
+   "wd": "Q251468"
+  },
+  {
+   "name": "Mexikoplatz",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.22389,
+   "lng": 16.40417,
+   "wd": "Q455694"
+  },
+  {
+   "name": "KunstHausWien",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.2111,
+   "lng": 16.3933,
+   "wd": "Q638493"
+  },
+  {
+   "name": "Palais Strozzi",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.20933,
+   "lng": 16.34794,
+   "wd": "Q672906"
+  },
+  {
+   "name": "Theater auf der Wieden",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.1978,
+   "lng": 16.3661,
+   "wd": "Q673479"
+  },
+  {
+   "name": "Maria Theresa Monument",
+   "cat": "관광",
+   "area": "빈",
+   "lat": 48.2045,
+   "lng": 16.3608,
+   "wd": "Q21234884"
+  },
+  {
+   "name": "Josephinum",
+   "cat": "관광",
+   "area": "알저그룬트",
+   "lat": 48.2193,
+   "lng": 16.35654,
+   "wd": "Q1466545"
+  },
+  {
+   "name": "Palais Pallavicini",
+   "cat": "관광",
+   "area": "인네레슈타트",
+   "lat": 48.20663,
+   "lng": 16.36771,
+   "wd": "Q459952"
+  }
+ ]
+}

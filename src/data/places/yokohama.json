@@ -1,0 +1,621 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "요코하마 베이브리지",
+   "cat": "관광",
+   "area": "요코하마시",
+   "lat": 35.45438,
+   "lng": 139.67391,
+   "aliases": [
+    "Yokohama Bay Bridge",
+    "요코하마 베이브릿지",
+    "요코하마 베이 브릿지"
+   ],
+   "wd": "Q1138655"
+  },
+  {
+   "name": "요코하마 마린타워",
+   "cat": "관광",
+   "area": "Yamashitachō",
+   "lat": 35.44393,
+   "lng": 139.6509,
+   "aliases": [
+    "Yokohama Marine Tower"
+   ],
+   "wd": "Q1207989"
+  },
+  {
+   "name": "소지지",
+   "cat": "관광",
+   "area": "Tsurumi",
+   "lat": 35.50778,
+   "lng": 139.67083,
+   "aliases": [
+    "Sōji-ji Temple",
+    "소우지지"
+   ],
+   "wd": "Q1250321"
+  },
+  {
+   "name": "산케이엔",
+   "cat": "관광",
+   "area": "Honmoku-Sannotani",
+   "lat": 35.41695,
+   "lng": 139.66004,
+   "aliases": [
+    "Sankei-en"
+   ],
+   "wd": "Q4249885"
+  },
+  {
+   "name": "가톨릭 야마테 교회",
+   "cat": "관광",
+   "area": "야마테초",
+   "lat": 35.43639,
+   "lng": 139.64722,
+   "aliases": [
+    "Sacred Heart Cathedral"
+   ],
+   "wd": "Q4383788"
+  },
+  {
+   "name": "신요코하마 라멘 박물관",
+   "cat": "관광",
+   "area": "신요코하마",
+   "lat": 35.50987,
+   "lng": 139.61454,
+   "aliases": [
+    "Shin-Yokohama Raumen Museum"
+   ],
+   "wd": "Q864499"
+  },
+  {
+   "name": "요코하마 카레 뮤지엄",
+   "cat": "관광",
+   "area": "",
+   "lat": 35.4449,
+   "lng": 139.634,
+   "aliases": [
+    "Yokohama Curry Museum"
+   ],
+   "wd": "Q1057482"
+  },
+  {
+   "name": "요코하마 미술관",
+   "cat": "관광",
+   "area": "미나토미라이",
+   "lat": 35.4571,
+   "lng": 139.631,
+   "aliases": [
+    "Yokohama Museum of Art"
+   ],
+   "wd": "Q861588"
+  },
+  {
+   "name": "노게야마 동물원",
+   "cat": "관광",
+   "area": "Oimatsuchō",
+   "lat": 35.44656,
+   "lng": 139.62287,
+   "aliases": [
+    "Nogeyama Zoo"
+   ],
+   "wd": "Q861318"
+  },
+  {
+   "name": "요코하마 개항자료관",
+   "cat": "관광",
+   "area": "Nihon Ōdōri",
+   "lat": 35.4475,
+   "lng": 139.644,
+   "aliases": [
+    "Yokohama Archives of History"
+   ],
+   "wd": "Q942479"
+  },
+  {
+   "name": "가나가와현립 역사박물관",
+   "cat": "관광",
+   "area": "Minami-nakadōri",
+   "lat": 35.44913,
+   "lng": 139.63628,
+   "aliases": [
+    "Kanagawa Prefectural Museum of Cultural History"
+   ],
+   "wd": "Q5365233"
+  },
+  {
+   "name": "야마시타 공원",
+   "cat": "관광",
+   "area": "Yamashitachō",
+   "lat": 35.44578,
+   "lng": 139.64975,
+   "aliases": [
+    "Yamashita Park",
+    "야마시타 코엔"
+   ],
+   "wd": "Q5372158"
+  },
+  {
+   "name": "요코하마 아카렌가 창고",
+   "cat": "쇼핑",
+   "area": "Shinkō",
+   "lat": 35.4522,
+   "lng": 139.643,
+   "aliases": [
+    "Yokohama Red Brick Warehouse",
+    "요코하마 아카렌가소코"
+   ],
+   "wd": "Q5363823"
+  },
+  {
+   "name": "안도 모모후쿠 발명기념관",
+   "cat": "관광",
+   "area": "Shinkō",
+   "lat": 35.45547,
+   "lng": 139.63886,
+   "aliases": [
+    "CupNoodles Museum Yokohama"
+   ],
+   "wd": "Q11257362"
+  },
+  {
+   "name": "요코하마 코스모월드",
+   "cat": "관광",
+   "area": "Shinkō",
+   "lat": 35.4552,
+   "lng": 139.63668,
+   "aliases": [
+    "Yokohama Cosmo World"
+   ],
+   "wd": "Q11262875"
+  },
+  {
+   "name": "퀸스 스퀘어 요코하마",
+   "cat": "쇼핑",
+   "area": "미나토미라이",
+   "lat": 35.4565,
+   "lng": 139.634,
+   "aliases": [
+    "Queen’s Square Yokohama",
+    "퀸즈스퀘어 요코하마",
+    "퀸즈 스퀘어 요코하마"
+   ],
+   "wd": "Q2888684"
+  },
+  {
+   "name": "요코하마 항구 박물관",
+   "cat": "관광",
+   "area": "미나토미라이",
+   "lat": 35.45367,
+   "lng": 139.633,
+   "aliases": [
+    "Yokohama Port Museum"
+   ],
+   "wd": "Q11542838"
+  },
+  {
+   "name": "쓰루미쓰바사교",
+   "cat": "관광",
+   "area": "가나가와현",
+   "lat": 35.47222,
+   "lng": 139.69917,
+   "aliases": [
+    "Tsurumi Tsubasa Bridge",
+    "쓰루미쓰바사바시",
+    "츠루미츠바사 다리",
+    "쓰루미쓰바사 다리"
+   ],
+   "wd": "Q5369910"
+  },
+  {
+   "name": "린코 파크",
+   "cat": "관광",
+   "area": "미나토미라이",
+   "lat": 35.46146,
+   "lng": 139.63707,
+   "aliases": [
+    "Rinkō Park"
+   ],
+   "wd": "Q11612564"
+  },
+  {
+   "name": "Yokohama Science Center",
+   "cat": "관광",
+   "area": "Yōkōdai",
+   "lat": 35.3771,
+   "lng": 139.595,
+   "wd": "Q8054641"
+  },
+  {
+   "name": "Yokohama Orthodox Church",
+   "cat": "관광",
+   "area": "요코하마시",
+   "lat": 35.47558,
+   "lng": 139.61807,
+   "wd": "Q11689684"
+  },
+  {
+   "name": "Gundam Factory Yokohama",
+   "cat": "관광",
+   "area": "Yamashitachō",
+   "lat": 35.44671,
+   "lng": 139.65408,
+   "wd": "Q105438533"
+  },
+  {
+   "name": "닛폰마루 메모리얼 파크",
+   "cat": "관광",
+   "area": "미나토미라이",
+   "lat": 35.45367,
+   "lng": 139.633,
+   "aliases": [
+    "Nippon Maru Memorial Park"
+   ],
+   "wd": "Q10856301"
+  },
+  {
+   "name": "Kozukue Castle",
+   "cat": "관광",
+   "area": "Kozukuechō",
+   "lat": 35.51245,
+   "lng": 139.59371,
+   "wd": "Q2969498"
+  },
+  {
+   "name": "Yokohama Port Opening Memorial Hall",
+   "cat": "관광",
+   "area": "요코하마시",
+   "lat": 35.44765,
+   "lng": 139.64136,
+   "wd": "Q11121599"
+  },
+  {
+   "name": "Negishi Forest Park",
+   "cat": "관광",
+   "area": "나카구",
+   "lat": 35.42306,
+   "lng": 139.63861,
+   "wd": "Q11536319"
+  },
+  {
+   "name": "Yokohama Port Symbol Tower",
+   "cat": "관광",
+   "area": "나카구",
+   "lat": 35.43917,
+   "lng": 139.68944,
+   "wd": "Q11543216"
+  },
+  {
+   "name": "Iseyama Koutai-jingu",
+   "cat": "관광",
+   "area": "니시구",
+   "lat": 35.45028,
+   "lng": 139.62611,
+   "wd": "Q11378990"
+  },
+  {
+   "name": "Mitsuike Park",
+   "cat": "관광",
+   "area": "쓰루미구",
+   "lat": 35.52289,
+   "lng": 139.66031,
+   "wd": "Q11589004"
+  },
+  {
+   "name": "Yokohama Kuan Ti Miao",
+   "cat": "관광",
+   "area": "Yamashitachō",
+   "lat": 35.44228,
+   "lng": 139.64526,
+   "wd": "Q81733862"
+  },
+  {
+   "name": "Kishine Park",
+   "cat": "관광",
+   "area": "고호쿠구",
+   "lat": 35.4938,
+   "lng": 139.61552,
+   "wd": "Q1743714"
+  },
+  {
+   "name": "요코하마 호빵맨 어린이 박물관",
+   "cat": "관광",
+   "area": "미나토미라이",
+   "lat": 35.46306,
+   "lng": 139.62872,
+   "aliases": [
+    "Yokohama Anpanman Children's Museum"
+   ],
+   "wd": "Q2496472"
+  },
+  {
+   "name": "Gumyō-ji Temple",
+   "cat": "관광",
+   "area": "Gumyōji",
+   "lat": 35.42417,
+   "lng": 139.59742,
+   "wd": "Q11487349"
+  },
+  {
+   "name": "Orbi Yokohama",
+   "cat": "관광",
+   "area": "미나토미라이",
+   "lat": 35.45725,
+   "lng": 139.63219,
+   "wd": "Q23905885"
+  },
+  {
+   "name": "요코하마 월드포터즈",
+   "cat": "쇼핑",
+   "area": "Shinkō",
+   "lat": 35.45425,
+   "lng": 139.63856,
+   "aliases": [
+    "Yokohama World Porters"
+   ],
+   "wd": "Q11262869"
+  },
+  {
+   "name": "Yamate Park",
+   "cat": "관광",
+   "area": "야마테초",
+   "lat": 35.43458,
+   "lng": 139.649,
+   "wd": "Q11468704"
+  },
+  {
+   "name": "Yokohama Christ Church",
+   "cat": "관광",
+   "area": "야마테초",
+   "lat": 35.43801,
+   "lng": 139.65257,
+   "wd": "Q11542971"
+  },
+  {
+   "name": "미나토노미에루오카 공원",
+   "cat": "관광",
+   "area": "야마테초",
+   "lat": 35.43989,
+   "lng": 139.655,
+   "aliases": [
+    "Harbor View Park"
+   ],
+   "wd": "Q11563016"
+  },
+  {
+   "name": "Nogeyama Park",
+   "cat": "관광",
+   "area": "Oimatsuchō",
+   "lat": 35.44583,
+   "lng": 139.62361,
+   "wd": "Q11645748"
+  },
+  {
+   "name": "Kuraki Park",
+   "cat": "관광",
+   "area": "요코하마시",
+   "lat": 35.40539,
+   "lng": 139.60739,
+   "wd": "Q11369665"
+  },
+  {
+   "name": "Yokohama War Cemetery",
+   "cat": "관광",
+   "area": "요코하마시",
+   "lat": 35.43434,
+   "lng": 139.58085,
+   "wd": "Q19377803"
+  },
+  {
+   "name": "The Church of Christ in Japan",
+   "cat": "관광",
+   "area": "나카구",
+   "lat": 35.44694,
+   "lng": 139.64387,
+   "wd": "Q11507771"
+  },
+  {
+   "name": "Honmoku Sanchō Park",
+   "cat": "관광",
+   "area": "나카구",
+   "lat": 35.42547,
+   "lng": 139.66064,
+   "wd": "Q11520548"
+  },
+  {
+   "name": "Yokohama Media Business Centre",
+   "cat": "관광",
+   "area": "나카구",
+   "lat": 35.44725,
+   "lng": 139.63881,
+   "wd": "Q110144085"
+  },
+  {
+   "name": "GENTO YOKOHAMA",
+   "cat": "쇼핑",
+   "area": "니시구",
+   "lat": 35.4615,
+   "lng": 139.62717,
+   "aliases": [
+    "Gento Yokohama"
+   ],
+   "wd": "Q10854544"
+  },
+  {
+   "name": "Motomachi Park",
+   "cat": "관광",
+   "area": "Motomachi",
+   "lat": 35.43824,
+   "lng": 139.65128,
+   "wd": "Q27662354"
+  },
+  {
+   "name": "Ehrismann Residence",
+   "cat": "관광",
+   "area": "Motomachi",
+   "lat": 35.43756,
+   "lng": 139.65125,
+   "wd": "Q28685470"
+  },
+  {
+   "name": "앳!",
+   "cat": "쇼핑",
+   "area": "미나토미라이",
+   "lat": 35.45664,
+   "lng": 139.63394,
+   "aliases": [
+    "Minatomirai Tokyu Square",
+    "At!"
+   ],
+   "wd": "Q626521"
+  },
+  {
+   "name": "Marinos Town",
+   "cat": "관광",
+   "area": "미나토미라이",
+   "lat": 35.46333,
+   "lng": 139.63,
+   "wd": "Q6764471"
+  },
+  {
+   "name": "Yokohama Children's Botanical Garden",
+   "cat": "관광",
+   "area": "Mutsukawa",
+   "lat": 35.4333,
+   "lng": 139.577,
+   "wd": "Q8054635"
+  },
+  {
+   "name": "그랜드몰 공원",
+   "cat": "관광",
+   "area": "미나토미라이",
+   "lat": 35.45717,
+   "lng": 139.63117,
+   "aliases": [
+    "Grand Mall Park"
+   ],
+   "wd": "Q11300416"
+  },
+  {
+   "name": "Mitsubishi Minatomirai Industrial Museum",
+   "cat": "관광",
+   "area": "미나토미라이",
+   "lat": 35.45586,
+   "lng": 139.62989,
+   "wd": "Q11357023"
+  },
+  {
+   "name": "Santonodai Site",
+   "cat": "관광",
+   "area": "Okamura",
+   "lat": 35.42083,
+   "lng": 139.61028,
+   "wd": "Q17210111"
+  },
+  {
+   "name": "Hulic 미나토미라이",
+   "cat": "쇼핑",
+   "area": "사쿠라기초",
+   "lat": 35.45214,
+   "lng": 139.63044,
+   "aliases": [
+    "Hulic Minatomirai"
+   ],
+   "wd": "Q10854862"
+  },
+  {
+   "name": "신요코하마 공원",
+   "cat": "관광",
+   "area": "Kozukuechō",
+   "lat": 35.513,
+   "lng": 139.605,
+   "aliases": [
+    "Shin-Yokohama Park"
+   ],
+   "wd": "Q11255125"
+  },
+  {
+   "name": "Children's Nature Park",
+   "cat": "관광",
+   "area": "Ōikechō",
+   "lat": 35.45034,
+   "lng": 139.53555,
+   "wd": "Q11266596"
+  },
+  {
+   "name": "Mitsuzawa Park",
+   "cat": "관광",
+   "area": "Mitsuzawa-nishi-machi",
+   "lat": 35.47079,
+   "lng": 139.60292,
+   "wd": "Q11354030"
+  },
+  {
+   "name": "Osaragi Jirō Memorial Museum",
+   "cat": "관광",
+   "area": "야마테초",
+   "lat": 35.43931,
+   "lng": 139.65525,
+   "wd": "Q11432376"
+  },
+  {
+   "name": "Kamonyama Park",
+   "cat": "관광",
+   "area": "Momijigaoka",
+   "lat": 35.45306,
+   "lng": 139.62556,
+   "wd": "Q11498154"
+  },
+  {
+   "name": "Yokohama Bay Quarter",
+   "cat": "쇼핑",
+   "area": "Kinkōchō",
+   "lat": 35.46656,
+   "lng": 139.62664,
+   "wd": "Q11542887"
+  },
+  {
+   "name": "Shimizugaoka Park",
+   "cat": "관광",
+   "area": "Shimizugaoka",
+   "lat": 35.43889,
+   "lng": 139.60528,
+   "wd": "Q11560748"
+  },
+  {
+   "name": "Zou-no-hana Park",
+   "cat": "관광",
+   "area": "Kaigandōri",
+   "lat": 35.44961,
+   "lng": 139.64317,
+   "wd": "Q11634331"
+  },
+  {
+   "name": "British House Yokohama",
+   "cat": "관광",
+   "area": "야마테초",
+   "lat": 35.4394,
+   "lng": 139.65442,
+   "wd": "Q27658685"
+  },
+  {
+   "name": "Yokohama Hammerhead",
+   "cat": "쇼핑",
+   "area": "Shinkō",
+   "lat": 35.45611,
+   "lng": 139.64167,
+   "wd": "Q84351266"
+  },
+  {
+   "name": "요코하마 비즈니스 파크",
+   "cat": "관광",
+   "area": "",
+   "lat": 35.45444,
+   "lng": 139.59806,
+   "wd": "Q11542874"
+  }
+ ]
+}

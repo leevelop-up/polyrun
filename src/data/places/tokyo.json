@@ -1,0 +1,469 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "야스쿠니 신사",
+   "cat": "관광",
+   "area": "구단키타",
+   "lat": 35.69396,
+   "lng": 139.74269,
+   "aliases": [
+    "Yasukuni Shrine",
+    "야스쿠니",
+    "야스구니진쟈",
+    "정국신사"
+   ],
+   "wd": "Q242803"
+  },
+  {
+   "name": "도쿄 디즈니랜드",
+   "cat": "관광",
+   "area": "Maihama",
+   "lat": 35.63278,
+   "lng": 139.88056,
+   "aliases": [
+    "Tokyo Disneyland",
+    "동경 디즈니랜드"
+   ],
+   "wd": "Q843997"
+  },
+  {
+   "name": "도쿄 디즈니 리조트",
+   "cat": "관광",
+   "area": "Maihama",
+   "lat": 35.62972,
+   "lng": 139.88278,
+   "aliases": [
+    "Tokyo Disney Resort"
+   ],
+   "wd": "Q605492"
+  },
+  {
+   "name": "도쿄 자미",
+   "cat": "관광",
+   "area": "시부야구",
+   "lat": 35.66814,
+   "lng": 139.6765,
+   "aliases": [
+    "Tokyo Mosque"
+   ],
+   "wd": "Q1710283"
+  },
+  {
+   "name": "도쿄 주교좌 성 마리아 대성당",
+   "cat": "관광",
+   "area": "Sekiguchi",
+   "lat": 35.71417,
+   "lng": 139.72667,
+   "aliases": [
+    "St. Mary's Cathedral",
+    "세키구치 교회"
+   ],
+   "wd": "Q1193480"
+  },
+  {
+   "name": "영빈관 (일본)",
+   "cat": "관광",
+   "area": "미나토구",
+   "lat": 35.68,
+   "lng": 139.72861,
+   "aliases": [
+    "Akasaka Palace",
+    "아카사카 별궁",
+    "아카사카 이궁"
+   ],
+   "wd": "Q555255"
+  },
+  {
+   "name": "국립과학박물관",
+   "cat": "관광",
+   "area": "우에노코엔",
+   "lat": 35.71632,
+   "lng": 139.77654,
+   "aliases": [
+    "National Museum of Nature and Science"
+   ],
+   "wd": "Q74940"
+  },
+  {
+   "name": "도쿄 국립근대미술관",
+   "cat": "관광",
+   "area": "기타노마루 공원",
+   "lat": 35.69055,
+   "lng": 139.75464,
+   "aliases": [
+    "The National Museum of Modern Art"
+   ],
+   "wd": "Q1359908"
+  },
+  {
+   "name": "도쿄 디즈니시",
+   "cat": "관광",
+   "area": "Maihama",
+   "lat": 35.62667,
+   "lng": 139.88806,
+   "aliases": [
+    "Tokyo DisneySea",
+    "도쿄 디즈니씨",
+    "도쿄 디즈니 씨"
+   ],
+   "wd": "Q1202341"
+  },
+  {
+   "name": "가사이린카이 공원",
+   "cat": "관광",
+   "area": "Rinkaichō",
+   "lat": 35.64286,
+   "lng": 139.86257,
+   "aliases": [
+    "Kasai Rinkai Park",
+    "가사이 임해공원",
+    "카사이 임해공원"
+   ],
+   "wd": "Q1038727"
+  },
+  {
+   "name": "유메노시마 공원",
+   "cat": "관광",
+   "area": "유메노시마",
+   "lat": 35.65075,
+   "lng": 139.82556,
+   "aliases": [
+    "Yumenoshima Park"
+   ],
+   "wd": "Q11431452"
+  },
+  {
+   "name": "도쿄도 미술관",
+   "cat": "관광",
+   "area": "우에노코엔",
+   "lat": 35.7172,
+   "lng": 139.773,
+   "aliases": [
+    "Tokyo Metropolitan Art Museum"
+   ],
+   "wd": "Q864957"
+  },
+  {
+   "name": "에도-도쿄 박물관",
+   "cat": "관광",
+   "area": "요코아미",
+   "lat": 35.69639,
+   "lng": 139.79608,
+   "aliases": [
+    "Edo-Tokyo Museum"
+   ],
+   "wd": "Q1191042"
+  },
+  {
+   "name": "아티존 미술관",
+   "cat": "관광",
+   "area": "교바시",
+   "lat": 35.67889,
+   "lng": 139.77194,
+   "aliases": [
+    "Artizon Museum"
+   ],
+   "wd": "Q913808"
+  },
+  {
+   "name": "일본 과학 미래관",
+   "cat": "관광",
+   "area": "아오미",
+   "lat": 35.61917,
+   "lng": 139.77667,
+   "aliases": [
+    "Miraikan"
+   ],
+   "wd": "Q656957"
+  },
+  {
+   "name": "천초신사",
+   "cat": "관광",
+   "area": "Asakusa",
+   "lat": 35.71514,
+   "lng": 139.79744,
+   "aliases": [
+    "Asakusa Shrine"
+   ],
+   "wd": "Q670049"
+  },
+  {
+   "name": "Holy Resurrection Cathedral",
+   "cat": "관광",
+   "area": "Kanda-Surugadai",
+   "lat": 35.69804,
+   "lng": 139.76553,
+   "wd": "Q2660430"
+  },
+  {
+   "name": "히비야 공원",
+   "cat": "관광",
+   "area": "도쿄도",
+   "lat": 35.67148,
+   "lng": 139.75539,
+   "aliases": [
+    "Hibiya Park"
+   ],
+   "wd": "Q1378533"
+  },
+  {
+   "name": "Shiba Park",
+   "cat": "관광",
+   "area": "Shibakōen",
+   "lat": 35.65611,
+   "lng": 139.74833,
+   "wd": "Q42311591"
+  },
+  {
+   "name": "신국립극장",
+   "cat": "관광",
+   "area": "혼마치",
+   "lat": 35.6825,
+   "lng": 139.68556,
+   "aliases": [
+    "New National Theatre Tokyo"
+   ],
+   "wd": "Q1056064"
+  },
+  {
+   "name": "조죠지",
+   "cat": "관광",
+   "area": "Shibakōen",
+   "lat": 35.65748,
+   "lng": 139.74838,
+   "aliases": [
+    "Zōjō-ji Temple"
+   ],
+   "wd": "Q249139"
+  },
+  {
+   "name": "기타노마루 공원",
+   "cat": "관광",
+   "area": "지요다구",
+   "lat": 35.69153,
+   "lng": 139.75106,
+   "aliases": [
+    "Kitanomaru Park"
+   ],
+   "wd": "Q1075966"
+  },
+  {
+   "name": "네즈 신사",
+   "cat": "관광",
+   "area": "Nezu",
+   "lat": 35.72023,
+   "lng": 139.76072,
+   "aliases": [
+    "Nezu Shrine"
+   ],
+   "wd": "Q335612"
+  },
+  {
+   "name": "히에 신사",
+   "cat": "관광",
+   "area": "나가타초",
+   "lat": 35.67472,
+   "lng": 139.73958,
+   "aliases": [
+    "Hie Shrine"
+   ],
+   "wd": "Q702042"
+  },
+  {
+   "name": "고코쿠지",
+   "cat": "관광",
+   "area": "Ōtsuka",
+   "lat": 35.72167,
+   "lng": 139.72556,
+   "aliases": [
+    "Gokoku-ji Temple"
+   ],
+   "wd": "Q1534481"
+  },
+  {
+   "name": "Equestrian Park",
+   "cat": "관광",
+   "area": "Kami-Yōga",
+   "lat": 35.63681,
+   "lng": 139.63394,
+   "wd": "Q11667807"
+  },
+  {
+   "name": "우에노 동조궁",
+   "cat": "관광",
+   "area": "우에노코엔",
+   "lat": 35.71536,
+   "lng": 139.77058,
+   "aliases": [
+    "Ueno Tōshō-gū",
+    "우에노 도쇼구"
+   ],
+   "wd": "Q708550"
+  },
+  {
+   "name": "Rikugi Garden",
+   "cat": "관광",
+   "area": "혼코마고메",
+   "lat": 35.73306,
+   "lng": 139.74667,
+   "wd": "Q1889010"
+  },
+  {
+   "name": "시오카제 공원",
+   "cat": "관광",
+   "area": "Higashi-Yashio",
+   "lat": 35.62389,
+   "lng": 139.76889,
+   "aliases": [
+    "Shiokaze Park"
+   ],
+   "wd": "Q6630204"
+  },
+  {
+   "name": "Asakusa Mosque",
+   "cat": "관광",
+   "area": "Higashi-Asakusa",
+   "lat": 35.7218,
+   "lng": 139.801,
+   "wd": "Q15121515"
+  },
+  {
+   "name": "도쿄 대학 대학원 이학계 연구과 부속 식물원",
+   "cat": "관광",
+   "area": "하쿠산",
+   "lat": 35.71918,
+   "lng": 139.74538,
+   "aliases": [
+    "Koishikawa Botanical Garden",
+    "고이시카와 식물원",
+    "닛코 식물원"
+   ],
+   "wd": "Q1064892"
+  },
+  {
+   "name": "센가쿠지",
+   "cat": "관광",
+   "area": "다카나와",
+   "lat": 35.63773,
+   "lng": 139.73628,
+   "aliases": [
+    "Sengaku-ji Temple"
+   ],
+   "wd": "Q3176144"
+  },
+  {
+   "name": "Tokyo Gate Bridge",
+   "cat": "관광",
+   "area": "고토구",
+   "lat": 35.61139,
+   "lng": 139.82722,
+   "wd": "Q1644970"
+  },
+  {
+   "name": "데이코쿠 극장",
+   "cat": "관광",
+   "area": "마루노우치",
+   "lat": 35.67653,
+   "lng": 139.76075,
+   "aliases": [
+    "Imperial Theatre"
+   ],
+   "wd": "Q994171"
+  },
+  {
+   "name": "도쿄도 정원 미술관",
+   "cat": "관광",
+   "area": "시로카네다이",
+   "lat": 35.63686,
+   "lng": 139.71927,
+   "aliases": [
+    "Tokyo Metropolitan Teien Art Museum"
+   ],
+   "wd": "Q743773"
+  },
+  {
+   "name": "도쿄도 현대미술관",
+   "cat": "관광",
+   "area": "Miyoshi",
+   "lat": 35.68,
+   "lng": 139.80806,
+   "aliases": [
+    "Museum of Contemporary Art Tokyo"
+   ],
+   "wd": "Q1649688"
+  },
+  {
+   "name": "도쿄도 사진미술관",
+   "cat": "관광",
+   "area": "도쿄도",
+   "lat": 35.6417,
+   "lng": 139.7132,
+   "aliases": [
+    "Tokyo Photographic Art Museum"
+   ],
+   "wd": "Q862884"
+  },
+  {
+   "name": "네즈 미술관",
+   "cat": "관광",
+   "area": "Minami-Aoyama",
+   "lat": 35.66216,
+   "lng": 139.7176,
+   "aliases": [
+    "Nezu Museum"
+   ],
+   "wd": "Q1047097"
+  },
+  {
+   "name": "고토쿠지",
+   "cat": "관광",
+   "area": "Gōtokuji",
+   "lat": 35.64877,
+   "lng": 139.64742,
+   "aliases": [
+    "Gōtoku-ji Temple"
+   ],
+   "wd": "Q11634381"
+  },
+  {
+   "name": "고이시카와 고라쿠엔",
+   "cat": "관광",
+   "area": "고라쿠",
+   "lat": 35.70556,
+   "lng": 139.74917,
+   "aliases": [
+    "Koishikawa Kōrakuen Garden"
+   ],
+   "wd": "Q1778881"
+  },
+  {
+   "name": "유시마 텐만구",
+   "cat": "관광",
+   "area": "유시마",
+   "lat": 35.70777,
+   "lng": 139.76823,
+   "aliases": [
+    "Yushima Tenmangū"
+   ],
+   "wd": "Q335606"
+  },
+  {
+   "name": "Kiyosumi Garden",
+   "cat": "관광",
+   "area": "Kiyosumi",
+   "lat": 35.67994,
+   "lng": 139.79772,
+   "wd": "Q4388146"
+  },
+  {
+   "name": "Tōgō Shrine",
+   "cat": "관광",
+   "area": "진구마에",
+   "lat": 35.67181,
+   "lng": 139.70592,
+   "wd": "Q1384780"
+  }
+ ]
+}

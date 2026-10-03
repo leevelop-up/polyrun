@@ -1,0 +1,768 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "두바이 몰",
+   "cat": "쇼핑",
+   "area": "두바이",
+   "lat": 25.1975,
+   "lng": 55.27917,
+   "aliases": [
+    "Dubai Mall"
+   ],
+   "wd": "Q1133309"
+  },
+  {
+   "name": "몰 오브 디 에미리트",
+   "cat": "쇼핑",
+   "area": "두바이",
+   "lat": 25.11806,
+   "lng": 55.20056,
+   "aliases": [
+    "Mall of the Emirates",
+    "몰오브더에미리트",
+    "몰오브에미리트",
+    "몰 오브 에미리트"
+   ],
+   "wd": "Q1066448"
+  },
+  {
+   "name": "두바이 박물관",
+   "cat": "관광",
+   "area": "Bur Dubai",
+   "lat": 25.26306,
+   "lng": 55.29722,
+   "aliases": [
+    "Dubai Museum"
+   ],
+   "wd": "Q2125281"
+  },
+  {
+   "name": "두바이 분수",
+   "cat": "관광",
+   "area": "두바이 토후국",
+   "lat": 25.19519,
+   "lng": 55.27506,
+   "aliases": [
+    "The Dubai Fountain"
+   ],
+   "wd": "Q2384491"
+  },
+  {
+   "name": "두바이랜드",
+   "cat": "관광",
+   "area": "두바이",
+   "lat": 25.075,
+   "lng": 55.36389,
+   "aliases": [
+    "Dubailand"
+   ],
+   "wd": "Q787902"
+  },
+  {
+   "name": "Museum of the Future",
+   "cat": "관광",
+   "area": "두바이",
+   "lat": 25.21912,
+   "lng": 55.2821,
+   "wd": "Q22948398"
+  },
+  {
+   "name": "두바이 크릭 하버 더 타워",
+   "cat": "관광",
+   "area": "두바이",
+   "lat": 25.19762,
+   "lng": 55.35519,
+   "aliases": [
+    "Dubai Creek Tower"
+   ],
+   "wd": "Q24192494"
+  },
+  {
+   "name": "와일드 와디 워터파크",
+   "cat": "관광",
+   "area": "",
+   "lat": 25.13944,
+   "lng": 55.18917,
+   "aliases": [
+    "Wild Wadi Water Park"
+   ],
+   "wd": "Q200856"
+  },
+  {
+   "name": "Dubai Miracle Garden",
+   "cat": "관광",
+   "area": "두바이",
+   "lat": 25.05981,
+   "lng": 55.24454,
+   "wd": "Q21036724"
+  },
+  {
+   "name": "주메이라 모스크",
+   "cat": "관광",
+   "area": "두바이",
+   "lat": 25.23397,
+   "lng": 55.2655,
+   "aliases": [
+    "Jumeirah Mosque"
+   ],
+   "wd": "Q2298717"
+  },
+  {
+   "name": "Dubai Opera House",
+   "cat": "관광",
+   "area": "두바이",
+   "lat": 25.20795,
+   "lng": 55.3441,
+   "wd": "Q2913336"
+  },
+  {
+   "name": "Grand Mosque",
+   "cat": "관광",
+   "area": "두바이",
+   "lat": 25.26444,
+   "lng": 55.29667,
+   "wd": "Q5594813"
+  },
+  {
+   "name": "Ubora Towers",
+   "cat": "관광",
+   "area": "두바이 토후국",
+   "lat": 25.18056,
+   "lng": 55.27103,
+   "wd": "Q2472804"
+  },
+  {
+   "name": "D1",
+   "cat": "관광",
+   "area": "두바이",
+   "lat": 25.22683,
+   "lng": 55.34369,
+   "wd": "Q766332"
+  },
+  {
+   "name": "알 바스타키아",
+   "cat": "관광",
+   "area": "두바이 토후국",
+   "lat": 25.26389,
+   "lng": 55.3,
+   "aliases": [
+    "Al Bastakiya"
+   ],
+   "wd": "Q2094764"
+  },
+  {
+   "name": "Ibn Battuta Mall",
+   "cat": "관광",
+   "area": "두바이",
+   "lat": 25.04468,
+   "lng": 55.12194,
+   "wd": "Q511504"
+  },
+  {
+   "name": "Dubai Zoo",
+   "cat": "관광",
+   "area": "두바이",
+   "lat": 25.22237,
+   "lng": 55.25658,
+   "wd": "Q5310637"
+  },
+  {
+   "name": "Mall of Arabia",
+   "cat": "쇼핑",
+   "area": "두바이 토후국",
+   "lat": 25.07917,
+   "lng": 55.3175,
+   "wd": "Q1887506"
+  },
+  {
+   "name": "Wafi City",
+   "cat": "쇼핑",
+   "area": "두바이 토후국",
+   "lat": 25.22888,
+   "lng": 55.31925,
+   "wd": "Q2659361"
+  },
+  {
+   "name": "두바이 국제 금융 센터",
+   "cat": "관광",
+   "area": "두바이 토후국",
+   "lat": 25.21417,
+   "lng": 55.28139,
+   "aliases": [
+    "Dubai International Financial Centre"
+   ],
+   "wd": "Q3269086"
+  },
+  {
+   "name": "Al Noor Mosque",
+   "cat": "관광",
+   "area": "샤르자",
+   "lat": 25.335,
+   "lng": 55.38721,
+   "wd": "Q4704555"
+  },
+  {
+   "name": "유니버설 스튜디오 두바이랜드",
+   "cat": "관광",
+   "area": "",
+   "lat": 25.0592,
+   "lng": 55.3833,
+   "aliases": [
+    "Universal Studios Dubailand"
+   ],
+   "wd": "Q1135517"
+  },
+  {
+   "name": "Deira Clocktower",
+   "cat": "관광",
+   "area": "두바이",
+   "lat": 25.25861,
+   "lng": 55.32639,
+   "wd": "Q4346630"
+  },
+  {
+   "name": "Iranian Mosque, Bur Dubai",
+   "cat": "관광",
+   "area": "두바이",
+   "lat": 25.26372,
+   "lng": 55.29411,
+   "wd": "Q20987838"
+  },
+  {
+   "name": "IMG Worlds of Adventure",
+   "cat": "관광",
+   "area": "두바이 토후국",
+   "lat": 25.08306,
+   "lng": 55.31806,
+   "wd": "Q18206594"
+  },
+  {
+   "name": "Marina 106",
+   "cat": "관광",
+   "area": "두바이",
+   "lat": 25.08851,
+   "lng": 55.14955,
+   "wd": "Q1898210"
+  },
+  {
+   "name": "Safa Park",
+   "cat": "관광",
+   "area": "두바이",
+   "lat": 25.18611,
+   "lng": 55.24639,
+   "wd": "Q2522355"
+  },
+  {
+   "name": "BurJuman",
+   "cat": "쇼핑",
+   "area": "두바이 토후국",
+   "lat": 25.25306,
+   "lng": 55.30194,
+   "wd": "Q2386719"
+  },
+  {
+   "name": "러시안 오소닥스 철치",
+   "cat": "관광",
+   "area": "샤르자",
+   "lat": 25.35006,
+   "lng": 55.40417,
+   "aliases": [
+    "Russian Orthodox Church, Sharjah"
+   ],
+   "wd": "Q4505284"
+  },
+  {
+   "name": "Mushrif Park",
+   "cat": "관광",
+   "area": "두바이",
+   "lat": 25.21944,
+   "lng": 55.45056,
+   "wd": "Q6630347"
+  },
+  {
+   "name": "Zabeel Park",
+   "cat": "관광",
+   "area": "두바이",
+   "lat": 25.23531,
+   "lng": 55.29769,
+   "wd": "Q23583803"
+  },
+  {
+   "name": "Deira City Centre",
+   "cat": "쇼핑",
+   "area": "두바이 토후국",
+   "lat": 25.25139,
+   "lng": 55.33222,
+   "wd": "Q4037155"
+  },
+  {
+   "name": "St. Mary's Catholic Church, Dubai",
+   "cat": "관광",
+   "area": "두바이 토후국",
+   "lat": 25.2405,
+   "lng": 55.31759,
+   "wd": "Q7590104"
+  },
+  {
+   "name": "St. Michael's Catholic Church",
+   "cat": "관광",
+   "area": "샤르자 토후국",
+   "lat": 25.35001,
+   "lng": 55.40293,
+   "wd": "Q7590648"
+  },
+  {
+   "name": "King Faisal Mosque, Sharjah",
+   "cat": "관광",
+   "area": "샤르자 토후국",
+   "lat": 25.34944,
+   "lng": 55.3875,
+   "wd": "Q63745654"
+  },
+  {
+   "name": "Dubai Aquarium and Underwater Zoo",
+   "cat": "관광",
+   "area": "두바이",
+   "lat": 25.19756,
+   "lng": 55.27842,
+   "wd": "Q4059427"
+  },
+  {
+   "name": "Dubai Safari Park",
+   "cat": "관광",
+   "area": "두바이",
+   "lat": 25.1775,
+   "lng": 55.4494,
+   "wd": "Q48809735"
+  },
+  {
+   "name": "Al Garhoud Bridge",
+   "cat": "관광",
+   "area": "두바이 토후국",
+   "lat": 25.23331,
+   "lng": 55.33814,
+   "wd": "Q2535995"
+  },
+  {
+   "name": "Dubai Creek Tower",
+   "cat": "관광",
+   "area": "두바이 토후국",
+   "lat": 25.26056,
+   "lng": 55.31444,
+   "wd": "Q5310525"
+  },
+  {
+   "name": "Sharjah Art Museum",
+   "cat": "관광",
+   "area": "샤르자",
+   "lat": 25.3614,
+   "lng": 55.387,
+   "wd": "Q1835562"
+  },
+  {
+   "name": "Sharjah Museum of Islamic Civilization",
+   "cat": "관광",
+   "area": "샤르자 토후국",
+   "lat": 25.36492,
+   "lng": 55.38922,
+   "wd": "Q7489771"
+  },
+  {
+   "name": "알파히디 요새",
+   "cat": "관광",
+   "area": "",
+   "lat": 25.26344,
+   "lng": 55.29718,
+   "aliases": [
+    "Al Fahidi Fort"
+   ],
+   "wd": "Q292826"
+  },
+  {
+   "name": "Al Maktoum Bridge",
+   "cat": "관광",
+   "area": "",
+   "lat": 25.25205,
+   "lng": 55.32125,
+   "wd": "Q4263214"
+  },
+  {
+   "name": "Saeed Al Maktoum House",
+   "cat": "관광",
+   "area": "",
+   "lat": 25.26802,
+   "lng": 55.29001,
+   "wd": "Q4272517"
+  },
+  {
+   "name": "Floating Dubai Bridge",
+   "cat": "관광",
+   "area": "",
+   "lat": 25.24873,
+   "lng": 55.32631,
+   "wd": "Q5459867"
+  },
+  {
+   "name": "Sheikh Obaid bin Thani House",
+   "cat": "관광",
+   "area": "두바이",
+   "lat": 25.2686,
+   "lng": 55.29057,
+   "wd": "Q7492956"
+  },
+  {
+   "name": "Al Farooq Omar Bin Al Khatab mosque",
+   "cat": "관광",
+   "area": "두바이",
+   "lat": 25.171,
+   "lng": 55.233,
+   "wd": "Q18204928"
+  },
+  {
+   "name": "Etihad Museum",
+   "cat": "관광",
+   "area": "두바이",
+   "lat": 25.23921,
+   "lng": 55.26933,
+   "wd": "Q28736367"
+  },
+  {
+   "name": "Atlantis The Royal, Dubai",
+   "cat": "관광",
+   "area": "두바이",
+   "lat": 25.13814,
+   "lng": 55.12779,
+   "wd": "Q116730005"
+  },
+  {
+   "name": "Dubai Dolphinarium",
+   "cat": "관광",
+   "area": "두바이 토후국",
+   "lat": 25.2346,
+   "lng": 55.3267,
+   "wd": "Q2116901"
+  },
+  {
+   "name": "Jumeirah Archaeological Site",
+   "cat": "관광",
+   "area": "두바이 토후국",
+   "lat": 25.19679,
+   "lng": 55.2418,
+   "wd": "Q16892960"
+  },
+  {
+   "name": "Saint Gregory the Illuminator Armenian Apostolic church in Sharjah",
+   "cat": "관광",
+   "area": "샤르자",
+   "lat": 25.34917,
+   "lng": 55.40361,
+   "wd": "Q4505034"
+  },
+  {
+   "name": "Dubai Butterfly Garden",
+   "cat": "관광",
+   "area": "",
+   "lat": 25.06176,
+   "lng": 55.24654,
+   "wd": "Q110471376"
+  },
+  {
+   "name": "Emirates Golf Club",
+   "cat": "쇼핑",
+   "area": "두바이",
+   "lat": 25.08528,
+   "lng": 55.15984,
+   "wd": "Q5372570"
+  },
+  {
+   "name": "Dubai City Church",
+   "cat": "관광",
+   "area": "두바이",
+   "lat": 25.23788,
+   "lng": 55.3183,
+   "wd": "Q18205838"
+  },
+  {
+   "name": "Dubaï Moving Image Museum",
+   "cat": "관광",
+   "area": "두바이",
+   "lat": 25.09712,
+   "lng": 55.17888,
+   "wd": "Q18352718"
+  },
+  {
+   "name": "The Green Planet",
+   "cat": "관광",
+   "area": "두바이",
+   "lat": 25.20653,
+   "lng": 55.26063,
+   "wd": "Q115047510"
+  },
+  {
+   "name": "City Walk",
+   "cat": "쇼핑",
+   "area": "두바이",
+   "lat": 25.20753,
+   "lng": 55.2625,
+   "wd": "Q115200269"
+  },
+  {
+   "name": "Madame Tussauds Dubai",
+   "cat": "관광",
+   "area": "두바이",
+   "lat": 25.07904,
+   "lng": 55.12309,
+   "wd": "Q121359897"
+  },
+  {
+   "name": "Burj Binghatti Jacob & Co Residences",
+   "cat": "관광",
+   "area": "두바이",
+   "lat": 25.18678,
+   "lng": 55.29297,
+   "wd": "Q130601823"
+  },
+  {
+   "name": "Mohammed bin Rashid City",
+   "cat": "쇼핑",
+   "area": "두바이 토후국",
+   "lat": 25.1166,
+   "lng": 55.2884,
+   "wd": "Q3023507"
+  },
+  {
+   "name": "Mercato Shopping Mall",
+   "cat": "쇼핑",
+   "area": "두바이 토후국",
+   "lat": 25.21611,
+   "lng": 55.25278,
+   "wd": "Q6818049"
+  },
+  {
+   "name": "Mirdif City Centre",
+   "cat": "쇼핑",
+   "area": "두바이 토후국",
+   "lat": 25.21628,
+   "lng": 55.4074,
+   "wd": "Q6873078"
+  },
+  {
+   "name": "Al Sufouh Archaeological Site",
+   "cat": "관광",
+   "area": "두바이 토후국",
+   "lat": 25.11178,
+   "lng": 55.17562,
+   "wd": "Q16148650"
+  },
+  {
+   "name": "Masjid Al Rahim",
+   "cat": "관광",
+   "area": "두바이 토후국",
+   "lat": 25.06889,
+   "lng": 55.13194,
+   "wd": "Q18508368"
+  },
+  {
+   "name": "Dubai Coffee Museum",
+   "cat": "관광",
+   "area": "두바이 토후국",
+   "lat": 25.26347,
+   "lng": 55.30075,
+   "wd": "Q117599013"
+  },
+  {
+   "name": "Sharjah Fort",
+   "cat": "관광",
+   "area": "샤르자 토후국",
+   "lat": 25.3586,
+   "lng": 55.3864,
+   "wd": "Q12208338"
+  },
+  {
+   "name": "Salsali Private Museum",
+   "cat": "관광",
+   "area": "Al Quoz",
+   "lat": 25.13996,
+   "lng": 55.22565,
+   "wd": "Q2215263"
+  },
+  {
+   "name": "Dubai Marina Mall",
+   "cat": "쇼핑",
+   "area": "두바이 마리나",
+   "lat": 25.07639,
+   "lng": 55.14056,
+   "wd": "Q18450188"
+  },
+  {
+   "name": "Business Bay Crossing",
+   "cat": "관광",
+   "area": "",
+   "lat": 25.22649,
+   "lng": 55.3465,
+   "wd": "Q5001684"
+  },
+  {
+   "name": "At the Top Burj Khalifa",
+   "cat": "관광",
+   "area": "",
+   "lat": 25.1975,
+   "lng": 55.27917,
+   "wd": "Q16471100"
+  },
+  {
+   "name": "Iranian Mosque, Satwa",
+   "cat": "관광",
+   "area": "",
+   "lat": 25.23209,
+   "lng": 55.27737,
+   "wd": "Q20874625"
+  },
+  {
+   "name": "Tashkeel Dubai",
+   "cat": "관광",
+   "area": "",
+   "lat": 25.15539,
+   "lng": 55.32338,
+   "wd": "Q22948684"
+  },
+  {
+   "name": "Jumeirah Golf Estates",
+   "cat": "쇼핑",
+   "area": "두바이",
+   "lat": 25.01361,
+   "lng": 55.18389,
+   "wd": "Q4118113"
+  },
+  {
+   "name": "Holy Trinity Church, Dubai",
+   "cat": "관광",
+   "area": "두바이",
+   "lat": 25.29323,
+   "lng": 55.3351,
+   "wd": "Q5886488"
+  },
+  {
+   "name": "Dragon Mart",
+   "cat": "쇼핑",
+   "area": "두바이",
+   "lat": 25.17391,
+   "lng": 55.41788,
+   "wd": "Q114877212"
+  },
+  {
+   "name": "Dubai Coins Museum",
+   "cat": "관광",
+   "area": "두바이",
+   "lat": 25.26455,
+   "lng": 55.29983,
+   "wd": "Q120357129"
+  },
+  {
+   "name": "Waterfront Market",
+   "cat": "쇼핑",
+   "area": "두바이",
+   "lat": 25.29188,
+   "lng": 55.32394,
+   "wd": "Q121308075"
+  },
+  {
+   "name": "Wafi Mall",
+   "cat": "쇼핑",
+   "area": "두바이",
+   "lat": 25.22979,
+   "lng": 55.31895,
+   "wd": "Q126172740"
+  },
+  {
+   "name": "Marina Promenade",
+   "cat": "관광",
+   "area": "두바이 토후국",
+   "lat": 25.075,
+   "lng": 55.13333,
+   "wd": "Q2681120"
+  },
+  {
+   "name": "The Palm Fountain",
+   "cat": "관광",
+   "area": "두바이 토후국",
+   "lat": 25.1279,
+   "lng": 55.1228,
+   "wd": "Q104869871"
+  },
+  {
+   "name": "Alserkal Avenue",
+   "cat": "관광",
+   "area": "Al Quoz",
+   "lat": 25.142,
+   "lng": 55.22629,
+   "wd": "Q4735796"
+  },
+  {
+   "name": "Adventureland",
+   "cat": "관광",
+   "area": "",
+   "lat": 25.2978,
+   "lng": 55.3723,
+   "wd": "Q4033433"
+  },
+  {
+   "name": "Dubai Creek Golf & Yacht Club",
+   "cat": "쇼핑",
+   "area": "",
+   "lat": 25.24169,
+   "lng": 55.33332,
+   "wd": "Q13574521"
+  },
+  {
+   "name": "Arabian Center",
+   "cat": "쇼핑",
+   "area": "",
+   "lat": 25.23544,
+   "lng": 55.43602,
+   "wd": "Q18205153"
+  },
+  {
+   "name": "Dubai Hills Mall",
+   "cat": "쇼핑",
+   "area": "",
+   "lat": 25.10125,
+   "lng": 55.23795,
+   "wd": "Q55610055"
+  },
+  {
+   "name": "Dubai Festival City Mall",
+   "cat": "쇼핑",
+   "area": "",
+   "lat": 25.22139,
+   "lng": 55.35028,
+   "wd": "Q106882588"
+  },
+  {
+   "name": "Camel Museum",
+   "cat": "관광",
+   "area": "",
+   "lat": 25.2683,
+   "lng": 55.2896,
+   "wd": "Q118896953"
+  },
+  {
+   "name": "Sharjah Heritage Museum",
+   "cat": "관광",
+   "area": "",
+   "lat": 25.3577,
+   "lng": 55.3847,
+   "wd": "Q118899409"
+  },
+  {
+   "name": "Uptown Tower",
+   "cat": "관광",
+   "area": "",
+   "lat": 25.06064,
+   "lng": 55.14166,
+   "wd": "Q133850062"
+  }
+ ]
+}

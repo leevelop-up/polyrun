@@ -1,0 +1,545 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "탕롱 왕궁",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.0325,
+   "lng": 105.83972,
+   "aliases": [
+    "Imperial Citadel of Thang Long"
+   ],
+   "wd": "Q206219"
+  },
+  {
+   "name": "호찌민 주석릉",
+   "cat": "관광",
+   "area": "Điện Biên",
+   "lat": 21.03667,
+   "lng": 105.83472,
+   "aliases": [
+    "Ho Chi Minh Mausoleum",
+    "호찌민 묘소"
+   ],
+   "wd": "Q874234"
+  },
+  {
+   "name": "문묘",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.02861,
+   "lng": 105.83556,
+   "aliases": [
+    "Temple of Literature"
+   ],
+   "wd": "Q1202019"
+  },
+  {
+   "name": "주석궁",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.03944,
+   "lng": 105.83444,
+   "aliases": [
+    "Presidential Palace of Vietnam"
+   ],
+   "wd": "Q864758"
+  },
+  {
+   "name": "바딘 광장",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.03667,
+   "lng": 105.83583,
+   "aliases": [
+    "Ba Ðình Square"
+   ],
+   "wd": "Q2234574"
+  },
+  {
+   "name": "하노이 오페라 하우스",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.02417,
+   "lng": 105.85778,
+   "aliases": [
+    "Hanoi Opera House"
+   ],
+   "wd": "Q1186043"
+  },
+  {
+   "name": "못꼿 사원",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.03574,
+   "lng": 105.83343,
+   "aliases": [
+    "One Pillar Pagoda",
+    "일주사"
+   ],
+   "wd": "Q1186292"
+  },
+  {
+   "name": "롱비엔 다리",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.04333,
+   "lng": 105.85889,
+   "aliases": [
+    "Long Bien Bridge"
+   ],
+   "wd": "Q2670019"
+  },
+  {
+   "name": "베트남 미술박물관",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.03062,
+   "lng": 105.83707,
+   "aliases": [
+    "Vietnam National Museum of Fine Arts"
+   ],
+   "wd": "Q3654706"
+  },
+  {
+   "name": "호찌민 박물관",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.03569,
+   "lng": 105.83262,
+   "aliases": [
+    "Ho Chi Minh Museum"
+   ],
+   "wd": "Q1055897"
+  },
+  {
+   "name": "성요셉 성당",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.0286,
+   "lng": 105.849,
+   "aliases": [
+    "Saint Joseph Cathedral"
+   ],
+   "wd": "Q1923783"
+  },
+  {
+   "name": "꼬 로아",
+   "cat": "관광",
+   "area": "Đông Anh district",
+   "lat": 21.11341,
+   "lng": 105.87321,
+   "aliases": [
+    "Co Loa Citadel"
+   ],
+   "wd": "Q798059"
+  },
+  {
+   "name": "쩐 꿕 사당",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.0479,
+   "lng": 105.837,
+   "aliases": [
+    "Trấn Quốc Pagoda"
+   ],
+   "wd": "Q864770"
+  },
+  {
+   "name": "터틀 타워",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.0279,
+   "lng": 105.8523,
+   "aliases": [
+    "Turtle Tower"
+   ],
+   "wd": "Q1134533"
+  },
+  {
+   "name": "베트남 여성 박물관",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.02346,
+   "lng": 105.85162,
+   "aliases": [
+    "Vietnamese Women’s Museum"
+   ],
+   "wd": "Q10743287"
+  },
+  {
+   "name": "하노이 깃대",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.03256,
+   "lng": 105.83977,
+   "aliases": [
+    "Flag Tower of Hanoi"
+   ],
+   "wd": "Q864752"
+  },
+  {
+   "name": "베트남 역사박물관",
+   "cat": "관광",
+   "area": "호안끼엠군",
+   "lat": 21.02472,
+   "lng": 105.85972,
+   "aliases": [
+    "National Museum of Vietnamese History"
+   ],
+   "wd": "Q5370414"
+  },
+  {
+   "name": "녓떤 대교",
+   "cat": "관광",
+   "area": "",
+   "lat": 21.09281,
+   "lng": 105.82071,
+   "aliases": [
+    "Nhật Tân Bridge"
+   ],
+   "wd": "Q3023944"
+  },
+  {
+   "name": "베트남 민족학 박물관",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.0406,
+   "lng": 105.799,
+   "aliases": [
+    "Vietnam Museum of Ethnology"
+   ],
+   "wd": "Q1048345"
+  },
+  {
+   "name": "끄어박 성당",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.04137,
+   "lng": 105.84071,
+   "aliases": [
+    "Cua Bac Church"
+   ],
+   "wd": "Q1088224"
+  },
+  {
+   "name": "Dong Xuan Market",
+   "cat": "쇼핑",
+   "area": "하노이",
+   "lat": 21.03816,
+   "lng": 105.85003,
+   "wd": "Q1094375"
+  },
+  {
+   "name": "하노이 박물관",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.011,
+   "lng": 105.786,
+   "aliases": [
+    "Hanoi Museum"
+   ],
+   "wd": "Q1835176"
+  },
+  {
+   "name": "함롱 성당",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.01864,
+   "lng": 105.85393,
+   "aliases": [
+    "Ham Long Church"
+   ],
+   "wd": "Q1932222"
+  },
+  {
+   "name": "꽌쓰 사",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.02449,
+   "lng": 105.84526,
+   "aliases": [
+    "Quán Sứ Temple"
+   ],
+   "wd": "Q7273080"
+  },
+  {
+   "name": "베트남 군사역사박물관",
+   "cat": "관광",
+   "area": "Tây Mỗ",
+   "lat": 21.01071,
+   "lng": 105.75425,
+   "aliases": [
+    "Vietnam Military History Museum"
+   ],
+   "wd": "Q1048785"
+  },
+  {
+   "name": "The Huc Bridge",
+   "cat": "관광",
+   "area": "호안끼엠군",
+   "lat": 21.03075,
+   "lng": 105.8528,
+   "wd": "Q10752403"
+  },
+  {
+   "name": "State Guest House",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.02664,
+   "lng": 105.85528,
+   "wd": "Q10743330"
+  },
+  {
+   "name": "꽌타인 사당",
+   "cat": "관광",
+   "area": "떠이호군",
+   "lat": 21.04311,
+   "lng": 105.83651,
+   "aliases": [
+    "Quán Thánh Temple",
+    "진무관"
+   ],
+   "wd": "Q5370148"
+  },
+  {
+   "name": "Thủ Lệ Park",
+   "cat": "관광",
+   "area": "",
+   "lat": 21.03028,
+   "lng": 105.8075,
+   "wd": "Q944021"
+  },
+  {
+   "name": "쯔엉즈엉 대교",
+   "cat": "관광",
+   "area": "",
+   "lat": 21.038,
+   "lng": 105.861,
+   "aliases": [
+    "Chương Dương Bridge"
+   ],
+   "wd": "Q3023443"
+  },
+  {
+   "name": "베트남 혁명 박물관",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.0253,
+   "lng": 105.8587,
+   "aliases": [
+    "Vietnam Museum of Revolution"
+   ],
+   "wd": "Q5370340"
+  },
+  {
+   "name": "호찌민 관저",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.0379,
+   "lng": 105.83355,
+   "aliases": [
+    "Presidential Palace Historical Site"
+   ],
+   "wd": "Q5370392"
+  },
+  {
+   "name": "통녓 공원",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.01576,
+   "lng": 105.84482,
+   "aliases": [
+    "Thống Nhất Park"
+   ],
+   "wd": "Q10752058"
+  },
+  {
+   "name": "Palais d'Expositions",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.02256,
+   "lng": 105.84418,
+   "wd": "Q16481383"
+  },
+  {
+   "name": "Al-Noor Mosque",
+   "cat": "관광",
+   "area": "호안끼엠군",
+   "lat": 21.03803,
+   "lng": 105.84753,
+   "wd": "Q124982776"
+  },
+  {
+   "name": "1-5 Square",
+   "cat": "관광",
+   "area": "",
+   "lat": 21.02306,
+   "lng": 105.84444,
+   "wd": "Q2027273"
+  },
+  {
+   "name": "Thăng Long Bridge",
+   "cat": "관광",
+   "area": "",
+   "lat": 21.098,
+   "lng": 105.786,
+   "wd": "Q3023384"
+  },
+  {
+   "name": "Hanoi Botanic Garden",
+   "cat": "관광",
+   "area": "",
+   "lat": 21.04056,
+   "lng": 105.83167,
+   "wd": "Q9010921"
+  },
+  {
+   "name": "베트남 공군 박물관",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 20.9997,
+   "lng": 105.829,
+   "aliases": [
+    "Vietnam People's Air Force Museum, Hanoi"
+   ],
+   "wd": "Q7928536"
+  },
+  {
+   "name": "Lenin Park",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.03168,
+   "lng": 105.83942,
+   "wd": "Q10752053"
+  },
+  {
+   "name": "Huu Tiep Lake",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.03791,
+   "lng": 105.8271,
+   "wd": "Q10771972"
+  },
+  {
+   "name": "Kính Thiên Palace",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.03766,
+   "lng": 105.8411,
+   "wd": "Q18415661"
+  },
+  {
+   "name": "하이바쯩 사원",
+   "cat": "관광",
+   "area": "",
+   "lat": 21.0123,
+   "lng": 105.857,
+   "aliases": [
+    "Hai Bà Trưng Temple"
+   ],
+   "wd": "Q2817231"
+  },
+  {
+   "name": "Thanh Trì Bridge",
+   "cat": "관광",
+   "area": "",
+   "lat": 21.098,
+   "lng": 105.786,
+   "wd": "Q3023373"
+  },
+  {
+   "name": "Vĩnh Tuy Bridge",
+   "cat": "관광",
+   "area": "",
+   "lat": 21.0044,
+   "lng": 105.876,
+   "wd": "Q3023933"
+  },
+  {
+   "name": "Duong River Bridge",
+   "cat": "관광",
+   "area": "",
+   "lat": 21.07771,
+   "lng": 105.90856,
+   "wd": "Q10752450"
+  },
+  {
+   "name": "Hanoi Citadel",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.03741,
+   "lng": 105.84043,
+   "wd": "Q4568216"
+  },
+  {
+   "name": "Vietnam National Museum of Nature",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.04641,
+   "lng": 105.8037,
+   "wd": "Q10743288"
+  },
+  {
+   "name": "Phu Dong Bridge",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.04133,
+   "lng": 105.93899,
+   "wd": "Q10771234"
+  },
+  {
+   "name": "Voi Phục Temple",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.03064,
+   "lng": 105.80414,
+   "wd": "Q10841709"
+  },
+  {
+   "name": "Dong Tru Bridge",
+   "cat": "관광",
+   "area": "하노이",
+   "lat": 21.07134,
+   "lng": 105.87799,
+   "wd": "Q11840154"
+  },
+  {
+   "name": "Trang Tien Plaza",
+   "cat": "쇼핑",
+   "area": "Tràng Tiền",
+   "lat": 21.0247,
+   "lng": 105.853,
+   "wd": "Q7833421"
+  },
+  {
+   "name": "Hòe Nhai Pagoda",
+   "cat": "관광",
+   "area": "바딘 지구",
+   "lat": 21.04243,
+   "lng": 105.84736,
+   "wd": "Q10748429"
+  },
+  {
+   "name": "통킹 의숙 광장",
+   "cat": "관광",
+   "area": "",
+   "lat": 21.03184,
+   "lng": 105.85146,
+   "aliases": [
+    "Đông Kinh Nghĩa Thục Square"
+   ],
+   "wd": "Q10810537"
+  },
+  {
+   "name": "Lý Quốc Sư Pagoda",
+   "cat": "관광",
+   "area": "",
+   "lat": 21.02944,
+   "lng": 105.84889,
+   "wd": "Q10841685"
+  }
+ ]
+}

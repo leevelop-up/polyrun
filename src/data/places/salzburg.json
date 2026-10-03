@@ -1,0 +1,416 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "호엔잘츠부르크성",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.795,
+   "lng": 13.0473,
+   "aliases": [
+    "Hohensalzburg Fortress"
+   ],
+   "wd": "Q679292"
+  },
+  {
+   "name": "잘츠부르크 대성당",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.79778,
+   "lng": 13.04694,
+   "aliases": [
+    "Salzburg Cathedral"
+   ],
+   "wd": "Q258908"
+  },
+  {
+   "name": "잘츠부르크 박물관",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.79861,
+   "lng": 13.04778,
+   "aliases": [
+    "Salzburg Museum"
+   ],
+   "wd": "Q2215920"
+  },
+  {
+   "name": "모차르트 생가",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.8,
+   "lng": 13.04333,
+   "aliases": [
+    "Mozart's birthplace"
+   ],
+   "wd": "Q3327039"
+  },
+  {
+   "name": "Church of the Holy Trinity, Salzburg",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.8031,
+   "lng": 13.0447,
+   "wd": "Q875584"
+  },
+  {
+   "name": "Franciscan Church, Salzburg",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.7982,
+   "lng": 13.0441,
+   "wd": "Q1450274"
+  },
+  {
+   "name": "Nonnberg Abbey",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.79611,
+   "lng": 13.05167,
+   "wd": "Q693876"
+  },
+  {
+   "name": "Kollegienkirche, Salzburg",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.7992,
+   "lng": 13.0431,
+   "wd": "Q1779328"
+  },
+  {
+   "name": "잘츠부르크 동물원",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.75682,
+   "lng": 13.06408,
+   "aliases": [
+    "Salzburg Zoo"
+   ],
+   "wd": "Q220080"
+  },
+  {
+   "name": "Haus für Mozart",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.7978,
+   "lng": 13.0425,
+   "wd": "Q493923"
+  },
+  {
+   "name": "Großes Festspielhaus",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.7986,
+   "lng": 13.0411,
+   "wd": "Q669768"
+  },
+  {
+   "name": "Residenzplatz",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.7984,
+   "lng": 13.0464,
+   "wd": "Q875360"
+  },
+  {
+   "name": "Schloss Leopoldskron",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.7883,
+   "lng": 13.0386,
+   "wd": "Q14523328"
+  },
+  {
+   "name": "Salzburg Residenz",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.7983,
+   "lng": 13.0458,
+   "wd": "Q875404"
+  },
+  {
+   "name": "Museum der Moderne Salzburg",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.80077,
+   "lng": 13.0383,
+   "wd": "Q1775271"
+  },
+  {
+   "name": "Felsenreitschule",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.7983,
+   "lng": 13.0417,
+   "wd": "Q669783"
+  },
+  {
+   "name": "Residenzgalerie Salzburg",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.7983,
+   "lng": 13.0458,
+   "wd": "Q1248553"
+  },
+  {
+   "name": "Salzburger Landestheater",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.8028,
+   "lng": 13.0428,
+   "wd": "Q1691028"
+  },
+  {
+   "name": "Hangar-7",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.7937,
+   "lng": 13.0073,
+   "wd": "Q27342"
+  },
+  {
+   "name": "Sebastianskirche",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.804,
+   "lng": 13.0475,
+   "wd": "Q1597013"
+  },
+  {
+   "name": "Neue Residenz",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.7984,
+   "lng": 13.0475,
+   "wd": "Q1979726"
+  },
+  {
+   "name": "Schloss Goldenstein",
+   "cat": "관광",
+   "area": "Elsbethen",
+   "lat": 47.75889,
+   "lng": 13.08139,
+   "wd": "Q2241229"
+  },
+  {
+   "name": "Galerie Thaddaeus Ropac",
+   "cat": "관광",
+   "area": "파리",
+   "lat": 47.80428,
+   "lng": 13.0431,
+   "wd": "Q1491888"
+  },
+  {
+   "name": "Mirabellgarten",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.8041,
+   "lng": 13.0426,
+   "wd": "Q250852"
+  },
+  {
+   "name": "Markuskirche (Salzburg)",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.8021,
+   "lng": 13.0386,
+   "wd": "Q1901924"
+  },
+  {
+   "name": "Michaelskirche",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.7989,
+   "lng": 13.0469,
+   "wd": "Q1930208"
+  },
+  {
+   "name": "모차르트 광장",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.79886,
+   "lng": 13.04746,
+   "aliases": [
+    "Mozartplatz"
+   ],
+   "wd": "Q1951321"
+  },
+  {
+   "name": "Alter Markt",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.7996,
+   "lng": 13.045,
+   "wd": "Q438094"
+  },
+  {
+   "name": "Fotohof",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.8109,
+   "lng": 13.03028,
+   "wd": "Q1299089"
+  },
+  {
+   "name": "Erhardkirche",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.7952,
+   "lng": 13.0513,
+   "wd": "Q1350971"
+  },
+  {
+   "name": "Schloss Neuhaus",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.8089,
+   "lng": 13.0736,
+   "wd": "Q1794129"
+  },
+  {
+   "name": "Monatsschlössl",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.75978,
+   "lng": 13.06395,
+   "wd": "Q1944082"
+  },
+  {
+   "name": "St. Blasius Church",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.8001,
+   "lng": 13.0397,
+   "wd": "Q1021482"
+  },
+  {
+   "name": "Loretokirche (Salzburg)",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.805,
+   "lng": 13.0462,
+   "wd": "Q1237398"
+  },
+  {
+   "name": "Stefan Zweig Centre Salzburg",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.79733,
+   "lng": 13.04197,
+   "wd": "Q1322404"
+  },
+  {
+   "name": "Franziskischlössl",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.80515,
+   "lng": 13.05897,
+   "wd": "Q1450394"
+  },
+  {
+   "name": "Haus der Natur Salzburg",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.8017,
+   "lng": 13.0392,
+   "wd": "Q1590790"
+  },
+  {
+   "name": "Kupelwieser-Schlössl, Salzburg",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.7944,
+   "lng": 13.0399,
+   "wd": "Q1792786"
+  },
+  {
+   "name": "Pfarrkirche Mülln",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.80566,
+   "lng": 13.03533,
+   "wd": "Q2082845"
+  },
+  {
+   "name": "Salzburger Barockmuseum",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.8045,
+   "lng": 13.0431,
+   "wd": "Q2215938"
+  },
+  {
+   "name": "Stiftskirche Nonnberg",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.7961,
+   "lng": 13.0517,
+   "wd": "Q2348795"
+  },
+  {
+   "name": "Wasserturm Mönchsberg",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.8011,
+   "lng": 13.0382,
+   "wd": "Q2496936"
+  },
+  {
+   "name": "Andräkirche",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.80604,
+   "lng": 13.04376,
+   "wd": "Q15840306"
+  },
+  {
+   "name": "Priesterseminar Salzburg",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.80284,
+   "lng": 13.04474,
+   "wd": "Q58438943"
+  },
+  {
+   "name": "Mozarteum",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.80342,
+   "lng": 13.04193,
+   "wd": "Q66507250"
+  },
+  {
+   "name": "Kopernikus (Josef Thorak)",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.80507,
+   "lng": 13.041,
+   "wd": "Q106948603"
+  },
+  {
+   "name": "Wackersdorf Memorial (Salzburg)",
+   "cat": "관광",
+   "area": "잘츠부르크",
+   "lat": 47.79915,
+   "lng": 13.04847,
+   "wd": "Q136033322"
+  },
+  {
+   "name": "Pfarrkirche Mariae Verkündigung, Grödig",
+   "cat": "관광",
+   "area": "그뢰디히",
+   "lat": 47.74181,
+   "lng": 13.0356,
+   "wd": "Q37798765"
+  },
+  {
+   "name": "Schloss Radeck",
+   "cat": "관광",
+   "area": "Bergheim",
+   "lat": 47.8361,
+   "lng": 13.0561,
+   "wd": "Q1310566"
+  }
+ ]
+}

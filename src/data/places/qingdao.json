@@ -1,0 +1,193 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "자오저우만 대교",
+   "cat": "관광",
+   "area": "칭다오시",
+   "lat": 36.17048,
+   "lng": 120.29986,
+   "aliases": [
+    "Qingdao Jiaozhou Bay Bridge",
+    "자오저우완대교",
+    "교주만대교"
+   ],
+   "wd": "Q497367"
+  },
+  {
+   "name": "루쉰 공원",
+   "cat": "관광",
+   "area": "스난구",
+   "lat": 36.05472,
+   "lng": 120.32728,
+   "aliases": [
+    "Lu Xun Park"
+   ],
+   "wd": "Q1057710"
+  },
+  {
+   "name": "Zhanshan Temple",
+   "cat": "관광",
+   "area": "칭다오시",
+   "lat": 36.0646,
+   "lng": 120.3589,
+   "wd": "Q4570148"
+  },
+  {
+   "name": "Christ Church",
+   "cat": "관광",
+   "area": "스난구",
+   "lat": 36.06491,
+   "lng": 120.32301,
+   "wd": "Q11135096"
+  },
+  {
+   "name": "Bank of China Mansion, Qingdao",
+   "cat": "관광",
+   "area": "칭다오시",
+   "lat": 36.06561,
+   "lng": 120.39133,
+   "wd": "Q2304267"
+  },
+  {
+   "name": "칭다오 아쿠아리움",
+   "cat": "관광",
+   "area": "칭다오시",
+   "lat": 36.05686,
+   "lng": 120.33597,
+   "aliases": [
+    "Qingdao Aquarium"
+   ],
+   "wd": "Q14594862"
+  },
+  {
+   "name": "Xiao Qingdao Lighthouse",
+   "cat": "관광",
+   "area": "스난구",
+   "lat": 36.05323,
+   "lng": 120.31871,
+   "wd": "Q183107"
+  },
+  {
+   "name": "Jiaozhou Governor's Hall",
+   "cat": "관광",
+   "area": "스난구",
+   "lat": 36.06477,
+   "lng": 120.32757,
+   "wd": "Q6191928"
+  },
+  {
+   "name": "St. Paul's Church Qingdao",
+   "cat": "관광",
+   "area": "스난구",
+   "lat": 36.07231,
+   "lng": 120.32306,
+   "wd": "Q17028531"
+  },
+  {
+   "name": "Former German Imperial Post Office, Qingdao",
+   "cat": "관광",
+   "area": "",
+   "lat": 36.06328,
+   "lng": 120.31667,
+   "wd": "Q15942934"
+  },
+  {
+   "name": "Tai-tung-chen Protestant Church",
+   "cat": "관광",
+   "area": "산둥성",
+   "lat": 36.085,
+   "lng": 120.34722,
+   "wd": "Q9384042"
+  },
+  {
+   "name": "Ju-Nui-San Lighthouse",
+   "cat": "관광",
+   "area": "스난구",
+   "lat": 36.04498,
+   "lng": 120.28265,
+   "wd": "Q15915601"
+  },
+  {
+   "name": "Former Tsingtau Club",
+   "cat": "관광",
+   "area": "스난구",
+   "lat": 36.06289,
+   "lng": 120.31422,
+   "wd": "Q15915724"
+  },
+  {
+   "name": "Matijiao Lighthouse",
+   "cat": "관광",
+   "area": "칭다오시",
+   "lat": 36.07669,
+   "lng": 120.2896,
+   "wd": "Q30850506"
+  },
+  {
+   "name": "Former Shanzuo Bank, Qingdao",
+   "cat": "관광",
+   "area": "칭다오시",
+   "lat": 36.06706,
+   "lng": 120.31314,
+   "wd": "Q30946257"
+  },
+  {
+   "name": "Former National Industrial Bank of China Qingdao branch",
+   "cat": "관광",
+   "area": "칭다오시",
+   "lat": 36.06681,
+   "lng": 120.31261,
+   "wd": "Q30946275"
+  },
+  {
+   "name": "Former Kincheng Bank Qingdao branch",
+   "cat": "관광",
+   "area": "칭다오시",
+   "lat": 36.06728,
+   "lng": 120.31239,
+   "wd": "Q30946280"
+  },
+  {
+   "name": "Chapel of German Government, Qingdao",
+   "cat": "관광",
+   "area": "칭다오시",
+   "lat": 36.06319,
+   "lng": 120.32278,
+   "wd": "Q30947525"
+  },
+  {
+   "name": "Church of Christ in China, Qingdao",
+   "cat": "관광",
+   "area": "칭다오시",
+   "lat": 36.06933,
+   "lng": 120.3255,
+   "wd": "Q30948192"
+  },
+  {
+   "name": "Qingdao Textile Museum",
+   "cat": "관광",
+   "area": "",
+   "lat": 36.145,
+   "lng": 120.37389,
+   "wd": "Q17028606"
+  },
+  {
+   "name": "A.Siemssen Apartment House at Friedrich Str.",
+   "cat": "관광",
+   "area": "",
+   "lat": 36.06778,
+   "lng": 120.31294,
+   "wd": "Q67110912"
+  },
+  {
+   "name": "Qingdao Tobacco Museum",
+   "cat": "관광",
+   "area": "",
+   "lat": 36.08762,
+   "lng": 120.3391,
+   "wd": "Q17028584"
+  }
+ ]
+}

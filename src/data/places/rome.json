@@ -1,0 +1,1058 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "성 베드로 대성전",
+   "cat": "관광",
+   "area": "바티칸 시국",
+   "lat": 41.90222,
+   "lng": 12.45342,
+   "aliases": [
+    "St. Peter's Basilica"
+   ],
+   "wd": "Q12512"
+  },
+  {
+   "name": "시스티나 성당",
+   "cat": "관광",
+   "area": "바티칸 시국",
+   "lat": 41.90296,
+   "lng": 12.45443,
+   "aliases": [
+    "Sistine Chapel"
+   ],
+   "wd": "Q2943"
+  },
+  {
+   "name": "판테온",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89861,
+   "lng": 12.47694,
+   "aliases": [
+    "Pantheon"
+   ],
+   "wd": "Q99309"
+  },
+  {
+   "name": "포로 로마노",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.8922,
+   "lng": 12.4852,
+   "aliases": [
+    "Roman Forum",
+    "포룸 로마눔",
+    "로마 포럼",
+    "로마 포룸"
+   ],
+   "wd": "Q180212"
+  },
+  {
+   "name": "성 베드로 광장",
+   "cat": "관광",
+   "area": "바티칸 시국",
+   "lat": 41.90218,
+   "lng": 12.45724,
+   "aliases": [
+    "Saint Peter's Square",
+    "성 베드루 광장",
+    "산 피에트로 광장"
+   ],
+   "wd": "Q83425"
+  },
+  {
+   "name": "바티칸 미술관",
+   "cat": "관광",
+   "area": "바티칸 시국",
+   "lat": 41.90639,
+   "lng": 12.45444,
+   "aliases": [
+    "Vatican Museums",
+    "바티칸 박물관"
+   ],
+   "wd": "Q182955"
+  },
+  {
+   "name": "산조반니 인 라테라노 대성전",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.88591,
+   "lng": 12.50616,
+   "aliases": [
+    "Archbasilica of St. John Lateran",
+    "산 조반니 인 라테라노 대성당",
+    "성 요한 라테라노 대성전",
+    "라테란 대성전"
+   ],
+   "wd": "Q84090"
+  },
+  {
+   "name": "팔라티노 언덕",
+   "cat": "관광",
+   "area": "로마 1구",
+   "lat": 41.88833,
+   "lng": 12.48694,
+   "aliases": [
+    "Palatine Hill"
+   ],
+   "wd": "Q200642"
+  },
+  {
+   "name": "사도궁",
+   "cat": "관광",
+   "area": "바티칸 시국",
+   "lat": 41.90361,
+   "lng": 12.45639,
+   "aliases": [
+    "Apostolic Palace",
+    "식스투스 5세의 궁전"
+   ],
+   "wd": "Q145093"
+  },
+  {
+   "name": "산타마리아 마조레 대성전",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.8975,
+   "lng": 12.49861,
+   "aliases": [
+    "Basilica di Santa Maria Maggiore",
+    "성모 설지전",
+    "리베리오 대성전",
+    "성모 대성전"
+   ],
+   "wd": "Q186282"
+  },
+  {
+   "name": "산탄젤로성",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.90304,
+   "lng": 12.46631,
+   "aliases": [
+    "Castel Sant'Angelo",
+    "하드리아누스의 영묘",
+    "성천사 성",
+    "성천사성"
+   ],
+   "wd": "Q486382"
+  },
+  {
+   "name": "산파올로 푸오리 레 무라 대성전",
+   "cat": "관광",
+   "area": "Roma Capitale",
+   "lat": 41.85861,
+   "lng": 12.47722,
+   "aliases": [
+    "Basilica of Saint Paul outside the Walls",
+    "성 밖의 성 바올로 대성당",
+    "산 파올로 푸오리 레 무라 대성당",
+    "성 밖 성 바오로 대성전"
+   ],
+   "wd": "Q231699"
+  },
+  {
+   "name": "트라야누스 원주",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89583,
+   "lng": 12.48417,
+   "aliases": [
+    "Trajan's Column"
+   ],
+   "wd": "Q192784"
+  },
+  {
+   "name": "퀴리날레궁",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.9,
+   "lng": 12.4875,
+   "aliases": [
+    "Quirinal Palace"
+   ],
+   "wd": "Q223079"
+  },
+  {
+   "name": "키르쿠스 막시무스",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.8859,
+   "lng": 12.4857,
+   "aliases": [
+    "Circus Maximus"
+   ],
+   "wd": "Q207808"
+  },
+  {
+   "name": "콘스탄티누스 개선문",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.88983,
+   "lng": 12.49061,
+   "aliases": [
+    "Arch of Constantine"
+   ],
+   "wd": "Q5786"
+  },
+  {
+   "name": "아우렐리아누스 성벽",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.87329,
+   "lng": 12.49896,
+   "aliases": [
+    "Aurelian Walls"
+   ],
+   "wd": "Q625149"
+  },
+  {
+   "name": "트라야누스 포룸",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89542,
+   "lng": 12.48587,
+   "aliases": [
+    "Trajan's Forum"
+   ],
+   "wd": "Q211295"
+  },
+  {
+   "name": "나보나 광장",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89871,
+   "lng": 12.47316,
+   "aliases": [
+    "Piazza Navona"
+   ],
+   "wd": "Q463400"
+  },
+  {
+   "name": "보르게세 미술관",
+   "cat": "관광",
+   "area": "Roma Capitale",
+   "lat": 41.91421,
+   "lng": 12.49214,
+   "aliases": [
+    "Galleria Borghese"
+   ],
+   "wd": "Q841506"
+  },
+  {
+   "name": "카피톨리노 박물관",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89306,
+   "lng": 12.48278,
+   "aliases": [
+    "Capitoline Museums",
+    "카피톨리노 미술관"
+   ],
+   "wd": "Q333906"
+  },
+  {
+   "name": "Altare della Patria",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89472,
+   "lng": 12.48306,
+   "wd": "Q506234"
+  },
+  {
+   "name": "티투스 개선문",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89072,
+   "lng": 12.48859,
+   "aliases": [
+    "Arch of Titus",
+    "티투스 아치"
+   ],
+   "wd": "Q723887"
+  },
+  {
+   "name": "카라칼라 욕장",
+   "cat": "관광",
+   "area": "Roma Capitale",
+   "lat": 41.88026,
+   "lng": 12.49276,
+   "aliases": [
+    "Baths of Caracalla"
+   ],
+   "wd": "Q502098"
+  },
+  {
+   "name": "산 피에트로 인 빈콜리 성당",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89387,
+   "lng": 12.49307,
+   "aliases": [
+    "San Pietro in Vincoli"
+   ],
+   "wd": "Q542070"
+  },
+  {
+   "name": "평화의 제단",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.90639,
+   "lng": 12.47556,
+   "aliases": [
+    "Ara Pacis"
+   ],
+   "wd": "Q623612"
+  },
+  {
+   "name": "Church of the Gesù",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89583,
+   "lng": 12.47972,
+   "wd": "Q719794"
+  },
+  {
+   "name": "베스타 신전",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89171,
+   "lng": 12.48621,
+   "aliases": [
+    "Temple of Vesta"
+   ],
+   "wd": "Q753791"
+  },
+  {
+   "name": "아우구스투스 마우솔레움",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.90611,
+   "lng": 12.47639,
+   "aliases": [
+    "Mausoleum of Augustus",
+    "아우구스투스 영묘"
+   ],
+   "wd": "Q770847"
+  },
+  {
+   "name": "스페인 광장",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.90595,
+   "lng": 12.48206,
+   "aliases": [
+    "Piazza di Spagna"
+   ],
+   "wd": "Q15124814"
+  },
+  {
+   "name": "라테라노궁",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.88667,
+   "lng": 12.50528,
+   "aliases": [
+    "Lateran Palace",
+    "라테란 궁전",
+    "라테라노 궁전",
+    "라테란궁"
+   ],
+   "wd": "Q848394"
+  },
+  {
+   "name": "포폴로 광장",
+   "cat": "관광",
+   "area": "로마 1구",
+   "lat": 41.91071,
+   "lng": 12.47632,
+   "aliases": [
+    "piazza del Popolo"
+   ],
+   "wd": "Q824997"
+  },
+  {
+   "name": "셉티미우스 세베루스 개선문",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89278,
+   "lng": 12.48472,
+   "aliases": [
+    "Arch of Septimius Severus (Roman Forum)"
+   ],
+   "wd": "Q162353"
+  },
+  {
+   "name": "파르네세궁",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89469,
+   "lng": 12.47081,
+   "aliases": [
+    "Palazzo Farnese"
+   ],
+   "wd": "Q848386"
+  },
+  {
+   "name": "베네치아 광장",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89639,
+   "lng": 12.4825,
+   "aliases": [
+    "piazza Venezia"
+   ],
+   "wd": "Q874832"
+  },
+  {
+   "name": "황제들의 포룸",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89444,
+   "lng": 12.48556,
+   "aliases": [
+    "Imperial fora"
+   ],
+   "wd": "Q216568"
+  },
+  {
+   "name": "세르비아누스 성벽",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.90167,
+   "lng": 12.50167,
+   "aliases": [
+    "Servian Wall"
+   ],
+   "wd": "Q281330"
+  },
+  {
+   "name": "Cloaca Maxima",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.88889,
+   "lng": 12.48028,
+   "wd": "Q746102"
+  },
+  {
+   "name": "Domus Aurea",
+   "cat": "관광",
+   "area": "Roma Capitale",
+   "lat": 41.89139,
+   "lng": 12.49528,
+   "wd": "Q622438"
+  },
+  {
+   "name": "산탄젤로 다리",
+   "cat": "관광",
+   "area": "Roma Capitale",
+   "lat": 41.9018,
+   "lng": 12.46645,
+   "aliases": [
+    "Ponte Sant'Angelo",
+    "엘리오 다리",
+    "성천사 다리",
+    "성 천사의 다리"
+   ],
+   "wd": "Q870476"
+  },
+  {
+   "name": "Santa Maria in Aracoeli",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89389,
+   "lng": 12.48333,
+   "wd": "Q318660"
+  },
+  {
+   "name": "콰트로 피우미 분수",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89895,
+   "lng": 12.47307,
+   "aliases": [
+    "Four Rivers Fountain"
+   ],
+   "wd": "Q655470"
+  },
+  {
+   "name": "마르켈루스 극장",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89191,
+   "lng": 12.47948,
+   "aliases": [
+    "Theatre of Marcellus"
+   ],
+   "wd": "Q659138"
+  },
+  {
+   "name": "산 로렌초 푸오리 레 무라 성당",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.90253,
+   "lng": 12.52055,
+   "aliases": [
+    "Basilica of Saint Lawrence Outside the Walls"
+   ],
+   "wd": "Q738214"
+  },
+  {
+   "name": "Temple of Saturn",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89243,
+   "lng": 12.48411,
+   "wd": "Q746721"
+  },
+  {
+   "name": "산타 마리아 델라 비토리아 성당",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.90466,
+   "lng": 12.49434,
+   "aliases": [
+    "Santa Maria della Vittoria"
+   ],
+   "wd": "Q863593"
+  },
+  {
+   "name": "캄포 데 피오리",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89566,
+   "lng": 12.47205,
+   "aliases": [
+    "Campo de' Fiori"
+   ],
+   "wd": "Q28303"
+  },
+  {
+   "name": "성녀 마르타 호텔",
+   "cat": "관광",
+   "area": "바티칸 시국",
+   "lat": 41.90056,
+   "lng": 12.45333,
+   "aliases": [
+    "Domus Sanctae Marthae"
+   ],
+   "wd": "Q665917"
+  },
+  {
+   "name": "밀비오 다리",
+   "cat": "관광",
+   "area": "Roma Capitale",
+   "lat": 41.93556,
+   "lng": 12.46694,
+   "aliases": [
+    "Ponte Milvio"
+   ],
+   "wd": "Q1127325"
+  },
+  {
+   "name": "Temple of Castor and Pollux",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89167,
+   "lng": 12.48556,
+   "wd": "Q380530"
+  },
+  {
+   "name": "산 루이지 데이 프란체시 성당",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89958,
+   "lng": 12.47467,
+   "aliases": [
+    "San Luigi dei Francesi"
+   ],
+   "wd": "Q638283"
+  },
+  {
+   "name": "예루살렘의 성십자가 성당",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.88778,
+   "lng": 12.51639,
+   "aliases": [
+    "Basilica of the Holy Cross in Jerusalem"
+   ],
+   "wd": "Q685940"
+  },
+  {
+   "name": "산타 마리아 소프라 미네르바 성당",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89806,
+   "lng": 12.47833,
+   "aliases": [
+    "Santa Maria sopra Minerva"
+   ],
+   "wd": "Q823685"
+  },
+  {
+   "name": "산타 마리아 델 포폴로 성당",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.91145,
+   "lng": 12.47648,
+   "aliases": [
+    "Santa Maria del Popolo"
+   ],
+   "wd": "Q869513"
+  },
+  {
+   "name": "로마 국립박물관",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.90343,
+   "lng": 12.49902,
+   "aliases": [
+    "Museo Nazionale Romano"
+   ],
+   "wd": "Q1135392"
+  },
+  {
+   "name": "빌라 파르네시나",
+   "cat": "관광",
+   "area": "Roma Capitale",
+   "lat": 41.89361,
+   "lng": 12.4675,
+   "aliases": [
+    "Villa Farnesina",
+    "빌라 키지"
+   ],
+   "wd": "Q1126723"
+  },
+  {
+   "name": "Tabularium",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89278,
+   "lng": 12.48361,
+   "wd": "Q568342"
+  },
+  {
+   "name": "Catacombs of Rome",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89444,
+   "lng": 12.49833,
+   "wd": "Q741051"
+  },
+  {
+   "name": "산 카를로 알레 콰트로 폰타네 성당",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.90181,
+   "lng": 12.49074,
+   "aliases": [
+    "Saint Charles at the Four Fountains",
+    "산 카를로 성당"
+   ],
+   "wd": "Q867329"
+  },
+  {
+   "name": "폼페이우스 극장",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89528,
+   "lng": 12.47361,
+   "aliases": [
+    "Theatre of Pompey"
+   ],
+   "wd": "Q944814"
+  },
+  {
+   "name": "Palazzo Barberini",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.90332,
+   "lng": 12.48986,
+   "wd": "Q1136614"
+  },
+  {
+   "name": "Basilica of Maxentius",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89194,
+   "lng": 12.48833,
+   "wd": "Q371921"
+  },
+  {
+   "name": "안토니누스와 파우스티나 신전",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89214,
+   "lng": 12.48669,
+   "aliases": [
+    "Temple of Antoninus and Faustina"
+   ],
+   "wd": "Q752555"
+  },
+  {
+   "name": "아우구스투스 포룸",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89417,
+   "lng": 12.48667,
+   "aliases": [
+    "Forum of Augustus"
+   ],
+   "wd": "Q770797"
+  },
+  {
+   "name": "포르투누스 신전",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.88926,
+   "lng": 12.48091,
+   "aliases": [
+    "Temple of Portunus"
+   ],
+   "wd": "Q849241"
+  },
+  {
+   "name": "Moschea di Roma",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.93472,
+   "lng": 12.495,
+   "wd": "Q1789776"
+  },
+  {
+   "name": "Palazzo Chigi",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.90123,
+   "lng": 12.47977,
+   "wd": "Q2047548"
+  },
+  {
+   "name": "산타 마리아 델리 안젤리 에 데이 마르티리 성당",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.90306,
+   "lng": 12.49694,
+   "aliases": [
+    "Santa Maria degli Angeli e dei Martiri"
+   ],
+   "wd": "Q569253"
+  },
+  {
+   "name": "유피테르 옵티무스 막시무스 신전",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89218,
+   "lng": 12.48169,
+   "aliases": [
+    "Temple of Jupiter Optimus Maximus"
+   ],
+   "wd": "Q586468"
+  },
+  {
+   "name": "디오클레티아누스 욕장",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.90278,
+   "lng": 12.49833,
+   "aliases": [
+    "Baths of Diocletian"
+   ],
+   "wd": "Q836108"
+  },
+  {
+   "name": "바르카차 분수",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.90581,
+   "lng": 12.48221,
+   "aliases": [
+    "Fontana della Barcaccia"
+   ],
+   "wd": "Q1114231"
+  },
+  {
+   "name": "베네치아궁",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.8962,
+   "lng": 12.4815,
+   "aliases": [
+    "Palazzo Venezia"
+   ],
+   "wd": "Q1123879"
+  },
+  {
+   "name": "트리니타 데이 몬티 교회",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.90625,
+   "lng": 12.48358,
+   "aliases": [
+    "Trinità dei Monti"
+   ],
+   "wd": "Q1229008"
+  },
+  {
+   "name": "바티칸 정원",
+   "cat": "관광",
+   "area": "바티칸 시국",
+   "lat": 41.90306,
+   "lng": 12.45056,
+   "aliases": [
+    "Gardens of Vatican City"
+   ],
+   "wd": "Q42003"
+  },
+  {
+   "name": "rostra",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89264,
+   "lng": 12.48461,
+   "wd": "Q426372"
+  },
+  {
+   "name": "Forum of Caesar",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89401,
+   "lng": 12.48494,
+   "wd": "Q856968"
+  },
+  {
+   "name": "로마 국립 오페라 극장",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.90083,
+   "lng": 12.49556,
+   "aliases": [
+    "Teatro dell'Opera di Roma",
+    "로마 국립가극장",
+    "로마 국립 가극장",
+    "코스탄치 극장"
+   ],
+   "wd": "Q1050350"
+  },
+  {
+   "name": "Temple of Caesar",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89204,
+   "lng": 12.48609,
+   "wd": "Q1133288"
+  },
+  {
+   "name": "Temple of Venus and Roma",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89089,
+   "lng": 12.48975,
+   "wd": "Q430792"
+  },
+  {
+   "name": "Forum Boarium",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.88889,
+   "lng": 12.48111,
+   "wd": "Q283650"
+  },
+  {
+   "name": "트라야누스 시장",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89561,
+   "lng": 12.48619,
+   "aliases": [
+    "Trajan's Market"
+   ],
+   "wd": "Q478642"
+  },
+  {
+   "name": "Curia Julia",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89293,
+   "lng": 12.4854,
+   "wd": "Q1144514"
+  },
+  {
+   "name": "산티냐시오 성당",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89904,
+   "lng": 12.47973,
+   "aliases": [
+    "Sant'Ignazio Church"
+   ],
+   "wd": "Q1465674"
+  },
+  {
+   "name": "산타 체칠리아 인 트라스테베레 성당",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.88756,
+   "lng": 12.47589,
+   "aliases": [
+    "Santa Cecilia in Trastevere"
+   ],
+   "wd": "Q1479873"
+  },
+  {
+   "name": "로토 다리",
+   "cat": "관광",
+   "area": "Roma Capitale",
+   "lat": 41.88944,
+   "lng": 12.47944,
+   "aliases": [
+    "Pons Aemilius"
+   ],
+   "wd": "Q640092"
+  },
+  {
+   "name": "아쿠아 아피아",
+   "cat": "관광",
+   "area": "",
+   "lat": 41.88785,
+   "lng": 12.48097,
+   "wd": "Q278579"
+  },
+  {
+   "name": "Temple of Hercules Victor",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.88873,
+   "lng": 12.48075,
+   "wd": "Q576929"
+  },
+  {
+   "name": "Temple of Concord",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89293,
+   "lng": 12.48424,
+   "wd": "Q828143"
+  },
+  {
+   "name": "평화의 신전",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89262,
+   "lng": 12.48761,
+   "aliases": [
+    "Temple of Peace"
+   ],
+   "wd": "Q1456939"
+  },
+  {
+   "name": "Galleria Nazionale d'Arte Antica",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.90278,
+   "lng": 12.48953,
+   "wd": "Q2266081"
+  },
+  {
+   "name": "바실리카 율리아",
+   "cat": "관광",
+   "area": "포로 로마노",
+   "lat": 41.89195,
+   "lng": 12.48478,
+   "aliases": [
+    "Basilica Julia"
+   ],
+   "wd": "Q616271"
+  },
+  {
+   "name": "산 피에트로 인 몬토리오 성당",
+   "cat": "관광",
+   "area": "Roma Capitale",
+   "lat": 41.88857,
+   "lng": 12.46651,
+   "aliases": [
+    "San Pietro in Montorio"
+   ],
+   "wd": "Q1258576"
+  },
+  {
+   "name": "로마 국립근현대미술관",
+   "cat": "관광",
+   "area": "Roma Capitale",
+   "lat": 41.91705,
+   "lng": 12.47998,
+   "aliases": [
+    "Galleria Nazionale d'Arte Moderna e Contemporanea di Roma"
+   ],
+   "wd": "Q1492387"
+  },
+  {
+   "name": "Baths of Agrippa",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89691,
+   "lng": 12.477,
+   "wd": "Q518832"
+  },
+  {
+   "name": "Teatro Argentina",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89556,
+   "lng": 12.47611,
+   "wd": "Q588377"
+  },
+  {
+   "name": "트라야누스 욕장",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89187,
+   "lng": 12.49628,
+   "aliases": [
+    "Baths of Trajan"
+   ],
+   "wd": "Q599035"
+  },
+  {
+   "name": "산 세바스티아노 푸오리 레 무라 성당",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.85556,
+   "lng": 12.51556,
+   "aliases": [
+    "San Sebastiano fuori le mura"
+   ],
+   "wd": "Q658051"
+  },
+  {
+   "name": "Porta Maggiore",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89146,
+   "lng": 12.51524,
+   "wd": "Q751318"
+  },
+  {
+   "name": "piazza Barberini",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.90361,
+   "lng": 12.48833,
+   "wd": "Q947037"
+  },
+  {
+   "name": "산타녜세 인 아고네 성당",
+   "cat": "관광",
+   "area": "로마",
+   "lat": 41.89877,
+   "lng": 12.4726,
+   "aliases": [
+    "Sant'Agnese in Agone"
+   ],
+   "wd": "Q1192577"
+  }
+ ]
+}

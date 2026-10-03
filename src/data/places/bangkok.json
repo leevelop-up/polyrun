@@ -1,0 +1,647 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "방콕 왕궁",
+   "cat": "관광",
+   "area": "Phra Borom Maha Ratchawang",
+   "lat": 13.75014,
+   "lng": 100.49203,
+   "aliases": [
+    "Grand Palace",
+    "차끄리 마하프라삿 궁전"
+   ],
+   "wd": "Q873769"
+  },
+  {
+   "name": "Bangkok National Museum",
+   "cat": "관광",
+   "area": "Phra Borom Maha Ratchawang",
+   "lat": 13.75783,
+   "lng": 100.49231,
+   "wd": "Q1255815"
+  },
+  {
+   "name": "라마 8세교",
+   "cat": "관광",
+   "area": "방콕",
+   "lat": 13.76917,
+   "lng": 100.49681,
+   "aliases": [
+    "Rama VIII Bridge"
+   ],
+   "wd": "Q1092231"
+  },
+  {
+   "name": "라마 9세교",
+   "cat": "관광",
+   "area": "방콕",
+   "lat": 13.68237,
+   "lng": 100.51791,
+   "aliases": [
+    "Rama IX Bridge"
+   ],
+   "wd": "Q1813523"
+  },
+  {
+   "name": "Dusit Palace",
+   "cat": "관광",
+   "area": "Dusit",
+   "lat": 13.77405,
+   "lng": 100.51246,
+   "wd": "Q2089016"
+  },
+  {
+   "name": "사남루앙",
+   "cat": "관광",
+   "area": "Phra Borom Maha Ratchawang",
+   "lat": 13.755,
+   "lng": 100.49306,
+   "aliases": [
+    "Sanam Luang"
+   ],
+   "wd": "Q767544"
+  },
+  {
+   "name": "푸미폰교",
+   "cat": "관광",
+   "area": "사뭇쁘라깐주",
+   "lat": 13.66071,
+   "lng": 100.53935,
+   "aliases": [
+    "Bhumibol Bridge"
+   ],
+   "wd": "Q855090"
+  },
+  {
+   "name": "성모 승천 대성당",
+   "cat": "관광",
+   "area": "Bang Rak",
+   "lat": 13.7231,
+   "lng": 100.5152,
+   "aliases": [
+    "Assumption Cathedral"
+   ],
+   "wd": "Q2495658"
+  },
+  {
+   "name": "전승기념탑",
+   "cat": "관광",
+   "area": "Thung Phaya Thai",
+   "lat": 13.76492,
+   "lng": 100.53829,
+   "aliases": [
+    "Victory Monument"
+   ],
+   "wd": "Q2063737"
+  },
+  {
+   "name": "치뜨랄다궁",
+   "cat": "관광",
+   "area": "Suan Chitlada",
+   "lat": 13.76934,
+   "lng": 100.52067,
+   "aliases": [
+    "Chitralada Royal Villa"
+   ],
+   "wd": "Q61053357"
+  },
+  {
+   "name": "끄룽텝교",
+   "cat": "관광",
+   "area": "Bang Kho Laem",
+   "lat": 13.70107,
+   "lng": 100.49166,
+   "aliases": [
+    "Krungthep Bridge"
+   ],
+   "wd": "Q949446"
+  },
+  {
+   "name": "Dusit Zoo",
+   "cat": "관광",
+   "area": "Dusit",
+   "lat": 13.7725,
+   "lng": 100.51639,
+   "wd": "Q1267646"
+  },
+  {
+   "name": "사파 야-사파 사탄",
+   "cat": "관광",
+   "area": "두싯",
+   "lat": 13.79581,
+   "lng": 100.51744,
+   "aliases": [
+    "Sappaya-Sapasathan"
+   ],
+   "wd": "Q25543625"
+  },
+  {
+   "name": "깐짜나피섹교",
+   "cat": "관광",
+   "area": "프라쁘라댕군",
+   "lat": 13.63333,
+   "lng": 100.53833,
+   "aliases": [
+    "Kanchanaphisek Bridge"
+   ],
+   "wd": "Q1723648"
+  },
+  {
+   "name": "거대한 그네",
+   "cat": "관광",
+   "area": "Sao Chingcha",
+   "lat": 13.75183,
+   "lng": 100.50127,
+   "aliases": [
+    "Sao Chingcha"
+   ],
+   "wd": "Q1279344"
+  },
+  {
+   "name": "프라풋타엿파교",
+   "cat": "관광",
+   "area": "Wang Burapha Phirom",
+   "lat": 13.73911,
+   "lng": 100.49819,
+   "aliases": [
+    "Memorial Bridge"
+   ],
+   "wd": "Q1519969"
+  },
+  {
+   "name": "National Art Gallery",
+   "cat": "관광",
+   "area": "Chana Songkhram",
+   "lat": 13.75895,
+   "lng": 100.49384,
+   "wd": "Q1968373"
+  },
+  {
+   "name": "Sri Maha Mariamman Temple, Bangkok",
+   "cat": "관광",
+   "area": "Si Lom",
+   "lat": 13.7242,
+   "lng": 100.5229,
+   "wd": "Q6761807"
+  },
+  {
+   "name": "Nana Plaza",
+   "cat": "관광",
+   "area": "",
+   "lat": 13.74136,
+   "lng": 100.55317,
+   "wd": "Q441839"
+  },
+  {
+   "name": "라마 6세교",
+   "cat": "관광",
+   "area": "Bang O",
+   "lat": 13.81325,
+   "lng": 100.51529,
+   "aliases": [
+    "Rama VI Bridge"
+   ],
+   "wd": "Q1538802"
+  },
+  {
+   "name": "라마 3세교",
+   "cat": "관광",
+   "area": "Thon Buri",
+   "lat": 13.70132,
+   "lng": 100.49233,
+   "aliases": [
+    "Rama III Bridge"
+   ],
+   "wd": "Q1813488"
+  },
+  {
+   "name": "딱신교",
+   "cat": "관광",
+   "area": "싸톤",
+   "lat": 13.71879,
+   "lng": 100.51254,
+   "aliases": [
+    "Taksin Bridge"
+   ],
+   "wd": "Q174106"
+  },
+  {
+   "name": "프라삔끌라오교",
+   "cat": "관광",
+   "area": "Phra Borom Maha Ratchawang",
+   "lat": 13.76194,
+   "lng": 100.49111,
+   "aliases": [
+    "Phra Pin-klao Bridge"
+   ],
+   "wd": "Q1813551"
+  },
+  {
+   "name": "Siam Square",
+   "cat": "쇼핑",
+   "area": "Pathum Wan Subdistrict",
+   "lat": 13.74442,
+   "lng": 100.53314,
+   "wd": "Q1856401"
+  },
+  {
+   "name": "Wang Suan Pakkard",
+   "cat": "관광",
+   "area": "",
+   "lat": 13.75684,
+   "lng": 100.53712,
+   "aliases": [
+    "Suan Pakkad Palace"
+   ],
+   "wd": "Q493505"
+  },
+  {
+   "name": "끄롱톤교",
+   "cat": "관광",
+   "area": "방콕",
+   "lat": 13.78103,
+   "lng": 100.50244,
+   "aliases": [
+    "Krung Thon Bridge"
+   ],
+   "wd": "Q1538356"
+  },
+  {
+   "name": "Devasathan",
+   "cat": "관광",
+   "area": "Sao Chingcha",
+   "lat": 13.75226,
+   "lng": 100.50059,
+   "wd": "Q1206639"
+  },
+  {
+   "name": "싸얌 센터",
+   "cat": "쇼핑",
+   "area": "Pathum Wan Subdistrict",
+   "lat": 13.74639,
+   "lng": 100.5325,
+   "aliases": [
+    "Siam Center"
+   ],
+   "wd": "Q913929"
+  },
+  {
+   "name": "라마 7세교",
+   "cat": "관광",
+   "area": "",
+   "lat": 13.81439,
+   "lng": 100.51427,
+   "aliases": [
+    "Rama VII Bridge"
+   ],
+   "wd": "Q4797664"
+  },
+  {
+   "name": "프라뽁깔라오교",
+   "cat": "관광",
+   "area": "프라나콘",
+   "lat": 13.73888,
+   "lng": 100.49837,
+   "aliases": [
+    "Phra Pok Klao Bridge"
+   ],
+   "wd": "Q1608431"
+  },
+  {
+   "name": "Ton Son Mosque",
+   "cat": "관광",
+   "area": "Wat Arun",
+   "lat": 13.74004,
+   "lng": 100.48868,
+   "wd": "Q13018915"
+  },
+  {
+   "name": "Holy Rosary Church",
+   "cat": "관광",
+   "area": "Talat Noi",
+   "lat": 13.73123,
+   "lng": 100.51349,
+   "wd": "Q18658070"
+  },
+  {
+   "name": "Queen Sirikit Park",
+   "cat": "관광",
+   "area": "방콕",
+   "lat": 13.80667,
+   "lng": 100.55,
+   "wd": "Q2915575"
+  },
+  {
+   "name": "Jewelry Trade Center",
+   "cat": "쇼핑",
+   "area": "방콕",
+   "lat": 13.72278,
+   "lng": 100.52,
+   "wd": "Q3104836"
+  },
+  {
+   "name": "Haroon Mosque",
+   "cat": "관광",
+   "area": "방락",
+   "lat": 13.72551,
+   "lng": 100.51451,
+   "wd": "Q85998738"
+  },
+  {
+   "name": "벤짜낏띠 공원",
+   "cat": "관광",
+   "area": "클롱뜨이",
+   "lat": 13.7294,
+   "lng": 100.5586,
+   "aliases": [
+    "Benjakitti Park"
+   ],
+   "wd": "Q13022388"
+  },
+  {
+   "name": "Bangkok Aquarium",
+   "cat": "관광",
+   "area": "Lat Yao",
+   "lat": 13.84259,
+   "lng": 100.57559,
+   "wd": "Q546844"
+  },
+  {
+   "name": "Central Embassy",
+   "cat": "쇼핑",
+   "area": "Lumphini",
+   "lat": 13.74382,
+   "lng": 100.54641,
+   "wd": "Q13024979"
+  },
+  {
+   "name": "Emporium",
+   "cat": "쇼핑",
+   "area": "Khlong Tan",
+   "lat": 13.7307,
+   "lng": 100.5689,
+   "wd": "Q2521716"
+  },
+  {
+   "name": "Pata Zoo",
+   "cat": "관광",
+   "area": "Bang Yi Khan",
+   "lat": 13.77131,
+   "lng": 100.48403,
+   "wd": "Q13022377"
+  },
+  {
+   "name": "Bang Luang Mosque",
+   "cat": "관광",
+   "area": "Wat Kanlaya",
+   "lat": 13.73805,
+   "lng": 100.48936,
+   "wd": "Q20425066"
+  },
+  {
+   "name": "Sea Life Bangkok Ocean World",
+   "cat": "관광",
+   "area": "방콕",
+   "lat": 13.7458,
+   "lng": 100.5353,
+   "wd": "Q6636970"
+  },
+  {
+   "name": "Gaysorn",
+   "cat": "쇼핑",
+   "area": "Lumphini",
+   "lat": 13.74514,
+   "lng": 100.54076,
+   "wd": "Q1021951"
+  },
+  {
+   "name": "Indonesia Mosque",
+   "cat": "관광",
+   "area": "Lumphini",
+   "lat": 13.73363,
+   "lng": 100.5492,
+   "wd": "Q135741904"
+  },
+  {
+   "name": "Chakraphong Mosque",
+   "cat": "관광",
+   "area": "Chana Songkhram",
+   "lat": 13.76185,
+   "lng": 100.49696,
+   "wd": "Q65040176"
+  },
+  {
+   "name": "Wat Bowon Sathan Suthawat",
+   "cat": "관광",
+   "area": "Phra Borom Maha Ratchawang",
+   "lat": 13.75968,
+   "lng": 100.49169,
+   "wd": "Q16004311"
+  },
+  {
+   "name": "Phaya Thai Palace",
+   "cat": "관광",
+   "area": "Thung Phaya Thai",
+   "lat": 13.76861,
+   "lng": 100.53292,
+   "wd": "Q2548250"
+  },
+  {
+   "name": "Pantip Plaza",
+   "cat": "쇼핑",
+   "area": "Thanon Phetchaburi",
+   "lat": 13.75,
+   "lng": 100.5375,
+   "wd": "Q2800701"
+  },
+  {
+   "name": "Jawa Mosque",
+   "cat": "관광",
+   "area": "Yan Nawa",
+   "lat": 13.71579,
+   "lng": 100.52214,
+   "wd": "Q20426606"
+  },
+  {
+   "name": "Immaculate Conception Church",
+   "cat": "관광",
+   "area": "Wachira Phayaban",
+   "lat": 13.77696,
+   "lng": 100.50367,
+   "wd": "Q6004353"
+  },
+  {
+   "name": "Bank of Thailand Museum",
+   "cat": "관광",
+   "area": "",
+   "lat": 13.76833,
+   "lng": 100.49944,
+   "wd": "Q4856189"
+  },
+  {
+   "name": "Benjasiri Park",
+   "cat": "관광",
+   "area": "",
+   "lat": 13.73034,
+   "lng": 100.56732,
+   "wd": "Q4889510"
+  },
+  {
+   "name": "Museum of Contemporary Art",
+   "cat": "관광",
+   "area": "",
+   "lat": 13.85194,
+   "lng": 100.5625,
+   "wd": "Q65100079"
+  },
+  {
+   "name": "Queen Sirikit Gallery",
+   "cat": "관광",
+   "area": "방콕",
+   "lat": 13.75674,
+   "lng": 100.50505,
+   "wd": "Q4921882"
+  },
+  {
+   "name": "Chulalongkorn University Museum of Natural History",
+   "cat": "관광",
+   "area": "방콕",
+   "lat": 13.7375,
+   "lng": 100.53,
+   "wd": "Q13018177"
+  },
+  {
+   "name": "Saint Nicholas Orthodox church in Bangkok",
+   "cat": "관광",
+   "area": "프라카농",
+   "lat": 13.68333,
+   "lng": 100.62561,
+   "wd": "Q28671266"
+  },
+  {
+   "name": "Parliament House of Thailand",
+   "cat": "관광",
+   "area": "두싯",
+   "lat": 13.7744,
+   "lng": 100.514,
+   "wd": "Q6647892"
+  },
+  {
+   "name": "판파릴랏 다리",
+   "cat": "관광",
+   "area": "Bowon Niwet",
+   "lat": 13.7562,
+   "lng": 100.50569,
+   "aliases": [
+    "Phan Fa Lilat bridge"
+   ],
+   "wd": "Q13022447"
+  },
+  {
+   "name": "Holy Redeemer Church",
+   "cat": "관광",
+   "area": "Lumphini",
+   "lat": 13.735,
+   "lng": 100.54861,
+   "wd": "Q22666742"
+  },
+  {
+   "name": "The Esplanade",
+   "cat": "쇼핑",
+   "area": "Din Daeng",
+   "lat": 13.7667,
+   "lng": 100.57,
+   "wd": "Q1021955"
+  },
+  {
+   "name": "Sa Pathum palace",
+   "cat": "관광",
+   "area": "Pathum Wan Subdistrict",
+   "lat": 13.74806,
+   "lng": 100.53282,
+   "wd": "Q2315094"
+  },
+  {
+   "name": "Windsor Palace",
+   "cat": "관광",
+   "area": "Wang Mai",
+   "lat": 13.745,
+   "lng": 100.526,
+   "wd": "Q6630236"
+  },
+  {
+   "name": "Kudi Charoenphat",
+   "cat": "관광",
+   "area": "Wat Arun",
+   "lat": 13.73679,
+   "lng": 100.48686,
+   "wd": "Q20574331"
+  },
+  {
+   "name": "Leng Buai Ia Shrine",
+   "cat": "관광",
+   "area": "Samphanthawong",
+   "lat": 13.74194,
+   "lng": 100.50917,
+   "wd": "Q2357415"
+  },
+  {
+   "name": "Varadis Palace",
+   "cat": "관광",
+   "area": "Wat Sommanat",
+   "lat": 13.75556,
+   "lng": 100.51327,
+   "wd": "Q2510561"
+  },
+  {
+   "name": "Santa Cruz Church",
+   "cat": "관광",
+   "area": "Wat Kanlaya",
+   "lat": 13.73904,
+   "lng": 100.49377,
+   "wd": "Q19884805"
+  },
+  {
+   "name": "Phitsanulok Mansion",
+   "cat": "관광",
+   "area": "Si Yaek Mahanak",
+   "lat": 13.75849,
+   "lng": 100.51814,
+   "wd": "Q13016474"
+  },
+  {
+   "name": "Pak Khlong Talat",
+   "cat": "쇼핑",
+   "area": "",
+   "lat": 13.74221,
+   "lng": 100.49657,
+   "wd": "Q4924395"
+  },
+  {
+   "name": "Children's Discovery Museum",
+   "cat": "관광",
+   "area": "",
+   "lat": 13.80316,
+   "lng": 100.55136,
+   "wd": "Q5098070"
+  },
+  {
+   "name": "Siriraj Medical Museum",
+   "cat": "관광",
+   "area": "",
+   "lat": 13.75793,
+   "lng": 100.48585,
+   "wd": "Q7530338"
+  },
+  {
+   "name": "Bobae Market",
+   "cat": "쇼핑",
+   "area": "",
+   "lat": 13.75347,
+   "lng": 100.51594,
+   "wd": "Q50972308"
+  }
+ ]
+}

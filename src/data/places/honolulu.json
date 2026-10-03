@@ -1,0 +1,485 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "와이키키",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.27667,
+   "lng": -157.82861,
+   "wd": "Q254861"
+  },
+  {
+   "name": "이올라니궁",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.30662,
+   "lng": -157.85896,
+   "aliases": [
+    "ʻIolani Palace"
+   ],
+   "wd": "Q423525"
+  },
+  {
+   "name": "호놀룰루 미술관",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.3039,
+   "lng": -157.84871,
+   "aliases": [
+    "Honolulu Museum of Art"
+   ],
+   "wd": "Q128316"
+  },
+  {
+   "name": "USS Arizona Memorial",
+   "cat": "관광",
+   "area": "호놀룰루군",
+   "lat": 21.3649,
+   "lng": -157.95,
+   "wd": "Q2004262"
+  },
+  {
+   "name": "비숍 박물관",
+   "cat": "관광",
+   "area": "호놀룰루군",
+   "lat": 21.33333,
+   "lng": -157.87062,
+   "wd": "Q826520"
+  },
+  {
+   "name": "USS Bowfin",
+   "cat": "관광",
+   "area": "호놀룰루군",
+   "lat": 21.36869,
+   "lng": -157.93942,
+   "wd": "Q1638840"
+  },
+  {
+   "name": "Cathedral Basilica of Our Lady of Peace",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.31075,
+   "lng": -157.85942,
+   "wd": "Q5052335"
+  },
+  {
+   "name": "Honolulu Zoo",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.2709,
+   "lng": -157.819,
+   "wd": "Q5896736"
+  },
+  {
+   "name": "와이키키 수족관",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.2659,
+   "lng": -157.822,
+   "aliases": [
+    "Waikiki Aquarium"
+   ],
+   "wd": "Q2891869"
+  },
+  {
+   "name": "Aloha Tower",
+   "cat": "관광",
+   "area": "호놀룰루군",
+   "lat": 21.30708,
+   "lng": -157.86597,
+   "wd": "Q448450"
+  },
+  {
+   "name": "Washington Place",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.30882,
+   "lng": -157.85677,
+   "wd": "Q7972130"
+  },
+  {
+   "name": "Lanikai Beach",
+   "cat": "관광",
+   "area": "카일루아",
+   "lat": 21.39222,
+   "lng": -157.715,
+   "wd": "Q5195257"
+  },
+  {
+   "name": "Manoa Falls",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.342,
+   "lng": -157.7994,
+   "wd": "Q11340775"
+  },
+  {
+   "name": "Aliiolani Hale",
+   "cat": "관광",
+   "area": "호놀룰루군",
+   "lat": 21.30528,
+   "lng": -157.86,
+   "wd": "Q2336640"
+  },
+  {
+   "name": "Ala Moana Center",
+   "cat": "쇼핑",
+   "area": "호놀룰루",
+   "lat": 21.29111,
+   "lng": -157.84361,
+   "wd": "Q1431609"
+  },
+  {
+   "name": "Queen Kapiʻolani Regional Park",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.2692,
+   "lng": -157.819,
+   "wd": "Q6366686"
+  },
+  {
+   "name": "국립 태평양 기념묘지",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.31235,
+   "lng": -157.84609,
+   "aliases": [
+    "National Memorial Cemetery of the Pacific"
+   ],
+   "wd": "Q2891136"
+  },
+  {
+   "name": "Royal Mausoleum of Hawaii",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.32528,
+   "lng": -157.84731,
+   "wd": "Q5574219"
+  },
+  {
+   "name": "Kawaiahaʻo Church",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.30472,
+   "lng": -157.85917,
+   "wd": "Q6379539"
+  },
+  {
+   "name": "Byodo-in Temple",
+   "cat": "관광",
+   "area": "하와이군",
+   "lat": 21.43095,
+   "lng": -157.83179,
+   "wd": "Q5004179"
+  },
+  {
+   "name": "Sandy Beach",
+   "cat": "관광",
+   "area": "하와이주",
+   "lat": 21.2847,
+   "lng": -157.672,
+   "wd": "Q7417163"
+  },
+  {
+   "name": "Foster Botanical Garden",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.31667,
+   "lng": -157.85917,
+   "wd": "Q1976703"
+  },
+  {
+   "name": "Lyon Arboretum",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.333,
+   "lng": -157.8018,
+   "wd": "Q2485977"
+  },
+  {
+   "name": "Liliuokalani Botanical Garden",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.3167,
+   "lng": -157.85,
+   "wd": "Q4895276"
+  },
+  {
+   "name": "Co-Cathedral of Saint Theresa of the Child Jesus",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.31083,
+   "lng": -157.85972,
+   "wd": "Q5137402"
+  },
+  {
+   "name": "Koko Crater Botanical Garden",
+   "cat": "관광",
+   "area": "호놀룰루군",
+   "lat": 21.2931,
+   "lng": -157.6772,
+   "wd": "Q2794125"
+  },
+  {
+   "name": "Admiral Clarey Bridge",
+   "cat": "관광",
+   "area": "",
+   "lat": 21.36917,
+   "lng": -157.94417,
+   "wd": "Q4683661"
+  },
+  {
+   "name": "Hawaii State Art Museum",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.3086,
+   "lng": -157.858,
+   "wd": "Q5684387"
+  },
+  {
+   "name": "Hawaii Theatre",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.31056,
+   "lng": -157.86111,
+   "wd": "Q5684427"
+  },
+  {
+   "name": "Aloha Jewish Chapel",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.3531,
+   "lng": -157.936,
+   "wd": "Q20820800"
+  },
+  {
+   "name": "Moanalua Gardens",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.3478,
+   "lng": -157.893,
+   "wd": "Q6886412"
+  },
+  {
+   "name": "Waikiki Shell",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.27167,
+   "lng": -157.82139,
+   "wd": "Q7960024"
+  },
+  {
+   "name": "Kawai Nui Marsh",
+   "cat": "관광",
+   "area": "호놀룰루군",
+   "lat": 21.4,
+   "lng": -157.76083,
+   "wd": "Q6379526"
+  },
+  {
+   "name": "Ala Wai Promenade",
+   "cat": "관광",
+   "area": "호놀룰루군",
+   "lat": 21.28894,
+   "lng": -157.83633,
+   "wd": "Q49472022"
+  },
+  {
+   "name": "Ho'omaluhia Botanical Garden",
+   "cat": "관광",
+   "area": "카나오헤",
+   "lat": 21.3878,
+   "lng": -157.808,
+   "wd": "Q5873822"
+  },
+  {
+   "name": "Saint John the Baptist Catholic Church",
+   "cat": "관광",
+   "area": "하와이주",
+   "lat": 21.33771,
+   "lng": -157.88102,
+   "wd": "Q7401478"
+  },
+  {
+   "name": "Shangri La Museum",
+   "cat": "관광",
+   "area": "하와이주",
+   "lat": 21.2567,
+   "lng": -157.795,
+   "wd": "Q7488597"
+  },
+  {
+   "name": "Windward Viaducts",
+   "cat": "관광",
+   "area": "하와이주",
+   "lat": 21.40507,
+   "lng": -157.82007,
+   "wd": "Q8024814"
+  },
+  {
+   "name": "Ala Moana Beach Park",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.2887,
+   "lng": -157.848,
+   "wd": "Q4705100"
+  },
+  {
+   "name": "Fort Kamehameha",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.32333,
+   "lng": -157.95944,
+   "wd": "Q5471420"
+  },
+  {
+   "name": "Hawaii Shingon Mission",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.28472,
+   "lng": -157.84917,
+   "wd": "Q5684381"
+  },
+  {
+   "name": "Honpa Hongwanji Mission of Hawaii",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.31583,
+   "lng": -157.85194,
+   "wd": "Q5897245"
+  },
+  {
+   "name": "Izumo Taishakyo Mission of Hawaii",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.3156,
+   "lng": -157.861,
+   "wd": "Q6102414"
+  },
+  {
+   "name": "John Young Museum of Art",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.29679,
+   "lng": -157.81891,
+   "wd": "Q6265236"
+  },
+  {
+   "name": "Kamehameha V Post Office",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.30972,
+   "lng": -157.86306,
+   "wd": "Q6356561"
+  },
+  {
+   "name": "Hawaii Kotohira Jinsha – Hawaii Dazaifu Tenmangu",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.32833,
+   "lng": -157.86919,
+   "wd": "Q11327036"
+  },
+  {
+   "name": "Makiki Christian Church",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.29831,
+   "lng": -157.84626,
+   "wd": "Q11339934"
+  },
+  {
+   "name": "Kaumakapili Church",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.32167,
+   "lng": -157.86667,
+   "wd": "Q16851808"
+  },
+  {
+   "name": "Mission Houses Museum",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.3039,
+   "lng": -157.8569,
+   "wd": "Q6878617"
+  },
+  {
+   "name": "현대 박물관",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.3119,
+   "lng": -157.833,
+   "aliases": [
+    "The Contemporary Museum, Honolulu"
+   ],
+   "wd": "Q7727449"
+  },
+  {
+   "name": "Daijingu Temple of Hawaii",
+   "cat": "관광",
+   "area": "호놀룰루",
+   "lat": 21.33522,
+   "lng": -157.83747,
+   "wd": "Q11327031"
+  },
+  {
+   "name": "Diamond Head Light",
+   "cat": "관광",
+   "area": "오아후섬",
+   "lat": 21.25694,
+   "lng": -157.80944,
+   "wd": "Q5270818"
+  },
+  {
+   "name": "Ulupo Heiau State Historic Site",
+   "cat": "관광",
+   "area": "호놀룰루군",
+   "lat": 21.38583,
+   "lng": -157.75278,
+   "wd": "Q7880816"
+  },
+  {
+   "name": "Valley of the Temples Memorial Park",
+   "cat": "관광",
+   "area": "호놀룰루군",
+   "lat": 21.4347,
+   "lng": -157.82791,
+   "wd": "Q7912373"
+  },
+  {
+   "name": "ʻĀinahau",
+   "cat": "관광",
+   "area": "호놀룰루군",
+   "lat": 21.27752,
+   "lng": -157.82807,
+   "wd": "Q8083961"
+  },
+  {
+   "name": "Sacred Heart Church-Punahou",
+   "cat": "관광",
+   "area": "호놀룰루군",
+   "lat": 21.30167,
+   "lng": -157.83111,
+   "wd": "Q54871728"
+  },
+  {
+   "name": "Waimalu Shopping Center",
+   "cat": "쇼핑",
+   "area": "호놀룰루군",
+   "lat": 21.38582,
+   "lng": -157.94992,
+   "wd": "Q106521534"
+  },
+  {
+   "name": "Wakamiya Inari Shrine",
+   "cat": "관광",
+   "area": "와이파후",
+   "lat": 21.386,
+   "lng": -158.0115,
+   "wd": "Q7960795"
+  }
+ ]
+}

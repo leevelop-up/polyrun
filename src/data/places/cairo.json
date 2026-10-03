@@ -1,0 +1,876 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "기자의 대피라미드",
+   "cat": "관광",
+   "area": "기자주",
+   "lat": 29.97915,
+   "lng": 31.13422,
+   "aliases": [
+    "Great Pyramid of Giza",
+    "대피라미드",
+    "쿠푸의 대피라미드"
+   ],
+   "wd": "Q37200"
+  },
+  {
+   "name": "기자의 대스핑크스",
+   "cat": "관광",
+   "area": "기자",
+   "lat": 29.97527,
+   "lng": 31.13768,
+   "aliases": [
+    "The Great Sphinx",
+    "스핑크스"
+   ],
+   "wd": "Q130958"
+  },
+  {
+   "name": "이집트의 피라미드",
+   "cat": "관광",
+   "area": "",
+   "lat": 29.9725,
+   "lng": 31.12833,
+   "aliases": [
+    "Egyptian pyramids",
+    "고대 이집트의 피라미드"
+   ],
+   "wd": "Q175582"
+  },
+  {
+   "name": "이집트 박물관",
+   "cat": "관광",
+   "area": "카이로",
+   "lat": 30.04778,
+   "lng": 31.23333,
+   "aliases": [
+    "Egyptian Museum",
+    "카이로 박물관",
+    "이집트 고고학 박물관"
+   ],
+   "wd": "Q201219"
+  },
+  {
+   "name": "조세르의 피라미드",
+   "cat": "관광",
+   "area": "기자주",
+   "lat": 29.87111,
+   "lng": 31.21667,
+   "aliases": [
+    "Pyramid of Djoser"
+   ],
+   "wd": "Q192418"
+  },
+  {
+   "name": "타흐리르 광장",
+   "cat": "관광",
+   "area": "카이로",
+   "lat": 30.04444,
+   "lng": 31.23583,
+   "aliases": [
+    "Tahrir Square"
+   ],
+   "wd": "Q12061"
+  },
+  {
+   "name": "카프레의 피라미드",
+   "cat": "관광",
+   "area": "기자",
+   "lat": 29.976,
+   "lng": 31.13097,
+   "aliases": [
+    "Pyramid of Khafre",
+    "제2피라미드"
+   ],
+   "wd": "Q208358"
+  },
+  {
+   "name": "대이집트 박물관",
+   "cat": "관광",
+   "area": "기자주",
+   "lat": 29.99361,
+   "lng": 31.11972,
+   "aliases": [
+    "Grand Egyptian Museum"
+   ],
+   "wd": "Q2583681"
+  },
+  {
+   "name": "아부시르",
+   "cat": "관광",
+   "area": "Markaz al Badrashayn",
+   "lat": 29.89611,
+   "lng": 31.20361,
+   "aliases": [
+    "Abusir"
+   ],
+   "wd": "Q336098"
+  },
+  {
+   "name": "이븐 툴룬의 모스크",
+   "cat": "관광",
+   "area": "카이로",
+   "lat": 30.02882,
+   "lng": 31.24952,
+   "aliases": [
+    "Mosque of Ibn Tulun"
+   ],
+   "wd": "Q915413"
+  },
+  {
+   "name": "멘카우레의 피라미드",
+   "cat": "관광",
+   "area": "기자",
+   "lat": 29.9725,
+   "lng": 31.12833,
+   "aliases": [
+    "Pyramid of Menkaure"
+   ],
+   "wd": "Q238623"
+  },
+  {
+   "name": "알아즈하르 모스크",
+   "cat": "관광",
+   "area": "카이로",
+   "lat": 30.04573,
+   "lng": 31.2627,
+   "aliases": [
+    "al-Azhar Mosque"
+   ],
+   "wd": "Q312342"
+  },
+  {
+   "name": "카이로 성채",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.0294,
+   "lng": 31.2614,
+   "aliases": [
+    "Cairo Citadel"
+   ],
+   "wd": "Q1988240"
+  },
+  {
+   "name": "Mosque of Amr ibn al-As",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.01014,
+   "lng": 31.23316,
+   "wd": "Q683511"
+  },
+  {
+   "name": "무함마드알리 모스크",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.02861,
+   "lng": 31.25972,
+   "aliases": [
+    "Muhammad Ali Mosque"
+   ],
+   "wd": "Q652046"
+  },
+  {
+   "name": "Mosque-Madrassa of Sultan Hassan",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.0319,
+   "lng": 31.2567,
+   "wd": "Q1430119"
+  },
+  {
+   "name": "Abu Rawash",
+   "cat": "관광",
+   "area": "Kerdasa",
+   "lat": 30.03222,
+   "lng": 31.07472,
+   "wd": "Q335278"
+  },
+  {
+   "name": "사후레의 피라미드",
+   "cat": "관광",
+   "area": "기자주",
+   "lat": 29.89778,
+   "lng": 31.20333,
+   "aliases": [
+    "Pyramid of Sahure"
+   ],
+   "wd": "Q131820"
+  },
+  {
+   "name": "Layer Pyramid",
+   "cat": "관광",
+   "area": "기자주",
+   "lat": 29.93278,
+   "lng": 31.16111,
+   "wd": "Q740691"
+  },
+  {
+   "name": "우세르카프의 피라미드",
+   "cat": "관광",
+   "area": "기자주",
+   "lat": 29.87345,
+   "lng": 31.2189,
+   "aliases": [
+    "Pyramid of Userkaf"
+   ],
+   "wd": "Q1570082"
+  },
+  {
+   "name": "Al-Hakim Mosque",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.05444,
+   "lng": 31.26389,
+   "wd": "Q775838"
+  },
+  {
+   "name": "Pyramid of Djedefre",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.03222,
+   "lng": 31.07472,
+   "wd": "Q1569654"
+  },
+  {
+   "name": "Hanging Church",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.00542,
+   "lng": 31.23008,
+   "wd": "Q2422298"
+  },
+  {
+   "name": "Al-Hussein Mosque",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.0478,
+   "lng": 31.2631,
+   "wd": "Q2279688"
+  },
+  {
+   "name": "Abu Gorab",
+   "cat": "관광",
+   "area": "기자주",
+   "lat": 29.90394,
+   "lng": 31.1942,
+   "wd": "Q2038886"
+  },
+  {
+   "name": "압딘 궁전",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.0417,
+   "lng": 31.2483,
+   "aliases": [
+    "Abdeen Palace"
+   ],
+   "wd": "Q307747"
+  },
+  {
+   "name": "성 마르코 콥트 정교회 대성당",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.0722,
+   "lng": 31.2756,
+   "aliases": [
+    "Saint Mark's Coptic Orthodox Cathedral"
+   ],
+   "wd": "Q1477289"
+  },
+  {
+   "name": "National Museum of Egyptian Civilization",
+   "cat": "관광",
+   "area": "카이로",
+   "lat": 30.0075,
+   "lng": 31.24833,
+   "wd": "Q29017001"
+  },
+  {
+   "name": "Aqsunqur Mosque",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.03611,
+   "lng": 31.26028,
+   "wd": "Q622784"
+  },
+  {
+   "name": "Al-Rifa'i Mosque",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.03278,
+   "lng": 31.25667,
+   "wd": "Q311441"
+  },
+  {
+   "name": "Coptic Museum",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.00592,
+   "lng": 31.23067,
+   "wd": "Q1784177"
+  },
+  {
+   "name": "10월 6일 다리",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.04915,
+   "lng": 31.22857,
+   "aliases": [
+    "6th October Bridge"
+   ],
+   "wd": "Q996111"
+  },
+  {
+   "name": "Al-Nasir Muhammad Mosque",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.0292,
+   "lng": 31.2609,
+   "wd": "Q1707580"
+  },
+  {
+   "name": "Museum of Islamic Art",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.04472,
+   "lng": 31.25278,
+   "wd": "Q3330629"
+  },
+  {
+   "name": "El Mataria",
+   "cat": "관광",
+   "area": "카이로",
+   "lat": 30.1295,
+   "lng": 31.2889,
+   "wd": "Q398152"
+  },
+  {
+   "name": "Bab Zuweila",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.0428,
+   "lng": 31.2578,
+   "wd": "Q2041270"
+  },
+  {
+   "name": "Dream Stele",
+   "cat": "관광",
+   "area": "기자",
+   "lat": 29.97528,
+   "lng": 31.1375,
+   "wd": "Q45687"
+  },
+  {
+   "name": "Baron Empain Palace",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.08667,
+   "lng": 31.33028,
+   "wd": "Q808618"
+  },
+  {
+   "name": "성 게오르기오스 성당",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.0057,
+   "lng": 31.2311,
+   "aliases": [
+    "Church of St. George"
+   ],
+   "wd": "Q4255568"
+  },
+  {
+   "name": "Giza Plateau",
+   "cat": "관광",
+   "area": "기자주",
+   "lat": 29.97611,
+   "lng": 31.13278,
+   "wd": "Q3613336"
+  },
+  {
+   "name": "Saints Sergius and Bacchus Church",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.00625,
+   "lng": 31.23064,
+   "wd": "Q2965718"
+  },
+  {
+   "name": "Al-Azhar Park",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.0405,
+   "lng": 31.2646,
+   "wd": "Q286446"
+  },
+  {
+   "name": "Al-Aqmar Mosque",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.0517,
+   "lng": 31.2619,
+   "wd": "Q287283"
+  },
+  {
+   "name": "Sultan Al-Muayyad Mosque",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.0431,
+   "lng": 31.2575,
+   "wd": "Q838360"
+  },
+  {
+   "name": "Qasr al-Nil Bridge",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.04374,
+   "lng": 31.22967,
+   "wd": "Q1973889"
+  },
+  {
+   "name": "Serapeum of Saqqara",
+   "cat": "관광",
+   "area": "",
+   "lat": 29.87472,
+   "lng": 31.21242,
+   "wd": "Q287375"
+  },
+  {
+   "name": "Madrassa of Al-Nasir Muhammad",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.04975,
+   "lng": 31.26106,
+   "wd": "Q1277350"
+  },
+  {
+   "name": "Bab al-Nasr",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.0542,
+   "lng": 31.265,
+   "wd": "Q4119350"
+  },
+  {
+   "name": "Bab al-Futuh",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.0555,
+   "lng": 31.2634,
+   "wd": "Q4164858"
+  },
+  {
+   "name": "Mosque-Madrassa of Sultan Barquq",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.05017,
+   "lng": 31.26125,
+   "wd": "Q12241714"
+  },
+  {
+   "name": "Sulayman Pasha Mosque",
+   "cat": "관광",
+   "area": "카이로",
+   "lat": 30.03106,
+   "lng": 31.26438,
+   "wd": "Q11936598"
+  },
+  {
+   "name": "Al-Fath Mosque",
+   "cat": "관광",
+   "area": "카이로",
+   "lat": 30.05985,
+   "lng": 31.24606,
+   "wd": "Q12242770"
+  },
+  {
+   "name": "Lulua Mosque",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.0199,
+   "lng": 31.2682,
+   "wd": "Q6702951"
+  },
+  {
+   "name": "pyramid of Khentkaus II",
+   "cat": "관광",
+   "area": "기자주",
+   "lat": 29.89414,
+   "lng": 31.2025,
+   "wd": "Q1070133"
+  },
+  {
+   "name": "Giza Zoo",
+   "cat": "관광",
+   "area": "기자주",
+   "lat": 30.02453,
+   "lng": 31.2139,
+   "wd": "Q2509245"
+  },
+  {
+   "name": "St. Peter and St. Paul's Church, Cairo",
+   "cat": "관광",
+   "area": "Abbassia",
+   "lat": 30.07178,
+   "lng": 31.27514,
+   "wd": "Q16127527"
+  },
+  {
+   "name": "Sun temple of Userkaf",
+   "cat": "관광",
+   "area": "",
+   "lat": 29.90004,
+   "lng": 31.19904,
+   "wd": "Q2301943"
+  },
+  {
+   "name": "Al-Ashraf Mosque",
+   "cat": "관광",
+   "area": "",
+   "lat": 30.04746,
+   "lng": 31.26006,
+   "wd": "Q12241647"
+  },
+  {
+   "name": "Mosque of Aslam al-Silahdar",
+   "cat": "관광",
+   "area": "카이로",
+   "lat": 30.0525,
+   "lng": 31.26167,
+   "wd": "Q23975608"
+  },
+  {
+   "name": "Al-Sayeda Nafeesah Mosque",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.0215,
+   "lng": 31.2576,
+   "wd": "Q12204253"
+  },
+  {
+   "name": "Sultan Qaytbay Complex",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.04402,
+   "lng": 31.27499,
+   "wd": "Q12242839"
+  },
+  {
+   "name": "Al-Sayeda Zainab Mosque",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.03172,
+   "lng": 31.24208,
+   "wd": "Q12243214"
+  },
+  {
+   "name": "Mosque of al-Mahmudiya",
+   "cat": "관광",
+   "area": "카이로",
+   "lat": 30.0316,
+   "lng": 31.2574,
+   "wd": "Q12242780"
+  },
+  {
+   "name": "Gamal Eddin Youssef Istadar Mosque",
+   "cat": "관광",
+   "area": "카이로",
+   "lat": 30.0507,
+   "lng": 31.2632,
+   "wd": "Q12242798"
+  },
+  {
+   "name": "Mosque of Amir al-Maridani",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.0397,
+   "lng": 31.2592,
+   "wd": "Q441410"
+  },
+  {
+   "name": "Mosque of al-Zahir Baybars",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.06228,
+   "lng": 31.26342,
+   "wd": "Q1535255"
+  },
+  {
+   "name": "Gayer-Anderson Museum",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.0284,
+   "lng": 31.2507,
+   "wd": "Q2190649"
+  },
+  {
+   "name": "Heliopolis Palace",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.0889,
+   "lng": 31.31954,
+   "wd": "Q3132953"
+  },
+  {
+   "name": "Al-Gawhara Palace",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.0281,
+   "lng": 31.2594,
+   "wd": "Q4116059"
+  },
+  {
+   "name": "All Saints' Cathedral, Cairo",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.058,
+   "lng": 31.2237,
+   "wd": "Q15179391"
+  },
+  {
+   "name": "Lepsius-I Pyramid",
+   "cat": "관광",
+   "area": "기자주",
+   "lat": 30.04083,
+   "lng": 31.09444,
+   "wd": "Q838236"
+  },
+  {
+   "name": "Mohamed Mahmoud Khalil Museum",
+   "cat": "관광",
+   "area": "기자주",
+   "lat": 30.0356,
+   "lng": 31.2197,
+   "wd": "Q4115728"
+  },
+  {
+   "name": "Imhotep Museum",
+   "cat": "관광",
+   "area": "하이집트",
+   "lat": 29.86944,
+   "lng": 31.22472,
+   "wd": "Q2341403"
+  },
+  {
+   "name": "Our Lady of Heliopolis Co-Cathedral",
+   "cat": "관광",
+   "area": "Heliopolis",
+   "lat": 30.09362,
+   "lng": 31.32521,
+   "wd": "Q23760916"
+  },
+  {
+   "name": "Muhammad Bek Abu El Dahab Complex",
+   "cat": "관광",
+   "area": "카이로",
+   "lat": 30.04593,
+   "lng": 31.26184,
+   "wd": "Q6916436"
+  },
+  {
+   "name": "Mosque of Taghribirdi",
+   "cat": "관광",
+   "area": "카이로",
+   "lat": 30.03081,
+   "lng": 31.25147,
+   "wd": "Q11936596"
+  },
+  {
+   "name": "Madrasa of Sarghatmish",
+   "cat": "관광",
+   "area": "카이로",
+   "lat": 30.03038,
+   "lng": 31.25128,
+   "wd": "Q12061433"
+  },
+  {
+   "name": "Sayeda Aisha Mosque",
+   "cat": "관광",
+   "area": "카이로",
+   "lat": 30.02473,
+   "lng": 31.25672,
+   "wd": "Q12204252"
+  },
+  {
+   "name": "Mausoleum of Sayyida Ruqayya",
+   "cat": "관광",
+   "area": "카이로",
+   "lat": 30.02562,
+   "lng": 31.25189,
+   "wd": "Q12243219"
+  },
+  {
+   "name": "Mosque and Khanqah of Shaykhu",
+   "cat": "관광",
+   "area": "카이로",
+   "lat": 30.03057,
+   "lng": 31.25296,
+   "wd": "Q12780117"
+  },
+  {
+   "name": "Annunciation Cathedral, Cairo",
+   "cat": "관광",
+   "area": "카이로",
+   "lat": 30.04683,
+   "lng": 31.2395,
+   "wd": "Q28519128"
+  },
+  {
+   "name": "Gamal Abdel Nasser Mosque",
+   "cat": "관광",
+   "area": "카이로",
+   "lat": 30.08341,
+   "lng": 31.29441,
+   "wd": "Q40377967"
+  },
+  {
+   "name": "Mahmud al-Kurdi Mosque",
+   "cat": "관광",
+   "area": "카이로",
+   "lat": 30.04111,
+   "lng": 31.2575,
+   "wd": "Q43033418"
+  },
+  {
+   "name": "Manial Palace and Museum",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.02748,
+   "lng": 31.23024,
+   "wd": "Q2586045"
+  },
+  {
+   "name": "Al-Salih Tala'i Mosque",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.04235,
+   "lng": 31.25811,
+   "wd": "Q3397019"
+  },
+  {
+   "name": "Juyushi Mosque",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.022,
+   "lng": 31.2685,
+   "wd": "Q4022325"
+  },
+  {
+   "name": "Sabil-Kuttab Abd El Rahman Katkhuda",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.0507,
+   "lng": 31.2616,
+   "wd": "Q4116475"
+  },
+  {
+   "name": "Basilica of St Therese of the Child Jesus",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.085,
+   "lng": 31.2464,
+   "wd": "Q4255555"
+  },
+  {
+   "name": "cathedral of Our Lady of Fatima",
+   "cat": "관광",
+   "area": "카이로주",
+   "lat": 30.10589,
+   "lng": 31.34447,
+   "wd": "Q5052324"
+  },
+  {
+   "name": "Giza Solar Boat Museum",
+   "cat": "관광",
+   "area": "기자주",
+   "lat": 29.9781,
+   "lng": 31.1344,
+   "wd": "Q6631530"
+  },
+  {
+   "name": "Nilometer in Rhoda Island",
+   "cat": "관광",
+   "area": "Rhoda Island",
+   "lat": 30.0069,
+   "lng": 31.22501,
+   "wd": "Q1992209"
+  },
+  {
+   "name": "Rabaa Al-Adawiya Mosque",
+   "cat": "관광",
+   "area": "Nasr City",
+   "lat": 30.0668,
+   "lng": 31.3258,
+   "wd": "Q12242806"
+  },
+  {
+   "name": "이집트 농업박물관",
+   "cat": "관광",
+   "area": "Dokki",
+   "lat": 30.04667,
+   "lng": 31.20889,
+   "aliases": [
+    "Agricultural Museum"
+   ],
+   "wd": "Q2420309"
+  },
+  {
+   "name": "Al-Nour Mosque",
+   "cat": "관광",
+   "area": "Abbassia",
+   "lat": 30.07536,
+   "lng": 31.28296,
+   "wd": "Q12242788"
+  },
+  {
+   "name": "Saint Mary Church",
+   "cat": "관광",
+   "area": "카이로",
+   "lat": 30.0433,
+   "lng": 31.2608,
+   "wd": "Q3407598"
+  },
+  {
+   "name": "Wikalet Al-Ghuri",
+   "cat": "관광",
+   "area": "카이로",
+   "lat": 30.04567,
+   "lng": 31.26086,
+   "wd": "Q3570251"
+  },
+  {
+   "name": "Khanqah of Baybars II",
+   "cat": "관광",
+   "area": "카이로",
+   "lat": 30.05158,
+   "lng": 31.26381,
+   "wd": "Q6400398"
+  },
+  {
+   "name": "Sakakini Palace",
+   "cat": "관광",
+   "area": "카이로",
+   "lat": 30.06569,
+   "lng": 31.26617,
+   "wd": "Q10981930"
+  },
+  {
+   "name": "Emir Qurqumas Complex",
+   "cat": "관광",
+   "area": "카이로",
+   "lat": 30.04793,
+   "lng": 31.27744,
+   "wd": "Q16835182"
+  },
+  {
+   "name": "Cathedral of Our Lady of Egypt",
+   "cat": "관광",
+   "area": "카이로",
+   "lat": 30.0637,
+   "lng": 31.34064,
+   "wd": "Q28504056"
+  }
+ ]
+}

@@ -1,0 +1,842 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "스페이스 니들",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6204,
+   "lng": -122.3491,
+   "aliases": [
+    "Space Needle"
+   ],
+   "wd": "Q5317"
+  },
+  {
+   "name": "EMP 박물관",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6215,
+   "lng": -122.3486,
+   "aliases": [
+    "Museum of Pop Culture"
+   ],
+   "wd": "Q1384356"
+  },
+  {
+   "name": "파이크 플레이스 마켓",
+   "cat": "쇼핑",
+   "area": "시애틀",
+   "lat": 47.60944,
+   "lng": -122.34167,
+   "aliases": [
+    "Pike Place Market"
+   ],
+   "wd": "Q1373418"
+  },
+  {
+   "name": "시애틀 미술관",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.60731,
+   "lng": -122.33813,
+   "aliases": [
+    "Seattle Art Museum"
+   ],
+   "wd": "Q1816301"
+  },
+  {
+   "name": "빌 게이츠의 집",
+   "cat": "관광",
+   "area": "메디나",
+   "lat": 47.6278,
+   "lng": -122.242,
+   "aliases": [
+    "Bill Gates's house"
+   ],
+   "wd": "Q371973"
+  },
+  {
+   "name": "Starbucks Center",
+   "cat": "관광",
+   "area": "워싱턴주",
+   "lat": 47.58083,
+   "lng": -122.33556,
+   "wd": "Q765221"
+  },
+  {
+   "name": "Henry Art Gallery",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6564,
+   "lng": -122.312,
+   "wd": "Q5717411"
+  },
+  {
+   "name": "Burke Museum of Natural History and Culture",
+   "cat": "관광",
+   "area": "워싱턴주",
+   "lat": 47.66097,
+   "lng": -122.30978,
+   "wd": "Q388376"
+  },
+  {
+   "name": "George Washington Memorial Bridge",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.64639,
+   "lng": -122.34722,
+   "wd": "Q256829"
+  },
+  {
+   "name": "Seattle Asian Art Museum",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6303,
+   "lng": -122.314,
+   "wd": "Q836066"
+  },
+  {
+   "name": "Paramount Theatre",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6131,
+   "lng": -122.331,
+   "wd": "Q3363536"
+  },
+  {
+   "name": "시애틀 수족관",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6077,
+   "lng": -122.343,
+   "aliases": [
+    "Seattle Aquarium"
+   ],
+   "wd": "Q4849544"
+  },
+  {
+   "name": "5th Avenue Theatre",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.60916,
+   "lng": -122.33398,
+   "wd": "Q386819"
+  },
+  {
+   "name": "Benaroya Hall",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6081,
+   "lng": -122.337,
+   "wd": "Q3892069"
+  },
+  {
+   "name": "Freeway Park",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6097,
+   "lng": -122.331,
+   "wd": "Q5501246"
+  },
+  {
+   "name": "St. James Cathedral",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6077,
+   "lng": -122.326,
+   "wd": "Q7588439"
+  },
+  {
+   "name": "Woodland Park Zoo",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.66834,
+   "lng": -122.34984,
+   "wd": "Q8032871"
+  },
+  {
+   "name": "Rainier Square Tower",
+   "cat": "관광",
+   "area": "",
+   "lat": 47.6092,
+   "lng": -122.33497,
+   "wd": "Q30634662"
+  },
+  {
+   "name": "퍼시픽 사이언스 센터",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6192,
+   "lng": -122.351,
+   "aliases": [
+    "Pacific Science Center"
+   ],
+   "wd": "Q3848341"
+  },
+  {
+   "name": "Gas Works Park",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.646,
+   "lng": -122.335,
+   "wd": "Q5526323"
+  },
+  {
+   "name": "Moore Theatre",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6118,
+   "lng": -122.341,
+   "wd": "Q6908241"
+  },
+  {
+   "name": "Salmon Bay Bridge",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6668,
+   "lng": -122.40213,
+   "wd": "Q7405489"
+  },
+  {
+   "name": "University Bridge",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6531,
+   "lng": -122.32,
+   "wd": "Q7894533"
+  },
+  {
+   "name": "Alki Point Light",
+   "cat": "관광",
+   "area": "킹군",
+   "lat": 47.57626,
+   "lng": -122.42061,
+   "wd": "Q2641400"
+  },
+  {
+   "name": "West Point Light",
+   "cat": "관광",
+   "area": "킹군",
+   "lat": 47.66197,
+   "lng": -122.43567,
+   "wd": "Q7986262"
+  },
+  {
+   "name": "Evergreen Point Floating Bridge",
+   "cat": "관광",
+   "area": "킹군",
+   "lat": 47.6408,
+   "lng": -122.25926,
+   "wd": "Q23885833"
+  },
+  {
+   "name": "Homer M. Hadley Memorial Bridge",
+   "cat": "관광",
+   "area": "워싱턴주",
+   "lat": 47.5898,
+   "lng": -122.269,
+   "wd": "Q1626028"
+  },
+  {
+   "name": "Discovery Park",
+   "cat": "관광",
+   "area": "워싱턴주",
+   "lat": 47.65704,
+   "lng": -122.41819,
+   "wd": "Q3030228"
+  },
+  {
+   "name": "Bank of America Fifth Avenue Plaza",
+   "cat": "관광",
+   "area": "워싱턴주",
+   "lat": 47.6058,
+   "lng": -122.33,
+   "wd": "Q4856034"
+  },
+  {
+   "name": "Frye Art Museum",
+   "cat": "관광",
+   "area": "워싱턴주",
+   "lat": 47.6071,
+   "lng": -122.324,
+   "wd": "Q5506587"
+  },
+  {
+   "name": "노스웨스트 스쿨",
+   "cat": "관광",
+   "area": "워싱턴주",
+   "lat": 47.61333,
+   "lng": -122.32583,
+   "aliases": [
+    "Northwest School"
+   ],
+   "wd": "Q7060193"
+  },
+  {
+   "name": "알래스카 에어라인스 아레나 앳 핵 에드먼드선 파빌리온",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.652,
+   "lng": -122.302,
+   "aliases": [
+    "Hec Edmundson Pavilion"
+   ],
+   "wd": "Q4708490"
+  },
+  {
+   "name": "F5 Tower",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6053,
+   "lng": -122.331,
+   "wd": "Q5447583"
+  },
+  {
+   "name": "케리 파크",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.62961,
+   "lng": -122.35942,
+   "aliases": [
+    "Kerry Park"
+   ],
+   "wd": "Q6394618"
+  },
+  {
+   "name": "옥시덴탈 공원",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.60003,
+   "lng": -122.3329,
+   "aliases": [
+    "Occidental Park"
+   ],
+   "wd": "Q7075692"
+  },
+  {
+   "name": "Magnuson Park",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6808,
+   "lng": -122.248,
+   "wd": "Q10323074"
+  },
+  {
+   "name": "McCaw Hall",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.62397,
+   "lng": -122.35039,
+   "wd": "Q11705574"
+  },
+  {
+   "name": "Lacey V. Murrow Memorial Bridge",
+   "cat": "관광",
+   "area": "킹군",
+   "lat": 47.5899,
+   "lng": -122.27,
+   "wd": "Q1799668"
+  },
+  {
+   "name": "Bellevue Botanical Garden",
+   "cat": "관광",
+   "area": "워싱턴주",
+   "lat": 47.6092,
+   "lng": -122.179,
+   "wd": "Q4883922"
+  },
+  {
+   "name": "National Nordic Museum",
+   "cat": "관광",
+   "area": "워싱턴주",
+   "lat": 47.66833,
+   "lng": -122.3925,
+   "wd": "Q7050698"
+  },
+  {
+   "name": "Ship Canal Bridge",
+   "cat": "관광",
+   "area": "워싱턴주",
+   "lat": 47.6531,
+   "lng": -122.323,
+   "wd": "Q7497931"
+  },
+  {
+   "name": "Seward Park",
+   "cat": "관광",
+   "area": "워싱턴주",
+   "lat": 47.556,
+   "lng": -122.251,
+   "wd": "Q14713892"
+  },
+  {
+   "name": "International Fountain",
+   "cat": "관광",
+   "area": "워싱턴주",
+   "lat": 47.62252,
+   "lng": -122.35201,
+   "wd": "Q23132549"
+  },
+  {
+   "name": "Seattle Underground",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.602,
+   "lng": -122.334,
+   "wd": "Q629046"
+  },
+  {
+   "name": "Fourth and Madison Building",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6055,
+   "lng": -122.333,
+   "wd": "Q3080144"
+  },
+  {
+   "name": "Madison Centre",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6065,
+   "lng": -122.331,
+   "wd": "Q4639809"
+  },
+  {
+   "name": "Alaskan Way Viaduct",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.60399,
+   "lng": -122.33825,
+   "wd": "Q4708669"
+  },
+  {
+   "name": "Alki Beach Park",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.58099,
+   "lng": -122.40673,
+   "wd": "Q4727699"
+  },
+  {
+   "name": "Carkeek Park",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.70954,
+   "lng": -122.3718,
+   "wd": "Q5039739"
+  },
+  {
+   "name": "Coliseum Theater",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6114,
+   "lng": -122.334,
+   "wd": "Q5145768"
+  },
+  {
+   "name": "Denny Park",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.61917,
+   "lng": -122.34028,
+   "wd": "Q5259218"
+  },
+  {
+   "name": "Fremont Bridge",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6475,
+   "lng": -122.35,
+   "wd": "Q5501558"
+  },
+  {
+   "name": "Golden Gardens Park",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6901,
+   "lng": -122.40041,
+   "wd": "Q5579416"
+  },
+  {
+   "name": "Immanuel Lutheran Church",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.62069,
+   "lng": -122.33217,
+   "wd": "Q6004681"
+  },
+  {
+   "name": "Kinnear Park",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6271,
+   "lng": -122.365,
+   "wd": "Q6414047"
+  },
+  {
+   "name": "Madrona Park",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.61028,
+   "lng": -122.2825,
+   "wd": "Q6728670"
+  },
+  {
+   "name": "Montlake Bridge",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6475,
+   "lng": -122.304,
+   "wd": "Q6906049"
+  },
+  {
+   "name": "Myrtle Edwards Park",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6202,
+   "lng": -122.362,
+   "wd": "Q6948614"
+  },
+  {
+   "name": "Pacific Place",
+   "cat": "쇼핑",
+   "area": "시애틀",
+   "lat": 47.6125,
+   "lng": -122.335,
+   "wd": "Q7122625"
+  },
+  {
+   "name": "Schmitz Park",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.57472,
+   "lng": -122.40083,
+   "wd": "Q7431836"
+  },
+  {
+   "name": "Volunteer Park",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.63042,
+   "lng": -122.31558,
+   "wd": "Q7941040"
+  },
+  {
+   "name": "Washington Park Arboretum",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.637,
+   "lng": -122.296,
+   "wd": "Q7972107"
+  },
+  {
+   "name": "West Seattle Bridge",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.57111,
+   "lng": -122.35,
+   "wd": "Q7986448"
+  },
+  {
+   "name": "Westlake Park",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6111,
+   "lng": -122.337,
+   "wd": "Q7988988"
+  },
+  {
+   "name": "파이어니어 스퀘어 토템폴",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.60233,
+   "lng": -122.33398,
+   "aliases": [
+    "Pioneer Square totem pole"
+   ],
+   "wd": "Q15288956"
+  },
+  {
+   "name": "Saint Spiridon Orthodox Cathedral",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6222,
+   "lng": -122.33,
+   "wd": "Q16899620"
+  },
+  {
+   "name": "McGraw Square",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.61298,
+   "lng": -122.3376,
+   "wd": "Q21016048"
+  },
+  {
+   "name": "Seattle Times Building",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.62022,
+   "lng": -122.33514,
+   "wd": "Q28232682"
+  },
+  {
+   "name": "Woodland Park",
+   "cat": "관광",
+   "area": "워싱턴주",
+   "lat": 47.66861,
+   "lng": -122.34722,
+   "wd": "Q2388076"
+  },
+  {
+   "name": "Hat 'n' Boots",
+   "cat": "관광",
+   "area": "워싱턴주",
+   "lat": 47.545,
+   "lng": -122.32167,
+   "wd": "Q3128262"
+  },
+  {
+   "name": "Bellevue Square",
+   "cat": "쇼핑",
+   "area": "워싱턴주",
+   "lat": 47.6156,
+   "lng": -122.204,
+   "wd": "Q4883961"
+  },
+  {
+   "name": "Carl S. English, Jr., Botanical Gardens",
+   "cat": "관광",
+   "area": "워싱턴주",
+   "lat": 47.6668,
+   "lng": -122.398,
+   "wd": "Q5040751"
+  },
+  {
+   "name": "The Sanctuary",
+   "cat": "관광",
+   "area": "워싱턴주",
+   "lat": 47.6183,
+   "lng": -122.312,
+   "wd": "Q5452711"
+  },
+  {
+   "name": "Grace Gospel Chapel",
+   "cat": "관광",
+   "area": "워싱턴주",
+   "lat": 47.6755,
+   "lng": -122.3845,
+   "wd": "Q5591193"
+  },
+  {
+   "name": "Hamilton Viewpoint",
+   "cat": "관광",
+   "area": "워싱턴주",
+   "lat": 47.5928,
+   "lng": -122.385,
+   "wd": "Q5645229"
+  },
+  {
+   "name": "Jose Rizal Bridge",
+   "cat": "관광",
+   "area": "워싱턴주",
+   "lat": 47.5958,
+   "lng": -122.317,
+   "wd": "Q6279543"
+  },
+  {
+   "name": "North Queen Anne Drive Bridge",
+   "cat": "관광",
+   "area": "워싱턴주",
+   "lat": 47.64224,
+   "lng": -122.35237,
+   "wd": "Q7056439"
+  },
+  {
+   "name": "Seattle Children's Museum",
+   "cat": "관광",
+   "area": "워싱턴주",
+   "lat": 47.6214,
+   "lng": -122.351,
+   "wd": "Q7442070"
+  },
+  {
+   "name": "Spokane Street Bridge",
+   "cat": "관광",
+   "area": "워싱턴주",
+   "lat": 47.57139,
+   "lng": -122.35333,
+   "wd": "Q7578882"
+  },
+  {
+   "name": "St. Demetrios Greek Orthodox Church",
+   "cat": "관광",
+   "area": "워싱턴주",
+   "lat": 47.6383,
+   "lng": -122.308,
+   "wd": "Q7587733"
+  },
+  {
+   "name": "Tilikum Place",
+   "cat": "관광",
+   "area": "워싱턴주",
+   "lat": 47.6184,
+   "lng": -122.347,
+   "wd": "Q7802152"
+  },
+  {
+   "name": "Victor Steinbrueck Park",
+   "cat": "관광",
+   "area": "워싱턴주",
+   "lat": 47.61022,
+   "lng": -122.34394,
+   "wd": "Q7926370"
+  },
+  {
+   "name": "Camlin Hotel",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6139,
+   "lng": -122.3327,
+   "wd": "Q2935180"
+  },
+  {
+   "name": "Luna Park",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.59532,
+   "lng": -122.38755,
+   "wd": "Q3267423"
+  },
+  {
+   "name": "20th Avenue NE Bridge",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.67194,
+   "lng": -122.30583,
+   "wd": "Q4630667"
+  },
+  {
+   "name": "901 Fifth Avenue",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6058,
+   "lng": -122.332,
+   "wd": "Q4645593"
+  },
+  {
+   "name": "Arboretum Sewer Trestle",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.63952,
+   "lng": -122.29692,
+   "wd": "Q4784803"
+  },
+  {
+   "name": "Aspira",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.616,
+   "lng": -122.333,
+   "wd": "Q4808080"
+  },
+  {
+   "name": "Chihuly Garden and Glass",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6206,
+   "lng": -122.35,
+   "wd": "Q5097315"
+  },
+  {
+   "name": "Colman Park",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.5835,
+   "lng": -122.288,
+   "wd": "Q5147728"
+  },
+  {
+   "name": "Condon Hall",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6566,
+   "lng": -122.3159,
+   "wd": "Q5159324"
+  },
+  {
+   "name": "Cowen Park Bridge",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.67111,
+   "lng": -122.3125,
+   "wd": "Q5179659"
+  },
+  {
+   "name": "Frink Park",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.5993,
+   "lng": -122.291,
+   "wd": "Q5504617"
+  },
+  {
+   "name": "Kubota Garden",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.5125,
+   "lng": -122.26667,
+   "wd": "Q6441303"
+  },
+  {
+   "name": "Lake Union Park",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.62638,
+   "lng": -122.33664,
+   "wd": "Q6478207"
+  },
+  {
+   "name": "Langston Hughes Performing Arts Center",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6014,
+   "lng": -122.31,
+   "wd": "Q6486519"
+  },
+  {
+   "name": "Leschi Park",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6011,
+   "lng": -122.287,
+   "wd": "Q6530305"
+  },
+  {
+   "name": "Madison Park",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6353,
+   "lng": -122.277,
+   "wd": "Q6728065"
+  },
+  {
+   "name": "Magnolia Bridge",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.6335,
+   "lng": -122.383,
+   "wd": "Q6731871"
+  },
+  {
+   "name": "Me-Kwa-Mooks Park",
+   "cat": "관광",
+   "area": "시애틀",
+   "lat": 47.56374,
+   "lng": -122.40568,
+   "wd": "Q6802889"
+  }
+ ]
+}

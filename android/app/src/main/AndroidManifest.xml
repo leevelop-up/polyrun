@@ -32,20 +32,26 @@
             <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/file_paths" />
         </provider>
 
-        <!-- Foreground Service -->
+        <!-- Foreground Service: 이동 안내 중 화면이 꺼져도 위치를 받는다 -->
         <service
             android:name="io.capawesome.capacitorjs.plugins.foregroundservice.AndroidForegroundService"
             android:foregroundServiceType="location"
+            android:exported="false" />
+        <!-- 알림의 "안내 종료" 버튼 -->
+        <receiver
+            android:name="io.capawesome.capacitorjs.plugins.foregroundservice.NotificationActionBroadcastReceiver"
             android:exported="false" />
     </application>
 
     <!-- Permissions -->
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
-    <uses-feature android:name="android.hardware.location.gps" />
+    <!-- 백그라운드 위치 권한(ACCESS_BACKGROUND_LOCATION)은 쓰지 않는다: 앱 화면에서 시작한 위치 포그라운드 서비스는
+         포그라운드로 취급되어 필요 없고, 넣으면 Play 스토어 백그라운드 위치 심사 대상이 된다 -->
+    <uses-feature android:name="android.hardware.location.gps" android:required="false" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE_LOCATION" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
 </manifest>

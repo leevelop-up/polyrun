@@ -1,0 +1,610 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "Ascension Cathedral",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.25861,
+   "lng": 76.95333,
+   "wd": "Q1078589"
+  },
+  {
+   "name": "Central Mosque (Almaty)",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.2683,
+   "lng": 76.95292,
+   "wd": "Q190682"
+  },
+  {
+   "name": "Central State Museum of Kazakhstan",
+   "cat": "관광",
+   "area": "",
+   "lat": 43.23582,
+   "lng": 76.95073,
+   "wd": "Q190456"
+  },
+  {
+   "name": "Abay Opera House",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.24889,
+   "lng": 76.94583,
+   "wd": "Q304839"
+  },
+  {
+   "name": "Kok Tobe",
+   "cat": "관광",
+   "area": "Medeu district",
+   "lat": 43.23306,
+   "lng": 76.97611,
+   "wd": "Q1795699"
+  },
+  {
+   "name": "A. Kasteyev State Museum of Arts",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.23559,
+   "lng": 76.9195,
+   "wd": "Q2324596"
+  },
+  {
+   "name": "Kazakhstan National Museum of Instruments",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.25943,
+   "lng": 76.95686,
+   "wd": "Q2498214"
+  },
+  {
+   "name": "Abai Square",
+   "cat": "관광",
+   "area": "Medeu district",
+   "lat": 43.24314,
+   "lng": 76.95817,
+   "wd": "Q12526202"
+  },
+  {
+   "name": "Auezov Theatre",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.24155,
+   "lng": 76.91792,
+   "wd": "Q258180"
+  },
+  {
+   "name": "Palace of the Republic",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.24321,
+   "lng": 76.95947,
+   "wd": "Q2047375"
+  },
+  {
+   "name": "Almaty Zoo",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.26342,
+   "lng": 76.97405,
+   "wd": "Q4062771"
+  },
+  {
+   "name": "Saint Nicholas Orthodox church in Almaty",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.24841,
+   "lng": 76.92812,
+   "wd": "Q1234917"
+  },
+  {
+   "name": "Republic Square",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.23824,
+   "lng": 76.94562,
+   "wd": "Q4365743"
+  },
+  {
+   "name": "Museum of Almaty",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.24874,
+   "lng": 76.93611,
+   "wd": "Q60853367"
+  },
+  {
+   "name": "Almaty National Circus",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.23911,
+   "lng": 76.91727,
+   "wd": "Q205932"
+  },
+  {
+   "name": "Auezov Home Museum",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.24339,
+   "lng": 76.94956,
+   "wd": "Q258173"
+  },
+  {
+   "name": "Park of 28 Panfilov Guardsmen, Almaty",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.2588,
+   "lng": 76.95369,
+   "wd": "Q2052602"
+  },
+  {
+   "name": "카자흐스탄공화국 국립 아카데미 고려극장",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.2517,
+   "lng": 76.9314,
+   "aliases": [
+    "Korean Theatre of Kazakhstan",
+    "고려극장"
+   ],
+   "wd": "Q4393634"
+  },
+  {
+   "name": "Central Park",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.26214,
+   "lng": 76.96927,
+   "wd": "Q190387"
+  },
+  {
+   "name": "Saints Faith, Hope, Charity and Their Mother Sophia Orthodox church in Almaty",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.26963,
+   "lng": 76.95869,
+   "wd": "Q1795306"
+  },
+  {
+   "name": "Musirepov Kazhak Children's and Youth Theatre",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.26604,
+   "lng": 76.94115,
+   "wd": "Q4208087"
+  },
+  {
+   "name": "Kyzyl-Tan",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.26256,
+   "lng": 76.95024,
+   "wd": "Q4250655"
+  },
+  {
+   "name": "Park named after the First President of the Republic of Kazakhstan",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.188,
+   "lng": 76.887,
+   "wd": "Q16684909"
+  },
+  {
+   "name": "The Republican Museum of Sports and Olympic Glory",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.25203,
+   "lng": 76.93283,
+   "wd": "Q60853372"
+  },
+  {
+   "name": "Our Lady of Kazan church in Almaty",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.28467,
+   "lng": 76.97611,
+   "wd": "Q1112939"
+  },
+  {
+   "name": "Almaty Botanical Garden",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.225,
+   "lng": 76.915,
+   "wd": "Q4062764"
+  },
+  {
+   "name": "Kinoteatr Arman",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.24215,
+   "lng": 76.95765,
+   "wd": "Q4069553"
+  },
+  {
+   "name": "Pioneer Palace, Almaty",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.23774,
+   "lng": 76.95918,
+   "wd": "Q12528536"
+  },
+  {
+   "name": "Republican Book Museum",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.24988,
+   "lng": 76.95115,
+   "wd": "Q12560065"
+  },
+  {
+   "name": "Museum of Archaeology",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.24612,
+   "lng": 76.9531,
+   "wd": "Q16641105"
+  },
+  {
+   "name": "Baitursynov Home Museum",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.24619,
+   "lng": 76.92697,
+   "wd": "Q60853375"
+  },
+  {
+   "name": "Natural History Museum of the Republic of Kazakhstan",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.24333,
+   "lng": 76.94889,
+   "wd": "Q62050218"
+  },
+  {
+   "name": "Boralday",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.341,
+   "lng": 76.868,
+   "wd": "Q123746590"
+  },
+  {
+   "name": "Memorial of Glory",
+   "cat": "관광",
+   "area": "Medeu district",
+   "lat": 43.25895,
+   "lng": 76.95517,
+   "wd": "Q60290910"
+  },
+  {
+   "name": "Astana Square, Almaty",
+   "cat": "관광",
+   "area": "",
+   "lat": 43.25494,
+   "lng": 76.94319,
+   "wd": "Q39060398"
+  },
+  {
+   "name": "Satbayev Memorial Museum",
+   "cat": "관광",
+   "area": "",
+   "lat": 43.24333,
+   "lng": 76.94889,
+   "wd": "Q62055969"
+  },
+  {
+   "name": "Mikhail Lermontov National Russian Drama Theatre",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.24304,
+   "lng": 76.94404,
+   "wd": "Q4146748"
+  },
+  {
+   "name": "Golden Warrior Monument",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.23857,
+   "lng": 76.9454,
+   "wd": "Q4302193"
+  },
+  {
+   "name": "House of Officers (Almaty)",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.25909,
+   "lng": 76.95729,
+   "wd": "Q12557874"
+  },
+  {
+   "name": "Kunaev Home Museum",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.25271,
+   "lng": 76.94845,
+   "wd": "Q25498984"
+  },
+  {
+   "name": "Raiymbek Batyr Mausoleum",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.26513,
+   "lng": 76.90687,
+   "wd": "Q55663813"
+  },
+  {
+   "name": "Zenkovy house",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.25578,
+   "lng": 76.93054,
+   "wd": "Q58232690"
+  },
+  {
+   "name": "Kök Bazaar",
+   "cat": "쇼핑",
+   "area": "알마티",
+   "lat": 43.26371,
+   "lng": 76.9535,
+   "wd": "Q60851906"
+  },
+  {
+   "name": "Tlendiyev Memorial Museum",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.24335,
+   "lng": 76.94898,
+   "wd": "Q60853376"
+  },
+  {
+   "name": "Wedding palace",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.24126,
+   "lng": 76.92004,
+   "wd": "Q65175748"
+  },
+  {
+   "name": "Statue of Abay Kunanbayev in Almaty",
+   "cat": "관광",
+   "area": "",
+   "lat": 43.24313,
+   "lng": 76.9575,
+   "wd": "Q4343037"
+  },
+  {
+   "name": "Kasteev Home Museum",
+   "cat": "관광",
+   "area": "",
+   "lat": 43.24333,
+   "lng": 76.94889,
+   "wd": "Q62900958"
+  },
+  {
+   "name": "MEGA Alma-Ata",
+   "cat": "쇼핑",
+   "area": "알마티",
+   "lat": 43.2025,
+   "lng": 76.89211,
+   "wd": "Q1916971"
+  },
+  {
+   "name": "Republican State Academic Uyghur Musical Comedy Theater named after. Kuddus Kuzhamyarov.",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.2511,
+   "lng": 76.9362,
+   "wd": "Q4146927"
+  },
+  {
+   "name": "Church of St. Karapet",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.32971,
+   "lng": 76.95059,
+   "wd": "Q4505052"
+  },
+  {
+   "name": "Museum Complex of S. Mukanov and G. Musrepov",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.25105,
+   "lng": 76.94869,
+   "wd": "Q12555416"
+  },
+  {
+   "name": "Atakent",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.22306,
+   "lng": 76.90639,
+   "wd": "Q22668435"
+  },
+  {
+   "name": "House of merchant T. A. Golovizin",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.24453,
+   "lng": 76.94839,
+   "wd": "Q58809412"
+  },
+  {
+   "name": "President's Residence, Almaty",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.23478,
+   "lng": 76.94769,
+   "wd": "Q60853181"
+  },
+  {
+   "name": "House of Merchant M.A. Gavrilov",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.24295,
+   "lng": 76.94055,
+   "wd": "Q60945147"
+  },
+  {
+   "name": "Alatau Traditional Art Theater",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.26,
+   "lng": 76.81922,
+   "wd": "Q61992149"
+  },
+  {
+   "name": "Almaty Museum of Arts",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.22697,
+   "lng": 76.94908,
+   "wd": "Q136315417"
+  },
+  {
+   "name": "Shakhvorostov house",
+   "cat": "관광",
+   "area": "Almaly District",
+   "lat": 43.25855,
+   "lng": 76.94591,
+   "wd": "Q113260026"
+  },
+  {
+   "name": "Museum of Art \"Umai\"",
+   "cat": "관광",
+   "area": "",
+   "lat": 43.25029,
+   "lng": 76.93723,
+   "wd": "Q62928858"
+  },
+  {
+   "name": "Russian Theatre for Children and Teenagers",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.22169,
+   "lng": 76.86807,
+   "wd": "Q4146750"
+  },
+  {
+   "name": "Kinoteatr Kazakhstan",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.26491,
+   "lng": 76.9346,
+   "wd": "Q4208110"
+  },
+  {
+   "name": "The Beatles Monument (Almaty)",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.23304,
+   "lng": 76.97604,
+   "wd": "Q4342994"
+  },
+  {
+   "name": "Kazakh state academic philharmonic named after Zhambyl",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.25622,
+   "lng": 76.95813,
+   "wd": "Q18435892"
+  },
+  {
+   "name": "Taksai kurgans",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.33733,
+   "lng": 76.86836,
+   "wd": "Q48807767"
+  },
+  {
+   "name": "Kazpotrebsoyuz building",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.25526,
+   "lng": 76.94526,
+   "wd": "Q60046057"
+  },
+  {
+   "name": "Orthodox church of the Nativity of Jesus Christ in Almaty",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.24534,
+   "lng": 76.83203,
+   "wd": "Q60851968"
+  },
+  {
+   "name": "Alley of busts (memorial complex)",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.25737,
+   "lng": 76.94292,
+   "wd": "Q60852061"
+  },
+  {
+   "name": "Radchenko house",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.26507,
+   "lng": 76.94692,
+   "wd": "Q65172432"
+  },
+  {
+   "name": "Merchant Gabdulvaliev's Trading House",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.26448,
+   "lng": 76.94757,
+   "wd": "Q65172455"
+  },
+  {
+   "name": "Baum house",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.24813,
+   "lng": 76.93217,
+   "wd": "Q65174595"
+  },
+  {
+   "name": "Monument to Raiymbek Batyr",
+   "cat": "관광",
+   "area": "알마티",
+   "lat": 43.2704,
+   "lng": 76.95201,
+   "wd": "Q65926214"
+  },
+  {
+   "name": "Verniy",
+   "cat": "관광",
+   "area": "세미레치예주",
+   "lat": 43.25,
+   "lng": 76.93333,
+   "wd": "Q32361660"
+  },
+  {
+   "name": "Monument to Taras Shevchenko",
+   "cat": "관광",
+   "area": "Medeu district",
+   "lat": 43.24712,
+   "lng": 76.95666,
+   "wd": "Q30887694"
+  },
+  {
+   "name": "Abylai Khan",
+   "cat": "관광",
+   "area": "Zhetisu district",
+   "lat": 43.27297,
+   "lng": 76.9392,
+   "wd": "Q65926221"
+  },
+  {
+   "name": "Kók Tóbe Park",
+   "cat": "관광",
+   "area": "",
+   "lat": 43.231,
+   "lng": 76.9762,
+   "wd": "Q85846351"
+  }
+ ]
+}

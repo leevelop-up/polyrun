@@ -1,0 +1,110 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "Cancun Underwater Museum",
+   "cat": "관광",
+   "area": "캉쿤",
+   "lat": 21.0763,
+   "lng": -86.8463,
+   "wd": "Q5031539"
+  },
+  {
+   "name": "El Meco",
+   "cat": "관광",
+   "area": "킨타나로오주",
+   "lat": 21.21083,
+   "lng": -86.80417,
+   "wd": "Q1324311"
+  },
+  {
+   "name": "Costa Occidental de Isla Mujeres, Punta Cancún y Punta Nizuc National Park",
+   "cat": "관광",
+   "area": "킨타나로오주",
+   "lat": 21.18056,
+   "lng": -86.75833,
+   "wd": "Q6062968"
+  },
+  {
+   "name": "Hotel Zone",
+   "cat": "관광",
+   "area": "캉쿤",
+   "lat": 21.13444,
+   "lng": -86.74611,
+   "wd": "Q134996543"
+  },
+  {
+   "name": "Plaza Las Américas",
+   "cat": "쇼핑",
+   "area": "캉쿤",
+   "lat": 21.14717,
+   "lng": -86.82394,
+   "wd": "Q124408564"
+  },
+  {
+   "name": "Punta Cancun Lighthouse",
+   "cat": "관광",
+   "area": "킨타나로오주",
+   "lat": 21.138,
+   "lng": -86.7407,
+   "wd": "Q28806956"
+  },
+  {
+   "name": "Nichupté Vehicular Bridge",
+   "cat": "관광",
+   "area": "Benito Juárez Municipality",
+   "lat": 21.13389,
+   "lng": -86.80347,
+   "wd": "Q121375664"
+  },
+  {
+   "name": "Yamil Lu'um",
+   "cat": "관광",
+   "area": "",
+   "lat": 21.11028,
+   "lng": -86.76028,
+   "wd": "Q131441938"
+  },
+  {
+   "name": "Pok Ta Pok",
+   "cat": "관광",
+   "area": "",
+   "lat": 21.12539,
+   "lng": -86.76647,
+   "wd": "Q135922902"
+  },
+  {
+   "name": "Ni'Ku'",
+   "cat": "관광",
+   "area": "",
+   "lat": 21.13634,
+   "lng": -86.74092,
+   "wd": "Q140826495"
+  },
+  {
+   "name": "Cathedral of the Most Holy Trinity",
+   "cat": "관광",
+   "area": "캉쿤",
+   "lat": 21.15719,
+   "lng": -86.84256,
+   "wd": "Q123560921"
+  },
+  {
+   "name": "Playa El Cocal",
+   "cat": "관광",
+   "area": "",
+   "lat": 21.26056,
+   "lng": -86.75417,
+   "wd": "Q27774952"
+  },
+  {
+   "name": "Playa Ancha",
+   "cat": "관광",
+   "area": "",
+   "lat": 21.13611,
+   "lng": -86.75417,
+   "wd": "Q27775005"
+  }
+ ]
+}

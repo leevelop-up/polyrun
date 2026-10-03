@@ -1,0 +1,526 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "고베 모스크",
+   "cat": "관광",
+   "area": "Naka-Yamate-dōri",
+   "lat": 34.69611,
+   "lng": 135.18778,
+   "aliases": [
+    "Kobe Mosque"
+   ],
+   "wd": "Q1334137"
+  },
+  {
+   "name": "고베 포트 타워",
+   "cat": "관광",
+   "area": "Hatobachō",
+   "lat": 34.6825,
+   "lng": 135.18667,
+   "aliases": [
+    "Kobe Port Tower"
+   ],
+   "wd": "Q798766"
+  },
+  {
+   "name": "효고 현립 미술관",
+   "cat": "관광",
+   "area": "Wakinohama Kaigandōri",
+   "lat": 34.69919,
+   "lng": 135.21801,
+   "aliases": [
+    "Hyōgo Prefectural Museum of Art"
+   ],
+   "wd": "Q3329607"
+  },
+  {
+   "name": "이쿠타 신사",
+   "cat": "관광",
+   "area": "주오구",
+   "lat": 34.69477,
+   "lng": 135.19069,
+   "aliases": [
+    "Ikuta Shrine"
+   ],
+   "wd": "Q710086"
+  },
+  {
+   "name": "고베 시립 박물관",
+   "cat": "관광",
+   "area": "Kyōmachi",
+   "lat": 34.68722,
+   "lng": 135.19306,
+   "aliases": [
+    "Kobe City Museum"
+   ],
+   "wd": "Q3330666"
+  },
+  {
+   "name": "나가타 신사",
+   "cat": "관광",
+   "area": "고베시",
+   "lat": 34.6712,
+   "lng": 135.147,
+   "aliases": [
+    "Nagata Shrine"
+   ],
+   "wd": "Q661395"
+  },
+  {
+   "name": "누노비키 허브원",
+   "cat": "관광",
+   "area": "Fukiai-chō",
+   "lat": 34.71528,
+   "lng": 135.19222,
+   "aliases": [
+    "Nunobiki Herb Garden"
+   ],
+   "wd": "Q7069905"
+  },
+  {
+   "name": "Tenjō-ji Temple",
+   "cat": "관광",
+   "area": "나다구",
+   "lat": 34.739,
+   "lng": 135.2047,
+   "wd": "Q3518099"
+  },
+  {
+   "name": "누노비키 폭포",
+   "cat": "관광",
+   "area": "Fukiai-chō",
+   "lat": 34.70972,
+   "lng": 135.19389,
+   "aliases": [
+    "Nunobiki Falls"
+   ],
+   "wd": "Q3695449"
+  },
+  {
+   "name": "메리켄 파크",
+   "cat": "관광",
+   "area": "Hatobachō",
+   "lat": 34.68167,
+   "lng": 135.18833,
+   "aliases": [
+    "Meriken Park"
+   ],
+   "wd": "Q5365128"
+  },
+  {
+   "name": "Minatogawa Shrine",
+   "cat": "관광",
+   "area": "주오구",
+   "lat": 34.68136,
+   "lng": 135.17544,
+   "wd": "Q713188"
+  },
+  {
+   "name": "Nōfuku-ji Temple",
+   "cat": "관광",
+   "area": "효고구",
+   "lat": 34.66799,
+   "lng": 135.17139,
+   "wd": "Q11612054"
+  },
+  {
+   "name": "Kobe Animal Kingdom",
+   "cat": "관광",
+   "area": "미나토지마미나미마치",
+   "lat": 34.65417,
+   "lng": 135.22306,
+   "wd": "Q6424313"
+  },
+  {
+   "name": "고베 시립 오지동물원",
+   "cat": "관광",
+   "area": "Ōji-chō",
+   "lat": 34.71,
+   "lng": 135.21444,
+   "aliases": [
+    "Kobe Oji Zoo"
+   ],
+   "wd": "Q11590062"
+  },
+  {
+   "name": "Hakutsuru Fine Art Museum",
+   "cat": "관광",
+   "area": "Sumiyoshi Yamate",
+   "lat": 34.73083,
+   "lng": 135.25833,
+   "wd": "Q612608"
+  },
+  {
+   "name": "Suma Rikyu Park",
+   "cat": "관광",
+   "area": "스마구",
+   "lat": 34.6539,
+   "lng": 135.117,
+   "wd": "Q7636914"
+  },
+  {
+   "name": "사람과 방재미래센터",
+   "cat": "관광",
+   "area": "고베시",
+   "lat": 34.69809,
+   "lng": 135.21462,
+   "aliases": [
+    "Disaster Reduction and Human Renovation Institution"
+   ],
+   "wd": "Q11375890"
+  },
+  {
+   "name": "Kobe Municipal Arboretum",
+   "cat": "관광",
+   "area": "기타구",
+   "lat": 34.74111,
+   "lng": 135.17806,
+   "wd": "Q6424318"
+  },
+  {
+   "name": "Kobe Fashion Museum",
+   "cat": "관광",
+   "area": "Kōyō-chō Naka",
+   "lat": 34.68833,
+   "lng": 135.27064,
+   "wd": "Q11589762"
+  },
+  {
+   "name": "Kobe City Koiso Memorial Museum of Art",
+   "cat": "관광",
+   "area": "Kōyō-chō Naka",
+   "lat": 34.69281,
+   "lng": 135.26719,
+   "wd": "Q11589991"
+  },
+  {
+   "name": "고세쓰 미술관",
+   "cat": "관광",
+   "area": "Mikage-Gunge",
+   "lat": 34.72417,
+   "lng": 135.25611,
+   "aliases": [
+    "Kosetsu Museum of Art"
+   ],
+   "wd": "Q11667775"
+  },
+  {
+   "name": "Higashi Kobe Bridge",
+   "cat": "관광",
+   "area": "효고현",
+   "lat": 34.70917,
+   "lng": 135.29222,
+   "wd": "Q5753964"
+  },
+  {
+   "name": "고베 호빵맨 어린이 박물관 & 몰",
+   "cat": "관광",
+   "area": "히가시카와사키초",
+   "lat": 34.6786,
+   "lng": 135.185,
+   "aliases": [
+    "Kobe Anpanman Children's Museum & Mall"
+   ],
+   "wd": "Q11589733"
+  },
+  {
+   "name": "Kikuseidai",
+   "cat": "관광",
+   "area": "Ōishi",
+   "lat": 34.73417,
+   "lng": 135.20639,
+   "wd": "Q6406436"
+  },
+  {
+   "name": "롯코 고산 식물원",
+   "cat": "관광",
+   "area": "Rokkōsanchō",
+   "lat": 34.7625,
+   "lng": 135.24167,
+   "aliases": [
+    "Rokko Alpine Botanical Garden"
+   ],
+   "wd": "Q7360060"
+  },
+  {
+   "name": "Sōraku-en",
+   "cat": "관광",
+   "area": "Naka-Yamate-dōri",
+   "lat": 34.6925,
+   "lng": 135.182,
+   "wd": "Q7667612"
+  },
+  {
+   "name": "우로코의 집",
+   "cat": "관광",
+   "area": "기타노정",
+   "lat": 34.70296,
+   "lng": 135.19067,
+   "aliases": [
+    "Uroko House & Observation Gallery"
+   ],
+   "wd": "Q11263124"
+  },
+  {
+   "name": "피시 댄스",
+   "cat": "관광",
+   "area": "Hatobachō",
+   "lat": 34.68486,
+   "lng": 135.18958,
+   "aliases": [
+    "Fish Dance"
+   ],
+   "wd": "Q11332422"
+  },
+  {
+   "name": "Suma Temple",
+   "cat": "관광",
+   "area": "스마구",
+   "lat": 34.64972,
+   "lng": 135.11181,
+   "wd": "Q11664679"
+  },
+  {
+   "name": "Church of the Wind",
+   "cat": "관광",
+   "area": "Rokkōsanchō",
+   "lat": 34.75639,
+   "lng": 135.24556,
+   "wd": "Q11665348"
+  },
+  {
+   "name": "Kobe Suma Sea World",
+   "cat": "관광",
+   "area": "스마구",
+   "lat": 34.64417,
+   "lng": 135.12861,
+   "wd": "Q125228535"
+  },
+  {
+   "name": "모자이크 가든",
+   "cat": "관광",
+   "area": "고베시",
+   "lat": 34.67856,
+   "lng": 135.18494,
+   "aliases": [
+    "Mosaic Garden"
+   ],
+   "wd": "Q11344287"
+  },
+  {
+   "name": "Shōsen Mitsui Building",
+   "cat": "관광",
+   "area": "고베시",
+   "lat": 34.68667,
+   "lng": 135.19111,
+   "wd": "Q11418809"
+  },
+  {
+   "name": "Moto-Sumiyoshi Shrine",
+   "cat": "관광",
+   "area": "히가시나다구",
+   "lat": 34.71875,
+   "lng": 135.26013,
+   "wd": "Q11519847"
+  },
+  {
+   "name": "Rokko Yahata Shrine",
+   "cat": "관광",
+   "area": "나다구",
+   "lat": 34.7193,
+   "lng": 135.235,
+   "wd": "Q11392454"
+  },
+  {
+   "name": "UCCJ Kobe Church",
+   "cat": "관광",
+   "area": "Hanakuma-chō",
+   "lat": 34.68931,
+   "lng": 135.18097,
+   "wd": "Q10311926"
+  },
+  {
+   "name": "umie MOSAIC",
+   "cat": "쇼핑",
+   "area": "히가시카와사키초",
+   "lat": 34.67944,
+   "lng": 135.18472,
+   "aliases": [
+    "Umie Mosaic"
+   ],
+   "wd": "Q10855310"
+  },
+  {
+   "name": "umie",
+   "cat": "쇼핑",
+   "area": "히가시카와사키초",
+   "lat": 34.67925,
+   "lng": 135.18264,
+   "aliases": [
+    "Umie"
+   ],
+   "wd": "Q11223123"
+  },
+  {
+   "name": "비너스 브리지",
+   "cat": "관광",
+   "area": "Kōbe-kō Jikata",
+   "lat": 34.69718,
+   "lng": 135.18074,
+   "aliases": [
+    "Venus Bridge"
+   ],
+   "wd": "Q11352108"
+  },
+  {
+   "name": "Former Foreign Settlement Building No. 15",
+   "cat": "관광",
+   "area": "Naniwa-machi",
+   "lat": 34.68722,
+   "lng": 135.19236,
+   "wd": "Q11511038"
+  },
+  {
+   "name": "구 고베항 신호소",
+   "cat": "관광",
+   "area": "히가시카와사키초",
+   "lat": 34.67806,
+   "lng": 135.18556,
+   "aliases": [
+    "Old Kobe Harbor Signal Tower"
+   ],
+   "wd": "Q11511112"
+  },
+  {
+   "name": "Kobe Water Science Museum",
+   "cat": "관광",
+   "area": "Kusudani-chō",
+   "lat": 34.69389,
+   "lng": 135.17583,
+   "wd": "Q11589929"
+  },
+  {
+   "name": "Kobe Golf Club",
+   "cat": "쇼핑",
+   "area": "Rokkōsanchō",
+   "lat": 34.75833,
+   "lng": 135.23806,
+   "wd": "Q6424310"
+  },
+  {
+   "name": "고베항 지진 메모리얼 파크",
+   "cat": "관광",
+   "area": "Hatobachō",
+   "lat": 34.68389,
+   "lng": 135.19,
+   "aliases": [
+    "Port of Kobe Earthquake Memorial Park"
+   ],
+   "wd": "Q10855312"
+  },
+  {
+   "name": "Kobe Eiko Church",
+   "cat": "관광",
+   "area": "Shimo-Yamate-dōri",
+   "lat": 34.69167,
+   "lng": 135.18472,
+   "wd": "Q11086328"
+  },
+  {
+   "name": "Kobe Lampwork Glass Museum",
+   "cat": "관광",
+   "area": "Kyōmachi",
+   "lat": 34.68861,
+   "lng": 135.19372,
+   "wd": "Q11228060"
+  },
+  {
+   "name": "Italian House",
+   "cat": "관광",
+   "area": "기타노정",
+   "lat": 34.70244,
+   "lng": 135.19214,
+   "wd": "Q11286729"
+  },
+  {
+   "name": "가와사키 월드",
+   "cat": "관광",
+   "area": "Hatobachō",
+   "lat": 34.68278,
+   "lng": 135.18833,
+   "aliases": [
+    "Kawasaki Good Times World"
+   ],
+   "wd": "Q11295340"
+  },
+  {
+   "name": "Former Panamanian Consulate, Kobe",
+   "cat": "관광",
+   "area": "기타노정",
+   "lat": 34.70089,
+   "lng": 135.19086,
+   "wd": "Q11510893"
+  },
+  {
+   "name": "Former National Raw Silk Conditioning Houses",
+   "cat": "관광",
+   "area": "Onohama-chō",
+   "lat": 34.685,
+   "lng": 135.19944,
+   "wd": "Q11511007"
+  },
+  {
+   "name": "Kobe Artists Museum",
+   "cat": "관광",
+   "area": "Kōyō-chō Naka",
+   "lat": 34.68833,
+   "lng": 135.27064,
+   "wd": "Q11589726"
+  },
+  {
+   "name": "고베 램프 박물관",
+   "cat": "관광",
+   "area": "Kyōmachi",
+   "lat": 34.68835,
+   "lng": 135.19398,
+   "aliases": [
+    "Kobe Lamp Museum"
+   ],
+   "wd": "Q11589727"
+  },
+  {
+   "name": "Kobe Kitano Museum",
+   "cat": "관광",
+   "area": "기타노정",
+   "lat": 34.70126,
+   "lng": 135.19154,
+   "wd": "Q11589817"
+  },
+  {
+   "name": "Suma Aqualife Park",
+   "cat": "관광",
+   "area": "스마구",
+   "lat": 34.64417,
+   "lng": 135.12861,
+   "wd": "Q11590110"
+  },
+  {
+   "name": "Houseboat",
+   "cat": "관광",
+   "area": "Naka-Yamate-dōri",
+   "lat": 34.69222,
+   "lng": 135.18139,
+   "wd": "Q11614032"
+  },
+  {
+   "name": "Kobe Union Church",
+   "cat": "관광",
+   "area": "",
+   "lat": 34.70083,
+   "lng": 135.19528,
+   "wd": "Q11511108"
+  }
+ ]
+}

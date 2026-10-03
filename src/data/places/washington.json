@@ -1,0 +1,944 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "백악관",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.89778,
+   "lng": -77.03667,
+   "aliases": [
+    "White House",
+    "화이트하우스"
+   ],
+   "wd": "Q35525"
+  },
+  {
+   "name": "워싱턴 기념탑",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.88947,
+   "lng": -77.03524,
+   "aliases": [
+    "Washington Monument"
+   ],
+   "wd": "Q178114"
+  },
+  {
+   "name": "스미스소니언 협회",
+   "cat": "관광",
+   "area": "",
+   "lat": 38.88889,
+   "lng": -77.026,
+   "aliases": [
+    "Smithsonian Institution",
+    "스미스소니언",
+    "스미스소니언 박물관"
+   ],
+   "wd": "Q131626"
+  },
+  {
+   "name": "알링턴 국립묘지",
+   "cat": "관광",
+   "area": "알링턴군",
+   "lat": 38.87809,
+   "lng": -77.06877,
+   "aliases": [
+    "Arlington National Cemetery"
+   ],
+   "wd": "Q216344"
+  },
+  {
+   "name": "내셔널 갤러리 오브 아트",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.89139,
+   "lng": -77.02,
+   "wd": "Q214867",
+   "aliases": [
+    "미국 국립 예술관",
+    "미국국립미술관",
+    "미국 국립화랑"
+   ]
+  },
+  {
+   "name": "링컨 기념관",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.88928,
+   "lng": -77.05014,
+   "aliases": [
+    "Lincoln Memorial"
+   ],
+   "wd": "Q213559"
+  },
+  {
+   "name": "내셔널 몰",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.88944,
+   "lng": -77.02306,
+   "aliases": [
+    "National Mall"
+   ],
+   "wd": "Q465811"
+  },
+  {
+   "name": "국립 자연사 박물관",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.8913,
+   "lng": -77.0259,
+   "aliases": [
+    "National Museum of Natural History"
+   ],
+   "wd": "Q148554"
+  },
+  {
+   "name": "미국 홀로코스트 기념박물관",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.88667,
+   "lng": -77.0325,
+   "aliases": [
+    "United States Holocaust Memorial Museum"
+   ],
+   "wd": "Q238990"
+  },
+  {
+   "name": "베트남 전쟁 전몰자 위령비",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.89111,
+   "lng": -77.04778,
+   "aliases": [
+    "Vietnam Veterans Memorial"
+   ],
+   "wd": "Q713628"
+  },
+  {
+   "name": "국립 여성 예술가 미술관",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.90005,
+   "lng": -77.02931,
+   "aliases": [
+    "National Museum of Women in the Arts"
+   ],
+   "wd": "Q861608"
+  },
+  {
+   "name": "국립 미국사 박물관",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.89111,
+   "lng": -77.03,
+   "aliases": [
+    "National Museum of American History"
+   ],
+   "wd": "Q148584"
+  },
+  {
+   "name": "포드 극장",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.89663,
+   "lng": -77.0257,
+   "aliases": [
+    "Ford's Theatre"
+   ],
+   "wd": "Q1416812"
+  },
+  {
+   "name": "국립 아메리카 인디언 박물관",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.8883,
+   "lng": -77.0166,
+   "aliases": [
+    "National Museum of the American Indian",
+    "아메리카 인디언 국립박물관"
+   ],
+   "wd": "Q1075141"
+  },
+  {
+   "name": "미국 국립동물원",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.92944,
+   "lng": -77.04972,
+   "aliases": [
+    "National Zoological Park",
+    "워싱턴 동물원",
+    "스미스소니언 동물원"
+   ],
+   "wd": "Q1043283"
+  },
+  {
+   "name": "국립 초상화 미술관",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.89778,
+   "lng": -77.02306,
+   "aliases": [
+    "National Portrait Gallery"
+   ],
+   "wd": "Q1967614"
+  },
+  {
+   "name": "국립 아프리카 미술관",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.88797,
+   "lng": -77.0255,
+   "aliases": [
+    "National Museum of African Art"
+   ],
+   "wd": "Q46812"
+  },
+  {
+   "name": "Dumbarton Oaks",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.91417,
+   "lng": -77.06333,
+   "wd": "Q1264942"
+  },
+  {
+   "name": "프리어 미술관",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.88833,
+   "lng": -77.0275,
+   "aliases": [
+    "Freer Gallery of Art",
+    "프리어 갤러리 오브 아트",
+    "프리어 갤러리"
+   ],
+   "wd": "Q1075126"
+  },
+  {
+   "name": "허시혼 박물관과 조각 정원",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.88816,
+   "lng": -77.02297,
+   "aliases": [
+    "Hirshhorn Museum and Sculpture Garden"
+   ],
+   "wd": "Q1620553"
+  },
+  {
+   "name": "뉴지엄",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.8932,
+   "lng": -77.0192,
+   "aliases": [
+    "Newseum"
+   ],
+   "wd": "Q1519128"
+  },
+  {
+   "name": "국립우편박물관",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.89806,
+   "lng": -77.00833,
+   "aliases": [
+    "National Postal Museum"
+   ],
+   "wd": "Q144900"
+  },
+  {
+   "name": "National Museum of African American History and Culture",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.89111,
+   "lng": -77.03278,
+   "wd": "Q3073495"
+  },
+  {
+   "name": "아서 M. 새클러 갤러리",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.888,
+   "lng": -77.0265,
+   "aliases": [
+    "Arthur M. Sackler Gallery"
+   ],
+   "wd": "Q259767"
+  },
+  {
+   "name": "Blair House",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.89889,
+   "lng": -77.03861,
+   "wd": "Q881182"
+  },
+  {
+   "name": "미국 식물원",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.888,
+   "lng": -77.013,
+   "aliases": [
+    "United States Botanic Garden"
+   ],
+   "wd": "Q1848855"
+  },
+  {
+   "name": "Martin Luther King, Jr. Memorial",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.88639,
+   "lng": -77.04417,
+   "wd": "Q536802"
+  },
+  {
+   "name": "필립스 컬렉션",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.91139,
+   "lng": -77.04681,
+   "aliases": [
+    "The Phillips Collection"
+   ],
+   "wd": "Q578485"
+  },
+  {
+   "name": "제2차 세계 대전 기념비",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.88944,
+   "lng": -77.04056,
+   "aliases": [
+    "World War II Memorial"
+   ],
+   "wd": "Q1470020"
+  },
+  {
+   "name": "Cathedral of St. Matthew the Apostle",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.90611,
+   "lng": -77.04,
+   "wd": "Q603535"
+  },
+  {
+   "name": "Pentagon Memorial",
+   "cat": "관광",
+   "area": "버지니아주",
+   "lat": 38.8709,
+   "lng": -77.0587,
+   "wd": "Q889893"
+  },
+  {
+   "name": "West Potomac Park",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.88528,
+   "lng": -77.04694,
+   "wd": "Q285616"
+  },
+  {
+   "name": "한국전 참전 용사 기념비",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.88778,
+   "lng": -77.04722,
+   "aliases": [
+    "Korean War Veterans Memorial"
+   ],
+   "wd": "Q708847"
+  },
+  {
+   "name": "율리시스 S. 그랜트 기념관",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.88979,
+   "lng": -77.01291,
+   "aliases": [
+    "Ulysses S. Grant Memorial"
+   ],
+   "wd": "Q1571266"
+  },
+  {
+   "name": "Statue of Freedom",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.88983,
+   "lng": -77.00906,
+   "wd": "Q2063546"
+  },
+  {
+   "name": "Titanic Memorial",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.87194,
+   "lng": -77.01931,
+   "wd": "Q374580"
+  },
+  {
+   "name": "백악관 로즈 가든",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.8975,
+   "lng": -77.0371,
+   "aliases": [
+    "White House Rose Garden"
+   ],
+   "wd": "Q672618"
+  },
+  {
+   "name": "국제 스파이 박물관",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.88388,
+   "lng": -77.02546,
+   "aliases": [
+    "International Spy Museum"
+   ],
+   "wd": "Q2668693"
+  },
+  {
+   "name": "에이브러햄 링컨 조각상",
+   "cat": "관광",
+   "area": "",
+   "lat": 38.8893,
+   "lng": -77.05012,
+   "aliases": [
+    "Statue of Abraham Lincoln",
+    "링컨 조각상"
+   ],
+   "wd": "Q4669005"
+  },
+  {
+   "name": "White House State Ballroom",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.89756,
+   "lng": -77.03567,
+   "wd": "Q135550309"
+  },
+  {
+   "name": "조지 부시 센터 포 인텔리전스",
+   "cat": "관광",
+   "area": "페어팩스군",
+   "lat": 38.95222,
+   "lng": -77.14444,
+   "aliases": [
+    "George Bush Center for Intelligence",
+    "조지 부시 첩보센터"
+   ],
+   "wd": "Q5425102"
+  },
+  {
+   "name": "National Building Museum",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.8975,
+   "lng": -77.01806,
+   "wd": "Q624008"
+  },
+  {
+   "name": "United States Capitol rotunda",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.88981,
+   "lng": -77.00908,
+   "wd": "Q918708"
+  },
+  {
+   "name": "듀폰트서클",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.90964,
+   "lng": -77.04344,
+   "aliases": [
+    "Dupont Circle"
+   ],
+   "wd": "Q1266597"
+  },
+  {
+   "name": "The Ellipse",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.8939,
+   "lng": -77.0366,
+   "wd": "Q7731820"
+  },
+  {
+   "name": "United States National Arboretum",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.91028,
+   "lng": -76.96611,
+   "wd": "Q8203264"
+  },
+  {
+   "name": "Presidential Emergency Operations Center",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.8976,
+   "lng": -77.0374,
+   "wd": "Q14539727"
+  },
+  {
+   "name": "성경박물관",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.88472,
+   "lng": -77.01694,
+   "aliases": [
+    "Museum of the Bible"
+   ],
+   "wd": "Q20980966"
+  },
+  {
+   "name": "President's Park",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.89619,
+   "lng": -77.03656,
+   "wd": "Q916958"
+  },
+  {
+   "name": "Albert Einstein Memorial",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.89222,
+   "lng": -77.04861,
+   "wd": "Q2402570"
+  },
+  {
+   "name": "Tomb of the Unknown Soldier",
+   "cat": "관광",
+   "area": "알링턴 국립묘지",
+   "lat": 38.87638,
+   "lng": -77.07217,
+   "wd": "Q3531107"
+  },
+  {
+   "name": "House of the Temple",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.9138,
+   "lng": -77.0359,
+   "wd": "Q176356"
+  },
+  {
+   "name": "Arts and Industries Building",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.88833,
+   "lng": -77.02444,
+   "wd": "Q713932"
+  },
+  {
+   "name": "렌윅 미술관",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.89914,
+   "lng": -77.03903,
+   "aliases": [
+    "Renwick Gallery"
+   ],
+   "wd": "Q876537"
+  },
+  {
+   "name": "District of Columbia War Memorial",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.8875,
+   "lng": -77.0436,
+   "wd": "Q1229694"
+  },
+  {
+   "name": "Lafayette Square",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.8995,
+   "lng": -77.0366,
+   "wd": "Q6471523"
+  },
+  {
+   "name": "National Archives Building",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.89278,
+   "lng": -77.02306,
+   "wd": "Q6970416"
+  },
+  {
+   "name": "St. John's Episcopal Church",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.90039,
+   "lng": -77.03609,
+   "wd": "Q7588667"
+  },
+  {
+   "name": "African American Civil War Memorial",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.91639,
+   "lng": -77.02583,
+   "wd": "Q383962"
+  },
+  {
+   "name": "Anacostia Community Museum",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.8569,
+   "lng": -76.9769,
+   "wd": "Q483592"
+  },
+  {
+   "name": "DAR Constitution Hall",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.89389,
+   "lng": -77.04111,
+   "wd": "Q1151716"
+  },
+  {
+   "name": "East Potomac Park",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.87,
+   "lng": -77.026,
+   "wd": "Q1785894"
+  },
+  {
+   "name": "George Washington Masonic National Memorial",
+   "cat": "관광",
+   "area": "알렉산드리아",
+   "lat": 38.80748,
+   "lng": -77.06598,
+   "wd": "Q611813"
+  },
+  {
+   "name": "John F. Kennedy Eternal Flame",
+   "cat": "관광",
+   "area": "알링턴군",
+   "lat": 38.8814,
+   "lng": -77.0714,
+   "wd": "Q646193"
+  },
+  {
+   "name": "United States Navy Memorial",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.89409,
+   "lng": -77.02295,
+   "wd": "Q167697"
+  },
+  {
+   "name": "Lincoln Park",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.8897,
+   "lng": -76.9897,
+   "wd": "Q250285"
+  },
+  {
+   "name": "NASA 본부",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.883,
+   "lng": -77.0163,
+   "aliases": [
+    "Mary W. Jackson NASA Headquarters"
+   ],
+   "wd": "Q618673"
+  },
+  {
+   "name": "First Division Monument",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.8961,
+   "lng": -77.0387,
+   "wd": "Q1419400"
+  },
+  {
+   "name": "Farragut Square",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.90194,
+   "lng": -77.03898,
+   "wd": "Q1923093"
+  },
+  {
+   "name": "록 크릭 공원",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.95139,
+   "lng": -77.05,
+   "aliases": [
+    "Rock Creek Park"
+   ],
+   "wd": "Q2172035"
+  },
+  {
+   "name": "벤스 칠리 볼",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.91716,
+   "lng": -77.02877,
+   "aliases": [
+    "Ben's Chili Bowl"
+   ],
+   "wd": "Q2895279"
+  },
+  {
+   "name": "National Theatre",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.8963,
+   "lng": -77.0305,
+   "wd": "Q3336946"
+  },
+  {
+   "name": "St. Nicholas Cathedral",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.9249,
+   "lng": -77.0686,
+   "wd": "Q930776"
+  },
+  {
+   "name": "National Statuary Hall Collection",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.8897,
+   "lng": -77.0089,
+   "wd": "Q1134223"
+  },
+  {
+   "name": "맥퍼슨 스퀘어",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.90194,
+   "lng": -77.03411,
+   "aliases": [
+    "McPherson Square"
+   ],
+   "wd": "Q1915635"
+  },
+  {
+   "name": "힐우드 박물관",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.9437,
+   "lng": -77.0526,
+   "aliases": [
+    "Hillwood Estate, Museum & Gardens"
+   ],
+   "wd": "Q2058611"
+  },
+  {
+   "name": "United States Capitol Visitor Center",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.88983,
+   "lng": -77.00773,
+   "wd": "Q2495308"
+  },
+  {
+   "name": "National Museum of the United States Navy",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.8733,
+   "lng": -76.9953,
+   "wd": "Q2790860"
+  },
+  {
+   "name": "프리덤 플라자",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.8958,
+   "lng": -77.0307,
+   "aliases": [
+    "Freedom Plaza"
+   ],
+   "wd": "Q3087329"
+  },
+  {
+   "name": "Adams Memorial",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.9475,
+   "lng": -77.01028,
+   "wd": "Q351935"
+  },
+  {
+   "name": "알링턴 기념 다리",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.88722,
+   "lng": -77.05528,
+   "aliases": [
+    "Arlington Memorial Bridge"
+   ],
+   "wd": "Q1328779"
+  },
+  {
+   "name": "Sheridan Circle",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.9119,
+   "lng": -77.0506,
+   "wd": "Q1816593"
+  },
+  {
+   "name": "마운트 버논 스퀘어",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.90233,
+   "lng": -77.02297,
+   "aliases": [
+    "Mount Vernon Square"
+   ],
+   "wd": "Q2509617"
+  },
+  {
+   "name": "Constitution Gardens",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.89083,
+   "lng": -77.04444,
+   "wd": "Q2919335"
+  },
+  {
+   "name": "Franklin Square",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.9019,
+   "lng": -77.0308,
+   "wd": "Q5491850"
+  },
+  {
+   "name": "National Gallery of Art Sculpture Garden",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.8913,
+   "lng": -77.023,
+   "wd": "Q6972835"
+  },
+  {
+   "name": "CIA Memorial Wall",
+   "cat": "관광",
+   "area": "버지니아주",
+   "lat": 38.9518,
+   "lng": -77.1466,
+   "wd": "Q1023692"
+  },
+  {
+   "name": "Cathedral of Saint Thomas More",
+   "cat": "관광",
+   "area": "버지니아주",
+   "lat": 38.8707,
+   "lng": -77.1034,
+   "wd": "Q4426011"
+  },
+  {
+   "name": "Zero Milestone",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.8951,
+   "lng": -77.0365,
+   "wd": "Q191938"
+  },
+  {
+   "name": "Kreeger Museum",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.92181,
+   "lng": -77.08912,
+   "wd": "Q1787100"
+  },
+  {
+   "name": "Washington Circle",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.90251,
+   "lng": -77.05006,
+   "wd": "Q1882561"
+  },
+  {
+   "name": "Taft Bridge",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.92165,
+   "lng": -77.05037,
+   "wd": "Q2428786"
+  },
+  {
+   "name": "Art Museum of the Americas",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.8929,
+   "lng": -77.0415,
+   "wd": "Q4796989"
+  },
+  {
+   "name": "Statue of Benjamin Franklin",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.89389,
+   "lng": -77.02611,
+   "wd": "Q4888607"
+  },
+  {
+   "name": "Frederick Douglass National Historic Site",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.8633,
+   "lng": -76.9853,
+   "wd": "Q5497674"
+  },
+  {
+   "name": "Kahlil Gibran Memorial Garden",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.9205,
+   "lng": -77.0614,
+   "wd": "Q6347023"
+  },
+  {
+   "name": "L'Enfant Plaza",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.884,
+   "lng": -77.0209,
+   "wd": "Q6455669"
+  },
+  {
+   "name": "National Law Enforcement Officers Memorial",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.89674,
+   "lng": -77.01755,
+   "wd": "Q6974030"
+  },
+  {
+   "name": "Oscar Straus Memorial",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.8938,
+   "lng": -77.0316,
+   "wd": "Q7106264"
+  },
+  {
+   "name": "National World War I Memorial (Washington, D.C.)",
+   "cat": "관광",
+   "area": "워싱턴 D.C.",
+   "lat": 38.896,
+   "lng": -77.033,
+   "wd": "Q7170173"
+  }
+ ]
+}

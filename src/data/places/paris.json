@@ -1,0 +1,756 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "엘리제궁",
+   "cat": "관광",
+   "area": "파리 8구",
+   "lat": 48.87028,
+   "lng": 2.31639,
+   "aliases": [
+    "Élysée Palace",
+    "엘리제 궁전"
+   ],
+   "wd": "Q188190"
+  },
+  {
+   "name": "생드니 대성당",
+   "cat": "관광",
+   "area": "생드니",
+   "lat": 48.93556,
+   "lng": 2.35972,
+   "aliases": [
+    "Basilica of Saint-Denis"
+   ],
+   "wd": "Q184407"
+  },
+  {
+   "name": "소르본",
+   "cat": "관광",
+   "area": "소르본 카르티에",
+   "lat": 48.84864,
+   "lng": 2.34356,
+   "aliases": [
+    "Sorbonne"
+   ],
+   "wd": "Q214654"
+  },
+  {
+   "name": "기술공예박물관",
+   "cat": "관광",
+   "area": "파리 3구",
+   "lat": 48.86611,
+   "lng": 2.35528,
+   "aliases": [
+    "Musée des Arts et Métiers"
+   ],
+   "wd": "Q1538826"
+  },
+  {
+   "name": "뤽상부르궁",
+   "cat": "관광",
+   "area": "Quartier de l'Odéon",
+   "lat": 48.84833,
+   "lng": 2.3375,
+   "aliases": [
+    "Luxembourg Palace"
+   ],
+   "wd": "Q329852"
+  },
+  {
+   "name": "불로뉴 숲",
+   "cat": "관광",
+   "area": "파리 16구",
+   "lat": 48.86472,
+   "lng": 2.25083,
+   "aliases": [
+    "bois de Boulogne"
+   ],
+   "wd": "Q209626"
+  },
+  {
+   "name": "파리 대 모스크",
+   "cat": "관광",
+   "area": "파리 5구",
+   "lat": 48.84194,
+   "lng": 2.355,
+   "aliases": [
+    "Grand Mosque of Paris"
+   ],
+   "wd": "Q392564"
+  },
+  {
+   "name": "성 마리 마들렌느 성당",
+   "cat": "관광",
+   "area": "파리 8구",
+   "lat": 48.87,
+   "lng": 2.32444,
+   "aliases": [
+    "La Madeleine"
+   ],
+   "wd": "Q330564"
+  },
+  {
+   "name": "뱅센 숲",
+   "cat": "관광",
+   "area": "파리 12구",
+   "lat": 48.82806,
+   "lng": 2.43306,
+   "aliases": [
+    "Bois de Vincennes"
+   ],
+   "wd": "Q271639"
+  },
+  {
+   "name": "파리 카타콤",
+   "cat": "관광",
+   "area": "파리 14구",
+   "lat": 48.83397,
+   "lng": 2.33245,
+   "aliases": [
+    "Catacombs of Paris",
+    "파리의 카타콤",
+    "카타콤 드 파리"
+   ],
+   "wd": "Q28924"
+  },
+  {
+   "name": "퐁뇌프",
+   "cat": "관광",
+   "area": "파리 6구",
+   "lat": 48.8575,
+   "lng": 2.34167,
+   "aliases": [
+    "Pont Neuf"
+   ],
+   "wd": "Q335277"
+  },
+  {
+   "name": "루테티아",
+   "cat": "관광",
+   "area": "갈리아 루그두넨시스",
+   "lat": 48.85472,
+   "lng": 2.3475,
+   "aliases": [
+    "Lutetia",
+    "루테티아 파리시오룸"
+   ],
+   "wd": "Q270273"
+  },
+  {
+   "name": "루브르 피라미드",
+   "cat": "관광",
+   "area": "파리 1구",
+   "lat": 48.861,
+   "lng": 2.33586,
+   "aliases": [
+    "Louvre Pyramid"
+   ],
+   "wd": "Q13397"
+  },
+  {
+   "name": "바타클랑",
+   "cat": "관광",
+   "area": "파리 11구",
+   "lat": 48.86306,
+   "lng": 2.37083,
+   "aliases": [
+    "Bataclan"
+   ],
+   "wd": "Q810700"
+  },
+  {
+   "name": "방돔 광장",
+   "cat": "관광",
+   "area": "파리 1구",
+   "lat": 48.8675,
+   "lng": 2.32944,
+   "aliases": [
+    "place Vendôme"
+   ],
+   "wd": "Q643520"
+  },
+  {
+   "name": "바스티유 광장",
+   "cat": "관광",
+   "area": "파리 11구",
+   "lat": 48.85314,
+   "lng": 2.36911,
+   "aliases": [
+    "Place de la Bastille"
+   ],
+   "wd": "Q778784"
+  },
+  {
+   "name": "파리 보자르",
+   "cat": "관광",
+   "area": "",
+   "lat": 48.85681,
+   "lng": 2.33328,
+   "aliases": [
+    "Beaux-Arts de Paris",
+    "에콜 데 보자르",
+    "에콜 데 보자르 드 파리"
+   ],
+   "wd": "Q273593"
+  },
+  {
+   "name": "부르봉궁",
+   "cat": "관광",
+   "area": "파리 7구",
+   "lat": 48.86207,
+   "lng": 2.31868,
+   "aliases": [
+    "Palais Bourbon"
+   ],
+   "wd": "Q936633"
+  },
+  {
+   "name": "오페라 바스티유",
+   "cat": "관광",
+   "area": "Quartier des Quinze-Vingts",
+   "lat": 48.85194,
+   "lng": 2.37056,
+   "aliases": [
+    "Opéra Bastille"
+   ],
+   "wd": "Q638423"
+  },
+  {
+   "name": "Château de Vincennes",
+   "cat": "관광",
+   "area": "뱅센",
+   "lat": 48.84278,
+   "lng": 2.43583,
+   "wd": "Q663673"
+  },
+  {
+   "name": "국립 자연사 박물관",
+   "cat": "관광",
+   "area": "파리 5구",
+   "lat": 48.84222,
+   "lng": 2.35611,
+   "aliases": [
+    "Muséum national d'histoire naturelle"
+   ],
+   "wd": "Q838691"
+  },
+  {
+   "name": "폴리 베르제르",
+   "cat": "관광",
+   "area": "파리 9구",
+   "lat": 48.87417,
+   "lng": 2.345,
+   "aliases": [
+    "Folies Bergère"
+   ],
+   "wd": "Q330375"
+  },
+  {
+   "name": "마르모탕 모네 미술관",
+   "cat": "관광",
+   "area": "파리 16구",
+   "lat": 48.85928,
+   "lng": 2.26738,
+   "aliases": [
+    "Musée Marmottan Monet"
+   ],
+   "wd": "Q1327886"
+  },
+  {
+   "name": "루브르 궁전",
+   "cat": "관광",
+   "area": "파리 1구",
+   "lat": 48.86103,
+   "lng": 2.33589,
+   "aliases": [
+    "Louvre Palace",
+    "루브르 궁"
+   ],
+   "wd": "Q1075988"
+  },
+  {
+   "name": "생제르맹데프레 수도원",
+   "cat": "관광",
+   "area": "파리 6구",
+   "lat": 48.85389,
+   "lng": 2.33444,
+   "aliases": [
+    "Royal abbey of Saint-Germain-des-Prés",
+    "생제르맹데프레 교회"
+   ],
+   "wd": "Q334186"
+  },
+  {
+   "name": "로댕 미술관",
+   "cat": "관광",
+   "area": "파리 7구",
+   "lat": 48.85536,
+   "lng": 2.31582,
+   "aliases": [
+    "Musée Rodin"
+   ],
+   "wd": "Q650519"
+  },
+  {
+   "name": "과학산업박물관",
+   "cat": "관광",
+   "area": "Pont-de-Flandre",
+   "lat": 48.89556,
+   "lng": 2.38806,
+   "aliases": [
+    "Cité des Sciences et de l'Industrie"
+   ],
+   "wd": "Q1094338"
+  },
+  {
+   "name": "몽소 공원",
+   "cat": "관광",
+   "area": "Quartier de l'Europe",
+   "lat": 48.8794,
+   "lng": 2.30923,
+   "aliases": [
+    "parc Monceau"
+   ],
+   "wd": "Q1414059"
+  },
+  {
+   "name": "생 쉴피스 교회",
+   "cat": "관광",
+   "area": "파리 6구",
+   "lat": 48.851,
+   "lng": 2.33492,
+   "aliases": [
+    "Church of Saint-Sulpice"
+   ],
+   "wd": "Q295844"
+  },
+  {
+   "name": "루이비통 파운데이션",
+   "cat": "관광",
+   "area": "파리 16구",
+   "lat": 48.87667,
+   "lng": 2.26333,
+   "aliases": [
+    "Louis Vuitton Foundation",
+    "루이비통 재단",
+    "루이비통 창조 재단",
+    "루이비통 재단 미술관"
+   ],
+   "wd": "Q3075489"
+  },
+  {
+   "name": "퐁데자르",
+   "cat": "관광",
+   "area": "파리 1구",
+   "lat": 48.85833,
+   "lng": 2.33778,
+   "aliases": [
+    "Pont des Arts"
+   ],
+   "wd": "Q1329141"
+  },
+  {
+   "name": "국립 기메 동양 박물관",
+   "cat": "관광",
+   "area": "파리 16구",
+   "lat": 48.86528,
+   "lng": 2.29389,
+   "aliases": [
+    "Guimet Museum",
+    "기메박물관",
+    "기메 박물관"
+   ],
+   "wd": "Q860994"
+  },
+  {
+   "name": "파리 식물원",
+   "cat": "관광",
+   "area": "파리 5구",
+   "lat": 48.84389,
+   "lng": 2.35972,
+   "aliases": [
+    "Jardin des plantes"
+   ],
+   "wd": "Q730948"
+  },
+  {
+   "name": "Musée de l'Air",
+   "cat": "관광",
+   "area": "르부르제",
+   "lat": 48.94715,
+   "lng": 2.43491,
+   "wd": "Q1189955"
+  },
+  {
+   "name": "생퇴스타슈 교회",
+   "cat": "관광",
+   "area": "파리 1구",
+   "lat": 48.86333,
+   "lng": 2.345,
+   "aliases": [
+    "Church of Saint Eustache"
+   ],
+   "wd": "Q1338207"
+  },
+  {
+   "name": "팔레 드 토쿄",
+   "cat": "관광",
+   "area": "파리 16구",
+   "lat": 48.86408,
+   "lng": 2.29713,
+   "wd": "Q1535247"
+  },
+  {
+   "name": "오텔 마티뇽",
+   "cat": "관광",
+   "area": "Saint-Thomas-d'Aquin",
+   "lat": 48.85444,
+   "lng": 2.32083,
+   "aliases": [
+    "Hôtel Matignon",
+    "오텔 드 마티뇽"
+   ],
+   "wd": "Q912192"
+  },
+  {
+   "name": "라빌레트 공원",
+   "cat": "관광",
+   "area": "Pont-de-Flandre",
+   "lat": 48.89306,
+   "lng": 2.39056,
+   "aliases": [
+    "parc de la Villette"
+   ],
+   "wd": "Q246448"
+  },
+  {
+   "name": "Le Chat Noir",
+   "cat": "관광",
+   "area": "파리",
+   "lat": 48.88359,
+   "lng": 2.33413,
+   "wd": "Q1138922"
+  },
+  {
+   "name": "Palais des congrès de Paris",
+   "cat": "쇼핑",
+   "area": "파리 17구",
+   "lat": 48.87916,
+   "lng": 2.28347,
+   "wd": "Q1781591"
+  },
+  {
+   "name": "레퓌블리크 광장",
+   "cat": "관광",
+   "area": "파리 10구",
+   "lat": 48.86728,
+   "lng": 2.36406,
+   "aliases": [
+    "place de la République"
+   ],
+   "wd": "Q175055"
+  },
+  {
+   "name": "카르나발레 박물관",
+   "cat": "관광",
+   "area": "파리 3구",
+   "lat": 48.85737,
+   "lng": 2.36274,
+   "aliases": [
+    "Musée Carnavalet"
+   ],
+   "wd": "Q640447"
+  },
+  {
+   "name": "올랭피아",
+   "cat": "관광",
+   "area": "파리 9구",
+   "lat": 48.87028,
+   "lng": 2.32833,
+   "aliases": [
+    "Olympia"
+   ],
+   "wd": "Q915451"
+  },
+  {
+   "name": "클뤼니 미술관",
+   "cat": "관광",
+   "area": "파리 5구",
+   "lat": 48.85056,
+   "lng": 2.34333,
+   "aliases": [
+    "Musée de Cluny",
+    "클뤼니 중세미술관"
+   ],
+   "wd": "Q1124095"
+  },
+  {
+   "name": "샹젤리제 극장",
+   "cat": "관광",
+   "area": "샹젤리제 카르티에",
+   "lat": 48.86583,
+   "lng": 2.30306,
+   "aliases": [
+    "Théâtre des Champs-Élysées",
+    "테아트르 데 샹젤리제"
+   ],
+   "wd": "Q726531"
+  },
+  {
+   "name": "알마교",
+   "cat": "관광",
+   "area": "파리",
+   "lat": 48.86333,
+   "lng": 2.30167,
+   "aliases": [
+    "pont de l'Alma"
+   ],
+   "wd": "Q1621256"
+  },
+  {
+   "name": "오데옹 극장",
+   "cat": "관광",
+   "area": "파리 6구",
+   "lat": 48.8495,
+   "lng": 2.33875,
+   "aliases": [
+    "Odéon-Théâtre de l'Europe",
+    "오데옹-유럽 극장"
+   ],
+   "wd": "Q1133501"
+  },
+  {
+   "name": "오페라 코미크",
+   "cat": "관광",
+   "area": "",
+   "lat": 48.87086,
+   "lng": 2.33751,
+   "aliases": [
+    "Opéra-Comique"
+   ],
+   "wd": "Q872222"
+  },
+  {
+   "name": "생자크탑",
+   "cat": "관광",
+   "area": "파리 4구",
+   "lat": 48.85776,
+   "lng": 2.34878,
+   "aliases": [
+    "Saint-Jacques Tower"
+   ],
+   "wd": "Q1431547"
+  },
+  {
+   "name": "Musée Jacquemart-André",
+   "cat": "관광",
+   "area": "파리 8구",
+   "lat": 48.87543,
+   "lng": 2.31051,
+   "wd": "Q1165526"
+  },
+  {
+   "name": "아클리마타시옹 정원",
+   "cat": "관광",
+   "area": "파리 16구",
+   "lat": 48.8775,
+   "lng": 2.26306,
+   "aliases": [
+    "Jardin d'Acclimatation",
+    "아클리마타시옹 공원",
+    "적응의 정원",
+    "자르댕 다클리마타시옹"
+   ],
+   "wd": "Q3090513"
+  },
+  {
+   "name": "Château de Malmaison",
+   "cat": "관광",
+   "area": "뤼에유말메종",
+   "lat": 48.8708,
+   "lng": 2.16685,
+   "wd": "Q684846"
+  },
+  {
+   "name": "빅투아르 광장",
+   "cat": "관광",
+   "area": "파리 1구",
+   "lat": 48.86583,
+   "lng": 2.34111,
+   "aliases": [
+    "place des Victoires"
+   ],
+   "wd": "Q1362670"
+  },
+  {
+   "name": "Théâtre du Châtelet",
+   "cat": "관광",
+   "area": "파리 1구",
+   "lat": 48.85778,
+   "lng": 2.34639,
+   "wd": "Q1469315"
+  },
+  {
+   "name": "생테티엔뒤몽 교회",
+   "cat": "관광",
+   "area": "파리 5구",
+   "lat": 48.84653,
+   "lng": 2.34803,
+   "aliases": [
+    "Saint-Étienne-du-Mont"
+   ],
+   "wd": "Q583251"
+  },
+  {
+   "name": "Cœur Défense",
+   "cat": "관광",
+   "area": "쿠르브부아",
+   "lat": 48.89095,
+   "lng": 2.24413,
+   "wd": "Q2349903"
+  },
+  {
+   "name": "Place du Châtelet",
+   "cat": "관광",
+   "area": "파리",
+   "lat": 48.8575,
+   "lng": 2.34722,
+   "wd": "Q1422975"
+  },
+  {
+   "name": "주 드 폼 국립미술관",
+   "cat": "관광",
+   "area": "파리 1구",
+   "lat": 48.86583,
+   "lng": 2.32389,
+   "aliases": [
+    "Galerie nationale du Jeu de Paume"
+   ],
+   "wd": "Q656296"
+  },
+  {
+   "name": "이에나 다리",
+   "cat": "관광",
+   "area": "파리 16구",
+   "lat": 48.85972,
+   "lng": 2.29222,
+   "aliases": [
+    "Pont d'Iéna"
+   ],
+   "wd": "Q540781"
+  },
+  {
+   "name": "룩셈부르크 박물관",
+   "cat": "관광",
+   "area": "파리 6구",
+   "lat": 48.84861,
+   "lng": 2.33403,
+   "aliases": [
+    "Luxembourg Museum"
+   ],
+   "wd": "Q1411180"
+  },
+  {
+   "name": "뷔트쇼몽 공원",
+   "cat": "관광",
+   "area": "파리 19구",
+   "lat": 48.88028,
+   "lng": 2.38278,
+   "aliases": [
+    "parc des Buttes-Chaumont"
+   ],
+   "wd": "Q532113"
+  },
+  {
+   "name": "미라보 다리",
+   "cat": "관광",
+   "area": "파리 15구",
+   "lat": 48.84639,
+   "lng": 2.27639,
+   "aliases": [
+    "Pont Mirabeau"
+   ],
+   "wd": "Q291093"
+  },
+  {
+   "name": "인류 박물관",
+   "cat": "관광",
+   "area": "파리 16구",
+   "lat": 48.86218,
+   "lng": 2.28741,
+   "aliases": [
+    "Musée de l'Homme"
+   ],
+   "wd": "Q670268"
+  },
+  {
+   "name": "카루젤 광장",
+   "cat": "관광",
+   "area": "파리",
+   "lat": 48.86144,
+   "lng": 2.33412,
+   "aliases": [
+    "Place du Carrousel"
+   ],
+   "wd": "Q2723969"
+  },
+  {
+   "name": "콩코르드 다리",
+   "cat": "관광",
+   "area": "파리 7구",
+   "lat": 48.86333,
+   "lng": 2.31944,
+   "aliases": [
+    "Pont de la Concorde"
+   ],
+   "wd": "Q644398"
+  },
+  {
+   "name": "Saint-Gervais-Saint-Protais",
+   "cat": "관광",
+   "area": "파리 4구",
+   "lat": 48.85556,
+   "lng": 2.35444,
+   "wd": "Q427340"
+  },
+  {
+   "name": "Petit-Pont-Cardinal-Lustiger",
+   "cat": "관광",
+   "area": "파리 4구",
+   "lat": 48.85333,
+   "lng": 2.34694,
+   "wd": "Q1323635"
+  },
+  {
+   "name": "마욜 미술관",
+   "cat": "관광",
+   "area": "파리 7구",
+   "lat": 48.85478,
+   "lng": 2.32489,
+   "wd": "Q946883"
+  },
+  {
+   "name": "place Dauphine",
+   "cat": "관광",
+   "area": "생제르맹로세루아",
+   "lat": 48.85654,
+   "lng": 2.34243,
+   "wd": "Q1810430"
+  },
+  {
+   "name": "파리 동물원",
+   "cat": "관광",
+   "area": "파리 12구",
+   "lat": 48.83222,
+   "lng": 2.41861,
+   "aliases": [
+    "Paris Zoological Park",
+    "뱅센 동물원",
+    "뱅센 숲 동물원"
+   ],
+   "wd": "Q1969385"
+  }
+ ]
+}

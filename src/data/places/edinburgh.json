@@ -1,0 +1,830 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "에든버러성",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9487,
+   "lng": -3.20073,
+   "aliases": [
+    "Edinburgh Castle"
+   ],
+   "wd": "Q212065"
+  },
+  {
+   "name": "홀리루드 궁전",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9527,
+   "lng": -3.17229,
+   "aliases": [
+    "Holyrood Palace",
+    "홀리루드하우스 궁전",
+    "홀리루드 궁"
+   ],
+   "wd": "Q505950"
+  },
+  {
+   "name": "스코틀랜드 국립미술관",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9509,
+   "lng": -3.19566,
+   "aliases": [
+    "Scottish National Gallery"
+   ],
+   "wd": "Q942713"
+  },
+  {
+   "name": "National Museum of Scotland",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.94694,
+   "lng": -3.19,
+   "wd": "Q1633842"
+  },
+  {
+   "name": "St Giles' Cathedral",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.94944,
+   "lng": -3.19083,
+   "wd": "Q1547466"
+  },
+  {
+   "name": "홀리루드 사원",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.95316,
+   "lng": -3.17157,
+   "aliases": [
+    "Holyrood Abbey"
+   ],
+   "wd": "Q966862"
+  },
+  {
+   "name": "에든버러 왕립식물원",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.96507,
+   "lng": -3.20853,
+   "aliases": [
+    "Royal Botanic Garden Edinburgh"
+   ],
+   "wd": "Q1807521"
+  },
+  {
+   "name": "에든버러 동물원",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9425,
+   "lng": -3.27,
+   "aliases": [
+    "Edinburgh Zoo",
+    "스코틀랜드 국립동물원"
+   ],
+   "wd": "Q1284778"
+  },
+  {
+   "name": "스코틀랜드 국립 초상화 미술관",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9555,
+   "lng": -3.19354,
+   "aliases": [
+    "Scottish National Portrait Gallery"
+   ],
+   "wd": "Q2441562"
+  },
+  {
+   "name": "Scott Monument",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.95242,
+   "lng": -3.19328,
+   "wd": "Q2502213"
+  },
+  {
+   "name": "Edinburgh Central Mosque",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.945,
+   "lng": -3.18611,
+   "wd": "Q1144643"
+  },
+  {
+   "name": "Craigmillar Castle",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9257,
+   "lng": -3.14089,
+   "wd": "Q432422"
+  },
+  {
+   "name": "Scottish National Gallery of Modern Art",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9506,
+   "lng": -3.22746,
+   "wd": "Q1889944"
+  },
+  {
+   "name": "St Mary's Cathedral",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9562,
+   "lng": -3.18786,
+   "wd": "Q519072"
+  },
+  {
+   "name": "Princes Street Gardens",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.95005,
+   "lng": -3.20299,
+   "wd": "Q980646"
+  },
+  {
+   "name": "Usher Hall",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.94727,
+   "lng": -3.20502,
+   "wd": "Q1636910"
+  },
+  {
+   "name": "National Monument of Scotland",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.95474,
+   "lng": -3.18191,
+   "wd": "Q6974379"
+  },
+  {
+   "name": "Grassmarket",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9475,
+   "lng": -3.19611,
+   "wd": "Q1543570"
+  },
+  {
+   "name": "St Margaret's",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.94872,
+   "lng": -3.20011,
+   "wd": "Q2061784"
+  },
+  {
+   "name": "Balmoral Hotel",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9527,
+   "lng": -3.18961,
+   "wd": "Q3700280"
+  },
+  {
+   "name": "Holyrood Park",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.95091,
+   "lng": -3.16802,
+   "wd": "Q2640532"
+  },
+  {
+   "name": "Dalkeith Palace",
+   "cat": "관광",
+   "area": "미들로디언",
+   "lat": 55.89963,
+   "lng": -3.06786,
+   "wd": "Q5211070"
+  },
+  {
+   "name": "Greyfriars Kirk",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9466,
+   "lng": -3.1922,
+   "wd": "Q2113456"
+  },
+  {
+   "name": "Lauriston Castle",
+   "cat": "관광",
+   "area": "에든버러",
+   "lat": 55.97123,
+   "lng": -3.27863,
+   "wd": "Q2969689"
+  },
+  {
+   "name": "Modern Two",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9518,
+   "lng": -3.2242,
+   "wd": "Q2679817"
+  },
+  {
+   "name": "Ross Fountain",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9501,
+   "lng": -3.20307,
+   "wd": "Q7369346"
+  },
+  {
+   "name": "Edinburgh Festival Theatre",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9467,
+   "lng": -3.1861,
+   "wd": "Q3047596"
+  },
+  {
+   "name": "Musselburgh Links",
+   "cat": "쇼핑",
+   "area": "이스트로디언",
+   "lat": 55.9467,
+   "lng": -3.03639,
+   "wd": "Q2678264"
+  },
+  {
+   "name": "North Bridge",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9519,
+   "lng": -3.1884,
+   "wd": "Q3753005"
+  },
+  {
+   "name": "Camera Obscura",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.949,
+   "lng": -3.19557,
+   "wd": "Q4211494"
+  },
+  {
+   "name": "Nor Loch",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.95,
+   "lng": -3.2,
+   "wd": "Q4327251"
+  },
+  {
+   "name": "Scotch Whisky Heritage Centre",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9488,
+   "lng": -3.19575,
+   "wd": "Q4526278"
+  },
+  {
+   "name": "Edinburgh Playhouse",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9568,
+   "lng": -3.18484,
+   "wd": "Q5338244"
+  },
+  {
+   "name": "Royal Lyceum Theatre",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.947,
+   "lng": -3.20427,
+   "wd": "Q7374418"
+  },
+  {
+   "name": "St Andrew Square",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9542,
+   "lng": -3.19306,
+   "wd": "Q7592419"
+  },
+  {
+   "name": "Writers' Museum",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9497,
+   "lng": -3.1937,
+   "wd": "Q8038444"
+  },
+  {
+   "name": "Nelson Monument",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.95433,
+   "lng": -3.18258,
+   "wd": "Q11838983"
+  },
+  {
+   "name": "Dynamic Earth",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9506,
+   "lng": -3.17437,
+   "wd": "Q3358350"
+  },
+  {
+   "name": "George IV Bridge",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9482,
+   "lng": -3.19194,
+   "wd": "Q3752968"
+  },
+  {
+   "name": "Dugald Stewart Monument",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9545,
+   "lng": -3.18448,
+   "wd": "Q5312471"
+  },
+  {
+   "name": "King's Theatre",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.94187,
+   "lng": -3.20281,
+   "wd": "Q6411122"
+  },
+  {
+   "name": "Political Martyrs' Monument",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9534,
+   "lng": -3.18584,
+   "wd": "Q7210212"
+  },
+  {
+   "name": "Museum of Edinburgh",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9514,
+   "lng": -3.1796,
+   "wd": "Q11838982"
+  },
+  {
+   "name": "HMS Campania",
+   "cat": "관광",
+   "area": "파이프",
+   "lat": 56.04011,
+   "lng": -3.22512,
+   "wd": "Q4352876"
+  },
+  {
+   "name": "Ocean Terminal",
+   "cat": "쇼핑",
+   "area": "시티오브에든버러",
+   "lat": 55.98139,
+   "lng": -3.17694,
+   "wd": "Q593075"
+  },
+  {
+   "name": "Charlotte Square",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.95177,
+   "lng": -3.20769,
+   "wd": "Q5086152"
+  },
+  {
+   "name": "Edinburgh Park",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9321,
+   "lng": -3.3154,
+   "wd": "Q5338232"
+  },
+  {
+   "name": "George Square",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9437,
+   "lng": -3.189,
+   "wd": "Q5544755"
+  },
+  {
+   "name": "Merchiston Castle School",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.91196,
+   "lng": -3.25558,
+   "wd": "Q6818469"
+  },
+  {
+   "name": "Museum on the Mound",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9503,
+   "lng": -3.19333,
+   "wd": "Q6941127"
+  },
+  {
+   "name": "Regent Bridge",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9537,
+   "lng": -3.18723,
+   "wd": "Q7308076"
+  },
+  {
+   "name": "Royal Scottish Academy Building",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.95175,
+   "lng": -3.19639,
+   "wd": "Q7374813"
+  },
+  {
+   "name": "Scottish National War Memorial",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9485,
+   "lng": -3.1998,
+   "wd": "Q7437874"
+  },
+  {
+   "name": "Museum of Childhood",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.95039,
+   "lng": -3.18558,
+   "wd": "Q15122172"
+  },
+  {
+   "name": "Greyfriars Bobby Fountain",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9469,
+   "lng": -3.19133,
+   "wd": "Q17570789"
+  },
+  {
+   "name": "Surgeons' Hall Museums",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9467,
+   "lng": -3.18492,
+   "wd": "Q7646188"
+  },
+  {
+   "name": "Theatre Royal, Edinburgh",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.953,
+   "lng": -3.19,
+   "wd": "Q7777426"
+  },
+  {
+   "name": "Traverse Theatre",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.94765,
+   "lng": -3.20481,
+   "wd": "Q7836167"
+  },
+  {
+   "name": "Trinity House of Leith",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9722,
+   "lng": -3.17135,
+   "wd": "Q7842854"
+  },
+  {
+   "name": "Tron Kirk",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.95,
+   "lng": -3.18778,
+   "wd": "Q11839033"
+  },
+  {
+   "name": "Pinkie House",
+   "cat": "관광",
+   "area": "머슬버러",
+   "lat": 55.9425,
+   "lng": -3.04415,
+   "wd": "Q7196201"
+  },
+  {
+   "name": "Inchkeith Lighthouse",
+   "cat": "관광",
+   "area": "파이프",
+   "lat": 56.0335,
+   "lng": -3.13622,
+   "wd": "Q17804305"
+  },
+  {
+   "name": "Inveresk Lodge Garden",
+   "cat": "관광",
+   "area": "이스트로디언",
+   "lat": 55.9342,
+   "lng": -3.04478,
+   "wd": "Q6060082"
+  },
+  {
+   "name": "St David's Church",
+   "cat": "관광",
+   "area": "미들로디언",
+   "lat": 55.89072,
+   "lng": -3.07566,
+   "wd": "Q16248065"
+  },
+  {
+   "name": "Royal Museum of Scotland",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9469,
+   "lng": -3.18934,
+   "wd": "Q1819945"
+  },
+  {
+   "name": "People's Story Museum",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9515,
+   "lng": -3.1799,
+   "wd": "Q4306389"
+  },
+  {
+   "name": "Bristo Square",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.945,
+   "lng": -3.18944,
+   "wd": "Q4968729"
+  },
+  {
+   "name": "Church of St John the Evangelist, Edinburgh",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.95,
+   "lng": -3.20606,
+   "wd": "Q5117460"
+  },
+  {
+   "name": "Craigcrook Castle",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.955,
+   "lng": -3.2657,
+   "wd": "Q5181656"
+  },
+  {
+   "name": "Cramond Tower",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9788,
+   "lng": -3.29814,
+   "wd": "Q5181857"
+  },
+  {
+   "name": "Dean Bridge",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.95308,
+   "lng": -3.21434,
+   "wd": "Q5246025"
+  },
+  {
+   "name": "Duddingston Kirk",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.94117,
+   "lng": -3.14912,
+   "wd": "Q5311666"
+  },
+  {
+   "name": "Kirk of the Canongate",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.95172,
+   "lng": -3.17956,
+   "wd": "Q6415559"
+  },
+  {
+   "name": "Liberton Tower",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.91458,
+   "lng": -3.17741,
+   "wd": "Q6541506"
+  },
+  {
+   "name": "National War Museum",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.94875,
+   "lng": -3.20158,
+   "wd": "Q6979345"
+  },
+  {
+   "name": "King's Gallery",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9526,
+   "lng": -3.17385,
+   "wd": "Q7269994"
+  },
+  {
+   "name": "The Queen's Hall",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.94114,
+   "lng": -3.1818,
+   "wd": "Q7270008"
+  },
+  {
+   "name": "South Leith Parish Church, Edinburgh",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9721,
+   "lng": -3.17055,
+   "wd": "Q7567812"
+  },
+  {
+   "name": "St Paul's and St George's Church",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9567,
+   "lng": -3.18871,
+   "wd": "Q7595183"
+  },
+  {
+   "name": "Reid Memorial Church",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9265,
+   "lng": -3.1847,
+   "wd": "Q16736136"
+  },
+  {
+   "name": "St Mary Star of the Sea RC Church",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9732,
+   "lng": -3.16914,
+   "wd": "Q17810423"
+  },
+  {
+   "name": "Waverley Bridge",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9518,
+   "lng": -3.1918,
+   "wd": "Q25350037"
+  },
+  {
+   "name": "City Art Centre",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.95095,
+   "lng": -3.18929,
+   "wd": "Q65081638"
+  },
+  {
+   "name": "Witches' Well",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.94891,
+   "lng": -3.19643,
+   "wd": "Q95568172"
+  },
+  {
+   "name": "Augustine Congregational Church",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9477,
+   "lng": -3.19119,
+   "wd": "Q108900392"
+  },
+  {
+   "name": "St Stephen's Church",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9587,
+   "lng": -3.20353,
+   "wd": "Q7595476"
+  },
+  {
+   "name": "Talbot Rice Gallery",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.94708,
+   "lng": -3.18776,
+   "wd": "Q7679039"
+  },
+  {
+   "name": "St Cuthbert's Church, Edinburgh",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9496,
+   "lng": -3.20545,
+   "wd": "Q7756122"
+  },
+  {
+   "name": "Trinity College Kirk",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.95278,
+   "lng": -3.18611,
+   "wd": "Q7842704"
+  },
+  {
+   "name": "North Leith Parish Church",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9761,
+   "lng": -3.18299,
+   "wd": "Q11838984"
+  },
+  {
+   "name": "St Michael’s Kirk, Inveresk",
+   "cat": "관광",
+   "area": "이스트로디언",
+   "lat": 55.9372,
+   "lng": -3.05118,
+   "wd": "Q17569834"
+  },
+  {
+   "name": "Old Bridge, Musselburgh",
+   "cat": "관광",
+   "area": "이스트로디언",
+   "lat": 55.9413,
+   "lng": -3.05699,
+   "wd": "Q17572123"
+  },
+  {
+   "name": "Elginhaugh",
+   "cat": "관광",
+   "area": "미들로디언",
+   "lat": 55.8944,
+   "lng": -3.08583,
+   "wd": "Q5360076"
+  },
+  {
+   "name": "Teviot Row House",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9449,
+   "lng": -3.18866,
+   "wd": "Q735841"
+  },
+  {
+   "name": "Merchiston Tower",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9333,
+   "lng": -3.21391,
+   "wd": "Q1921452"
+  },
+  {
+   "name": "George Watson's College",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9303,
+   "lng": -3.2183,
+   "wd": "Q3760670"
+  },
+  {
+   "name": "Barclay Viewforth Church",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9405,
+   "lng": -3.20347,
+   "wd": "Q4859957"
+  },
+  {
+   "name": "Church Hill Theatre",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.93282,
+   "lng": -3.21002,
+   "wd": "Q5116619"
+  },
+  {
+   "name": "Church of Scotland Offices",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9526,
+   "lng": -3.20483,
+   "wd": "Q5117190"
+  },
+  {
+   "name": "Craiglockhart Castle",
+   "cat": "관광",
+   "area": "시티오브에든버러",
+   "lat": 55.9193,
+   "lng": -3.23832,
+   "wd": "Q5181716"
+  }
+ ]
+}

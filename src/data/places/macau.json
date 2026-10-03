@@ -1,0 +1,761 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "세인트폴 성당 유적",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.19747,
+   "lng": 113.54086,
+   "aliases": [
+    "Ruins of St. Paul's"
+   ],
+   "wd": "Q1551411"
+  },
+  {
+   "name": "마카오 타워",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.17972,
+   "lng": 113.53667,
+   "aliases": [
+    "Macau Tower"
+   ],
+   "wd": "Q1568304"
+  },
+  {
+   "name": "아마 사원",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.18611,
+   "lng": 113.53114,
+   "aliases": [
+    "A-Ma Temple"
+   ],
+   "wd": "Q2149114"
+  },
+  {
+   "name": "카르발류 총독 대교",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.17639,
+   "lng": 113.54611,
+   "aliases": [
+    "Governor Nobre de Carvalho Bridge"
+   ],
+   "wd": "Q977841"
+  },
+  {
+   "name": "성 도밍고 성당",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.19468,
+   "lng": 113.54041,
+   "aliases": [
+    "St. Dominic's Church"
+   ],
+   "wd": "Q4130614"
+  },
+  {
+   "name": "마카오 우의대교",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.18932,
+   "lng": 113.56319,
+   "aliases": [
+    "Amizade Bridge"
+   ],
+   "wd": "Q1318003"
+  },
+  {
+   "name": "Igreja da Sé",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.19361,
+   "lng": 113.54167,
+   "wd": "Q1106554"
+  },
+  {
+   "name": "세나두 광장",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.19358,
+   "lng": 113.53967,
+   "aliases": [
+    "Senado Square"
+   ],
+   "wd": "Q837935"
+  },
+  {
+   "name": "사이반 대교",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.17222,
+   "lng": 113.53611,
+   "aliases": [
+    "Sai Van Bridge"
+   ],
+   "wd": "Q1137940"
+  },
+  {
+   "name": "민정총서대루",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.19333,
+   "lng": 113.53944,
+   "aliases": [
+    "Leal Senado Building"
+   ],
+   "wd": "Q3181816"
+  },
+  {
+   "name": "St. Joseph the Worker Church",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.21265,
+   "lng": 113.55137,
+   "wd": "Q10300753"
+  },
+  {
+   "name": "Museum of Macau",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.19722,
+   "lng": 113.54222,
+   "wd": "Q842525"
+  },
+  {
+   "name": "로터스 브리지",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.1402,
+   "lng": 113.5468,
+   "aliases": [
+    "Lótus Bridge"
+   ],
+   "wd": "Q1318967"
+  },
+  {
+   "name": "Dom Pedro V Theatre",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.19195,
+   "lng": 113.53816,
+   "wd": "Q3182054"
+  },
+  {
+   "name": "St Lawrence's Church",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.19069,
+   "lng": 113.53681,
+   "wd": "Q3271236"
+  },
+  {
+   "name": "Macau Mosque and Cemetery",
+   "cat": "관광",
+   "area": "노사세뇨라드파티마 당구",
+   "lat": 22.20278,
+   "lng": 113.55431,
+   "wd": "Q15243366"
+  },
+  {
+   "name": "Na Tcha Temple",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.1977,
+   "lng": 113.54067,
+   "wd": "Q709079"
+  },
+  {
+   "name": "관음당",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.20444,
+   "lng": 113.55028,
+   "aliases": [
+    "Templo de Kun Iam Tong"
+   ],
+   "wd": "Q281550"
+  },
+  {
+   "name": "Santa Casa da Misericórdia",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.19361,
+   "lng": 113.54028,
+   "wd": "Q4310094"
+  },
+  {
+   "name": "St. Joseph's Seminary and Church",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.1919,
+   "lng": 113.537,
+   "wd": "Q4579079"
+  },
+  {
+   "name": "Sir Robert Ho Tung Library",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.1925,
+   "lng": 113.53778,
+   "wd": "Q3320500"
+  },
+  {
+   "name": "Mandarin's House",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.18856,
+   "lng": 113.53436,
+   "wd": "Q6757684"
+  },
+  {
+   "name": "Portas do Cerco",
+   "cat": "관광",
+   "area": "노사세뇨라드파티마 당구",
+   "lat": 22.21583,
+   "lng": 113.54917,
+   "wd": "Q3272047"
+  },
+  {
+   "name": "Sam Kai Vui Kun",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.194,
+   "lng": 113.53941,
+   "wd": "Q2200748"
+  },
+  {
+   "name": "마카오 피셔맨스워프",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.19145,
+   "lng": 113.55661,
+   "aliases": [
+    "Macau Fisherman's Wharf"
+   ],
+   "wd": "Q3274095"
+  },
+  {
+   "name": "그랑프리 박물관",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.1949,
+   "lng": 113.553,
+   "aliases": [
+    "Grand Prix Museum"
+   ],
+   "wd": "Q5594934"
+  },
+  {
+   "name": "Our Lady of Penha Chapel",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.18694,
+   "lng": 113.53514,
+   "wd": "Q6706523"
+  },
+  {
+   "name": "St. Anthony's Church",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.19896,
+   "lng": 113.53945,
+   "wd": "Q6730196"
+  },
+  {
+   "name": "Camoes Garden",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.2005,
+   "lng": 113.5393,
+   "wd": "Q7217785"
+  },
+  {
+   "name": "Our Lady of Carmel Church",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.15354,
+   "lng": 113.5588,
+   "wd": "Q10924038"
+  },
+  {
+   "name": "MGM Cotai",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.14583,
+   "lng": 113.56797,
+   "wd": "Q19853330"
+  },
+  {
+   "name": "St. Lazarus' Church",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.19727,
+   "lng": 113.54522,
+   "wd": "Q3582336"
+  },
+  {
+   "name": "St. Augustine's Church",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.1922,
+   "lng": 113.53827,
+   "wd": "Q4587786"
+  },
+  {
+   "name": "Taipa Houses–Museum",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.1539,
+   "lng": 113.56,
+   "wd": "Q15216026"
+  },
+  {
+   "name": "Lou Lim Ioc Garden",
+   "cat": "관광",
+   "area": "상라자루 당구",
+   "lat": 22.20003,
+   "lng": 113.54744,
+   "wd": "Q4569614"
+  },
+  {
+   "name": "금련화광장",
+   "cat": "관광",
+   "area": "세 당구",
+   "lat": 22.1944,
+   "lng": 113.55327,
+   "aliases": [
+    "Lotus Square"
+   ],
+   "wd": "Q6685203"
+  },
+  {
+   "name": "Macau Museum of Art",
+   "cat": "관광",
+   "area": "산투안토니우 당구",
+   "lat": 22.18874,
+   "lng": 113.55464,
+   "wd": "Q15913647"
+  },
+  {
+   "name": "Guia Lighthouse",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.19651,
+   "lng": 113.54977,
+   "wd": "Q3313058"
+  },
+  {
+   "name": "마카오 특별행정구 정부청사",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.18985,
+   "lng": 113.53786,
+   "aliases": [
+    "Macau Government Headquarters"
+   ],
+   "wd": "Q6722701"
+  },
+  {
+   "name": "포도주 박물관",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.1947,
+   "lng": 113.553,
+   "aliases": [
+    "Macau Wine Museum"
+   ],
+   "wd": "Q6722717"
+  },
+  {
+   "name": "Section of the Old City Walls of Macau",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.19773,
+   "lng": 113.54061,
+   "wd": "Q7963233"
+  },
+  {
+   "name": "Our Lady of Fátima Church",
+   "cat": "관광",
+   "area": "노사세뇨라드파티마 당구",
+   "lat": 22.21195,
+   "lng": 113.5452,
+   "wd": "Q22101553"
+  },
+  {
+   "name": "Hengqin Port",
+   "cat": "관광",
+   "area": "",
+   "lat": 22.13892,
+   "lng": 113.54811,
+   "wd": "Q10989720"
+  },
+  {
+   "name": "Dr. Sun Yat Sen Municipal Park",
+   "cat": "관광",
+   "area": "노사세뇨라드파티마 당구",
+   "lat": 22.21639,
+   "lng": 113.545,
+   "wd": "Q3439056"
+  },
+  {
+   "name": "Communications Museum",
+   "cat": "관광",
+   "area": "노사세뇨라드파티마 당구",
+   "lat": 22.20328,
+   "lng": 113.55489,
+   "wd": "Q15905060"
+  },
+  {
+   "name": "Dr Carlos d'Assumpção Park",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.18878,
+   "lng": 113.55083,
+   "wd": "Q2595313"
+  },
+  {
+   "name": "Comendador Ho Yin Garden",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.19213,
+   "lng": 113.54939,
+   "wd": "Q5151511"
+  },
+  {
+   "name": "손문기념관",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.1999,
+   "lng": 113.549,
+   "aliases": [
+    "Sun Yat Sen Memorial House"
+   ],
+   "wd": "Q7638630"
+  },
+  {
+   "name": "Igreja de São Francisco Xavier",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.20437,
+   "lng": 113.54869,
+   "wd": "Q11092416"
+  },
+  {
+   "name": "Lin Zexu Memorial Museum of Macau",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.20961,
+   "lng": 113.54731,
+   "wd": "Q15914955"
+  },
+  {
+   "name": "Fort São Tiago da Barra",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.1825,
+   "lng": 113.5307,
+   "wd": "Q15955926"
+  },
+  {
+   "name": "Zhuhai-Macao Boundary Crossing Facilities of the Hong Kong-Zhuhai-Macao Bridge",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.204,
+   "lng": 113.5765,
+   "wd": "Q28796013"
+  },
+  {
+   "name": "Macau Protestant Chapel",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.19975,
+   "lng": 113.53991,
+   "wd": "Q46074"
+  },
+  {
+   "name": "Macau Maritime Museum",
+   "cat": "관광",
+   "area": "펑순 당구",
+   "lat": 22.18594,
+   "lng": 113.53058,
+   "wd": "Q11149600"
+  },
+  {
+   "name": "Museum of Taipa and Coloane History",
+   "cat": "관광",
+   "area": "타이파섬",
+   "lat": 22.15243,
+   "lng": 113.55573,
+   "wd": "Q11315732"
+  },
+  {
+   "name": "Handover Gifts Museum of Macao",
+   "cat": "관광",
+   "area": "세 당구",
+   "lat": 22.18989,
+   "lng": 113.55406,
+   "wd": "Q15909554"
+  },
+  {
+   "name": "Museum of Sacred Art and Crypt",
+   "cat": "관광",
+   "area": "산투안토니우 당구",
+   "lat": 22.20328,
+   "lng": 113.55489,
+   "wd": "Q10938995"
+  },
+  {
+   "name": "Montanha Russa Park",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.2044,
+   "lng": 113.553,
+   "wd": "Q5522397"
+  },
+  {
+   "name": "Flora Garden",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.20028,
+   "lng": 113.55144,
+   "wd": "Q10880516"
+  },
+  {
+   "name": "Fort São Francisco",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.191,
+   "lng": 113.5445,
+   "wd": "Q10900790"
+  },
+  {
+   "name": "MJ Gallery at Ponte 16",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.19688,
+   "lng": 113.536,
+   "wd": "Q10904528"
+  },
+  {
+   "name": "Tap Seac Square",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.1981,
+   "lng": 113.5471,
+   "wd": "Q10930912"
+  },
+  {
+   "name": "Mong Há Hill Municipal Park",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.20889,
+   "lng": 113.54611,
+   "wd": "Q11092413"
+  },
+  {
+   "name": "Taipa Fortress",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.1571,
+   "lng": 113.5423,
+   "wd": "Q11132890"
+  },
+  {
+   "name": "Jardim da Cidade das Flores",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.15639,
+   "lng": 113.55722,
+   "wd": "Q16868518"
+  },
+  {
+   "name": "Edifício do Lago",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.15891,
+   "lng": 113.56104,
+   "wd": "Q16926411"
+  },
+  {
+   "name": "Fort Dona Maria II",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.20342,
+   "lng": 113.55552,
+   "wd": "Q16926933"
+  },
+  {
+   "name": "Heritage Exhibition of a Traditional Pawnshop Business",
+   "cat": "관광",
+   "area": "세 당구",
+   "lat": 22.19497,
+   "lng": 113.5382,
+   "wd": "Q10894621"
+  },
+  {
+   "name": "Victory Garden",
+   "cat": "관광",
+   "area": "상라자루 당구",
+   "lat": 22.1987,
+   "lng": 113.549,
+   "wd": "Q11071061"
+  },
+  {
+   "name": "Templo de Na Tcha do Monte",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.19556,
+   "lng": 113.54238,
+   "wd": "Q2252059"
+  },
+  {
+   "name": "Garden of the Arts",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.19044,
+   "lng": 113.54878,
+   "wd": "Q5522409"
+  },
+  {
+   "name": "Capela de Nossa Senhora da Guia",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.19659,
+   "lng": 113.54969,
+   "wd": "Q6730067"
+  },
+  {
+   "name": "St. Augustine's Square",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.19226,
+   "lng": 113.53814,
+   "wd": "Q6811395"
+  },
+  {
+   "name": "Tamagnini Barbosa Municipal Market Complex",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.21091,
+   "lng": 113.54576,
+   "wd": "Q10914498"
+  },
+  {
+   "name": "Cinema Alegria",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.20196,
+   "lng": 113.54264,
+   "wd": "Q11132316"
+  },
+  {
+   "name": "Taipa Central Park",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.15901,
+   "lng": 113.55453,
+   "wd": "Q11132886"
+  },
+  {
+   "name": "Church of the Mother of God",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.1975,
+   "lng": 113.541,
+   "wd": "Q15555842"
+  },
+  {
+   "name": "Macao Center of Education, Science, and Culture",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.19029,
+   "lng": 113.54998,
+   "wd": "Q15908786"
+  },
+  {
+   "name": "Mercado Municipal do Bairro Iao Hon",
+   "cat": "쇼핑",
+   "area": "마카오",
+   "lat": 22.2113,
+   "lng": 113.5514,
+   "wd": "Q15909467"
+  },
+  {
+   "name": "Jardim do Lago",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.15875,
+   "lng": 113.56242,
+   "wd": "Q16868485"
+  },
+  {
+   "name": "Lin Kai Temple",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.20173,
+   "lng": 113.54261,
+   "wd": "Q24834853"
+  },
+  {
+   "name": "Macau General Post Office",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.19331,
+   "lng": 113.54013,
+   "wd": "Q24894357"
+  },
+  {
+   "name": "Macau Military Club",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.19159,
+   "lng": 113.54429,
+   "wd": "Q28345618"
+  },
+  {
+   "name": "Patane Night Watch House",
+   "cat": "관광",
+   "area": "마카오",
+   "lat": 22.20201,
+   "lng": 113.53955,
+   "wd": "Q30945564"
+  },
+  {
+   "name": "S. Francisco Garden",
+   "cat": "관광",
+   "area": "세 당구",
+   "lat": 22.19247,
+   "lng": 113.54467,
+   "wd": "Q7387477"
+  },
+  {
+   "name": "Macau Refuse Incineration Plant",
+   "cat": "관광",
+   "area": "타이파섬",
+   "lat": 22.161,
+   "lng": 113.57253,
+   "wd": "Q15904718"
+  },
+  {
+   "name": "Vasco da Gama Garden",
+   "cat": "관광",
+   "area": "상라자루 당구",
+   "lat": 22.19622,
+   "lng": 113.5465,
+   "wd": "Q28484333"
+  },
+  {
+   "name": "Hengqin Bridge",
+   "cat": "관광",
+   "area": "",
+   "lat": 22.16389,
+   "lng": 113.51222,
+   "wd": "Q17038259"
+  }
+ ]
+}

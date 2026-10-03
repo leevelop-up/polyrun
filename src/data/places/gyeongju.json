@@ -1,0 +1,476 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "첨성대",
+   "cat": "관광",
+   "area": "",
+   "lat": 35.83472,
+   "lng": 129.219,
+   "aliases": [
+    "Cheomseongdae",
+    "경주첨성대"
+   ],
+   "wd": "Q562765"
+  },
+  {
+   "name": "경주역사유적지구",
+   "cat": "관광",
+   "area": "경주시",
+   "lat": 35.78889,
+   "lng": 129.22667,
+   "aliases": [
+    "Gyeongju Historic Areas"
+   ],
+   "wd": "Q495241"
+  },
+  {
+   "name": "국립경주박물관",
+   "cat": "관광",
+   "area": "경주시",
+   "lat": 35.82898,
+   "lng": 129.22836,
+   "aliases": [
+    "Gyeongju National Museum"
+   ],
+   "wd": "Q390124"
+  },
+  {
+   "name": "황룡사",
+   "cat": "관광",
+   "area": "경주시",
+   "lat": 35.83752,
+   "lng": 129.23278,
+   "aliases": [
+    "Hwangnyongsa",
+    "황룡사지"
+   ],
+   "wd": "Q491548"
+  },
+  {
+   "name": "분황사",
+   "cat": "관광",
+   "area": "월성동",
+   "lat": 35.84056,
+   "lng": 129.23361,
+   "aliases": [
+    "Bunhwangsa"
+   ],
+   "wd": "Q491069"
+  },
+  {
+   "name": "경주국립공원",
+   "cat": "관광",
+   "area": "경상북도",
+   "lat": 35.8675,
+   "lng": 129.2225,
+   "aliases": [
+    "Gyeongju National Park"
+   ],
+   "wd": "Q491567"
+  },
+  {
+   "name": "경주 월성",
+   "cat": "관광",
+   "area": "경상북도",
+   "lat": 35.83131,
+   "lng": 129.22334,
+   "aliases": [
+    "Wolseong"
+   ],
+   "wd": "Q471292"
+  },
+  {
+   "name": "경주 계림",
+   "cat": "관광",
+   "area": "경상북도",
+   "lat": 35.8675,
+   "lng": 129.223,
+   "aliases": [
+    "Gyerim",
+    "시림"
+   ],
+   "wd": "Q491088"
+  },
+  {
+   "name": "천마총",
+   "cat": "관광",
+   "area": "",
+   "lat": 35.83778,
+   "lng": 129.2125,
+   "aliases": [
+    "Cheonmachong"
+   ],
+   "wd": "Q491496"
+  },
+  {
+   "name": "금관총",
+   "cat": "관광",
+   "area": "",
+   "lat": 35.84125,
+   "lng": 129.20983,
+   "aliases": [
+    "Gold Crown Tomb"
+   ],
+   "wd": "Q5578704"
+  },
+  {
+   "name": "경주월드",
+   "cat": "관광",
+   "area": "경상북도",
+   "lat": 35.83559,
+   "lng": 129.28069,
+   "aliases": [
+    "Gyeongju World",
+    "경주토두락월드"
+   ],
+   "wd": "Q12583900"
+  },
+  {
+   "name": "김유신묘",
+   "cat": "관광",
+   "area": "경상북도",
+   "lat": 35.84556,
+   "lng": 129.18861,
+   "aliases": [
+    "Tomb of General Kim Yusin"
+   ],
+   "wd": "Q6680259"
+  },
+  {
+   "name": "신라역사과학관",
+   "cat": "관광",
+   "area": "경주시",
+   "lat": 35.80628,
+   "lng": 129.31147,
+   "aliases": [
+    "Silla Art and Science Museum"
+   ],
+   "wd": "Q7515317"
+  },
+  {
+   "name": "대릉원",
+   "cat": "관광",
+   "area": "경상북도",
+   "lat": 35.83805,
+   "lng": 129.21213,
+   "aliases": [
+    "Daereungwon",
+    "황남동 고분군"
+   ],
+   "wd": "Q17278215"
+  },
+  {
+   "name": "경주 춘양교지와 월정교지",
+   "cat": "관광",
+   "area": "경주시",
+   "lat": 35.8294,
+   "lng": 129.2181,
+   "aliases": [
+    "Gyeongju Chunyang Bridge and Woljeong Bridge"
+   ],
+   "wd": "Q65235305"
+  },
+  {
+   "name": "황성공원",
+   "cat": "관광",
+   "area": "경주시",
+   "lat": 35.85995,
+   "lng": 129.21223,
+   "aliases": [
+    "Hwangseong Park"
+   ],
+   "wd": "Q625763"
+  },
+  {
+   "name": "무열왕릉",
+   "cat": "관광",
+   "area": "",
+   "lat": 35.8251,
+   "lng": 129.1859,
+   "aliases": [
+    "Tomb of King Muyeol"
+   ],
+   "wd": "Q16092975"
+  },
+  {
+   "name": "경주읍성",
+   "cat": "관광",
+   "area": "중부동",
+   "lat": 35.84639,
+   "lng": 129.21361,
+   "aliases": [
+    "Gyeongju Eupseong"
+   ],
+   "wd": "Q16092231"
+  },
+  {
+   "name": "경주타워",
+   "cat": "관광",
+   "area": "경주시",
+   "lat": 35.83131,
+   "lng": 129.28928,
+   "aliases": [
+    "Gyeongju Tower"
+   ],
+   "wd": "Q5624070"
+  },
+  {
+   "name": "경주 명활성",
+   "cat": "관광",
+   "area": "경주시",
+   "lat": 35.83556,
+   "lng": 129.25528,
+   "aliases": [
+    "Myeonghwalseong Fortress",
+    "명활산성",
+    "명활성"
+   ],
+   "wd": "Q16092219"
+  },
+  {
+   "name": "경주 나정",
+   "cat": "관광",
+   "area": "경주시",
+   "lat": 35.81593,
+   "lng": 129.2126,
+   "aliases": [
+    "Najeong Well",
+    "慶州 蘿井"
+   ],
+   "wd": "Q16092532"
+  },
+  {
+   "name": "헌덕왕릉",
+   "cat": "관광",
+   "area": "경상북도",
+   "lat": 35.84361,
+   "lng": 129.24472,
+   "aliases": [
+    "Tomb of King Heondeok"
+   ],
+   "wd": "Q16096110"
+  },
+  {
+   "name": "경주 남산신성",
+   "cat": "관광",
+   "area": "",
+   "lat": 35.81694,
+   "lng": 129.22861,
+   "aliases": [
+    "Namsansinseong"
+   ],
+   "wd": "Q15397800"
+  },
+  {
+   "name": "경주 경덕왕릉",
+   "cat": "관광",
+   "area": "",
+   "lat": 35.76306,
+   "lng": 129.18722,
+   "aliases": [
+    "Tomb of King Gyeongdeok"
+   ],
+   "wd": "Q16092203"
+  },
+  {
+   "name": "경주 구정동 방형분",
+   "cat": "관광",
+   "area": "",
+   "lat": 35.77833,
+   "lng": 129.29694,
+   "aliases": [
+    "Gujeong-dong Square Tomb"
+   ],
+   "wd": "Q16092212"
+  },
+  {
+   "name": "경주 남산 용장사곡 석조여래좌상",
+   "cat": "관광",
+   "area": "경상북도",
+   "lat": 35.7775,
+   "lng": 129.22167,
+   "aliases": [
+    "Stone seated Buddha in Yongjangsagok valley, Namsan Mountain, Gyeongju",
+    "경주남산용장사곡석불좌상",
+    "경주 남산 용장사곡 석불좌상"
+   ],
+   "wd": "Q12583853"
+  },
+  {
+   "name": "경주 보문사지 석조",
+   "cat": "관광",
+   "area": "경상북도",
+   "lat": 35.82611,
+   "lng": 129.25417,
+   "aliases": [
+    "Stone Basin at Bomunsa Temple Site, Gyeongju"
+   ],
+   "wd": "Q12583866"
+  },
+  {
+   "name": "경주 황남동 효자 손시양 정려비",
+   "cat": "관광",
+   "area": "경상북도",
+   "lat": 35.83611,
+   "lng": 129.21083,
+   "aliases": [
+    "Son Siyang Jeongryeobi"
+   ],
+   "wd": "Q12583882"
+  },
+  {
+   "name": "경주소방서",
+   "cat": "관광",
+   "area": "경주시",
+   "lat": 35.84414,
+   "lng": 129.22833,
+   "aliases": [
+    "Gyeongju Fire Station"
+   ],
+   "wd": "Q12583888"
+  },
+  {
+   "name": "흥륜사지",
+   "cat": "관광",
+   "area": "경상북도",
+   "lat": 35.82833,
+   "lng": 129.20694,
+   "aliases": [
+    "Heungnyunsa",
+    "경주흥륜사지",
+    "경주 흥륜사지"
+   ],
+   "wd": "Q12626201"
+  },
+  {
+   "name": "한국대중음악박물관",
+   "cat": "관광",
+   "area": "경주시",
+   "lat": 35.83999,
+   "lng": 129.28914,
+   "aliases": [
+    "K Pop Museum"
+   ],
+   "wd": "Q31176173"
+  },
+  {
+   "name": "경주우체국",
+   "cat": "관광",
+   "area": "",
+   "lat": 35.84423,
+   "lng": 129.21575,
+   "aliases": [
+    "Gyeongju Post Office"
+   ],
+   "wd": "Q12583899"
+  },
+  {
+   "name": "사천왕사지",
+   "cat": "관광",
+   "area": "",
+   "lat": 35.81917,
+   "lng": 129.24194,
+   "aliases": [
+    "Sach'ŏnwangsa"
+   ],
+   "wd": "Q16093403"
+  },
+  {
+   "name": "성덕왕릉",
+   "cat": "관광",
+   "area": "",
+   "lat": 35.78778,
+   "lng": 129.28167,
+   "aliases": [
+    "Tomb of King Seongdeok"
+   ],
+   "wd": "Q16093598"
+  },
+  {
+   "name": "경주 삼릉계곡 마애관음보살상",
+   "cat": "관광",
+   "area": "",
+   "lat": 35.795,
+   "lng": 129.22194,
+   "aliases": [
+    "Gyeongju Namsan Samneunggye Rock-carved Avalokitesvara Bodhisattva Standing Statue"
+   ],
+   "wd": "Q27953775"
+  },
+  {
+   "name": "김인문묘",
+   "cat": "관광",
+   "area": "경상북도",
+   "lat": 35.825,
+   "lng": 129.18944,
+   "aliases": [
+    "Kim In-mun's Tomb",
+    "김인문묘비"
+   ],
+   "wd": "Q12588402"
+  },
+  {
+   "name": "경주 황성동 고분",
+   "cat": "관광",
+   "area": "경상북도",
+   "lat": 35.86722,
+   "lng": 129.21139,
+   "wd": "Q23995033"
+  },
+  {
+   "name": "경주간묘",
+   "cat": "관광",
+   "area": "경상북도",
+   "lat": 35.86449,
+   "lng": 129.21233,
+   "aliases": [
+    "Gyeongju Ganmyo"
+   ],
+   "wd": "Q65235310"
+  },
+  {
+   "name": "김양묘",
+   "cat": "관광",
+   "area": "경상북도",
+   "lat": 35.825,
+   "lng": 129.18944,
+   "wd": "Q65238765"
+  },
+  {
+   "name": "서천교 (경주시)",
+   "cat": "관광",
+   "area": "",
+   "lat": 35.82394,
+   "lng": 129.1667,
+   "aliases": [
+    "Seocheon Bridge",
+    "경주 서천교"
+   ],
+   "wd": "Q12601494"
+  },
+  {
+   "name": "북천철교",
+   "cat": "관광",
+   "area": "",
+   "lat": 35.85114,
+   "lng": 129.21932,
+   "aliases": [
+    "Bukcheon Railway Bridge"
+   ],
+   "wd": "Q15261352"
+  },
+  {
+   "name": "형산강철교",
+   "cat": "관광",
+   "area": "",
+   "lat": 35.87331,
+   "lng": 129.21074,
+   "aliases": [
+    "Hyeongsan River Railroad Bridge"
+   ],
+   "wd": "Q16100730"
+  }
+ ]
+}

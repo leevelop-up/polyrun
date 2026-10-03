@@ -1,0 +1,877 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "상하이 박물관",
+   "cat": "관광",
+   "area": "황푸구",
+   "lat": 31.23028,
+   "lng": 121.47056,
+   "aliases": [
+    "Shanghai Museum"
+   ],
+   "wd": "Q1051293"
+  },
+  {
+   "name": "예원",
+   "cat": "관광",
+   "area": "황푸구",
+   "lat": 31.22917,
+   "lng": 121.4875,
+   "aliases": [
+    "Yu Garden",
+    "豫园",
+    "豫園"
+   ],
+   "wd": "Q1328025"
+  },
+  {
+   "name": "인민광장",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.2309,
+   "lng": 121.4703,
+   "aliases": [
+    "People's Square",
+    "런민광창"
+   ],
+   "wd": "Q1078123"
+  },
+  {
+   "name": "상하이 대극원",
+   "cat": "관광",
+   "area": "Nanjingdonglu Subdistrict",
+   "lat": 31.232,
+   "lng": 121.467,
+   "aliases": [
+    "Shanghai Grand Theatre"
+   ],
+   "wd": "Q1325611"
+  },
+  {
+   "name": "위포쓰",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.24333,
+   "lng": 121.44028,
+   "aliases": [
+    "Jade Buddha Temple"
+   ],
+   "wd": "Q967601"
+  },
+  {
+   "name": "Saint Ignatius Cathedral",
+   "cat": "관광",
+   "area": "쉬후이구",
+   "lat": 31.19306,
+   "lng": 121.43139,
+   "wd": "Q49633"
+  },
+  {
+   "name": "징안쓰",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.225,
+   "lng": 121.44083,
+   "aliases": [
+    "Jing'an Temple"
+   ],
+   "wd": "Q403189"
+  },
+  {
+   "name": "양푸 대교",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.2575,
+   "lng": 121.54139,
+   "aliases": [
+    "Yangpu Bridge"
+   ],
+   "wd": "Q1365598"
+  },
+  {
+   "name": "메르세데스-벤츠 아레나",
+   "cat": "관광",
+   "area": "Zhoujiadu Subdistrict",
+   "lat": 31.19129,
+   "lng": 121.48939,
+   "aliases": [
+    "Mercedes-Benz Arena"
+   ],
+   "wd": "Q770149"
+  },
+  {
+   "name": "상하이커지관",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.22028,
+   "lng": 121.53778,
+   "aliases": [
+    "Shanghai Science and Technology Museum"
+   ],
+   "wd": "Q855376"
+  },
+  {
+   "name": "China Art Museum",
+   "cat": "관광",
+   "area": "Zhoujiadu Subdistrict",
+   "lat": 31.18639,
+   "lng": 121.49,
+   "wd": "Q5099572"
+  },
+  {
+   "name": "Xiaotaoyuan Mosque",
+   "cat": "관광",
+   "area": "황푸구",
+   "lat": 31.2207,
+   "lng": 121.48965,
+   "wd": "Q631946"
+  },
+  {
+   "name": "상하이 도시계획전시관",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.23337,
+   "lng": 121.47048,
+   "aliases": [
+    "Shanghai Urban Planning Exhibition Center"
+   ],
+   "wd": "Q713922"
+  },
+  {
+   "name": "Shanghai Zoo",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.19548,
+   "lng": 121.35876,
+   "wd": "Q3182046"
+  },
+  {
+   "name": "Waibaidu Bridge",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.24519,
+   "lng": 121.4855,
+   "wd": "Q2121198"
+  },
+  {
+   "name": "롱화쓰",
+   "cat": "관광",
+   "area": "쉬후이구",
+   "lat": 31.17695,
+   "lng": 121.44656,
+   "aliases": [
+    "Longhua Temple"
+   ],
+   "wd": "Q41912"
+  },
+  {
+   "name": "난푸 대교",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.20722,
+   "lng": 121.50111,
+   "aliases": [
+    "Nanpu Bridge"
+   ],
+   "wd": "Q910848"
+  },
+  {
+   "name": "Shanghai Natural History Museum",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.23354,
+   "lng": 121.48278,
+   "wd": "Q1312291"
+  },
+  {
+   "name": "상하이 미술관",
+   "cat": "관광",
+   "area": "난징루",
+   "lat": 31.23261,
+   "lng": 121.46658,
+   "aliases": [
+    "Shanghai Art Museum"
+   ],
+   "wd": "Q1194314"
+  },
+  {
+   "name": "중국공산당 제1차 전국대표대회 회지",
+   "cat": "관광",
+   "area": "황푸구",
+   "lat": 31.22208,
+   "lng": 121.47069,
+   "aliases": [
+    "Site of the First Congress of the Chinese Communist Party"
+   ],
+   "wd": "Q41728"
+  },
+  {
+   "name": "루쉰 공원",
+   "cat": "관광",
+   "area": "훙커우구",
+   "lat": 31.27284,
+   "lng": 121.47843,
+   "aliases": [
+    "Lu Xun Park",
+    "훙커우공원",
+    "노신 공원",
+    "홍구공원"
+   ],
+   "wd": "Q1142220"
+  },
+  {
+   "name": "Shanghai Jewish Refugees Museum",
+   "cat": "관광",
+   "area": "훙커우구",
+   "lat": 31.25617,
+   "lng": 121.505,
+   "wd": "Q11078482"
+  },
+  {
+   "name": "강해관",
+   "cat": "관광",
+   "area": "황푸구",
+   "lat": 31.23861,
+   "lng": 121.48542,
+   "aliases": [
+    "Customs House"
+   ],
+   "wd": "Q5196503"
+  },
+  {
+   "name": "Fuyou Road Mosque",
+   "cat": "관광",
+   "area": "황푸구",
+   "lat": 31.2278,
+   "lng": 121.489,
+   "wd": "Q19840123"
+  },
+  {
+   "name": "쑤푸 대교",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.12972,
+   "lng": 121.46444,
+   "aliases": [
+    "Xupu Bridge",
+    "수푸대교",
+    "수푸 대교"
+   ],
+   "wd": "Q847819"
+  },
+  {
+   "name": "Pudong Mosque",
+   "cat": "관광",
+   "area": "푸둥 신구",
+   "lat": 31.23786,
+   "lng": 121.5288,
+   "wd": "Q20984187"
+  },
+  {
+   "name": "Wen Miao, Shanghai",
+   "cat": "관광",
+   "area": "황푸구",
+   "lat": 31.2197,
+   "lng": 121.483,
+   "wd": "Q1909323"
+  },
+  {
+   "name": "Jiangwan Mosque",
+   "cat": "관광",
+   "area": "양푸구",
+   "lat": 31.31136,
+   "lng": 121.5112,
+   "wd": "Q20984155"
+  },
+  {
+   "name": "Saint Peter's Church",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.2154,
+   "lng": 121.4653,
+   "wd": "Q284943"
+  },
+  {
+   "name": "Shanghai Botanical Garden",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.14778,
+   "lng": 121.43806,
+   "wd": "Q2371438"
+  },
+  {
+   "name": "Saint Joseph's Church",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.23056,
+   "lng": 121.49028,
+   "wd": "Q2582044"
+  },
+  {
+   "name": "Power Station of Art",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.2031,
+   "lng": 121.4938,
+   "wd": "Q7236419"
+  },
+  {
+   "name": "런민 공원",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.23394,
+   "lng": 121.46781,
+   "aliases": [
+    "People's Park"
+   ],
+   "wd": "Q10867684"
+  },
+  {
+   "name": "Century Park",
+   "cat": "관광",
+   "area": "푸둥 신구",
+   "lat": 31.21798,
+   "lng": 121.5469,
+   "wd": "Q847713"
+  },
+  {
+   "name": "Huangpu Park",
+   "cat": "관광",
+   "area": "황푸구",
+   "lat": 31.24389,
+   "lng": 121.48611,
+   "wd": "Q1088040"
+  },
+  {
+   "name": "St. Francis Xavier Church",
+   "cat": "관광",
+   "area": "황푸구",
+   "lat": 31.2168,
+   "lng": 121.5001,
+   "wd": "Q3581457"
+  },
+  {
+   "name": "Moller Villa",
+   "cat": "관광",
+   "area": "징안구",
+   "lat": 31.22497,
+   "lng": 121.45198,
+   "wd": "Q23161"
+  },
+  {
+   "name": "Gongqing Forest Park",
+   "cat": "관광",
+   "area": "양푸구",
+   "lat": 31.32182,
+   "lng": 121.54577,
+   "wd": "Q3274653"
+  },
+  {
+   "name": "Zhenru Temple",
+   "cat": "관광",
+   "area": "Zhenruzhen Subdistrict",
+   "lat": 31.25139,
+   "lng": 121.39667,
+   "wd": "Q41857"
+  },
+  {
+   "name": "Huxi Mosque",
+   "cat": "관광",
+   "area": "푸퉈구",
+   "lat": 31.24269,
+   "lng": 121.43464,
+   "wd": "Q20984149"
+  },
+  {
+   "name": "상하이 당대예술관",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.23332,
+   "lng": 121.46808,
+   "aliases": [
+    "Museum of Contemporary Art Shanghai"
+   ],
+   "wd": "Q3329586"
+  },
+  {
+   "name": "Changfeng Park",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.22667,
+   "lng": 121.39472,
+   "wd": "Q15046355"
+  },
+  {
+   "name": "Long Museum",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.21811,
+   "lng": 121.56976,
+   "wd": "Q18712414"
+  },
+  {
+   "name": "Zhongshan Park (Shanghai, China)",
+   "cat": "관광",
+   "area": "창닝구",
+   "lat": 31.22334,
+   "lng": 121.41555,
+   "wd": "Q841670"
+  },
+  {
+   "name": "Saint Nicholas' Church",
+   "cat": "관광",
+   "area": "황푸구",
+   "lat": 31.2191,
+   "lng": 121.4615,
+   "wd": "Q2384843"
+  },
+  {
+   "name": "Jinjiang Action Park",
+   "cat": "관광",
+   "area": "Meilong Town",
+   "lat": 31.14111,
+   "lng": 121.40361,
+   "wd": "Q3179183"
+  },
+  {
+   "name": "Tomb of Xu Guangqi",
+   "cat": "관광",
+   "area": "Xujiahui Subdistrict",
+   "lat": 31.19153,
+   "lng": 121.43017,
+   "wd": "Q19825547"
+  },
+  {
+   "name": "Shanghai Concert Hall",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.22889,
+   "lng": 121.47333,
+   "wd": "Q220805"
+  },
+  {
+   "name": "상하이역사박물관",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.23267,
+   "lng": 121.46663,
+   "aliases": [
+    "Shanghai History Museum"
+   ],
+   "wd": "Q779273"
+  },
+  {
+   "name": "Grand Cinema",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.2349,
+   "lng": 121.46676,
+   "wd": "Q10933595"
+  },
+  {
+   "name": "Ohel Rachel Synagogue",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.2315,
+   "lng": 121.453,
+   "wd": "Q11077044"
+  },
+  {
+   "name": "Bank of China Building",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.24153,
+   "lng": 121.485,
+   "wd": "Q23807"
+  },
+  {
+   "name": "Soong Ching-ling Memorial Residence (Shanghai)",
+   "cat": "관광",
+   "area": "쉬후이구",
+   "lat": 31.20589,
+   "lng": 121.43405,
+   "wd": "Q4165412"
+  },
+  {
+   "name": "Xujiahui Park",
+   "cat": "관광",
+   "area": "쉬후이구",
+   "lat": 31.19917,
+   "lng": 121.43806,
+   "wd": "Q6802124"
+  },
+  {
+   "name": "Metro-City",
+   "cat": "쇼핑",
+   "area": "쉬후이구",
+   "lat": 31.193,
+   "lng": 121.439,
+   "wd": "Q6824401"
+  },
+  {
+   "name": "Gutzlaff Signal Tower",
+   "cat": "관광",
+   "area": "황푸구",
+   "lat": 31.23517,
+   "lng": 121.48771,
+   "wd": "Q10932356"
+  },
+  {
+   "name": "Chenxiang Pavilion",
+   "cat": "관광",
+   "area": "황푸구",
+   "lat": 31.22925,
+   "lng": 121.48559,
+   "wd": "Q11139200"
+  },
+  {
+   "name": "Lu Xun's tomb",
+   "cat": "관광",
+   "area": "훙커우구",
+   "lat": 31.27391,
+   "lng": 121.47809,
+   "wd": "Q23170"
+  },
+  {
+   "name": "Shanghai Ocean Aquarium",
+   "cat": "관광",
+   "area": "",
+   "lat": 31.24255,
+   "lng": 121.49717,
+   "wd": "Q2859205"
+  },
+  {
+   "name": "Jing'an Sculpture Park",
+   "cat": "관광",
+   "area": "",
+   "lat": 31.2364,
+   "lng": 121.4583,
+   "wd": "Q25112750"
+  },
+  {
+   "name": "Dajing Ge Pavilion",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.2265,
+   "lng": 121.479,
+   "wd": "Q5209879"
+  },
+  {
+   "name": "Former Consulate-General of the United Kingdom, Shanghai",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.2443,
+   "lng": 121.4842,
+   "wd": "Q5470093"
+  },
+  {
+   "name": "West Bund Museum",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.17327,
+   "lng": 121.45847,
+   "wd": "Q85852944"
+  },
+  {
+   "name": "Monument to Frederic Chopin in Shanghai",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.21995,
+   "lng": 121.41931,
+   "wd": "Q11823199"
+  },
+  {
+   "name": "Guilin Park",
+   "cat": "관광",
+   "area": "쉬후이구",
+   "lat": 31.16764,
+   "lng": 121.41329,
+   "wd": "Q11111537"
+  },
+  {
+   "name": "Propaganda Poster Art Centre",
+   "cat": "관광",
+   "area": "창닝구",
+   "lat": 31.21735,
+   "lng": 121.42935,
+   "wd": "Q2324031"
+  },
+  {
+   "name": "Fuxing Park",
+   "cat": "관광",
+   "area": "황푸구",
+   "lat": 31.21899,
+   "lng": 121.46416,
+   "wd": "Q5510954"
+  },
+  {
+   "name": "Banque de l'Indochine Building",
+   "cat": "관광",
+   "area": "황푸구",
+   "lat": 31.2431,
+   "lng": 121.4855,
+   "wd": "Q10867624"
+  },
+  {
+   "name": "Yuanming Jiangtang",
+   "cat": "관광",
+   "area": "징안구",
+   "lat": 31.21959,
+   "lng": 121.43306,
+   "wd": "Q10926516"
+  },
+  {
+   "name": "Gucheng Park",
+   "cat": "관광",
+   "area": "황푸구",
+   "lat": 31.23059,
+   "lng": 121.48945,
+   "wd": "Q15925003"
+  },
+  {
+   "name": "Rockbund Art Museum",
+   "cat": "관광",
+   "area": "황푸구",
+   "lat": 31.24297,
+   "lng": 121.4843,
+   "wd": "Q16924994"
+  },
+  {
+   "name": "Shanghai Museum East",
+   "cat": "관광",
+   "area": "Huamu Subdistrict",
+   "lat": 31.22211,
+   "lng": 121.53434,
+   "wd": "Q124211936"
+  },
+  {
+   "name": "Jing'an Park",
+   "cat": "관광",
+   "area": "",
+   "lat": 31.2222,
+   "lng": 121.447,
+   "wd": "Q6202198"
+  },
+  {
+   "name": "White Cloud Temple, Shanghai",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.2248,
+   "lng": 121.484,
+   "wd": "Q3517674"
+  },
+  {
+   "name": "Shanghai Circus World",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.27993,
+   "lng": 121.44692,
+   "wd": "Q7488418"
+  },
+  {
+   "name": "IAPM Mall",
+   "cat": "쇼핑",
+   "area": "상하이시",
+   "lat": 31.21743,
+   "lng": 121.45287,
+   "wd": "Q25112758"
+  },
+  {
+   "name": "Taipingqiao Park",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.22155,
+   "lng": 121.47344,
+   "wd": "Q42310158"
+  },
+  {
+   "name": "China Merchants Bank Building",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.2367,
+   "lng": 121.4861,
+   "wd": "Q23149"
+  },
+  {
+   "name": "Xiao Hui Wang Art Museum",
+   "cat": "관광",
+   "area": "쑤저우시",
+   "lat": 31.21636,
+   "lng": 121.37981,
+   "wd": "Q19596031"
+  },
+  {
+   "name": "Our Lady Cathedral, Shanghai",
+   "cat": "관광",
+   "area": "쉬후이구",
+   "lat": 31.21938,
+   "lng": 121.45095,
+   "wd": "Q1055130"
+  },
+  {
+   "name": "Shanghai Himalayas Museum",
+   "cat": "관광",
+   "area": "푸둥 신구",
+   "lat": 31.21073,
+   "lng": 121.55788,
+   "wd": "Q27966753"
+  },
+  {
+   "name": "Great Northern Telegraph Company Building",
+   "cat": "관광",
+   "area": "황푸구",
+   "lat": 31.2371,
+   "lng": 121.4859,
+   "wd": "Q10933783"
+  },
+  {
+   "name": "Shanghai Changning Children's Palace",
+   "cat": "관광",
+   "area": "창닝구",
+   "lat": 31.22155,
+   "lng": 121.42251,
+   "wd": "Q15939088"
+  },
+  {
+   "name": "New Town Central Park",
+   "cat": "관광",
+   "area": "창닝구",
+   "lat": 31.20264,
+   "lng": 121.40022,
+   "wd": "Q25112759"
+  },
+  {
+   "name": "Kaiqiao Green Area",
+   "cat": "관광",
+   "area": "창닝구",
+   "lat": 31.212,
+   "lng": 121.4133,
+   "wd": "Q42013240"
+  },
+  {
+   "name": "Westgate Mall (Shanghai)",
+   "cat": "쇼핑",
+   "area": "징안구",
+   "lat": 31.23049,
+   "lng": 121.45229,
+   "wd": "Q105100399"
+  },
+  {
+   "name": "grave of Soong Ching-ling",
+   "cat": "관광",
+   "area": "창닝구",
+   "lat": 31.19513,
+   "lng": 121.41078,
+   "wd": "Q41743"
+  },
+  {
+   "name": "Pillbox of No. 7 Bridge, Caobao Road",
+   "cat": "관광",
+   "area": "민항구",
+   "lat": 31.15995,
+   "lng": 121.3564,
+   "wd": "Q51373360"
+  },
+  {
+   "name": "Shanghai Water Gate Museum",
+   "cat": "관광",
+   "area": "푸퉈구",
+   "lat": 31.26147,
+   "lng": 121.42566,
+   "wd": "Q10867695"
+  },
+  {
+   "name": "Heping Park",
+   "cat": "관광",
+   "area": "훙커우구",
+   "lat": 31.272,
+   "lng": 121.498,
+   "wd": "Q10867766"
+  },
+  {
+   "name": "Shanghai Railway Museum",
+   "cat": "관광",
+   "area": "Beizhan Subdistrict",
+   "lat": 31.2519,
+   "lng": 121.472,
+   "wd": "Q7488495"
+  },
+  {
+   "name": "Hengshan Picardie Hotel",
+   "cat": "관광",
+   "area": "Tianpinglu Subdistrict",
+   "lat": 31.20232,
+   "lng": 121.4385,
+   "wd": "Q15909474"
+  },
+  {
+   "name": "Super Brand Mall",
+   "cat": "쇼핑",
+   "area": "Lujiazui Subdistrict",
+   "lat": 31.2385,
+   "lng": 121.494,
+   "wd": "Q7642221"
+  },
+  {
+   "name": "Majestic Theatre",
+   "cat": "관광",
+   "area": "Shimen'erlu Subdistrict",
+   "lat": 31.23135,
+   "lng": 121.45143,
+   "wd": "Q15918631"
+  },
+  {
+   "name": "The Bund Finance Center",
+   "cat": "관광",
+   "area": "Xiaodongmen Subdistrict",
+   "lat": 31.22887,
+   "lng": 121.49351,
+   "wd": "Q42955896"
+  },
+  {
+   "name": "C. Y. Tung Maritime Museum",
+   "cat": "관광",
+   "area": "",
+   "lat": 31.2021,
+   "lng": 121.43,
+   "wd": "Q5006985"
+  },
+  {
+   "name": "Shanghai Expo Park",
+   "cat": "관광",
+   "area": "",
+   "lat": 31.18764,
+   "lng": 121.48512,
+   "wd": "Q7488439"
+  },
+  {
+   "name": "대한민국 임시정부 유적지",
+   "cat": "관광",
+   "area": "",
+   "lat": 31.2172,
+   "lng": 121.4746,
+   "aliases": [
+    "Provisional Government of the Republic of Korea in Shanghai"
+   ],
+   "wd": "Q27967278"
+  },
+  {
+   "name": "Shanghai No.1 Department Store",
+   "cat": "쇼핑",
+   "area": "상하이시",
+   "lat": 31.23684,
+   "lng": 121.47012,
+   "wd": "Q1874561"
+  },
+  {
+   "name": "Japanese Industry Pavilion of Expo 2010",
+   "cat": "관광",
+   "area": "상하이시",
+   "lat": 31.19261,
+   "lng": 121.49367,
+   "wd": "Q10872736"
+  }
+ ]
+}

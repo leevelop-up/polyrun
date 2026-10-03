@@ -1,0 +1,869 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "골든게이트교",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.81972,
+   "lng": -122.47861,
+   "aliases": [
+    "Golden Gate Bridge",
+    "골든 게이트 브리지",
+    "금문교",
+    "골든게이트 브리지"
+   ],
+   "wd": "Q44440"
+  },
+  {
+   "name": "골든게이트 공원",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.76972,
+   "lng": -122.47694,
+   "aliases": [
+    "Golden Gate Park"
+   ],
+   "wd": "Q635559"
+  },
+  {
+   "name": "샌프란시스코 현대미술관",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.78572,
+   "lng": -122.40105,
+   "aliases": [
+    "San Francisco Museum of Modern Art"
+   ],
+   "wd": "Q913672"
+  },
+  {
+   "name": "롬바드가",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.80194,
+   "lng": -122.41889,
+   "aliases": [
+    "Lombard Street"
+   ],
+   "wd": "Q930276"
+  },
+  {
+   "name": "캘리포니아 과학 아카데미",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.77,
+   "lng": -122.46639,
+   "aliases": [
+    "California Academy of Sciences"
+   ],
+   "wd": "Q965731"
+  },
+  {
+   "name": "드 영",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.77147,
+   "lng": -122.46868,
+   "aliases": [
+    "M. H. de Young Memorial Museum"
+   ],
+   "wd": "Q1470276"
+  },
+  {
+   "name": "Presidio of San Francisco",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.79887,
+   "lng": -122.46619,
+   "wd": "Q1755360"
+  },
+  {
+   "name": "코이트 타워",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.8025,
+   "lng": -122.40583,
+   "aliases": [
+    "Coit Tower"
+   ],
+   "wd": "Q1107297"
+  },
+  {
+   "name": "샌프란시스코 동물원",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.73347,
+   "lng": -122.50191,
+   "aliases": [
+    "San Francisco Zoo"
+   ],
+   "wd": "Q1886334"
+  },
+  {
+   "name": "샌프란시스코 미술관",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.7715,
+   "lng": -122.46869,
+   "aliases": [
+    "Fine Arts Museums of San Francisco"
+   ],
+   "wd": "Q1416890"
+  },
+  {
+   "name": "Exploratorium",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.8014,
+   "lng": -122.3976,
+   "wd": "Q206518"
+  },
+  {
+   "name": "유니언 스퀘어",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.78806,
+   "lng": -122.4075,
+   "aliases": [
+    "Union Square"
+   ],
+   "wd": "Q527972"
+  },
+  {
+   "name": "아시아 미술관",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.78016,
+   "lng": -122.4162,
+   "aliases": [
+    "Asian Art Museum of San Francisco"
+   ],
+   "wd": "Q727277"
+  },
+  {
+   "name": "Alamo Square",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.77638,
+   "lng": -122.43471,
+   "wd": "Q1855438"
+  },
+  {
+   "name": "Mission San Francisco de Asís",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.7644,
+   "lng": -122.427,
+   "wd": "Q1000321"
+  },
+  {
+   "name": "USS Pampanito",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.81,
+   "lng": -122.41639,
+   "wd": "Q2548504"
+  },
+  {
+   "name": "워 메모리얼 오페라 하우스",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.7786,
+   "lng": -122.421,
+   "aliases": [
+    "War Memorial Opera House"
+   ],
+   "wd": "Q2915772"
+  },
+  {
+   "name": "피어 39",
+   "cat": "쇼핑",
+   "area": "샌프란시스코",
+   "lat": 37.80999,
+   "lng": -122.41036,
+   "aliases": [
+    "Pier 39"
+   ],
+   "wd": "Q1856083"
+  },
+  {
+   "name": "워크 오브 게임",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.78437,
+   "lng": -122.40342,
+   "aliases": [
+    "Walk of Game"
+   ],
+   "wd": "Q2166318"
+  },
+  {
+   "name": "Cathedral of Saint Mary of the Assumption",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.7842,
+   "lng": -122.4253,
+   "wd": "Q4347013"
+  },
+  {
+   "name": "월트 디즈니 가족 박물관",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.8011,
+   "lng": -122.458,
+   "aliases": [
+    "The Walt Disney Family Museum"
+   ],
+   "wd": "Q2415048"
+  },
+  {
+   "name": "레지옹 도뇌르 미술관",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.78447,
+   "lng": -122.50084,
+   "aliases": [
+    "Legion of Honor"
+   ],
+   "wd": "Q2468251"
+  },
+  {
+   "name": "Holy Virgin Cathedral",
+   "cat": "관광",
+   "area": "캘리포니아주",
+   "lat": 37.7804,
+   "lng": -122.486,
+   "wd": "Q5886891"
+  },
+  {
+   "name": "San Francisco Botanical Garden",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.76833,
+   "lng": -122.47,
+   "wd": "Q589884"
+  },
+  {
+   "name": "Baker Beach",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.79368,
+   "lng": -122.4837,
+   "wd": "Q684879"
+  },
+  {
+   "name": "Portsmouth Square",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.795,
+   "lng": -122.40556,
+   "wd": "Q2376672"
+  },
+  {
+   "name": "Japanese Tea Garden",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.7701,
+   "lng": -122.47,
+   "wd": "Q3270367"
+  },
+  {
+   "name": "Yerba Buena Center for the Arts",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.7854,
+   "lng": -122.402,
+   "wd": "Q1884883"
+  },
+  {
+   "name": "Ocean Beach",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.7661,
+   "lng": -122.5107,
+   "wd": "Q2350498"
+  },
+  {
+   "name": "Sutro Baths",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.78,
+   "lng": -122.51361,
+   "wd": "Q3505806"
+  },
+  {
+   "name": "Contemporary Jewish Museum",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.7858,
+   "lng": -122.404,
+   "wd": "Q5164991"
+  },
+  {
+   "name": "Saints Peter and Paul Church, San Francisco",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.80167,
+   "lng": -122.41028,
+   "wd": "Q251522"
+  },
+  {
+   "name": "Fort Mason",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.80778,
+   "lng": -122.42972,
+   "wd": "Q948933"
+  },
+  {
+   "name": "포트 포인트",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.81056,
+   "lng": -122.47722,
+   "aliases": [
+    "Fort Point"
+   ],
+   "wd": "Q1438659"
+  },
+  {
+   "name": "Castro Theatre",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.762,
+   "lng": -122.435,
+   "wd": "Q2941518"
+  },
+  {
+   "name": "빌 그레이엄 시빅 오디토리엄",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.7785,
+   "lng": -122.417,
+   "aliases": [
+    "Bill Graham Civic Auditorium"
+   ],
+   "wd": "Q4909197"
+  },
+  {
+   "name": "Ghirardelli Square",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.8057,
+   "lng": -122.42179,
+   "wd": "Q5556730"
+  },
+  {
+   "name": "Mohandas K. Gandhi",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.79533,
+   "lng": -122.39239,
+   "wd": "Q17011318"
+  },
+  {
+   "name": "Buena Vista Park",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.7683,
+   "lng": -122.441,
+   "wd": "Q2749189"
+  },
+  {
+   "name": "Musée Mécanique",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.8104,
+   "lng": -122.417,
+   "wd": "Q3329291"
+  },
+  {
+   "name": "Fillmore West",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.77474,
+   "lng": -122.41943,
+   "wd": "Q3495868"
+  },
+  {
+   "name": "GLBT Historical Society",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.7607,
+   "lng": -122.43562,
+   "wd": "Q5513611"
+  },
+  {
+   "name": "Louise M. Davies Symphony Hall",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.778,
+   "lng": -122.421,
+   "wd": "Q6688842"
+  },
+  {
+   "name": "AIDS Memorial Grove",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.77,
+   "lng": -122.461,
+   "wd": "Q293541"
+  },
+  {
+   "name": "Lincoln Park",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.78611,
+   "lng": -122.50028,
+   "wd": "Q918738"
+  },
+  {
+   "name": "Alcatraz Island Light",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.82623,
+   "lng": -122.42219,
+   "wd": "Q4712967"
+  },
+  {
+   "name": "Conservatory of Flowers",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.772,
+   "lng": -122.46,
+   "wd": "Q5163145"
+  },
+  {
+   "name": "Museum of the African Diaspora",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.7864,
+   "lng": -122.402,
+   "wd": "Q6941067"
+  },
+  {
+   "name": "Old Saint Mary's Cathedral",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.7926,
+   "lng": -122.406,
+   "wd": "Q7084891"
+  },
+  {
+   "name": "Mission Dolores Park",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.75833,
+   "lng": -122.4275,
+   "wd": "Q11519"
+  },
+  {
+   "name": "Lotta's Fountain",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.78806,
+   "lng": -122.40361,
+   "wd": "Q12061379"
+  },
+  {
+   "name": "USF 워 메모리얼 김나지움",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.7769,
+   "lng": -122.449,
+   "aliases": [
+    "War Memorial Gymnasium"
+   ],
+   "wd": "Q781955"
+  },
+  {
+   "name": "Cartoon Art Museum",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.7871,
+   "lng": -122.401,
+   "wd": "Q1045990"
+  },
+  {
+   "name": "SS City of Rio de Janeiro",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.81333,
+   "lng": -122.48904,
+   "wd": "Q1094169"
+  },
+  {
+   "name": "Yerba Buena Gardens",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.7856,
+   "lng": -122.403,
+   "wd": "Q2600143"
+  },
+  {
+   "name": "Roxie Cinema",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.7647,
+   "lng": -122.423,
+   "wd": "Q3445703"
+  },
+  {
+   "name": "South Park",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.7815,
+   "lng": -122.394,
+   "wd": "Q3492264"
+  },
+  {
+   "name": "Balboa Park",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.725,
+   "lng": -122.445,
+   "wd": "Q3624755"
+  },
+  {
+   "name": "Alvord Lake Bridge",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.769,
+   "lng": -122.455,
+   "wd": "Q4738344"
+  },
+  {
+   "name": "China Beach, San Francisco",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.79,
+   "lng": -122.48861,
+   "wd": "Q5099596"
+  },
+  {
+   "name": "Crissy Field",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.8042,
+   "lng": -122.46,
+   "wd": "Q5186096"
+  },
+  {
+   "name": "San Francisco Cable Car Museum",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.7947,
+   "lng": -122.411,
+   "wd": "Q5496957"
+  },
+  {
+   "name": "Pioneer Building",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.7623,
+   "lng": -122.4148,
+   "wd": "Q7196809"
+  },
+  {
+   "name": "Saint Ignatius Church",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.7756,
+   "lng": -122.452,
+   "wd": "Q7401375"
+  },
+  {
+   "name": "St. Anne of the Sunset Church in San Francisco",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.76241,
+   "lng": -122.47085,
+   "wd": "Q7587034"
+  },
+  {
+   "name": "Washington Square",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.8009,
+   "lng": -122.41,
+   "wd": "Q7972206"
+  },
+  {
+   "name": "Metreon",
+   "cat": "쇼핑",
+   "area": "샌프란시스코",
+   "lat": 37.7844,
+   "lng": -122.403,
+   "wd": "Q8014471"
+  },
+  {
+   "name": "Woodward's Gardens",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.768,
+   "lng": -122.421,
+   "wd": "Q8033549"
+  },
+  {
+   "name": "Joseph Conrad Square",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.8066,
+   "lng": -122.419,
+   "wd": "Q14682534"
+  },
+  {
+   "name": "Market Street Cinema",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.78083,
+   "lng": -122.41397,
+   "wd": "Q21190968"
+  },
+  {
+   "name": "Aquarium of the Bay",
+   "cat": "관광",
+   "area": "캘리포니아주",
+   "lat": 37.8088,
+   "lng": -122.409,
+   "wd": "Q4782760"
+  },
+  {
+   "name": "라임 포인트 라이트",
+   "cat": "관광",
+   "area": "마린군",
+   "lat": 37.82547,
+   "lng": -122.47834,
+   "aliases": [
+    "Lime Point Light"
+   ],
+   "wd": "Q3378304"
+  },
+  {
+   "name": "Rodeo Beach",
+   "cat": "관광",
+   "area": "마린군",
+   "lat": 37.83,
+   "lng": -122.536,
+   "wd": "Q3438155"
+  },
+  {
+   "name": "United Nations Plaza",
+   "cat": "관광",
+   "area": "시빅센터",
+   "lat": 37.78,
+   "lng": -122.4137,
+   "wd": "Q1311705"
+  },
+  {
+   "name": "Harvey Milk Plaza",
+   "cat": "관광",
+   "area": "캐스트로",
+   "lat": 37.76223,
+   "lng": -122.43566,
+   "wd": "Q43401507"
+  },
+  {
+   "name": "Letterman Digital Arts Center",
+   "cat": "관광",
+   "area": "",
+   "lat": 37.79981,
+   "lng": -122.44926,
+   "wd": "Q6533683"
+  },
+  {
+   "name": "Ashurbanipal",
+   "cat": "관광",
+   "area": "",
+   "lat": 37.77989,
+   "lng": -122.41599,
+   "wd": "Q14660880"
+  },
+  {
+   "name": "SS City of Chester",
+   "cat": "관광",
+   "area": "",
+   "lat": 37.8139,
+   "lng": -122.467,
+   "wd": "Q16890409"
+  },
+  {
+   "name": "Swedenborgian Church",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.79028,
+   "lng": -122.44589,
+   "wd": "Q182435"
+  },
+  {
+   "name": "Power House",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.82806,
+   "lng": -122.42444,
+   "wd": "Q1142612"
+  },
+  {
+   "name": "Social Hall",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.82778,
+   "lng": -122.42306,
+   "wd": "Q1142650"
+  },
+  {
+   "name": "Warden's House",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.8263,
+   "lng": -122.42192,
+   "wd": "Q1142648"
+  },
+  {
+   "name": "Model Industries Building",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.82778,
+   "lng": -122.42528,
+   "wd": "Q1142654"
+  },
+  {
+   "name": "Alcatraz Water Tower",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.8275,
+   "lng": -122.42389,
+   "wd": "Q1142684"
+  },
+  {
+   "name": "Avalon Ballroom",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.78783,
+   "lng": -122.42094,
+   "wd": "Q2873262"
+  },
+  {
+   "name": "Marina Green",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.8067,
+   "lng": -122.439,
+   "wd": "Q3293150"
+  },
+  {
+   "name": "Notre-Dame-des-Victoires, San Francisco",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.7907,
+   "lng": -122.4065,
+   "wd": "Q3580405"
+  },
+  {
+   "name": "Curran Theatre",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.787,
+   "lng": -122.411,
+   "wd": "Q5194956"
+  },
+  {
+   "name": "Duboce Park",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.7696,
+   "lng": -122.433,
+   "wd": "Q5311049"
+  },
+  {
+   "name": "HerChurch",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.74511,
+   "lng": -122.45329,
+   "wd": "Q5732162"
+  },
+  {
+   "name": "Kong Chow Temple",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.7938,
+   "lng": -122.408,
+   "wd": "Q6429111"
+  },
+  {
+   "name": "Lafayette Park",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.7916,
+   "lng": -122.428,
+   "wd": "Q6471488"
+  },
+  {
+   "name": "Mountain Lake Park",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.7869,
+   "lng": -122.468,
+   "wd": "Q6925042"
+  },
+  {
+   "name": "St. Dominic Church in San Francisco",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.787,
+   "lng": -122.43572,
+   "wd": "Q7587755"
+  },
+  {
+   "name": "Sutro Heights Park",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.7783,
+   "lng": -122.511,
+   "wd": "Q7650129"
+  },
+  {
+   "name": "Sydney Walton Square",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.79744,
+   "lng": -122.39911,
+   "wd": "Q7660214"
+  },
+  {
+   "name": "San Francisco Centre",
+   "cat": "쇼핑",
+   "area": "샌프란시스코",
+   "lat": 37.78419,
+   "lng": -122.40688,
+   "wd": "Q9095816"
+  },
+  {
+   "name": "Museo ItaloAmericano",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.8069,
+   "lng": -122.431,
+   "wd": "Q11073602"
+  },
+  {
+   "name": "Golden Gate Theatre",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.7822,
+   "lng": -122.411,
+   "wd": "Q12058772"
+  },
+  {
+   "name": "St. Francis Lutheran Church",
+   "cat": "관광",
+   "area": "샌프란시스코",
+   "lat": 37.76861,
+   "lng": -122.42934,
+   "wd": "Q17021075"
+  }
+ ]
+}

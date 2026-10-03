@@ -1,0 +1,870 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "그로스뮌스터",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.37,
+   "lng": 8.54417,
+   "aliases": [
+    "Grossmünster"
+   ],
+   "wd": "Q684948"
+  },
+  {
+   "name": "취리히 오페라 하우스",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.365,
+   "lng": 8.54694,
+   "aliases": [
+    "Zürich Opera House"
+   ],
+   "wd": "Q670406"
+  },
+  {
+   "name": "취리히 미술관",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.37028,
+   "lng": 8.54806,
+   "aliases": [
+    "Kunsthaus Zürich"
+   ],
+   "wd": "Q685038"
+  },
+  {
+   "name": "스위스 국립박물관",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.37917,
+   "lng": 8.53972,
+   "aliases": [
+    "National Museum Zurich"
+   ],
+   "wd": "Q691896"
+  },
+  {
+   "name": "E.G. 뷔를레 컬렉션",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.35305,
+   "lng": 8.56176,
+   "aliases": [
+    "Foundation E.G. Bührle Collection"
+   ],
+   "wd": "Q666331"
+  },
+  {
+   "name": "리트베르크 박물관",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.35892,
+   "lng": 8.53027,
+   "aliases": [
+    "Museum Rietberg"
+   ],
+   "wd": "Q668300"
+  },
+  {
+   "name": "Zürich Zoo",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.385,
+   "lng": 8.57306,
+   "wd": "Q220109"
+  },
+  {
+   "name": "St. Peter",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.3711,
+   "lng": 8.54069,
+   "wd": "Q690687"
+  },
+  {
+   "name": "Zentralbibliothek Zürich",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.37417,
+   "lng": 8.54528,
+   "wd": "Q190260"
+  },
+  {
+   "name": "Mahmood Mosque",
+   "cat": "관광",
+   "area": "취리히주",
+   "lat": 47.3551,
+   "lng": 8.57494,
+   "wd": "Q689858"
+  },
+  {
+   "name": "Wasserkirche",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.36961,
+   "lng": 8.54333,
+   "wd": "Q477189"
+  },
+  {
+   "name": "르코르뷔지에관",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.35635,
+   "lng": 8.55112,
+   "aliases": [
+    "Pavillon Le Corbusier"
+   ],
+   "wd": "Q638236"
+  },
+  {
+   "name": "FIFA Museum",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.36351,
+   "lng": 8.53175,
+   "wd": "Q22984572"
+  },
+  {
+   "name": "Paradeplatz",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.3697,
+   "lng": 8.53889,
+   "wd": "Q537986"
+  },
+  {
+   "name": "Old Botanical Garden, Zurich",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.37111,
+   "lng": 8.53361,
+   "wd": "Q437802"
+  },
+  {
+   "name": "벨뷰광장",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.36699,
+   "lng": 8.54506,
+   "aliases": [
+    "Bellevue"
+   ],
+   "wd": "Q815950"
+  },
+  {
+   "name": "린덴호프",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.37306,
+   "lng": 8.54083,
+   "aliases": [
+    "Lindenhof"
+   ],
+   "wd": "Q39374"
+  },
+  {
+   "name": "Swiss Film Archive",
+   "cat": "관광",
+   "area": "로잔",
+   "lat": 47.3827,
+   "lng": 8.5321,
+   "wd": "Q688143"
+  },
+  {
+   "name": "Botanical Garden of the University of Zurich",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.35865,
+   "lng": 8.56111,
+   "wd": "Q686324"
+  },
+  {
+   "name": "취리히 중국 정원",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.3544,
+   "lng": 8.55194,
+   "aliases": [
+    "Chinese Garden"
+   ],
+   "wd": "Q688113"
+  },
+  {
+   "name": "Kunsthalle Zürich",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.38928,
+   "lng": 8.5252,
+   "wd": "Q1792425"
+  },
+  {
+   "name": "라트하우스교",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.3718,
+   "lng": 8.54234,
+   "aliases": [
+    "Rathausbrücke"
+   ],
+   "wd": "Q2132652"
+  },
+  {
+   "name": "바인광장",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.3714,
+   "lng": 8.54171,
+   "aliases": [
+    "Weinplatz"
+   ],
+   "wd": "Q14545051"
+  },
+  {
+   "name": "뮌스터교",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.36995,
+   "lng": 8.54253,
+   "aliases": [
+    "Münsterbrücke",
+    "뮌스터브뤼케"
+   ],
+   "wd": "Q18716357"
+  },
+  {
+   "name": "Zürich James Joyce Foundation",
+   "cat": "관광",
+   "area": "취리히주",
+   "lat": 47.37169,
+   "lng": 8.54003,
+   "wd": "Q230416"
+  },
+  {
+   "name": "MFO-Park",
+   "cat": "관광",
+   "area": "Oerlikon",
+   "lat": 47.4122,
+   "lng": 8.54028,
+   "wd": "Q488815"
+  },
+  {
+   "name": "취리히 수목원",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.36272,
+   "lng": 8.53645,
+   "aliases": [
+    "Arboretum Zürich"
+   ],
+   "wd": "Q630465"
+  },
+  {
+   "name": "뤼덴 하우스",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.37083,
+   "lng": 8.54306,
+   "aliases": [
+    "Zunfthaus zum Rüden"
+   ],
+   "wd": "Q681587"
+  },
+  {
+   "name": "Rieterpark",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.3585,
+   "lng": 8.53074,
+   "wd": "Q692097"
+  },
+  {
+   "name": "뷔르클리 광장",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.36694,
+   "lng": 8.54083,
+   "aliases": [
+    "Bürkliplatz"
+   ],
+   "wd": "Q1021608"
+  },
+  {
+   "name": "Tonhalle",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.36599,
+   "lng": 8.53766,
+   "wd": "Q3531558"
+  },
+  {
+   "name": "뮌스터호프",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.37,
+   "lng": 8.54111,
+   "aliases": [
+    "Münsterhof"
+   ],
+   "wd": "Q7849515"
+  },
+  {
+   "name": "투리쿰",
+   "cat": "관광",
+   "area": "취리히주",
+   "lat": 47.37301,
+   "lng": 8.54072,
+   "aliases": [
+    "Turicum"
+   ],
+   "wd": "Q16785386"
+  },
+  {
+   "name": "preachers church",
+   "cat": "관광",
+   "area": "District 1",
+   "lat": 47.37389,
+   "lng": 8.54528,
+   "wd": "Q18648709"
+  },
+  {
+   "name": "Platzspitz park",
+   "cat": "관광",
+   "area": "District 1",
+   "lat": 47.38028,
+   "lng": 8.54,
+   "wd": "Q2098914"
+  },
+  {
+   "name": "Manegg Castle",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.3369,
+   "lng": 8.51028,
+   "wd": "Q691236"
+  },
+  {
+   "name": "old Kantonsschule",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.37193,
+   "lng": 8.55226,
+   "wd": "Q1728128"
+  },
+  {
+   "name": "Liebfrauenkirche",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.37972,
+   "lng": 8.545,
+   "wd": "Q1823936"
+  },
+  {
+   "name": "콰이교",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.3668,
+   "lng": 8.54312,
+   "aliases": [
+    "Quaibrücke"
+   ],
+   "wd": "Q2121988"
+  },
+  {
+   "name": "Sukkulenten-Sammlung Zürich",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.35611,
+   "lng": 8.535,
+   "wd": "Q2364115"
+  },
+  {
+   "name": "Uetliberg TV-tower",
+   "cat": "관광",
+   "area": "취리히주",
+   "lat": 47.3514,
+   "lng": 8.49022,
+   "wd": "Q691044"
+  },
+  {
+   "name": "Irchelpark",
+   "cat": "관광",
+   "area": "취리히주",
+   "lat": 47.3964,
+   "lng": 8.54778,
+   "wd": "Q960186"
+  },
+  {
+   "name": "Air Force and Air Defense Museum",
+   "cat": "관광",
+   "area": "뒤벤도르프",
+   "lat": 47.39804,
+   "lng": 8.63098,
+   "wd": "Q1428489"
+  },
+  {
+   "name": "Villa Belvoir",
+   "cat": "관광",
+   "area": "엥게",
+   "lat": 47.35674,
+   "lng": 8.53363,
+   "wd": "Q816289"
+  },
+  {
+   "name": "Swiss National Museum",
+   "cat": "관광",
+   "area": "",
+   "lat": 47.37902,
+   "lng": 8.541,
+   "wd": "Q2256718"
+  },
+  {
+   "name": "Bahnhofbrücke Zürich",
+   "cat": "관광",
+   "area": "스위스",
+   "lat": 47.37691,
+   "lng": 8.54271,
+   "wd": "Q18729862"
+  },
+  {
+   "name": "Bauschänzli",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.3677,
+   "lng": 8.54241,
+   "wd": "Q811859"
+  },
+  {
+   "name": "Central",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.3768,
+   "lng": 8.54373,
+   "wd": "Q1053678"
+  },
+  {
+   "name": "Migros Museum of Contemporary Art",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.3894,
+   "lng": 8.52485,
+   "wd": "Q1380528"
+  },
+  {
+   "name": "Zurich Tram Museum",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.35767,
+   "lng": 8.57128,
+   "wd": "Q2448500"
+  },
+  {
+   "name": "Ethnographic Museum of the University of Zurich",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.37081,
+   "lng": 8.53432,
+   "wd": "Q2536345"
+  },
+  {
+   "name": "젝세로이텐 광장",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.3661,
+   "lng": 8.5459,
+   "aliases": [
+    "Sechseläutenplatz"
+   ],
+   "wd": "Q15059954"
+  },
+  {
+   "name": "Alte Kirche Höngg",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.40154,
+   "lng": 8.4969,
+   "wd": "Q15179562"
+  },
+  {
+   "name": "Hedwig fountain",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.37286,
+   "lng": 8.54134,
+   "wd": "Q27229903"
+  },
+  {
+   "name": "Glattzentrum",
+   "cat": "쇼핑",
+   "area": "취리히주",
+   "lat": 47.4089,
+   "lng": 8.59509,
+   "wd": "Q1529938"
+  },
+  {
+   "name": "Sihlcity",
+   "cat": "쇼핑",
+   "area": "취리히주",
+   "lat": 47.358,
+   "lng": 8.52327,
+   "wd": "Q1703434"
+  },
+  {
+   "name": "임그뤼에네 공원",
+   "cat": "관광",
+   "area": "취리히주",
+   "lat": 47.3003,
+   "lng": 8.55144,
+   "aliases": [
+    "Park im Grüene"
+   ],
+   "wd": "Q1729273"
+  },
+  {
+   "name": "Shopville",
+   "cat": "쇼핑",
+   "area": "취리히주",
+   "lat": 47.37833,
+   "lng": 8.53861,
+   "wd": "Q2279858"
+  },
+  {
+   "name": "Baldern, medieval castle site",
+   "cat": "관광",
+   "area": "Stallikon",
+   "lat": 47.31471,
+   "lng": 8.50565,
+   "wd": "Q1010900"
+  },
+  {
+   "name": "Kantonsschule Küsnacht",
+   "cat": "관광",
+   "area": "퀴스나흐트",
+   "lat": 47.31707,
+   "lng": 8.58303,
+   "wd": "Q679641"
+  },
+  {
+   "name": "Wulp Castle",
+   "cat": "관광",
+   "area": "퀴스나흐트",
+   "lat": 47.32161,
+   "lng": 8.60599,
+   "wd": "Q1551542"
+  },
+  {
+   "name": "Gustav-Ammann-Park",
+   "cat": "관광",
+   "area": "Oerlikon",
+   "lat": 47.41128,
+   "lng": 8.53457,
+   "wd": "Q1555480"
+  },
+  {
+   "name": "Zoological museum of the university of Zurich",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.37528,
+   "lng": 8.54806,
+   "wd": "Q220270"
+  },
+  {
+   "name": "Bahnhofplatz",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.3771,
+   "lng": 8.54003,
+   "wd": "Q801700"
+  },
+  {
+   "name": "Oerliker Park",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.4148,
+   "lng": 8.538,
+   "wd": "Q972732"
+  },
+  {
+   "name": "Bäckeranlage",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.3778,
+   "lng": 8.52374,
+   "wd": "Q1018919"
+  },
+  {
+   "name": "Helvetiaplatz",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.3761,
+   "lng": 8.52691,
+   "wd": "Q1236093"
+  },
+  {
+   "name": "Hardbrücke",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.38514,
+   "lng": 8.51717,
+   "wd": "Q1239179"
+  },
+  {
+   "name": "Europabrücke (Zürich)",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.39912,
+   "lng": 8.49512,
+   "wd": "Q1375301"
+  },
+  {
+   "name": "Grosser Hafner",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.3629,
+   "lng": 8.54296,
+   "wd": "Q1547517"
+  },
+  {
+   "name": "Stauffacherbrücke",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.37112,
+   "lng": 8.53087,
+   "wd": "Q1635577"
+  },
+  {
+   "name": "Louis-Häfliger-Park",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.4124,
+   "lng": 8.53381,
+   "wd": "Q1871416"
+  },
+  {
+   "name": "Puls 5",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.3906,
+   "lng": 8.51778,
+   "wd": "Q2117985"
+  },
+  {
+   "name": "Stauffacher",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.3735,
+   "lng": 8.52912,
+   "wd": "Q2334546"
+  },
+  {
+   "name": "Wahlenpark",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.4157,
+   "lng": 8.54116,
+   "wd": "Q2539700"
+  },
+  {
+   "name": "Zunfthaus zur Waag",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.3702,
+   "lng": 8.54033,
+   "wd": "Q9392139"
+  },
+  {
+   "name": "Zürich–Enge Alpenquai",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.36611,
+   "lng": 8.5425,
+   "wd": "Q14547532"
+  },
+  {
+   "name": "Kino Xenix",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.37528,
+   "lng": 8.52611,
+   "wd": "Q15136000"
+  },
+  {
+   "name": "Neumarkt",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.37286,
+   "lng": 8.54628,
+   "wd": "Q18391860"
+  },
+  {
+   "name": "Stefanskirche Hirzenbach",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.40147,
+   "lng": 8.58535,
+   "wd": "Q20820575"
+  },
+  {
+   "name": "Waisenhaus Zürich",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.37294,
+   "lng": 8.54178,
+   "wd": "Q22909689"
+  },
+  {
+   "name": "Maag Halle",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.38675,
+   "lng": 8.51714,
+   "wd": "Q23681769"
+  },
+  {
+   "name": "MoneyMuseum",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.38882,
+   "lng": 8.55157,
+   "wd": "Q24718649"
+  },
+  {
+   "name": "Postbrücke",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.37797,
+   "lng": 8.53698,
+   "wd": "Q27325130"
+  },
+  {
+   "name": "Resurrection of Christ Church (Zurich)",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.3824,
+   "lng": 8.5465,
+   "wd": "Q66819486"
+  },
+  {
+   "name": "Europuddle",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.37927,
+   "lng": 8.53152,
+   "wd": "Q76901204"
+  },
+  {
+   "name": "Wasserturm Schanzengraben",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.37139,
+   "lng": 8.53263,
+   "wd": "Q105108294"
+  },
+  {
+   "name": "Natural History Museum of the University of Zurich",
+   "cat": "관광",
+   "area": "취리히",
+   "lat": 47.37528,
+   "lng": 8.54806,
+   "wd": "Q134929065"
+  },
+  {
+   "name": "Leutschenpark",
+   "cat": "관광",
+   "area": "취리히주",
+   "lat": 47.418,
+   "lng": 8.55672,
+   "wd": "Q940251"
+  },
+  {
+   "name": "Felsenegg-Girstel TV-tower",
+   "cat": "관광",
+   "area": "취리히주",
+   "lat": 47.3122,
+   "lng": 8.5059,
+   "wd": "Q1551486"
+  },
+  {
+   "name": "Uhrenmuseum zum Rösli",
+   "cat": "관광",
+   "area": "취리히주",
+   "lat": 47.3901,
+   "lng": 8.54439,
+   "wd": "Q2474187"
+  },
+  {
+   "name": "Wellenberg",
+   "cat": "관광",
+   "area": "취리히주",
+   "lat": 47.36875,
+   "lng": 8.54264,
+   "wd": "Q2557623"
+  },
+  {
+   "name": "Dreikönigen",
+   "cat": "관광",
+   "area": "취리히주",
+   "lat": 47.3614,
+   "lng": 8.52999,
+   "wd": "Q14912220"
+  },
+  {
+   "name": "Alt-Regensberg Castle",
+   "cat": "관광",
+   "area": "레겐스도르프",
+   "lat": 47.42858,
+   "lng": 8.48201,
+   "wd": "Q2175174"
+  },
+  {
+   "name": "Regensdorf Reformed Church",
+   "cat": "관광",
+   "area": "레겐스도르프",
+   "lat": 47.43067,
+   "lng": 8.4656,
+   "wd": "Q114648667"
+  },
+  {
+   "name": "Langenberg Wildlife Park",
+   "cat": "관광",
+   "area": "랑나우 암 알비스",
+   "lat": 47.2928,
+   "lng": 8.52917,
+   "wd": "Q2570812"
+  },
+  {
+   "name": "Bruno Weber Park",
+   "cat": "관광",
+   "area": "Spreitenbach",
+   "lat": 47.3132,
+   "lng": 8.52003,
+   "wd": "Q18018874"
+  },
+  {
+   "name": "Glanzenberg  ruin",
+   "cat": "관광",
+   "area": "Unterengstringen",
+   "lat": 47.40208,
+   "lng": 8.41632,
+   "wd": "Q1404210"
+  },
+  {
+   "name": "Lindt Home of Chocolate",
+   "cat": "관광",
+   "area": "킬히베르크",
+   "lat": 47.3184,
+   "lng": 8.5511,
+   "wd": "Q125946609"
+  },
+  {
+   "name": "Winkel lakeside settlement",
+   "cat": "관광",
+   "area": "에를렌바흐",
+   "lat": 47.2972,
+   "lng": 8.59621,
+   "wd": "Q14545548"
+  }
+ ]
+}

@@ -1,0 +1,151 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "Jeonju Abu Bakr Al-Seddiq Mosque",
+   "cat": "관광",
+   "area": "전주시",
+   "lat": 35.84914,
+   "lng": 127.15039,
+   "wd": "Q20425104"
+  },
+  {
+   "name": "동고산성",
+   "cat": "관광",
+   "area": "전북특별자치도",
+   "lat": 35.80997,
+   "lng": 127.17336,
+   "aliases": [
+    "Donggosanseong"
+   ],
+   "wd": "Q18013337"
+  },
+  {
+   "name": "전주덕진소방서",
+   "cat": "관광",
+   "area": "덕진구",
+   "lat": 35.84226,
+   "lng": 127.13669,
+   "aliases": [
+    "Jeonju Deokjin Fire Station",
+    "덕진소방서"
+   ],
+   "wd": "Q16099755"
+  },
+  {
+   "name": "남원 양씨 종중 문서",
+   "cat": "관광",
+   "area": "대한민국",
+   "lat": 35.80131,
+   "lng": 127.08856,
+   "wd": "Q12589958",
+   "aliases": [
+    "남원양씨 종중 문서 일괄"
+   ]
+  },
+  {
+   "name": "동고사",
+   "cat": "관광",
+   "area": "전북특별자치도",
+   "lat": 35.81442,
+   "lng": 127.15953,
+   "aliases": [
+    "Donggosa"
+   ],
+   "wd": "Q16092836"
+  },
+  {
+   "name": "체육공원",
+   "cat": "관광",
+   "area": "전북특별자치도",
+   "lat": 35.85306,
+   "lng": 127.14167,
+   "wd": "Q27314467"
+  },
+  {
+   "name": "완산공원",
+   "cat": "관광",
+   "area": "전북특별자치도",
+   "lat": 35.80444,
+   "lng": 127.14139,
+   "aliases": [
+    "Wansan-gongwon"
+   ],
+   "wd": "Q27314469"
+  },
+  {
+   "name": "전북지방우정청",
+   "cat": "관광",
+   "area": "완산구",
+   "lat": 35.81414,
+   "lng": 127.10551,
+   "aliases": [
+    "Jeonbuk Regional Office of Korea Post",
+    "전북우정청"
+   ],
+   "wd": "Q12615165"
+  },
+  {
+   "name": "전주완산소방서",
+   "cat": "관광",
+   "area": "완산구",
+   "lat": 35.79906,
+   "lng": 127.1164,
+   "aliases": [
+    "Jeonju Wansan Fire Station",
+    "완산소방서"
+   ],
+   "wd": "Q12615324"
+  },
+  {
+   "name": "동전주우체국",
+   "cat": "관광",
+   "area": "덕진구",
+   "lat": 35.84455,
+   "lng": 127.1467,
+   "aliases": [
+    "Dongjeonju Post Office"
+   ],
+   "wd": "Q16097608"
+  },
+  {
+   "name": "전주우체국",
+   "cat": "관광",
+   "area": "완산구",
+   "lat": 35.81428,
+   "lng": 127.10496,
+   "aliases": [
+    "Jeonju Post Office"
+   ],
+   "wd": "Q16099759"
+  },
+  {
+   "name": "문학대",
+   "cat": "관광",
+   "area": "전주시",
+   "lat": 35.82917,
+   "lng": 127.10333,
+   "wd": "Q28700207"
+  },
+  {
+   "name": "조경묘",
+   "cat": "관광",
+   "area": "",
+   "lat": 35.81658,
+   "lng": 127.15024,
+   "wd": "Q16094613"
+  },
+  {
+   "name": "학소암",
+   "cat": "관광",
+   "area": "",
+   "lat": 35.78694,
+   "lng": 127.14583,
+   "aliases": [
+    "Haksoam"
+   ],
+   "wd": "Q16096029"
+  }
+ ]
+}

@@ -1,0 +1,485 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "셰이크 자이드 모스크",
+   "cat": "관광",
+   "area": "아부다비",
+   "lat": 24.412,
+   "lng": 54.474,
+   "aliases": [
+    "Sheikh Zayed Mosque"
+   ],
+   "wd": "Q695604"
+  },
+  {
+   "name": "루브르 아부다비",
+   "cat": "관광",
+   "area": "아부다비",
+   "lat": 24.533,
+   "lng": 54.40001,
+   "aliases": [
+    "Louvre Abu Dhabi"
+   ],
+   "wd": "Q3176133"
+  },
+  {
+   "name": "페라리 월드",
+   "cat": "관광",
+   "area": "아부다비",
+   "lat": 24.48366,
+   "lng": 54.60704,
+   "aliases": [
+    "Ferrari World Abu Dhabi"
+   ],
+   "wd": "Q673656"
+  },
+  {
+   "name": "에티하드 아레나",
+   "cat": "관광",
+   "area": "아부다비",
+   "lat": 24.4603,
+   "lng": 54.604,
+   "aliases": [
+    "Etihad Arena"
+   ],
+   "wd": "Q105393795"
+  },
+  {
+   "name": "Zayed National Museum",
+   "cat": "관광",
+   "area": "아부다비",
+   "lat": 24.53456,
+   "lng": 54.4188,
+   "wd": "Q2349145"
+  },
+  {
+   "name": "St. Joseph's Cathedral, Abu Dhabi",
+   "cat": "관광",
+   "area": "아부다비",
+   "lat": 24.44913,
+   "lng": 54.38535,
+   "wd": "Q7589067"
+  },
+  {
+   "name": "Sheikh Zayed Bridge",
+   "cat": "관광",
+   "area": "아부다비",
+   "lat": 24.42417,
+   "lng": 54.48583,
+   "wd": "Q2277764"
+  },
+  {
+   "name": "Mary, Mother of Jesus Mosque",
+   "cat": "관광",
+   "area": "아부다비",
+   "lat": 24.44992,
+   "lng": 54.38581,
+   "wd": "Q46850596"
+  },
+  {
+   "name": "Disneyland Abu Dhabi",
+   "cat": "관광",
+   "area": "아부다비",
+   "lat": 24.51,
+   "lng": 54.59606,
+   "wd": "Q134392411"
+  },
+  {
+   "name": "Abrahamic Family House",
+   "cat": "관광",
+   "area": "",
+   "lat": 24.53093,
+   "lng": 54.4061,
+   "wd": "Q108084797"
+  },
+  {
+   "name": "Aldar Headquarters building",
+   "cat": "관광",
+   "area": "아부다비",
+   "lat": 24.44111,
+   "lng": 54.57528,
+   "wd": "Q4713437"
+  },
+  {
+   "name": "Imam Al-Tayeb Mosque",
+   "cat": "관광",
+   "area": "아부다비",
+   "lat": 24.53084,
+   "lng": 54.40527,
+   "wd": "Q116936375"
+  },
+  {
+   "name": "마리나 몰",
+   "cat": "쇼핑",
+   "area": "아부다비",
+   "lat": 24.47596,
+   "lng": 54.32131,
+   "aliases": [
+    "Marina Mall, Abu Dhabi"
+   ],
+   "wd": "Q3293168"
+  },
+  {
+   "name": "St. Paul's Church, Abu Dhabi",
+   "cat": "관광",
+   "area": "아부다비",
+   "lat": 24.34879,
+   "lng": 54.51529,
+   "wd": "Q24054340"
+  },
+  {
+   "name": "SeaWorld Abu Dhabi",
+   "cat": "관광",
+   "area": "아부다비",
+   "lat": 24.48567,
+   "lng": 54.61854,
+   "wd": "Q28004709"
+  },
+  {
+   "name": "Abu Dhabi Mall",
+   "cat": "쇼핑",
+   "area": "아부다비의 토후국",
+   "lat": 24.49639,
+   "lng": 54.38361,
+   "wd": "Q4670143"
+  },
+  {
+   "name": "Warner Bros. World Abu Dhabi",
+   "cat": "관광",
+   "area": "아부다비의 토후국",
+   "lat": 24.49197,
+   "lng": 54.60002,
+   "wd": "Q30590075"
+  },
+  {
+   "name": "Khalidiyah Mall",
+   "cat": "쇼핑",
+   "area": "아부다비",
+   "lat": 24.47,
+   "lng": 54.3515,
+   "wd": "Q6399626"
+  },
+  {
+   "name": "St. Francis Church, Abu Dhabi",
+   "cat": "관광",
+   "area": "아부다비",
+   "lat": 24.53093,
+   "lng": 54.4061,
+   "wd": "Q116860306"
+  },
+  {
+   "name": "Yas Waterworld Abu Dhabi",
+   "cat": "관광",
+   "area": "아부다비의 토후국",
+   "lat": 24.48806,
+   "lng": 54.59972,
+   "wd": "Q21995365"
+  },
+  {
+   "name": "Wahat Al Karama",
+   "cat": "관광",
+   "area": "아부다비",
+   "lat": 24.41347,
+   "lng": 54.47881,
+   "wd": "Q60764817"
+  },
+  {
+   "name": "Natural History Museum Abu Dhabi",
+   "cat": "관광",
+   "area": "아부다비",
+   "lat": 24.52857,
+   "lng": 54.40342,
+   "wd": "Q137193758"
+  },
+  {
+   "name": "Al Wahda Mall",
+   "cat": "쇼핑",
+   "area": "",
+   "lat": 24.47016,
+   "lng": 54.37261,
+   "wd": "Q4704936"
+  },
+  {
+   "name": "Fight Island",
+   "cat": "관광",
+   "area": "",
+   "lat": 24.5012,
+   "lng": 54.6095,
+   "wd": "Q104174566"
+  },
+  {
+   "name": "St. Therese Church, Abu Dhabi",
+   "cat": "관광",
+   "area": "",
+   "lat": 24.44913,
+   "lng": 54.38535,
+   "wd": "Q117005340"
+  },
+  {
+   "name": "Al-Aziz mosque, Abu Dhabi",
+   "cat": "관광",
+   "area": "",
+   "lat": 24.49277,
+   "lng": 54.39601,
+   "wd": "Q125121105"
+  },
+  {
+   "name": "Al Sila Tower",
+   "cat": "관광",
+   "area": "아부다비",
+   "lat": 24.50024,
+   "lng": 54.38837,
+   "wd": "Q48987755"
+  },
+  {
+   "name": "Yas Mall",
+   "cat": "쇼핑",
+   "area": "아부다비",
+   "lat": 24.48871,
+   "lng": 54.6088,
+   "wd": "Q85816634"
+  },
+  {
+   "name": "Zayed the Second Mosque, Al-Hisn",
+   "cat": "관광",
+   "area": "아부다비",
+   "lat": 24.48126,
+   "lng": 54.35871,
+   "wd": "Q138000947"
+  },
+  {
+   "name": "Umm Al Emarat Park",
+   "cat": "관광",
+   "area": "아부다비의 토후국",
+   "lat": 24.452,
+   "lng": 54.3812,
+   "wd": "Q104870035"
+  },
+  {
+   "name": "Mushrif Mall",
+   "cat": "쇼핑",
+   "area": "",
+   "lat": 24.43423,
+   "lng": 54.41299,
+   "wd": "Q6941289"
+  },
+  {
+   "name": "Emirates Park Zoo",
+   "cat": "관광",
+   "area": "",
+   "lat": 24.46667,
+   "lng": 54.36667,
+   "wd": "Q62266089"
+  },
+  {
+   "name": "Reem Mall",
+   "cat": "쇼핑",
+   "area": "",
+   "lat": 24.48833,
+   "lng": 54.40056,
+   "wd": "Q117751497"
+  },
+  {
+   "name": "Officers' Club",
+   "cat": "관광",
+   "area": "아부다비",
+   "lat": 24.4006,
+   "lng": 54.4744,
+   "wd": "Q2980192"
+  },
+  {
+   "name": "CLYMB Abu Dhabi",
+   "cat": "관광",
+   "area": "아부다비",
+   "lat": 24.48597,
+   "lng": 54.60711,
+   "wd": "Q108559278"
+  },
+  {
+   "name": "The National Aquarium Abu Dhabi",
+   "cat": "관광",
+   "area": "아부다비",
+   "lat": 24.40205,
+   "lng": 54.49584,
+   "wd": "Q111464720"
+  },
+  {
+   "name": "Ḩadīqat al Maţār al Qadīm",
+   "cat": "관광",
+   "area": "아부다비의 토후국",
+   "lat": 24.41917,
+   "lng": 54.45917,
+   "wd": "Q21737838"
+  },
+  {
+   "name": "Ḩadīqat al Ghāf",
+   "cat": "관광",
+   "area": "아부다비의 토후국",
+   "lat": 24.43528,
+   "lng": 54.41056,
+   "wd": "Q21737839"
+  },
+  {
+   "name": "Muntazah ash Shaykh Khalīfah",
+   "cat": "관광",
+   "area": "아부다비의 토후국",
+   "lat": 24.42583,
+   "lng": 54.46917,
+   "wd": "Q21737837"
+  },
+  {
+   "name": "Mangrove National Park",
+   "cat": "관광",
+   "area": "아부다비의 토후국",
+   "lat": 24.45,
+   "lng": 54.41,
+   "wd": "Q121409776"
+  },
+  {
+   "name": "Holy Martyrs' church",
+   "cat": "관광",
+   "area": "아부다비의 토후국",
+   "lat": 24.34727,
+   "lng": 54.52254,
+   "wd": "Q131142982"
+  },
+  {
+   "name": "Souq Al Jami’",
+   "cat": "쇼핑",
+   "area": "",
+   "lat": 24.408,
+   "lng": 54.475,
+   "wd": "Q141164150"
+  },
+  {
+   "name": "Mussafah Bridge",
+   "cat": "관광",
+   "area": "",
+   "lat": 24.40344,
+   "lng": 54.48606,
+   "wd": "Q6943087"
+  },
+  {
+   "name": "Capital Park",
+   "cat": "관광",
+   "area": "",
+   "lat": 24.49244,
+   "lng": 54.36361,
+   "wd": "Q12207355"
+  },
+  {
+   "name": "Saadiyat Beach Golf Club",
+   "cat": "쇼핑",
+   "area": "",
+   "lat": 24.5434,
+   "lng": 54.4389,
+   "wd": "Q18434851"
+  },
+  {
+   "name": "Ḩadīqat al Mīnā'",
+   "cat": "관광",
+   "area": "",
+   "lat": 24.49639,
+   "lng": 54.37667,
+   "wd": "Q21737842"
+  },
+  {
+   "name": "Ḩadīqat at Turāth",
+   "cat": "관광",
+   "area": "",
+   "lat": 24.50583,
+   "lng": 54.3725,
+   "wd": "Q21737843"
+  },
+  {
+   "name": "Muntazah ash Shāţi'",
+   "cat": "관광",
+   "area": "",
+   "lat": 24.42917,
+   "lng": 54.39083,
+   "wd": "Q21737840"
+  },
+  {
+   "name": "Ḩadīqat al Mushrif lil Aţfāl",
+   "cat": "관광",
+   "area": "",
+   "lat": 24.45222,
+   "lng": 54.38139,
+   "wd": "Q21737841"
+  },
+  {
+   "name": "Ḩadīqat al Khālidīyah",
+   "cat": "관광",
+   "area": "",
+   "lat": 24.46861,
+   "lng": 54.34528,
+   "wd": "Q21737846"
+  },
+  {
+   "name": "Al Ḩadīqah al ‘Āmmah",
+   "cat": "관광",
+   "area": "",
+   "lat": 24.46639,
+   "lng": 54.34361,
+   "wd": "Q21737847"
+  },
+  {
+   "name": "Ḩadīqat al ‘Āşimah",
+   "cat": "관광",
+   "area": "",
+   "lat": 24.4925,
+   "lng": 54.36389,
+   "wd": "Q21737844"
+  },
+  {
+   "name": "Al Ḩadīqah al Markazīyah",
+   "cat": "관광",
+   "area": "",
+   "lat": 24.48139,
+   "lng": 54.34833,
+   "wd": "Q21737845"
+  },
+  {
+   "name": "Ḩadīqat al Khubayrah",
+   "cat": "관광",
+   "area": "",
+   "lat": 24.46417,
+   "lng": 54.32861,
+   "wd": "Q21737850"
+  },
+  {
+   "name": "Ḩadīqat al Khālidīyah lil Aţfāl",
+   "cat": "관광",
+   "area": "",
+   "lat": 24.46722,
+   "lng": 54.33778,
+   "wd": "Q21737848"
+  },
+  {
+   "name": "Shāţi' Hīltawniyā",
+   "cat": "관광",
+   "area": "",
+   "lat": 24.46639,
+   "lng": 54.32917,
+   "wd": "Q21737849"
+  },
+  {
+   "name": "Shāţi' as Sayyidāt",
+   "cat": "관광",
+   "area": "",
+   "lat": 24.45861,
+   "lng": 54.30278,
+   "wd": "Q21737852"
+  },
+  {
+   "name": "Warner Bros. Plaza",
+   "cat": "관광",
+   "area": "",
+   "lat": 24.49077,
+   "lng": 54.59928,
+   "wd": "Q60752574"
+  }
+ ]
+}

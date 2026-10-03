@@ -1,0 +1,894 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "싱가포르 식물원",
+   "cat": "관광",
+   "area": "Tanglin",
+   "lat": 1.3151,
+   "lng": 103.8162,
+   "aliases": [
+    "Singapore Botanic Gardens"
+   ],
+   "wd": "Q3046409"
+  },
+  {
+   "name": "가든스 바이 더 베이",
+   "cat": "관광",
+   "area": "Downtown Core",
+   "lat": 1.28332,
+   "lng": 103.86527,
+   "aliases": [
+    "Gardens by the Bay"
+   ],
+   "wd": "Q630135"
+  },
+  {
+   "name": "싱가포르 동물원",
+   "cat": "관광",
+   "area": "북부 주, 싱가포르",
+   "lat": 1.40471,
+   "lng": 103.79105,
+   "aliases": [
+    "Singapore Zoo"
+   ],
+   "wd": "Q2709506"
+  },
+  {
+   "name": "The Helix Bridge",
+   "cat": "관광",
+   "area": "Downtown Core",
+   "lat": 1.28762,
+   "lng": 103.861,
+   "wd": "Q2681107"
+  },
+  {
+   "name": "주롱 새공원",
+   "cat": "관광",
+   "area": "Boon Lay",
+   "lat": 1.32101,
+   "lng": 103.70703,
+   "aliases": [
+    "Jurong Bird Park",
+    "주롱 버드파크"
+   ],
+   "wd": "Q1547682"
+  },
+  {
+   "name": "싱가포르 국립박물관",
+   "cat": "관광",
+   "area": "Bras Basah",
+   "lat": 1.29672,
+   "lng": 103.84864,
+   "aliases": [
+    "National Museum of Singapore"
+   ],
+   "wd": "Q632689"
+  },
+  {
+   "name": "술탄 사원",
+   "cat": "관광",
+   "area": "Kampong Glam",
+   "lat": 1.30214,
+   "lng": 103.859,
+   "aliases": [
+    "Masjid Sultan"
+   ],
+   "wd": "Q1907146"
+  },
+  {
+   "name": "유니버설 스튜디오 싱가포르",
+   "cat": "관광",
+   "area": "센토사섬",
+   "lat": 1.255,
+   "lng": 103.82167,
+   "aliases": [
+    "Universal Studios Singapore"
+   ],
+   "wd": "Q1186714"
+  },
+  {
+   "name": "머라이언 공원",
+   "cat": "관광",
+   "area": "Downtown Core",
+   "lat": 1.28683,
+   "lng": 103.855,
+   "aliases": [
+    "Merlion Park"
+   ],
+   "wd": "Q6819812"
+  },
+  {
+   "name": "스리 마리암만 사원",
+   "cat": "관광",
+   "area": "차이나타운",
+   "lat": 1.28261,
+   "lng": 103.845,
+   "aliases": [
+    "Sri Mariamman Temple, Singapore"
+   ],
+   "wd": "Q2428845"
+  },
+  {
+   "name": "내셔널 갤러리 싱가포르",
+   "cat": "관광",
+   "area": "Downtown Core",
+   "lat": 1.29049,
+   "lng": 103.85186,
+   "aliases": [
+    "National Gallery Singapore"
+   ],
+   "wd": "Q6970475"
+  },
+  {
+   "name": "에스플라네이드 극장",
+   "cat": "관광",
+   "area": "Marina Centre",
+   "lat": 1.28972,
+   "lng": 103.85528,
+   "aliases": [
+    "Esplanade – Theatres on the Bay",
+    "에스플라네이드"
+   ],
+   "wd": "Q559113"
+  },
+  {
+   "name": "ArtScience Museum",
+   "cat": "관광",
+   "area": "Downtown Core",
+   "lat": 1.28611,
+   "lng": 103.859,
+   "wd": "Q2744014"
+  },
+  {
+   "name": "싱가포르 미술관",
+   "cat": "관광",
+   "area": "Bras Basah",
+   "lat": 1.29738,
+   "lng": 103.851,
+   "aliases": [
+    "Singapore Art Museum"
+   ],
+   "wd": "Q2032637"
+  },
+  {
+   "name": "Asian Civilisations Museum",
+   "cat": "관광",
+   "area": "Downtown Core",
+   "lat": 1.2875,
+   "lng": 103.85139,
+   "wd": "Q633033"
+  },
+  {
+   "name": "Lau Pa Sat",
+   "cat": "관광",
+   "area": "틀록아예르가",
+   "lat": 1.28061,
+   "lng": 103.85041,
+   "wd": "Q7697795"
+  },
+  {
+   "name": "이스타나 왕궁",
+   "cat": "관광",
+   "area": "Newton",
+   "lat": 1.30686,
+   "lng": 103.84314,
+   "aliases": [
+    "The Istana"
+   ],
+   "wd": "Q843531"
+  },
+  {
+   "name": "이스트코스트 공원",
+   "cat": "관광",
+   "area": "",
+   "lat": 1.30396,
+   "lng": 103.92637,
+   "aliases": [
+    "East Coast Park",
+    "이스트코스트 파크"
+   ],
+   "wd": "Q3521764"
+  },
+  {
+   "name": "Masjid Jamae",
+   "cat": "관광",
+   "area": "차이나타운",
+   "lat": 1.28319,
+   "lng": 103.8455,
+   "wd": "Q2993428"
+  },
+  {
+   "name": "Masjid Abdul Gaffoor",
+   "cat": "관광",
+   "area": "리틀인디아",
+   "lat": 1.30444,
+   "lng": 103.854,
+   "wd": "Q2477287"
+  },
+  {
+   "name": "주얼 창이 에어포트",
+   "cat": "쇼핑",
+   "area": "창이",
+   "lat": 1.36022,
+   "lng": 103.98976,
+   "aliases": [
+    "Jewel Changi Airport"
+   ],
+   "wd": "Q28419359"
+  },
+  {
+   "name": "Masjid Hajjah Fatimah",
+   "cat": "관광",
+   "area": "칼랑",
+   "lat": 1.30289,
+   "lng": 103.863,
+   "wd": "Q2667415"
+  },
+  {
+   "name": "Masjid Malabar",
+   "cat": "관광",
+   "area": "Rochor",
+   "lat": 1.30556,
+   "lng": 103.85972,
+   "wd": "Q2477275"
+  },
+  {
+   "name": "Armenian Church of Saint Gregory the Illuminator",
+   "cat": "관광",
+   "area": "Bras Basah",
+   "lat": 1.29306,
+   "lng": 103.84931,
+   "wd": "Q2660779"
+  },
+  {
+   "name": "천복궁",
+   "cat": "관광",
+   "area": "차이나타운",
+   "lat": 1.28106,
+   "lng": 103.84753,
+   "aliases": [
+    "Thian Hock Keng"
+   ],
+   "wd": "Q2158122"
+  },
+  {
+   "name": "Sri Srinivasa Perumal Temple, Singapore",
+   "cat": "관광",
+   "area": "Lavender",
+   "lat": 1.31328,
+   "lng": 103.85619,
+   "wd": "Q3536077"
+  },
+  {
+   "name": "스리 테마섹",
+   "cat": "관광",
+   "area": "Newton",
+   "lat": 1.30389,
+   "lng": 103.84306,
+   "aliases": [
+    "Sri Temasek"
+   ],
+   "wd": "Q7586295"
+  },
+  {
+   "name": "Masjid Omar Kampong Melaka",
+   "cat": "관광",
+   "area": "싱가포르강",
+   "lat": 1.28789,
+   "lng": 103.844,
+   "wd": "Q2478845"
+  },
+  {
+   "name": "Kent Ridge Park",
+   "cat": "관광",
+   "area": "Kent Ridge",
+   "lat": 1.28639,
+   "lng": 103.79,
+   "wd": "Q647955"
+  },
+  {
+   "name": "나이트 사파리",
+   "cat": "관광",
+   "area": "Central Water Catchment",
+   "lat": 1.40402,
+   "lng": 103.78922,
+   "aliases": [
+    "Night Safari"
+   ],
+   "wd": "Q2234723"
+  },
+  {
+   "name": "Peranakan Museum",
+   "cat": "관광",
+   "area": "Bras Basah",
+   "lat": 1.29422,
+   "lng": 103.849,
+   "wd": "Q3078303"
+  },
+  {
+   "name": "Buddha Tooth Relic Temple and Museum",
+   "cat": "관광",
+   "area": "차이나타운",
+   "lat": 1.28155,
+   "lng": 103.844,
+   "wd": "Q839965"
+  },
+  {
+   "name": "Fort Siloso",
+   "cat": "관광",
+   "area": "센토사섬",
+   "lat": 1.25889,
+   "lng": 103.80806,
+   "wd": "Q4419293"
+  },
+  {
+   "name": "Masjid Al-Ansar",
+   "cat": "관광",
+   "area": "Bedok",
+   "lat": 1.3269,
+   "lng": 103.9264,
+   "wd": "Q2477258"
+  },
+  {
+   "name": "호파빌라",
+   "cat": "관광",
+   "area": "Queenstown",
+   "lat": 1.28417,
+   "lng": 103.78222,
+   "aliases": [
+    "Haw Par Villa"
+   ],
+   "wd": "Q1018484"
+  },
+  {
+   "name": "Masjid Ahmad",
+   "cat": "관광",
+   "area": "Queenstown",
+   "lat": 1.28086,
+   "lng": 103.79008,
+   "wd": "Q6783326"
+  },
+  {
+   "name": "Fort Canning Hill",
+   "cat": "관광",
+   "area": "",
+   "lat": 1.29444,
+   "lng": 103.847,
+   "wd": "Q1438470"
+  },
+  {
+   "name": "Chinese Garden, Singapore",
+   "cat": "관광",
+   "area": "Jurong East",
+   "lat": 1.33861,
+   "lng": 103.73,
+   "wd": "Q5100456"
+  },
+  {
+   "name": "Masjid Al-Mawaddah",
+   "cat": "관광",
+   "area": "Compassvale",
+   "lat": 1.38406,
+   "lng": 103.891,
+   "wd": "Q1088320"
+  },
+  {
+   "name": "Sri Veeramakaliamman Temple",
+   "cat": "관광",
+   "area": "Farrer Park",
+   "lat": 1.30787,
+   "lng": 103.85249,
+   "wd": "Q7586311"
+  },
+  {
+   "name": "Masjid Al-Istiqamah",
+   "cat": "관광",
+   "area": "Serangoon Garden",
+   "lat": 1.36922,
+   "lng": 103.876,
+   "wd": "Q712057"
+  },
+  {
+   "name": "Masjid Ahmad Ibrahim",
+   "cat": "관광",
+   "area": "Yishun",
+   "lat": 1.4066,
+   "lng": 103.8204,
+   "wd": "Q1087696"
+  },
+  {
+   "name": "Masjid Darul Ghufran",
+   "cat": "관광",
+   "area": "Tampines West",
+   "lat": 1.3554,
+   "lng": 103.9398,
+   "wd": "Q4262113"
+  },
+  {
+   "name": "Cathedral of the Good Shepherd",
+   "cat": "관광",
+   "area": "Museum Planning Area",
+   "lat": 1.29596,
+   "lng": 103.85131,
+   "wd": "Q4425936"
+  },
+  {
+   "name": "Masjid Al-Abrar",
+   "cat": "관광",
+   "area": "차이나타운",
+   "lat": 1.28031,
+   "lng": 103.84726,
+   "wd": "Q4022275"
+  },
+  {
+   "name": "Masjid Al-Iman",
+   "cat": "관광",
+   "area": "Bukit Panjang",
+   "lat": 1.37812,
+   "lng": 103.77277,
+   "wd": "Q6783331"
+  },
+  {
+   "name": "클라크키",
+   "cat": "쇼핑",
+   "area": "싱가포르강",
+   "lat": 1.29002,
+   "lng": 103.846,
+   "aliases": [
+    "Clarke Quay"
+   ],
+   "wd": "Q1095828"
+  },
+  {
+   "name": "Masjid Yusof Ishak",
+   "cat": "관광",
+   "area": "Woodlands",
+   "lat": 1.4265,
+   "lng": 103.7963,
+   "wd": "Q19595579"
+  },
+  {
+   "name": "Anderson Bridge",
+   "cat": "관광",
+   "area": "Downtown Core",
+   "lat": 1.28728,
+   "lng": 103.853,
+   "wd": "Q491477"
+  },
+  {
+   "name": "빅토리아 극장 및 콘서트 홀",
+   "cat": "관광",
+   "area": "Downtown Core",
+   "lat": 1.28825,
+   "lng": 103.852,
+   "aliases": [
+    "Victoria Theatre and Concert Hall"
+   ],
+   "wd": "Q557635"
+  },
+  {
+   "name": "래플스 시티",
+   "cat": "쇼핑",
+   "area": "Downtown Core",
+   "lat": 1.29361,
+   "lng": 103.85306,
+   "aliases": [
+    "Raffles City",
+    "래플즈 시티"
+   ],
+   "wd": "Q5359041"
+  },
+  {
+   "name": "Masjid Bencoolen",
+   "cat": "관광",
+   "area": "Rochor",
+   "lat": 1.29943,
+   "lng": 103.84979,
+   "wd": "Q6783333"
+  },
+  {
+   "name": "Masjid Al-Firdaus",
+   "cat": "관광",
+   "area": "Western Water Catchment",
+   "lat": 1.37486,
+   "lng": 103.71641,
+   "wd": "Q12497267"
+  },
+  {
+   "name": "Masjid Darul Makmur",
+   "cat": "관광",
+   "area": "Yishun",
+   "lat": 1.43682,
+   "lng": 103.83435,
+   "wd": "Q4022366"
+  },
+  {
+   "name": "Masjid Al-Huda",
+   "cat": "관광",
+   "area": "Bukit Timah",
+   "lat": 1.32319,
+   "lng": 103.79471,
+   "wd": "Q6783328"
+  },
+  {
+   "name": "비보시티",
+   "cat": "쇼핑",
+   "area": "Maritime Square (subzone)",
+   "lat": 1.26389,
+   "lng": 103.822,
+   "aliases": [
+    "VivoCity"
+   ],
+   "wd": "Q7937930"
+  },
+  {
+   "name": "Cavenagh Bridge",
+   "cat": "관광",
+   "area": "",
+   "lat": 1.28659,
+   "lng": 103.85239,
+   "wd": "Q4261649"
+  },
+  {
+   "name": "Masjid Taha",
+   "cat": "관광",
+   "area": "게일랑",
+   "lat": 1.3137,
+   "lng": 103.898,
+   "wd": "Q3720047"
+  },
+  {
+   "name": "Saint Joseph's Church",
+   "cat": "관광",
+   "area": "중앙 주",
+   "lat": 1.29822,
+   "lng": 103.85319,
+   "wd": "Q2575658"
+  },
+  {
+   "name": "콩멩산포각시 사원",
+   "cat": "관광",
+   "area": "Bishan",
+   "lat": 1.36144,
+   "lng": 103.836,
+   "aliases": [
+    "Kong Meng San Phor Kark See Monastery"
+   ],
+   "wd": "Q2890360"
+  },
+  {
+   "name": "Siong Lim Temple",
+   "cat": "관광",
+   "area": "Toa Payoh",
+   "lat": 1.33028,
+   "lng": 103.8575,
+   "wd": "Q2985111"
+  },
+  {
+   "name": "Masjid Al-Istighfar",
+   "cat": "관광",
+   "area": "Pasir Ris",
+   "lat": 1.37113,
+   "lng": 103.964,
+   "wd": "Q4262158"
+  },
+  {
+   "name": "크랜지 전쟁기념관",
+   "cat": "관광",
+   "area": "Kranji",
+   "lat": 1.41921,
+   "lng": 103.75802,
+   "aliases": [
+    "Kranji War Memorial"
+   ],
+   "wd": "Q2945352"
+  },
+  {
+   "name": "시민 전쟁기념관",
+   "cat": "관광",
+   "area": "Downtown Core",
+   "lat": 1.29294,
+   "lng": 103.85484,
+   "aliases": [
+    "Civilian War Memorial"
+   ],
+   "wd": "Q5124736"
+  },
+  {
+   "name": "Malay Heritage Centre",
+   "cat": "관광",
+   "area": "Kampong Glam",
+   "lat": 1.30222,
+   "lng": 103.86028,
+   "wd": "Q6741538"
+  },
+  {
+   "name": "Fountain of Wealth",
+   "cat": "관광",
+   "area": "Marina Centre",
+   "lat": 1.29478,
+   "lng": 103.859,
+   "wd": "Q1442165"
+  },
+  {
+   "name": "Masjid Al-Abdul Razak",
+   "cat": "관광",
+   "area": "Kembangan",
+   "lat": 1.32334,
+   "lng": 103.9073,
+   "wd": "Q4262083"
+  },
+  {
+   "name": "Church of Our Lady of Lourdes",
+   "cat": "관광",
+   "area": "Rochor",
+   "lat": 1.30315,
+   "lng": 103.85605,
+   "wd": "Q1105770"
+  },
+  {
+   "name": "Masjid An-Nahdhah",
+   "cat": "관광",
+   "area": "Bishan East",
+   "lat": 1.35351,
+   "lng": 103.851,
+   "wd": "Q4261602"
+  },
+  {
+   "name": "Masjid En-Naeem",
+   "cat": "관광",
+   "area": "Hougang",
+   "lat": 1.36106,
+   "lng": 103.892,
+   "wd": "Q6783344"
+  },
+  {
+   "name": "Elgin Bridge",
+   "cat": "관광",
+   "area": "싱가포르강",
+   "lat": 1.28911,
+   "lng": 103.84929,
+   "wd": "Q3396527"
+  },
+  {
+   "name": "Masjid Al-Amin",
+   "cat": "관광",
+   "area": "Maritime Square (subzone)",
+   "lat": 1.2755,
+   "lng": 103.8192,
+   "wd": "Q3719915"
+  },
+  {
+   "name": "Masjid Temenggong Daeng Ibrahim",
+   "cat": "관광",
+   "area": "Maritime Square (subzone)",
+   "lat": 1.26635,
+   "lng": 103.8243,
+   "wd": "Q6783343"
+  },
+  {
+   "name": "리버 사파리",
+   "cat": "관광",
+   "area": "Central Water Catchment",
+   "lat": 1.40387,
+   "lng": 103.79074,
+   "aliases": [
+    "River Wonders"
+   ],
+   "wd": "Q7337785"
+  },
+  {
+   "name": "Marine Life Park",
+   "cat": "관광",
+   "area": "센토사섬",
+   "lat": 1.2587,
+   "lng": 103.8186,
+   "wd": "Q3082977"
+  },
+  {
+   "name": "Masjid Sallim Mattar",
+   "cat": "관광",
+   "area": "게일랑",
+   "lat": 1.32575,
+   "lng": 103.881,
+   "wd": "Q4022214"
+  },
+  {
+   "name": "Masjid Abdul Hamid",
+   "cat": "관광",
+   "area": "Novena",
+   "lat": 1.32,
+   "lng": 103.841,
+   "wd": "Q12497249"
+  },
+  {
+   "name": "Tekka Centre",
+   "cat": "관광",
+   "area": "리틀인디아",
+   "lat": 1.3062,
+   "lng": 103.851,
+   "wd": "Q7695362"
+  },
+  {
+   "name": "Changi Beach Park",
+   "cat": "관광",
+   "area": "창이",
+   "lat": 1.38333,
+   "lng": 104.00167,
+   "wd": "Q5071985"
+  },
+  {
+   "name": "Hong Lim Park",
+   "cat": "관광",
+   "area": "싱가포르강",
+   "lat": 1.28659,
+   "lng": 103.84639,
+   "wd": "Q5895617"
+  },
+  {
+   "name": "Masjid Al-Muttaqin",
+   "cat": "관광",
+   "area": "Ang Mo Kio",
+   "lat": 1.37049,
+   "lng": 103.846,
+   "wd": "Q6783332"
+  },
+  {
+   "name": "Mount Faber",
+   "cat": "관광",
+   "area": "Bukit Merah",
+   "lat": 1.27222,
+   "lng": 103.82083,
+   "wd": "Q6920714"
+  },
+  {
+   "name": "Yueh Hai Ching Temple",
+   "cat": "관광",
+   "area": "Downtown Core",
+   "lat": 1.2845,
+   "lng": 103.84933,
+   "wd": "Q1094954"
+  },
+  {
+   "name": "Esplanade Bridge",
+   "cat": "관광",
+   "area": "Downtown Core",
+   "lat": 1.28778,
+   "lng": 103.85389,
+   "wd": "Q1368284"
+  },
+  {
+   "name": "Istana Kampong Glam",
+   "cat": "관광",
+   "area": "Kampong Glam",
+   "lat": 1.30278,
+   "lng": 103.86,
+   "wd": "Q1674820"
+  },
+  {
+   "name": "국회의사당",
+   "cat": "관광",
+   "area": "Downtown Core",
+   "lat": 1.28922,
+   "lng": 103.85,
+   "aliases": [
+    "Parliament House"
+   ],
+   "wd": "Q7138913"
+  },
+  {
+   "name": "Masjid Haji Yusoff",
+   "cat": "관광",
+   "area": "Kovan",
+   "lat": 1.35572,
+   "lng": 103.88,
+   "wd": "Q6783346"
+  },
+  {
+   "name": "Church of Saints Peter and Paul",
+   "cat": "관광",
+   "area": "Rochor",
+   "lat": 1.29778,
+   "lng": 103.85139,
+   "wd": "Q1105780"
+  },
+  {
+   "name": "ION Orchard",
+   "cat": "쇼핑",
+   "area": "Orchard",
+   "lat": 1.30444,
+   "lng": 103.832,
+   "wd": "Q3146786"
+  },
+  {
+   "name": "City Harvest Church",
+   "cat": "관광",
+   "area": "",
+   "lat": 1.29376,
+   "lng": 103.85745,
+   "wd": "Q3238227"
+  },
+  {
+   "name": "Raffles Lighthouse",
+   "cat": "관광",
+   "area": "",
+   "lat": 1.1601,
+   "lng": 103.74008,
+   "wd": "Q3652320"
+  },
+  {
+   "name": "Sri Vadapathira Kaliamman Temple",
+   "cat": "관광",
+   "area": "",
+   "lat": 1.31543,
+   "lng": 103.858,
+   "wd": "Q7586300"
+  },
+  {
+   "name": "Jurong Falls",
+   "cat": "관광",
+   "area": "",
+   "lat": 1.31765,
+   "lng": 103.70561,
+   "wd": "Q37685"
+  },
+  {
+   "name": "Changi Chapel and Museum",
+   "cat": "관광",
+   "area": "싱가포르",
+   "lat": 1.36219,
+   "lng": 103.974,
+   "wd": "Q5072000"
+  },
+  {
+   "name": "Underwater World, Singapore",
+   "cat": "관광",
+   "area": "센토사섬",
+   "lat": 1.25857,
+   "lng": 103.81121,
+   "wd": "Q2125883"
+  },
+  {
+   "name": "Burmese Buddhist Temple",
+   "cat": "관광",
+   "area": "Novena",
+   "lat": 1.32842,
+   "lng": 103.847,
+   "wd": "Q4999418"
+  },
+  {
+   "name": "Bishan-Ang Mo Kio Park",
+   "cat": "관광",
+   "area": "Bishan",
+   "lat": 1.36667,
+   "lng": 103.83333,
+   "wd": "Q866299"
+  },
+  {
+   "name": "Indian Heritage Centre",
+   "cat": "관광",
+   "area": "리틀인디아",
+   "lat": 1.30556,
+   "lng": 103.85222,
+   "wd": "Q25551594"
+  },
+  {
+   "name": "Bedok Lighthouse",
+   "cat": "관광",
+   "area": "Bedok",
+   "lat": 1.30908,
+   "lng": 103.93275,
+   "wd": "Q4879337"
+  },
+  {
+   "name": "Benjamin Sheares Bridge",
+   "cat": "관광",
+   "area": "칼랑",
+   "lat": 1.2926,
+   "lng": 103.86206,
+   "wd": "Q817687"
+  }
+ ]
+}

@@ -1,0 +1,538 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "제주 러브랜드",
+   "cat": "관광",
+   "area": "제주시",
+   "lat": 33.45167,
+   "lng": 126.48973,
+   "aliases": [
+    "Love Land"
+   ],
+   "wd": "Q495590"
+  },
+  {
+   "name": "한라산국립공원",
+   "cat": "관광",
+   "area": "제주특별자치도",
+   "lat": 33.36667,
+   "lng": 126.53333,
+   "aliases": [
+    "Hallasan National Park"
+   ],
+   "wd": "Q5642786"
+  },
+  {
+   "name": "삼성혈",
+   "cat": "관광",
+   "area": "제주시",
+   "lat": 33.50426,
+   "lng": 126.52887,
+   "aliases": [
+    "Samseonghyeol",
+    "제주 삼성혈"
+   ],
+   "wd": "Q7410332"
+  },
+  {
+   "name": "중앙성당",
+   "cat": "관광",
+   "area": "제주시",
+   "lat": 33.51169,
+   "lng": 126.52294,
+   "aliases": [
+    "Immaculate Conception Cathedral, Jeju"
+   ],
+   "wd": "Q24997727"
+  },
+  {
+   "name": "국립제주박물관",
+   "cat": "관광",
+   "area": "",
+   "lat": 33.51325,
+   "lng": 126.54859,
+   "aliases": [
+    "Jeju National Museum"
+   ],
+   "wd": "Q6176560"
+  },
+  {
+   "name": "정방폭포",
+   "cat": "관광",
+   "area": "서귀동",
+   "lat": 33.24465,
+   "lng": 126.57166,
+   "aliases": [
+    "Jeongbang Waterfall"
+   ],
+   "wd": "Q625993"
+  },
+  {
+   "name": "약천사",
+   "cat": "관광",
+   "area": "",
+   "lat": 33.24533,
+   "lng": 126.44967,
+   "aliases": [
+    "Yakcheonsa"
+   ],
+   "wd": "Q21709992"
+  },
+  {
+   "name": "여미지식물원",
+   "cat": "관광",
+   "area": "서귀포시",
+   "lat": 33.2518,
+   "lng": 126.415,
+   "aliases": [
+    "Yeomiji Botanical Garden"
+   ],
+   "wd": "Q486315"
+  },
+  {
+   "name": "천지연폭포",
+   "cat": "관광",
+   "area": "서귀동",
+   "lat": 33.24693,
+   "lng": 126.55441,
+   "aliases": [
+    "Cheonjiyeon Waterfall",
+    "서귀포 담팔수나무 자생지",
+    "천지연 난대림 지대",
+    "천지연 난대림지대"
+   ],
+   "wd": "Q626162"
+  },
+  {
+   "name": "천제연폭포",
+   "cat": "관광",
+   "area": "",
+   "lat": 33.25282,
+   "lng": 126.41727,
+   "aliases": [
+    "Cheonjeyeon Waterfalls"
+   ],
+   "wd": "Q495557"
+  },
+  {
+   "name": "관음사",
+   "cat": "관광",
+   "area": "제주특별자치도",
+   "lat": 33.4233,
+   "lng": 126.5587,
+   "aliases": [
+    "Gwaneumsa Temple (Jeju City)"
+   ],
+   "wd": "Q16094233"
+  },
+  {
+   "name": "제주 4·3 평화공원",
+   "cat": "관광",
+   "area": "",
+   "lat": 33.45114,
+   "lng": 126.61894,
+   "aliases": [
+    "April 3 Jeju Peace Park"
+   ],
+   "wd": "Q12616407"
+  },
+  {
+   "name": "제주돌문화공원",
+   "cat": "관광",
+   "area": "",
+   "lat": 33.44857,
+   "lng": 126.65866,
+   "aliases": [
+    "Jeju Stone Park"
+   ],
+   "wd": "Q55734281"
+  },
+  {
+   "name": "함덕해수욕장",
+   "cat": "관광",
+   "area": "",
+   "lat": 33.54385,
+   "lng": 126.6696,
+   "aliases": [
+    "Hamdeok Beach"
+   ],
+   "wd": "Q111850850"
+  },
+  {
+   "name": "감귤박물관",
+   "cat": "관광",
+   "area": "서귀포시",
+   "lat": 33.25753,
+   "lng": 126.57806,
+   "aliases": [
+    "Citrus Museum"
+   ],
+   "wd": "Q18013181"
+  },
+  {
+   "name": "중문색달해수욕장",
+   "cat": "관광",
+   "area": "",
+   "lat": 33.245,
+   "lng": 126.411,
+   "aliases": [
+    "Jungmun sackdal beach"
+   ],
+   "wd": "Q24901295"
+  },
+  {
+   "name": "제주 어음리 빌레못동굴",
+   "cat": "관광",
+   "area": "제주특별자치도",
+   "lat": 33.40433,
+   "lng": 126.34978,
+   "aliases": [
+    "Bilemot Cave",
+    "빌레못 동굴"
+   ],
+   "wd": "Q12599527"
+  },
+  {
+   "name": "에코랜드",
+   "cat": "관광",
+   "area": "제주특별자치도",
+   "lat": 33.44713,
+   "lng": 126.66762,
+   "aliases": [
+    "Ecoland",
+    "에코랜드 CC",
+    "에코랜드CC",
+    "에코랜드 테마파크"
+   ],
+   "wd": "Q12606754"
+  },
+  {
+   "name": "조천진성",
+   "cat": "관광",
+   "area": "",
+   "lat": 33.54028,
+   "lng": 126.63583,
+   "aliases": [
+    "Jocheonjinseong",
+    "朝天鎭城"
+   ],
+   "wd": "Q24000543"
+  },
+  {
+   "name": "삼양해수욕장",
+   "cat": "관광",
+   "area": "",
+   "lat": 33.5263,
+   "lng": 126.5862,
+   "aliases": [
+    "Samyang Beach",
+    "삼양해변"
+   ],
+   "wd": "Q139717532"
+  },
+  {
+   "name": "관덕정",
+   "cat": "관광",
+   "area": "",
+   "lat": 33.51334,
+   "lng": 126.52154,
+   "aliases": [
+    "Gwandeokjeong",
+    "제주 관덕정"
+   ],
+   "wd": "Q12584901"
+  },
+  {
+   "name": "제주 드림타워",
+   "cat": "관광",
+   "area": "",
+   "lat": 33.48535,
+   "lng": 126.48155,
+   "aliases": [
+    "Jeju Dream Tower"
+   ],
+   "wd": "Q21060260"
+  },
+  {
+   "name": "서귀포소방서",
+   "cat": "관광",
+   "area": "서귀포시",
+   "lat": 33.25144,
+   "lng": 126.56693,
+   "aliases": [
+    "Seogwipo Fire Station"
+   ],
+   "wd": "Q12600815"
+  },
+  {
+   "name": "선임교",
+   "cat": "관광",
+   "area": "",
+   "lat": 33.25161,
+   "lng": 126.4168,
+   "aliases": [
+    "Seonim Bridge"
+   ],
+   "wd": "Q7451611"
+  },
+  {
+   "name": "포도뮤지엄",
+   "cat": "관광",
+   "area": "",
+   "lat": 33.3193,
+   "lng": 126.3858,
+   "aliases": [
+    "PODO Museum"
+   ],
+   "wd": "Q115862046"
+  },
+  {
+   "name": "수산유원지",
+   "cat": "관광",
+   "area": "서울특별시",
+   "lat": 33.47028,
+   "lng": 126.38556,
+   "aliases": [
+    "Susanyuwonji"
+   ],
+   "wd": "Q27340735"
+  },
+  {
+   "name": "이호해수욕장",
+   "cat": "관광",
+   "area": "제주특별자치도",
+   "lat": 33.49833,
+   "lng": 126.45306,
+   "aliases": [
+    "Ihohaesuyokjang"
+   ],
+   "wd": "Q27296063"
+  },
+  {
+   "name": "구 제주도청사",
+   "cat": "관광",
+   "area": "제주시",
+   "lat": 33.49944,
+   "lng": 126.53111,
+   "aliases": [
+    "Former Jeju Provincial Government Building"
+   ],
+   "wd": "Q55727657"
+  },
+  {
+   "name": "제주지방우정청",
+   "cat": "관광",
+   "area": "제주시",
+   "lat": 33.49054,
+   "lng": 126.5252,
+   "aliases": [
+    "Jeju Regional Office of Korea Post",
+    "제주우정청"
+   ],
+   "wd": "Q12616481"
+  },
+  {
+   "name": "제주우편집중국",
+   "cat": "관광",
+   "area": "제주시",
+   "lat": 33.48176,
+   "lng": 126.48066,
+   "aliases": [
+    "Jeju Mail Center",
+    "제주집중국"
+   ],
+   "wd": "Q14847461"
+  },
+  {
+   "name": "제주소방서",
+   "cat": "관광",
+   "area": "제주시",
+   "lat": 33.4908,
+   "lng": 126.53674,
+   "aliases": [
+    "Jeju Fire Station"
+   ],
+   "wd": "Q16099819"
+  },
+  {
+   "name": "제주우체국",
+   "cat": "관광",
+   "area": "제주시",
+   "lat": 33.51343,
+   "lng": 126.52235,
+   "aliases": [
+    "Jeju Post Office"
+   ],
+   "wd": "Q16099834"
+  },
+  {
+   "name": "제주도립미술관",
+   "cat": "관광",
+   "area": "제주시",
+   "lat": 33.45263,
+   "lng": 126.4888,
+   "aliases": [
+    "Cheju Torip Misulgwan"
+   ],
+   "wd": "Q16180345"
+  },
+  {
+   "name": "제주 어승생악 일제 동굴진지",
+   "cat": "관광",
+   "area": "제주시",
+   "lat": 33.3925,
+   "lng": 126.48778,
+   "aliases": [
+    "Jeju Eoseungsaengak Japanese Cave Fortification"
+   ],
+   "wd": "Q19603658"
+  },
+  {
+   "name": "제주 사라봉 일제 동굴진지",
+   "cat": "관광",
+   "area": "제주시",
+   "lat": 33.51861,
+   "lng": 126.54778,
+   "aliases": [
+    "Jeju Sarabong Japanese Imperial Cave Fortification"
+   ],
+   "wd": "Q19603656"
+  },
+  {
+   "name": "애월진성",
+   "cat": "관광",
+   "area": "",
+   "lat": 33.46528,
+   "lng": 126.3225,
+   "aliases": [
+    "Aewoljinseong"
+   ],
+   "wd": "Q24000544"
+  },
+  {
+   "name": "Dragon Pool Temple",
+   "cat": "관광",
+   "area": "",
+   "lat": 33.51559,
+   "lng": 126.51528,
+   "wd": "Q5305250"
+  },
+  {
+   "name": "존자암지",
+   "cat": "관광",
+   "area": "",
+   "lat": 33.34757,
+   "lng": 126.4798,
+   "aliases": [
+    "Jonjaamji"
+   ],
+   "wd": "Q6275596"
+  },
+  {
+   "name": "제주특별자치도민속자연사박물관",
+   "cat": "관광",
+   "area": "",
+   "lat": 33.50648,
+   "lng": 126.53161,
+   "wd": "Q18016012"
+  },
+  {
+   "name": "곤을동환해장성",
+   "cat": "관광",
+   "area": "",
+   "lat": 33.52444,
+   "lng": 126.55972,
+   "aliases": [
+    "Goneul Donghwan Haejangseong Fortress"
+   ],
+   "wd": "Q18604833"
+  },
+  {
+   "name": "별도환해장성",
+   "cat": "관광",
+   "area": "",
+   "lat": 33.52667,
+   "lng": 126.56861,
+   "aliases": [
+    "Byeoldwan Haejangseong Fortress"
+   ],
+   "wd": "Q18605170"
+  },
+  {
+   "name": "북촌환해장성",
+   "cat": "관광",
+   "area": "",
+   "lat": 33.5525,
+   "lng": 126.70111,
+   "aliases": [
+    "Bukchon Hwanhaejangseong Fortress"
+   ],
+   "wd": "Q18605191"
+  },
+  {
+   "name": "삼양환해장성",
+   "cat": "관광",
+   "area": "",
+   "lat": 33.5275,
+   "lng": 126.57583,
+   "aliases": [
+    "Samyanghwan Haejangseong Fortress"
+   ],
+   "wd": "Q18605219"
+  },
+  {
+   "name": "동복환해장성",
+   "cat": "관광",
+   "area": "",
+   "lat": 33.55606,
+   "lng": 126.71889,
+   "aliases": [
+    "Dongbokhwan Haejangseong Fortress"
+   ],
+   "wd": "Q24000536"
+  },
+  {
+   "name": "이중섭미술관",
+   "cat": "관광",
+   "area": "제주특별자치도",
+   "lat": 33.24585,
+   "lng": 126.56494,
+   "wd": "Q18016002"
+  },
+  {
+   "name": "큰엉체육공원",
+   "cat": "관광",
+   "area": "제주특별자치도",
+   "lat": 33.27417,
+   "lng": 126.70389,
+   "aliases": [
+    "Keuneongcheyukgongwon"
+   ],
+   "wd": "Q27340767"
+  },
+  {
+   "name": "엉또폭포",
+   "cat": "관광",
+   "area": "대천동",
+   "lat": 33.26861,
+   "lng": 126.5,
+   "aliases": [
+    "Eongtto Waterfalls"
+   ],
+   "wd": "Q55731877"
+  },
+  {
+   "name": "서귀포우체국",
+   "cat": "관광",
+   "area": "서귀포시",
+   "lat": 33.25479,
+   "lng": 126.50844,
+   "aliases": [
+    "Seogwipo Post Office"
+   ],
+   "wd": "Q16097116"
+  }
+ ]
+}

@@ -28,3 +28,12 @@ android/app/google-services.json
 # Misc
 *.log
 .env
+
+# 추천 장소 좌표 조회 캐시 (scripts/geocode-picks.mjs)
+scripts/.geocode-cache.json
+
+# Cloudflare wrangler 로컬 임시 파일
+.wrangler/
+
+# 관광지 데이터 생성 중 받은 Wikidata 원본 (scripts/build-places.mjs)
+scripts/.wikidata-cache/

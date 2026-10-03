@@ -1,0 +1,765 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "모나코 해양박물관",
+   "cat": "관광",
+   "area": "모나코빌",
+   "lat": 43.73083,
+   "lng": 7.42528,
+   "aliases": [
+    "Musée océanographique de Monaco"
+   ],
+   "wd": "Q851527"
+  },
+  {
+   "name": "모나코 대공궁",
+   "cat": "관광",
+   "area": "모나코빌",
+   "lat": 43.73142,
+   "lng": 7.42028,
+   "aliases": [
+    "Prince's Palace of Monaco"
+   ],
+   "wd": "Q1164788"
+  },
+  {
+   "name": "Monte Carlo Casino",
+   "cat": "관광",
+   "area": "몬테카를로",
+   "lat": 43.73917,
+   "lng": 7.42796,
+   "wd": "Q1779905"
+  },
+  {
+   "name": "Tropaeum Alpium",
+   "cat": "관광",
+   "area": "La Turbie",
+   "lat": 43.74478,
+   "lng": 7.4018,
+   "wd": "Q747588"
+  },
+  {
+   "name": "모나코 대성당",
+   "cat": "관광",
+   "area": "모나코빌",
+   "lat": 43.73021,
+   "lng": 7.42266,
+   "aliases": [
+    "Cathedral of Our Lady Immaculate"
+   ],
+   "wd": "Q667450"
+  },
+  {
+   "name": "Opéra de Monte-Carlo",
+   "cat": "관광",
+   "area": "몬테카를로",
+   "lat": 43.73889,
+   "lng": 7.42833,
+   "wd": "Q1577048"
+  },
+  {
+   "name": "니스 성당",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.69722,
+   "lng": 7.27583,
+   "aliases": [
+    "Nice Cathedral"
+   ],
+   "wd": "Q1084011"
+  },
+  {
+   "name": "Russian Orthodox Cathedral, Nice",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.70389,
+   "lng": 7.25389,
+   "wd": "Q2205594"
+  },
+  {
+   "name": "Musée des Beaux-Arts Jules Chéret",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.69454,
+   "lng": 7.24886,
+   "wd": "Q3330218"
+  },
+  {
+   "name": "Musée Matisse",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.71944,
+   "lng": 7.27611,
+   "wd": "Q1563354"
+  },
+  {
+   "name": "Terra Amata",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.6978,
+   "lng": 7.28944,
+   "wd": "Q1857046"
+  },
+  {
+   "name": "musée Marc-Chagall",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.70917,
+   "lng": 7.26954,
+   "wd": "Q3329265"
+  },
+  {
+   "name": "Villa Ephrussi de Rothschild",
+   "cat": "관광",
+   "area": "생장카프페라",
+   "lat": 43.69667,
+   "lng": 7.32847,
+   "wd": "Q2452513"
+  },
+  {
+   "name": "Jardin Exotique de Monaco",
+   "cat": "관광",
+   "area": "Jardin Exotique",
+   "lat": 43.73151,
+   "lng": 7.41378,
+   "wd": "Q1384208"
+  },
+  {
+   "name": "Opéra de Nice",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.69544,
+   "lng": 7.27255,
+   "wd": "Q608423"
+  },
+  {
+   "name": "Sainte Jeanne d'Arc Church",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.71341,
+   "lng": 7.2626,
+   "wd": "Q3107385"
+  },
+  {
+   "name": "Sainte-Dévote Chapel",
+   "cat": "관광",
+   "area": "모나코",
+   "lat": 43.73751,
+   "lng": 7.42098,
+   "wd": "Q584191"
+  },
+  {
+   "name": "Japanese Garden",
+   "cat": "관광",
+   "area": "라르보토",
+   "lat": 43.74233,
+   "lng": 7.43098,
+   "wd": "Q15229360"
+  },
+  {
+   "name": "musée d'art moderne et d'art contemporain de Nice",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.7013,
+   "lng": 7.27845,
+   "wd": "Q936859"
+  },
+  {
+   "name": "Saint-Charles Church",
+   "cat": "관광",
+   "area": "몬테카를로",
+   "lat": 43.7426,
+   "lng": 7.4273,
+   "wd": "Q623013"
+  },
+  {
+   "name": "Grotte du Lazaret",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.69073,
+   "lng": 7.29479,
+   "wd": "Q1547643"
+  },
+  {
+   "name": "Castel of Nice Cathedral",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.69583,
+   "lng": 7.28111,
+   "wd": "Q2942491"
+  },
+  {
+   "name": "Palais Lascaris",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.6977,
+   "lng": 7.27725,
+   "wd": "Q3360882"
+  },
+  {
+   "name": "French pyramids",
+   "cat": "관광",
+   "area": "Falicon",
+   "lat": 43.7499,
+   "lng": 7.26037,
+   "wd": "Q3411269"
+  },
+  {
+   "name": "Museum of Stamps and Coins",
+   "cat": "관광",
+   "area": "퐁비에유",
+   "lat": 43.73088,
+   "lng": 7.41759,
+   "wd": "Q3330282"
+  },
+  {
+   "name": "Église orthodoxe russe Saint-Nicolas et Sainte-Alexandra de Nice",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.69939,
+   "lng": 7.26761,
+   "wd": "Q421502"
+  },
+  {
+   "name": "Musée National du Sport",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.70639,
+   "lng": 7.1925,
+   "wd": "Q3330734"
+  },
+  {
+   "name": "Parc Phœnix",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.66811,
+   "lng": 7.21561,
+   "wd": "Q3363889"
+  },
+  {
+   "name": "place Masséna",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.6973,
+   "lng": 7.27014,
+   "wd": "Q3389982"
+  },
+  {
+   "name": "모나코 요트 클럽",
+   "cat": "관광",
+   "area": "라콩다민",
+   "lat": 43.73749,
+   "lng": 7.42792,
+   "aliases": [
+    "Yacht Club de Monaco"
+   ],
+   "wd": "Q55131"
+  },
+  {
+   "name": "Musée de la Chapelle de la Visitation",
+   "cat": "관광",
+   "area": "모나코빌",
+   "lat": 43.7317,
+   "lng": 7.42507,
+   "wd": "Q1955711"
+  },
+  {
+   "name": "Albert I Lycée",
+   "cat": "관광",
+   "area": "모나코빌",
+   "lat": 43.7313,
+   "lng": 7.4252,
+   "wd": "Q3268559"
+  },
+  {
+   "name": "fort of Mont Alban",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.7013,
+   "lng": 7.30018,
+   "wd": "Q2133894"
+  },
+  {
+   "name": "Chapelle de la Miséricorde de Nice",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.6958,
+   "lng": 7.27536,
+   "wd": "Q2957328"
+  },
+  {
+   "name": "Église Saint-François-de-Paule",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.696,
+   "lng": 7.27227,
+   "wd": "Q3581467"
+  },
+  {
+   "name": "Church of Gesù, Nice",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.6968,
+   "lng": 7.27732,
+   "wd": "Q3581839"
+  },
+  {
+   "name": "Musée Renoir",
+   "cat": "관광",
+   "area": "카뉴쉬르메르",
+   "lat": 43.66758,
+   "lng": 7.15695,
+   "wd": "Q2317145"
+  },
+  {
+   "name": "Monte-Carlo Sporting",
+   "cat": "관광",
+   "area": "라르보토",
+   "lat": 43.7472,
+   "lng": 7.4382,
+   "wd": "Q3494115"
+  },
+  {
+   "name": "Jardin botanique de la Ville de Nice",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.6851,
+   "lng": 7.2101,
+   "wd": "Q630118"
+  },
+  {
+   "name": "Église Notre-Dame-Auxiliatrice de Nice",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.7092,
+   "lng": 7.28111,
+   "wd": "Q2413345"
+  },
+  {
+   "name": "Château de l'Anglais",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.68805,
+   "lng": 7.29512,
+   "wd": "Q2640864"
+  },
+  {
+   "name": "Abbey of St Pons",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.72504,
+   "lng": 7.28354,
+   "wd": "Q2820436"
+  },
+  {
+   "name": "Colline du Château",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.696,
+   "lng": 7.27968,
+   "wd": "Q2970127"
+  },
+  {
+   "name": "Monument aux morts de Rauba-Capeù",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.6937,
+   "lng": 7.28103,
+   "wd": "Q3323294"
+  },
+  {
+   "name": "Monument to Giuseppe Garibaldi",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.7009,
+   "lng": 7.28016,
+   "wd": "Q3323412"
+  },
+  {
+   "name": "Asian Arts Museum",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.66806,
+   "lng": 7.21611,
+   "wd": "Q3330160"
+  },
+  {
+   "name": "Musée international d'art naïf Anatole Jakovsky",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.68611,
+   "lng": 7.23278,
+   "wd": "Q3330613"
+  },
+  {
+   "name": "Église Notre-Dame du Port",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.6989,
+   "lng": 7.28524,
+   "wd": "Q3580416"
+  },
+  {
+   "name": "Saint Peter's Chapel",
+   "cat": "관광",
+   "area": "빌프랑슈쉬르메르",
+   "lat": 43.7031,
+   "lng": 7.31181,
+   "wd": "Q13518767"
+  },
+  {
+   "name": "Cemenelum",
+   "cat": "관광",
+   "area": "알페스 마리티마이",
+   "lat": 43.71578,
+   "lng": 7.27183,
+   "wd": "Q2944184"
+  },
+  {
+   "name": "Théâtre Princesse Grace",
+   "cat": "관광",
+   "area": "모나코",
+   "lat": 43.73765,
+   "lng": 7.42623,
+   "wd": "Q555184"
+  },
+  {
+   "name": "New National Museum of Monaco",
+   "cat": "관광",
+   "area": "모나코",
+   "lat": 43.7328,
+   "lng": 7.41389,
+   "wd": "Q3345073"
+  },
+  {
+   "name": "Napoleon Museum",
+   "cat": "관광",
+   "area": "몬테카를로",
+   "lat": 43.73126,
+   "lng": 7.42013,
+   "wd": "Q2264191"
+  },
+  {
+   "name": "Le Formentor",
+   "cat": "관광",
+   "area": "몬테카를로",
+   "lat": 43.74545,
+   "lng": 7.4315,
+   "wd": "Q19902608"
+  },
+  {
+   "name": "St Martin Gardens",
+   "cat": "관광",
+   "area": "모나코빌",
+   "lat": 43.73006,
+   "lng": 7.42356,
+   "wd": "Q16900477"
+  },
+  {
+   "name": "Chapel of Mercy, Monaco-Ville",
+   "cat": "관광",
+   "area": "모나코빌",
+   "lat": 43.7312,
+   "lng": 7.42344,
+   "wd": "Q19600700"
+  },
+  {
+   "name": "Villa Ispahan",
+   "cat": "관광",
+   "area": "모네게티",
+   "lat": 43.73564,
+   "lng": 7.41608,
+   "wd": "Q85813181"
+  },
+  {
+   "name": "Museum of Prehistoric Anthropology",
+   "cat": "관광",
+   "area": "",
+   "lat": 43.7321,
+   "lng": 7.41389,
+   "wd": "Q3329551"
+  },
+  {
+   "name": "Église Sainte-Rita de Nice",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.6962,
+   "lng": 7.27638,
+   "wd": "Q807839"
+  },
+  {
+   "name": "Chapelle du Saint-Suaire",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.6955,
+   "lng": 7.27728,
+   "wd": "Q2957343"
+  },
+  {
+   "name": "Saint-François Convent in Nice",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.6996,
+   "lng": 7.2785,
+   "wd": "Q3001619"
+  },
+  {
+   "name": "Musée archéologique de Nice-Cimiez",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.71921,
+   "lng": 7.27558,
+   "wd": "Q3329446"
+  },
+  {
+   "name": "Muséum d'histoire naturelle de Nice",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.70167,
+   "lng": 7.27944,
+   "wd": "Q3330894"
+  },
+  {
+   "name": "Église Saint Martin-Saint Augustin",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.6996,
+   "lng": 7.27951,
+   "wd": "Q3582555"
+  },
+  {
+   "name": "Chapelle du tsarévitch Nicolas Alexandrovitch",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.7043,
+   "lng": 7.2537,
+   "wd": "Q15945327"
+  },
+  {
+   "name": "Jardin botanique d'Èze",
+   "cat": "관광",
+   "area": "Èze",
+   "lat": 43.72806,
+   "lng": 7.36111,
+   "wd": "Q3162606"
+  },
+  {
+   "name": "Église Notre Dame de l'Assomption d'Èze",
+   "cat": "관광",
+   "area": "Èze",
+   "lat": 43.72848,
+   "lng": 7.36177,
+   "wd": "Q3580263"
+  },
+  {
+   "name": "Fontvieille Park and Princess Grace Rose Garden",
+   "cat": "관광",
+   "area": "퐁비에유",
+   "lat": 43.72722,
+   "lng": 7.41929,
+   "wd": "Q15217983"
+  },
+  {
+   "name": "Villa La Vigie",
+   "cat": "관광",
+   "area": "로크브륀카프마르탱",
+   "lat": 43.7513,
+   "lng": 7.44516,
+   "wd": "Q49103003"
+  },
+  {
+   "name": "Fort Antoine Theatre",
+   "cat": "관광",
+   "area": "모나코빌",
+   "lat": 43.7331,
+   "lng": 7.42796,
+   "wd": "Q17505651"
+  },
+  {
+   "name": "Princess Antoinette Park",
+   "cat": "관광",
+   "area": "Jardin Exotique",
+   "lat": 43.73369,
+   "lng": 7.41516,
+   "wd": "Q15268638"
+  },
+  {
+   "name": "Cascade de Gairault",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.73783,
+   "lng": 7.25966,
+   "wd": "Q2940840"
+  },
+  {
+   "name": "Chapelle Sainte-Croix de Nice",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.6978,
+   "lng": 7.27789,
+   "wd": "Q2957092"
+  },
+  {
+   "name": "Chapelle de la confrérie du Saint-Sépulcre",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.7005,
+   "lng": 7.27991,
+   "wd": "Q2957473"
+  },
+  {
+   "name": "Croix de Marbre",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.6961,
+   "lng": 7.26273,
+   "wd": "Q3003360"
+  },
+  {
+   "name": "Musée Masséna",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.6952,
+   "lng": 7.25894,
+   "wd": "Q3329270"
+  },
+  {
+   "name": "Palais de la Préfecture",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.6964,
+   "lng": 7.27509,
+   "wd": "Q3361109"
+  },
+  {
+   "name": "Place Garibaldi",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.7009,
+   "lng": 7.28016,
+   "wd": "Q3389830"
+  },
+  {
+   "name": "Pont-Vieux",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.69867,
+   "lng": 7.27634,
+   "wd": "Q3396341"
+  },
+  {
+   "name": "Statue de Masséna",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.6979,
+   "lng": 7.27363,
+   "wd": "Q3497588"
+  },
+  {
+   "name": "Zygofolis",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.71222,
+   "lng": 7.20778,
+   "wd": "Q3576402"
+  },
+  {
+   "name": "Église arménienne Sainte-Marie de Nice",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.7147,
+   "lng": 7.2244,
+   "wd": "Q16008715"
+  },
+  {
+   "name": "Place Rossetti",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.6972,
+   "lng": 7.2763,
+   "wd": "Q17355510"
+  },
+  {
+   "name": "Saint-Roch Church",
+   "cat": "관광",
+   "area": "니스",
+   "lat": 43.7126,
+   "lng": 7.29179,
+   "wd": "Q3584280"
+  },
+  {
+   "name": "Citadelle de Villefranche-sur-Mer",
+   "cat": "관광",
+   "area": "빌프랑슈쉬르메르",
+   "lat": 43.7014,
+   "lng": 7.3109,
+   "wd": "Q2974372"
+  },
+  {
+   "name": "Fort Revère",
+   "cat": "관광",
+   "area": "Èze",
+   "lat": 43.7389,
+   "lng": 7.36667,
+   "wd": "Q3078299"
+  },
+  {
+   "name": "Jardin botanique \"Les Cèdres\"",
+   "cat": "관광",
+   "area": "생장카프페라",
+   "lat": 43.6916,
+   "lng": 7.3262,
+   "wd": "Q3231880"
+  },
+  {
+   "name": "Église Sainte-Rosalie de Tourrette-Levens",
+   "cat": "관광",
+   "area": "Tourrette-Levens",
+   "lat": 43.7866,
+   "lng": 7.27605,
+   "wd": "Q3585264"
+  },
+  {
+   "name": "Cap 3000",
+   "cat": "쇼핑",
+   "area": "",
+   "lat": 43.65861,
+   "lng": 7.19778,
+   "wd": "Q2936988"
+  },
+  {
+   "name": "Le Mirabeau",
+   "cat": "관광",
+   "area": "몬테카를로",
+   "lat": 43.74143,
+   "lng": 7.42914,
+   "wd": "Q19572597"
+  },
+  {
+   "name": "Le Schuylkill",
+   "cat": "관광",
+   "area": "몬테카를로",
+   "lat": 43.73806,
+   "lng": 7.42283,
+   "wd": "Q19572600"
+  },
+  {
+   "name": "Zoological Garden of Monaco",
+   "cat": "관광",
+   "area": "퐁비에유",
+   "lat": 43.7313,
+   "lng": 7.41829,
+   "wd": "Q16904614"
+  },
+  {
+   "name": "Église Saint-Martin de Monaco",
+   "cat": "관광",
+   "area": "모네게티",
+   "lat": 43.7334,
+   "lng": 7.4169,
+   "wd": "Q3582883"
+  }
+ ]
+}

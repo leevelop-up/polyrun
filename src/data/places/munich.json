@@ -1,0 +1,872 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "국립 독일 박물관",
+   "cat": "관광",
+   "area": "Ludwigsvorstadt-Isarvorstadt",
+   "lat": 48.13,
+   "lng": 11.58333,
+   "aliases": [
+    "Deutsches Museum",
+    "도이치 박물관",
+    "독일박물관",
+    "독일 박물관"
+   ],
+   "wd": "Q131617"
+  },
+  {
+   "name": "님펜부르크궁",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.15806,
+   "lng": 11.50361,
+   "aliases": [
+    "Nymphenburg Palace"
+   ],
+   "wd": "Q131631"
+  },
+  {
+   "name": "알테 피나코테크",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.14829,
+   "lng": 11.56999,
+   "aliases": [
+    "Alte Pinakothek"
+   ],
+   "wd": "Q154568"
+  },
+  {
+   "name": "프라우엔키르헤",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.13858,
+   "lng": 11.57362,
+   "aliases": [
+    "Frauenkirche"
+   ],
+   "wd": "Q167193"
+  },
+  {
+   "name": "영국 정원",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.15278,
+   "lng": 11.59194,
+   "aliases": [
+    "Englischer Garten",
+    "엥글리셔 가르텐"
+   ],
+   "wd": "Q260223"
+  },
+  {
+   "name": "글립토테크",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.14657,
+   "lng": 11.56582,
+   "aliases": [
+    "Glyptothek"
+   ],
+   "wd": "Q162077"
+  },
+  {
+   "name": "마리엔 광장",
+   "cat": "관광",
+   "area": "Altstadt-Lehel",
+   "lat": 48.13722,
+   "lng": 11.57528,
+   "aliases": [
+    "Marienplatz"
+   ],
+   "wd": "Q252648"
+  },
+  {
+   "name": "노이에 피나코테크",
+   "cat": "관광",
+   "area": "Maxvorstadt",
+   "lat": 48.14989,
+   "lng": 11.57111,
+   "aliases": [
+    "Neue Pinakothek"
+   ],
+   "wd": "Q170152"
+  },
+  {
+   "name": "레지덴츠 궁전",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.14105,
+   "lng": 11.57871,
+   "aliases": [
+    "Munich Residence"
+   ],
+   "wd": "Q686548"
+  },
+  {
+   "name": "Theresienwiese",
+   "cat": "관광",
+   "area": "Ludwigsvorstadt-Isarvorstadt",
+   "lat": 48.1333,
+   "lng": 11.55,
+   "wd": "Q700887"
+  },
+  {
+   "name": "Bavaria",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.13069,
+   "lng": 11.54579,
+   "wd": "Q707669"
+  },
+  {
+   "name": "Asam Church",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.13521,
+   "lng": 11.56951,
+   "wd": "Q152973"
+  },
+  {
+   "name": "St. Michael's Church, Munich",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.13884,
+   "lng": 11.57038,
+   "wd": "Q265745"
+  },
+  {
+   "name": "하우스 데어 쿤스트",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.14411,
+   "lng": 11.58594,
+   "aliases": [
+    "Haus der Kunst"
+   ],
+   "wd": "Q697782"
+  },
+  {
+   "name": "St. Peter's Church, Munich",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.13647,
+   "lng": 11.57601,
+   "wd": "Q707645"
+  },
+  {
+   "name": "Bavarian National Museum",
+   "cat": "관광",
+   "area": "Altstadt-Lehel",
+   "lat": 48.1432,
+   "lng": 11.591,
+   "wd": "Q631056"
+  },
+  {
+   "name": "올림피아파크",
+   "cat": "관광",
+   "area": "Milbertshofen-Am Hart",
+   "lat": 48.17,
+   "lng": 11.55167,
+   "aliases": [
+    "Olympiapark"
+   ],
+   "wd": "Q383296"
+  },
+  {
+   "name": "Pinakothek der Moderne",
+   "cat": "관광",
+   "area": "Maxvorstadt",
+   "lat": 48.14716,
+   "lng": 11.5723,
+   "wd": "Q250195"
+  },
+  {
+   "name": "Odeonsplatz",
+   "cat": "관광",
+   "area": "Maxvorstadt",
+   "lat": 48.14222,
+   "lng": 11.5775,
+   "wd": "Q259839"
+  },
+  {
+   "name": "헬라브룬 동물원",
+   "cat": "관광",
+   "area": "Untergiesing-Harlaching",
+   "lat": 48.09722,
+   "lng": 11.55417,
+   "aliases": [
+    "Hellabrunn Zoo"
+   ],
+   "wd": "Q264691"
+  },
+  {
+   "name": "Viktualienmarkt",
+   "cat": "관광",
+   "area": "Altstadt-Lehel",
+   "lat": 48.1353,
+   "lng": 11.5761,
+   "wd": "Q686629"
+  },
+  {
+   "name": "Isartor",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.1351,
+   "lng": 11.5817,
+   "wd": "Q260660"
+  },
+  {
+   "name": "Lenbachhaus",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.14694,
+   "lng": 11.56361,
+   "wd": "Q262234"
+  },
+  {
+   "name": "Olympiaturm",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.17446,
+   "lng": 11.55424,
+   "wd": "Q599148"
+  },
+  {
+   "name": "호프가르텐",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.14278,
+   "lng": 11.58,
+   "aliases": [
+    "Hofgarten (München)"
+   ],
+   "wd": "Q707673"
+  },
+  {
+   "name": "뮌헨 국립극장",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.13972,
+   "lng": 11.57889,
+   "aliases": [
+    "National Theatre Munich",
+    "뮌헨 국립가극장",
+    "바이에른 국립 오페라 극장"
+   ],
+   "wd": "Q707679"
+  },
+  {
+   "name": "Museum Brandhorst",
+   "cat": "관광",
+   "area": "Maxvorstadt",
+   "lat": 48.1481,
+   "lng": 11.5742,
+   "wd": "Q258597"
+  },
+  {
+   "name": "Staatliche Antikensammlungen",
+   "cat": "관광",
+   "area": "",
+   "lat": 48.14519,
+   "lng": 11.56493,
+   "wd": "Q707981"
+  },
+  {
+   "name": "Sendlinger Tor",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.134,
+   "lng": 11.5676,
+   "wd": "Q254394"
+  },
+  {
+   "name": "St. Lukas",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.1352,
+   "lng": 11.5874,
+   "wd": "Q321485"
+  },
+  {
+   "name": "쾨니히스플라츠",
+   "cat": "관광",
+   "area": "Maxvorstadt",
+   "lat": 48.14556,
+   "lng": 11.56528,
+   "aliases": [
+    "Königsplatz"
+   ],
+   "wd": "Q561084"
+  },
+  {
+   "name": "Botanischer Garten München-Nymphenburg",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.16313,
+   "lng": 11.49995,
+   "wd": "Q707660"
+  },
+  {
+   "name": "Ruhmeshalle",
+   "cat": "관광",
+   "area": "Schwanthalerhöhe",
+   "lat": 48.1308,
+   "lng": 11.5457,
+   "wd": "Q538348"
+  },
+  {
+   "name": "Angel of Peace",
+   "cat": "관광",
+   "area": "Bogenhausen",
+   "lat": 48.1414,
+   "lng": 11.5969,
+   "wd": "Q504642"
+  },
+  {
+   "name": "Bürgersaalkirche",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.13902,
+   "lng": 11.56826,
+   "wd": "Q251948"
+  },
+  {
+   "name": "Villa Stuck",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.14056,
+   "lng": 11.59934,
+   "wd": "Q264573"
+  },
+  {
+   "name": "St. Paul's Church, Munich",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.1364,
+   "lng": 11.5522,
+   "wd": "Q247638"
+  },
+  {
+   "name": "Ludwigskirche",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.14884,
+   "lng": 11.58133,
+   "wd": "Q250951"
+  },
+  {
+   "name": "Heilig-Geist-Kirche",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.13627,
+   "lng": 11.57734,
+   "wd": "Q251087"
+  },
+  {
+   "name": "샤크 갤러리",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.1423,
+   "lng": 11.5934,
+   "aliases": [
+    "Schack Collection"
+   ],
+   "wd": "Q523652"
+  },
+  {
+   "name": "Palais Holnstein",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.14091,
+   "lng": 11.57505,
+   "wd": "Q686997"
+  },
+  {
+   "name": "Führerbau",
+   "cat": "관광",
+   "area": "Maxvorstadt",
+   "lat": 48.1461,
+   "lng": 11.5678,
+   "wd": "Q571767"
+  },
+  {
+   "name": "NS-Dokumentationszentrum",
+   "cat": "관광",
+   "area": "Maxvorstadt",
+   "lat": 48.14528,
+   "lng": 11.5675,
+   "wd": "Q1961427"
+  },
+  {
+   "name": "Stachus",
+   "cat": "관광",
+   "area": "Ludwigsvorstadt-Isarvorstadt",
+   "lat": 48.1392,
+   "lng": 11.5658,
+   "wd": "Q152974"
+  },
+  {
+   "name": "Börse München",
+   "cat": "쇼핑",
+   "area": "",
+   "lat": 48.14294,
+   "lng": 11.55483,
+   "wd": "Q681683"
+  },
+  {
+   "name": "뮌헨 발트프리트호프",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.10278,
+   "lng": 11.49361,
+   "aliases": [
+    "Munich Waldfriedhof"
+   ],
+   "wd": "Q253763"
+  },
+  {
+   "name": "St. Boniface’s Abbey",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.14389,
+   "lng": 11.56417,
+   "wd": "Q279303"
+  },
+  {
+   "name": "Prinzregententheater",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.139,
+   "lng": 11.6056,
+   "wd": "Q456586"
+  },
+  {
+   "name": "Propylaea",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.14611,
+   "lng": 11.56417,
+   "wd": "Q822301"
+  },
+  {
+   "name": "FC 바이에른 캄푸스",
+   "cat": "관광",
+   "area": "Schwabing-Freimann",
+   "lat": 48.2137,
+   "lng": 11.5912,
+   "aliases": [
+    "FC Bayern Campus"
+   ],
+   "wd": "Q42954701"
+  },
+  {
+   "name": "State Museum of Egyptian Art",
+   "cat": "관광",
+   "area": "Maxvorstadt",
+   "lat": 48.1473,
+   "lng": 11.5685,
+   "wd": "Q464872"
+  },
+  {
+   "name": "Mosque in Sendling",
+   "cat": "관광",
+   "area": "Sendling",
+   "lat": 48.11806,
+   "lng": 11.55139,
+   "wd": "Q328794"
+  },
+  {
+   "name": "Cuvilliés Theatre",
+   "cat": "관광",
+   "area": "Altstadt-Lehel",
+   "lat": 48.1409,
+   "lng": 11.58002,
+   "wd": "Q532191"
+  },
+  {
+   "name": "Alter Hof",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.13812,
+   "lng": 11.57789,
+   "wd": "Q315084"
+  },
+  {
+   "name": "구세주 교회",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.14164,
+   "lng": 11.57484,
+   "aliases": [
+    "Church of Saint Salvator"
+   ],
+   "wd": "Q328188"
+  },
+  {
+   "name": "Trinity Church",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.14081,
+   "lng": 11.5708,
+   "wd": "Q524044"
+  },
+  {
+   "name": "Bavarian State Painting Collections",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.14958,
+   "lng": 11.57178,
+   "wd": "Q812285"
+  },
+  {
+   "name": "올림피아 아인카우프스첸트룸",
+   "cat": "관광",
+   "area": "Moosach",
+   "lat": 48.1833,
+   "lng": 11.5336,
+   "aliases": [
+    "Olympia-Einkaufszentrum"
+   ],
+   "wd": "Q265196"
+  },
+  {
+   "name": "Alter Botanischer Garten",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.14184,
+   "lng": 11.5643,
+   "wd": "Q153829"
+  },
+  {
+   "name": "Kathedrale Maria Schutz und St. Andreas",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.1063,
+   "lng": 11.5646,
+   "wd": "Q835542"
+  },
+  {
+   "name": "Münchner Haus der Kulturinstitute",
+   "cat": "관광",
+   "area": "Maxvorstadt",
+   "lat": 48.14448,
+   "lng": 11.5666,
+   "wd": "Q320557"
+  },
+  {
+   "name": "Munich Kammerspiele",
+   "cat": "관광",
+   "area": "",
+   "lat": 48.13806,
+   "lng": 11.5825,
+   "wd": "Q520185"
+  },
+  {
+   "name": "Munich City Museum",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.13511,
+   "lng": 11.57258,
+   "wd": "Q452685"
+  },
+  {
+   "name": "St Michael in Berg am Laim",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.12509,
+   "lng": 11.63041,
+   "wd": "Q462460"
+  },
+  {
+   "name": "Circus Krone",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.145,
+   "lng": 11.55,
+   "wd": "Q562223"
+  },
+  {
+   "name": "Westpark",
+   "cat": "관광",
+   "area": "Sendling-Westpark",
+   "lat": 48.1225,
+   "lng": 11.5225,
+   "wd": "Q994667"
+  },
+  {
+   "name": "Sammlung Goetz",
+   "cat": "관광",
+   "area": "Bogenhausen",
+   "lat": 48.1661,
+   "lng": 11.6231,
+   "wd": "Q319071"
+  },
+  {
+   "name": "Palais Leuchtenberg",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.14408,
+   "lng": 11.57721,
+   "wd": "Q201939"
+  },
+  {
+   "name": "Ducal Georgianum",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.14998,
+   "lng": 11.58174,
+   "wd": "Q533069"
+  },
+  {
+   "name": "Abbey Church of St. Anna",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.14022,
+   "lng": 11.5859,
+   "wd": "Q875536"
+  },
+  {
+   "name": "Neptunbrunnen",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.1413,
+   "lng": 11.5653,
+   "wd": "Q879386"
+  },
+  {
+   "name": "Münchner Freiheit",
+   "cat": "관광",
+   "area": "Schwabing-Freimann",
+   "lat": 48.1614,
+   "lng": 11.5864,
+   "wd": "Q315624"
+  },
+  {
+   "name": "SAP Garden",
+   "cat": "관광",
+   "area": "",
+   "lat": 48.16988,
+   "lng": 11.54098,
+   "wd": "Q61792188"
+  },
+  {
+   "name": "Palais Ludwig Ferdinand",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.1439,
+   "lng": 11.5764,
+   "wd": "Q110552"
+  },
+  {
+   "name": "New St. John's Church",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.13373,
+   "lng": 11.59835,
+   "wd": "Q176018"
+  },
+  {
+   "name": "Hirschgarten",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.14811,
+   "lng": 11.51315,
+   "wd": "Q261850"
+  },
+  {
+   "name": "Staatstheater am Gärtnerplatz",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.13111,
+   "lng": 11.57556,
+   "wd": "Q318058"
+  },
+  {
+   "name": "St. Anna Damenstiftskirche",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.13735,
+   "lng": 11.56926,
+   "wd": "Q318800"
+  },
+  {
+   "name": "Wittelsbacherbrunnen (Lenbachplatz)",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.1411,
+   "lng": 11.5692,
+   "wd": "Q878863"
+  },
+  {
+   "name": "Hackerbrücke",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.14177,
+   "lng": 11.54849,
+   "wd": "Q881386"
+  },
+  {
+   "name": "Nordfriedhof",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.1752,
+   "lng": 11.60294,
+   "wd": "Q1030655"
+  },
+  {
+   "name": "Luitpoldpark",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.17149,
+   "lng": 11.56967,
+   "wd": "Q1677091"
+  },
+  {
+   "name": "Palaeontological Museum, Munich",
+   "cat": "관광",
+   "area": "Maxvorstadt",
+   "lat": 48.1476,
+   "lng": 11.5638,
+   "wd": "Q473832"
+  },
+  {
+   "name": "Schlosspark Nymphenburg",
+   "cat": "관광",
+   "area": "Neuhausen-Nymphenburg",
+   "lat": 48.1578,
+   "lng": 11.4928,
+   "wd": "Q268492"
+  },
+  {
+   "name": "Herz-Jesu-Kirche",
+   "cat": "관광",
+   "area": "Neuhausen-Nymphenburg",
+   "lat": 48.1563,
+   "lng": 11.5287,
+   "wd": "Q879736"
+  },
+  {
+   "name": "Platzl",
+   "cat": "관광",
+   "area": "Altstadt-Lehel",
+   "lat": 48.1381,
+   "lng": 11.58,
+   "wd": "Q280464"
+  },
+  {
+   "name": "Max-Joseph-Platz",
+   "cat": "관광",
+   "area": "Altstadt-Lehel",
+   "lat": 48.13985,
+   "lng": 11.57806,
+   "wd": "Q445129"
+  },
+  {
+   "name": "Bavarian State Archaeological Collection",
+   "cat": "관광",
+   "area": "Altstadt-Lehel",
+   "lat": 48.1439,
+   "lng": 11.5911,
+   "wd": "Q636743"
+  },
+  {
+   "name": "Parish Church of St. Anna",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.14028,
+   "lng": 11.58722,
+   "wd": "Q318804"
+  },
+  {
+   "name": "St. Benno's Church",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.1521,
+   "lng": 11.5528,
+   "wd": "Q320201"
+  },
+  {
+   "name": "Palais Porcia",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.14039,
+   "lng": 11.57436,
+   "wd": "Q321041"
+  },
+  {
+   "name": "Alter Nordfriedhof",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.1537,
+   "lng": 11.5702,
+   "wd": "Q438119"
+  },
+  {
+   "name": "Prinz-Carl-Palais",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.14417,
+   "lng": 11.58308,
+   "wd": "Q880394"
+  },
+  {
+   "name": "Maximilian Bridge",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.13694,
+   "lng": 11.59139,
+   "wd": "Q955838"
+  },
+  {
+   "name": "Deutsches Theater München",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.13689,
+   "lng": 11.56204,
+   "wd": "Q984018"
+  },
+  {
+   "name": "Erlöserkirche",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.16472,
+   "lng": 11.58778,
+   "wd": "Q1355772"
+  },
+  {
+   "name": "Ludwig bridge Munich",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.13181,
+   "lng": 11.5864,
+   "wd": "Q1346774"
+  },
+  {
+   "name": "Wittelsbacherbrücke",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.12249,
+   "lng": 11.56819,
+   "wd": "Q1410082"
+  },
+  {
+   "name": "Fischbrunnen",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.1372,
+   "lng": 11.5762,
+   "wd": "Q1419864"
+  },
+  {
+   "name": "Luitpoldbrücke Munich",
+   "cat": "관광",
+   "area": "뮌헨",
+   "lat": 48.1417,
+   "lng": 11.5953,
+   "wd": "Q1497789"
+  }
+ ]
+}

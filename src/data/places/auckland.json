@@ -1,0 +1,447 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "오클랜드 하버 브리지",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.82944,
+   "lng": 174.74639,
+   "aliases": [
+    "Auckland Harbour Bridge"
+   ],
+   "wd": "Q758638"
+  },
+  {
+   "name": "오클랜드 전쟁 기념박물관",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.8606,
+   "lng": 174.7778,
+   "aliases": [
+    "Auckland War Memorial Museum Tāmaki Paenga Hira"
+   ],
+   "wd": "Q758657"
+  },
+  {
+   "name": "오클랜드 아트 갤러리",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.85135,
+   "lng": 174.76624,
+   "aliases": [
+    "Auckland Art Gallery"
+   ],
+   "wd": "Q4819492"
+  },
+  {
+   "name": "Auckland Zoo",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.86278,
+   "lng": 174.72083,
+   "wd": "Q2665285"
+  },
+  {
+   "name": "St Patrick's Cathedral",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.8465,
+   "lng": 174.7635,
+   "wd": "Q73260"
+  },
+  {
+   "name": "Kelly Tarlton's Sea Life Aquarium",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.84583,
+   "lng": 174.81722,
+   "wd": "Q28897"
+  },
+  {
+   "name": "Auckland Town Hall",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.85269,
+   "lng": 174.76349,
+   "wd": "Q1391825"
+  },
+  {
+   "name": "Auckland Domain",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.85916,
+   "lng": 174.77581,
+   "wd": "Q4819519"
+  },
+  {
+   "name": "Museum of Transport and Technology",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.86742,
+   "lng": 174.72719,
+   "wd": "Q1954764"
+  },
+  {
+   "name": "Aotea Square",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.85222,
+   "lng": 174.76306,
+   "wd": "Q2857988"
+  },
+  {
+   "name": "University House",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.84862,
+   "lng": 174.76946,
+   "wd": "Q7085175"
+  },
+  {
+   "name": "Maungawhau / Mount Eden",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.87817,
+   "lng": 174.76453,
+   "wd": "Q19875408"
+  },
+  {
+   "name": "New Zealand Maritime Museum Hui Te Ananui a Tangaroa",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.84217,
+   "lng": 174.76374,
+   "wd": "Q7942457"
+  },
+  {
+   "name": "Civic Theatre",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.8511,
+   "lng": 174.764,
+   "wd": "Q4391509"
+  },
+  {
+   "name": "Auckland Baptist Tabernacle",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.85745,
+   "lng": 174.76147,
+   "wd": "Q4819494"
+  },
+  {
+   "name": "Auckland Ferry Terminal",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.843,
+   "lng": 174.767,
+   "wd": "Q4819518"
+  },
+  {
+   "name": "Colin Maiden Park",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.8809,
+   "lng": 174.848,
+   "wd": "Q5145320"
+  },
+  {
+   "name": "Grafton Bridge",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.8598,
+   "lng": 174.766,
+   "wd": "Q5592519"
+  },
+  {
+   "name": "Le Roys Bush",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.813,
+   "lng": 174.732,
+   "wd": "Q6507625"
+  },
+  {
+   "name": "St Mary's Cathedral Church",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.86004,
+   "lng": 174.78332,
+   "wd": "Q7594248"
+  },
+  {
+   "name": "Gus Fisher Gallery",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.84698,
+   "lng": 174.76951,
+   "wd": "Q15222331"
+  },
+  {
+   "name": "Te Uru Waitākere Contemporary Gallery",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.93836,
+   "lng": 174.65518,
+   "wd": "Q28180758"
+  },
+  {
+   "name": "Artspace Aotearoa",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.85782,
+   "lng": 174.7579,
+   "wd": "Q65121970"
+  },
+  {
+   "name": "Lloyd Elsmore Park",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.905,
+   "lng": 174.901,
+   "wd": "Q120015931"
+  },
+  {
+   "name": "Ponsonby Mosque",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.85263,
+   "lng": 174.74377,
+   "wd": "Q132041529"
+  },
+  {
+   "name": "Chelsea Sugar Refinery and Estate",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.8212,
+   "lng": 174.7233,
+   "wd": "Q1069147"
+  },
+  {
+   "name": "Albert Park",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.8507,
+   "lng": 174.7675,
+   "wd": "Q4710966"
+  },
+  {
+   "name": "Highwic",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.8718,
+   "lng": 174.775,
+   "wd": "Q5760046"
+  },
+  {
+   "name": "Khartoum Place",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.8507,
+   "lng": 174.766,
+   "wd": "Q6400776"
+  },
+  {
+   "name": "LynnMall",
+   "cat": "쇼핑",
+   "area": "오클랜드 지방",
+   "lat": -36.9077,
+   "lng": 174.6851,
+   "wd": "Q6708902"
+  },
+  {
+   "name": "Newmarket Park",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.8646,
+   "lng": 174.783,
+   "wd": "Q7018567"
+  },
+  {
+   "name": "Parnell Rose Gardens",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.8507,
+   "lng": 174.786,
+   "wd": "Q7139321"
+  },
+  {
+   "name": "Rangitoto Lighthouse",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.78186,
+   "lng": 174.82245,
+   "wd": "Q7292864"
+  },
+  {
+   "name": "Sylvia Park",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.91531,
+   "lng": 174.84142,
+   "wd": "Q7660981"
+  },
+  {
+   "name": "Torpedo Bay Navy Museum",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.8287,
+   "lng": 174.8093,
+   "wd": "Q7826736"
+  },
+  {
+   "name": "Victoria Park",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.84694,
+   "lng": 174.75448,
+   "wd": "Q7926902"
+  },
+  {
+   "name": "Auckland Domain Wintergardens",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.86025,
+   "lng": 174.77409,
+   "wd": "Q14544954"
+  },
+  {
+   "name": "Pah Homestead",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.9145,
+   "lng": 174.763,
+   "wd": "Q16896320"
+  },
+  {
+   "name": "Whakamana Cannabis Museum",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.85639,
+   "lng": 174.75833,
+   "wd": "Q22952163"
+  },
+  {
+   "name": "St Stephen's Chapel",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.85035,
+   "lng": 174.78956,
+   "wd": "Q23073922"
+  },
+  {
+   "name": "Ambury Regional Park",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.948,
+   "lng": 174.7662,
+   "wd": "Q25660322"
+  },
+  {
+   "name": "Bluestone Store",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.8476,
+   "lng": 174.76469,
+   "wd": "Q29015309"
+  },
+  {
+   "name": "Cheltenham Beach",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.82225,
+   "lng": 174.80829,
+   "wd": "Q32158757"
+  },
+  {
+   "name": "Strand Arcade",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.84972,
+   "lng": 174.76417,
+   "wd": "Q76908568"
+  },
+  {
+   "name": "Church of St John the Baptist",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.85499,
+   "lng": 174.78049,
+   "wd": "Q77975038"
+  },
+  {
+   "name": "Our Lady of the Assumption Catholic Church",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.92236,
+   "lng": 174.78812,
+   "wd": "Q77975040"
+  },
+  {
+   "name": "St Benedict's Church",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.86111,
+   "lng": 174.7606,
+   "wd": "Q79304032"
+  },
+  {
+   "name": "Milne & Choyce",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.84676,
+   "lng": 174.76553,
+   "wd": "Q79309797"
+  },
+  {
+   "name": "Onehunga Primary School (Former)",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.91974,
+   "lng": 174.78336,
+   "wd": "Q79312471"
+  },
+  {
+   "name": "Oakley Creek waterfall",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.88219,
+   "lng": 174.70318,
+   "wd": "Q104845060"
+  },
+  {
+   "name": "Ngahue Reserve",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.88166,
+   "lng": 174.84244,
+   "wd": "Q113493092"
+  },
+  {
+   "name": "Charlotte Museum Te Whare Takatāpui-Wāhine o Aotearoa",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.85812,
+   "lng": 174.75515,
+   "wd": "Q115684298"
+  },
+  {
+   "name": "Bharatiya Mandir Hindu Temple",
+   "cat": "관광",
+   "area": "오클랜드 지방",
+   "lat": -36.88614,
+   "lng": 174.74151,
+   "wd": "Q124342108"
+  },
+  {
+   "name": "The Powerstation",
+   "cat": "관광",
+   "area": "",
+   "lat": -36.86624,
+   "lng": 174.76118,
+   "wd": "Q116798042"
+  }
+ ]
+}

@@ -1,0 +1,4594 @@
+{
+  "도쿄, 일본": {
+    "areas": [
+      "아사쿠사",
+      "우에노",
+      "도쿄역·마루노우치",
+      "긴자·츠키지",
+      "신주쿠",
+      "시부야",
+      "하라주쿠·오모테산도",
+      "롯폰기",
+      "오다이바",
+      "아키하바라",
+      "이케부쿠로"
+    ],
+    "picks": [
+      {
+        "name": "센소지",
+        "cat": "관광",
+        "area": "아사쿠사",
+        "lat": 35.7134,
+        "lng": 139.79553,
+        "aliases": [
+          "Sensō-ji"
+        ]
+      },
+      {
+        "name": "나카미세 거리",
+        "cat": "쇼핑",
+        "area": "아사쿠사",
+        "lat": 35.71252,
+        "lng": 139.79652,
+        "aliases": [
+          "仲見世通り"
+        ]
+      },
+      {
+        "name": "도쿄 스카이트리",
+        "cat": "관광",
+        "area": "아사쿠사",
+        "lat": 35.71005,
+        "lng": 139.81071,
+        "aliases": [
+          "Tokyo Skytree"
+        ]
+      },
+      {
+        "name": "스미다 공원",
+        "cat": "관광",
+        "area": "아사쿠사",
+        "lat": 35.71551,
+        "lng": 139.80314,
+        "aliases": [
+          "Sumida Park"
+        ]
+      },
+      {
+        "name": "갓파바시 도구거리",
+        "cat": "쇼핑",
+        "area": "아사쿠사",
+        "lat": 35.71448,
+        "lng": 139.78891,
+        "aliases": [
+          "Kappabashi"
+        ]
+      },
+      {
+        "name": "아사쿠사역",
+        "cat": "교통",
+        "area": "아사쿠사",
+        "lat": 35.71135,
+        "lng": 139.79833,
+        "aliases": [
+          "Asakusa Station"
+        ]
+      },
+      {
+        "name": "우에노 공원",
+        "cat": "관광",
+        "area": "우에노",
+        "lat": 35.71529,
+        "lng": 139.77383,
+        "aliases": [
+          "Ueno Park"
+        ]
+      },
+      {
+        "name": "도쿄 국립박물관",
+        "cat": "관광",
+        "area": "우에노",
+        "lat": 35.71904,
+        "lng": 139.77597,
+        "aliases": [
+          "Tokyo National Museum"
+        ]
+      },
+      {
+        "name": "국립서양미술관",
+        "cat": "관광",
+        "area": "우에노",
+        "lat": 35.71555,
+        "lng": 139.77594,
+        "aliases": [
+          "National Museum of Western Art"
+        ]
+      },
+      {
+        "name": "우에노 동물원",
+        "cat": "관광",
+        "area": "우에노",
+        "lat": 35.71534,
+        "lng": 139.7689,
+        "aliases": [
+          "Ueno Zoo"
+        ]
+      },
+      {
+        "name": "아메요코 시장",
+        "cat": "쇼핑",
+        "area": "우에노",
+        "lat": 35.71002,
+        "lng": 139.77454,
+        "aliases": [
+          "Ameyoko"
+        ]
+      },
+      {
+        "name": "우에노역",
+        "cat": "교통",
+        "area": "우에노",
+        "lat": 35.71135,
+        "lng": 139.77606,
+        "aliases": [
+          "Ueno Station"
+        ]
+      },
+      {
+        "name": "도쿄역",
+        "cat": "교통",
+        "area": "도쿄역·마루노우치",
+        "lat": 35.68263,
+        "lng": 139.7648,
+        "aliases": [
+          "Tokyo Station"
+        ]
+      },
+      {
+        "name": "고쿄 (황거)",
+        "cat": "관광",
+        "area": "도쿄역·마루노우치",
+        "lat": 35.68385,
+        "lng": 139.75069,
+        "aliases": [
+          "Tokyo Imperial Palace"
+        ]
+      },
+      {
+        "name": "고쿄 히가시교엔",
+        "cat": "관광",
+        "area": "도쿄역·마루노우치",
+        "lat": 35.6867,
+        "lng": 139.7574,
+        "aliases": [
+          "皇居東御苑"
+        ]
+      },
+      {
+        "name": "킷테 마루노우치",
+        "cat": "쇼핑",
+        "area": "도쿄역·마루노우치",
+        "lat": 35.67986,
+        "lng": 139.76478,
+        "aliases": [
+          "KITTE Marunouchi"
+        ]
+      },
+      {
+        "name": "니혼바시",
+        "cat": "관광",
+        "area": "도쿄역·마루노우치",
+        "lat": 35.67942,
+        "lng": 139.77575,
+        "aliases": [
+          "Nihonbashi Bridge"
+        ]
+      },
+      {
+        "name": "긴자 식스",
+        "cat": "쇼핑",
+        "area": "긴자·츠키지",
+        "lat": 35.66953,
+        "lng": 139.76405,
+        "aliases": [
+          "Ginza Six"
+        ]
+      },
+      {
+        "name": "긴자 미쓰코시",
+        "cat": "쇼핑",
+        "area": "긴자·츠키지",
+        "lat": 35.67119,
+        "lng": 139.76591,
+        "aliases": [
+          "Ginza Mitsukoshi"
+        ]
+      },
+      {
+        "name": "가부키자",
+        "cat": "관광",
+        "area": "긴자·츠키지",
+        "lat": 35.66966,
+        "lng": 139.76811,
+        "aliases": [
+          "Kabuki-za"
+        ]
+      },
+      {
+        "name": "츠키지 장외시장",
+        "cat": "식당",
+        "area": "긴자·츠키지",
+        "lat": 35.66539,
+        "lng": 139.77047,
+        "aliases": [
+          "Tsukiji Outer Market"
+        ]
+      },
+      {
+        "name": "하마리큐 정원",
+        "cat": "관광",
+        "area": "긴자·츠키지",
+        "lat": 35.66018,
+        "lng": 139.76382,
+        "aliases": [
+          "Hama-rikyu Gardens"
+        ]
+      },
+      {
+        "name": "도요스 시장",
+        "cat": "식당",
+        "area": "긴자·츠키지",
+        "lat": 35.64505,
+        "lng": 139.78485,
+        "aliases": [
+          "Toyosu Market"
+        ]
+      },
+      {
+        "name": "신주쿠 교엔",
+        "cat": "관광",
+        "area": "신주쿠",
+        "lat": 35.68507,
+        "lng": 139.70955,
+        "aliases": [
+          "Shinjuku Gyoen"
+        ]
+      },
+      {
+        "name": "도쿄도청 전망대",
+        "cat": "관광",
+        "area": "신주쿠",
+        "lat": 35.6895,
+        "lng": 139.69171,
+        "aliases": [
+          "Tokyo Metropolitan Government Building"
+        ]
+      },
+      {
+        "name": "오모이데 요코초",
+        "cat": "식당",
+        "area": "신주쿠",
+        "lat": 35.69307,
+        "lng": 139.6995,
+        "aliases": [
+          "Omoide Yokocho"
+        ]
+      },
+      {
+        "name": "신주쿠 골든가이",
+        "cat": "식당",
+        "area": "신주쿠",
+        "lat": 35.69399,
+        "lng": 139.7047,
+        "aliases": [
+          "Golden Gai"
+        ]
+      },
+      {
+        "name": "가부키초",
+        "cat": "관광",
+        "area": "신주쿠",
+        "lat": 35.69454,
+        "lng": 139.70271,
+        "aliases": [
+          "Kabukicho"
+        ]
+      },
+      {
+        "name": "신주쿠역",
+        "cat": "교통",
+        "area": "신주쿠",
+        "lat": 35.69058,
+        "lng": 139.69911,
+        "aliases": [
+          "Shinjuku Station"
+        ]
+      },
+      {
+        "name": "시부야 스크램블 교차로",
+        "cat": "관광",
+        "area": "시부야",
+        "lat": 35.6595,
+        "lng": 139.7005,
+        "aliases": [
+          "Shibuya Scramble Crossing"
+        ]
+      },
+      {
+        "name": "충견 하치코 동상",
+        "cat": "관광",
+        "area": "시부야",
+        "lat": 35.65906,
+        "lng": 139.70063,
+        "aliases": [
+          "Hachikō"
+        ]
+      },
+      {
+        "name": "시부야 스크램블 스퀘어",
+        "cat": "쇼핑",
+        "area": "시부야",
+        "lat": 35.65838,
+        "lng": 139.70222,
+        "aliases": [
+          "Shibuya Scramble Square"
+        ]
+      },
+      {
+        "name": "시부야 109",
+        "cat": "쇼핑",
+        "area": "시부야",
+        "lat": 35.6596,
+        "lng": 139.69868,
+        "aliases": [
+          "Shibuya 109"
+        ]
+      },
+      {
+        "name": "미야시타 파크",
+        "cat": "쇼핑",
+        "area": "시부야",
+        "lat": 35.66196,
+        "lng": 139.70193,
+        "aliases": [
+          "Miyashita Park"
+        ]
+      },
+      {
+        "name": "논베이 요코초",
+        "cat": "식당",
+        "area": "시부야",
+        "lat": 35.65999,
+        "lng": 139.70154,
+        "aliases": [
+          "Nonbei Yokocho"
+        ]
+      },
+      {
+        "name": "메이지 신궁",
+        "cat": "관광",
+        "area": "하라주쿠·오모테산도",
+        "lat": 35.67484,
+        "lng": 139.69963,
+        "aliases": [
+          "Meiji Jingu"
+        ]
+      },
+      {
+        "name": "다케시타 거리",
+        "cat": "쇼핑",
+        "area": "하라주쿠·오모테산도",
+        "lat": 35.67116,
+        "lng": 139.70496,
+        "aliases": [
+          "Takeshita Street"
+        ]
+      },
+      {
+        "name": "오모테산도 힐즈",
+        "cat": "쇼핑",
+        "area": "하라주쿠·오모테산도",
+        "lat": 35.66721,
+        "lng": 139.7089,
+        "aliases": [
+          "Omotesando Hills"
+        ]
+      },
+      {
+        "name": "요요기 공원",
+        "cat": "관광",
+        "area": "하라주쿠·오모테산도",
+        "lat": 35.67141,
+        "lng": 139.69517,
+        "aliases": [
+          "Yoyogi Park"
+        ]
+      },
+      {
+        "name": "캣 스트리트",
+        "cat": "쇼핑",
+        "area": "하라주쿠·오모테산도",
+        "lat": 35.66698,
+        "lng": 139.70631,
+        "aliases": [
+          "Cat Street"
+        ]
+      },
+      {
+        "name": "롯폰기 힐즈",
+        "cat": "쇼핑",
+        "area": "롯폰기",
+        "lat": 35.6602,
+        "lng": 139.72983,
+        "aliases": [
+          "Roppongi Hills"
+        ]
+      },
+      {
+        "name": "모리 미술관",
+        "cat": "관광",
+        "area": "롯폰기",
+        "lat": 35.66043,
+        "lng": 139.72926,
+        "aliases": [
+          "Mori Art Museum"
+        ]
+      },
+      {
+        "name": "도쿄 미드타운",
+        "cat": "쇼핑",
+        "area": "롯폰기",
+        "lat": 35.66584,
+        "lng": 139.73092,
+        "aliases": [
+          "Tokyo Midtown"
+        ]
+      },
+      {
+        "name": "국립신미술관",
+        "cat": "관광",
+        "area": "롯폰기",
+        "lat": 35.66534,
+        "lng": 139.72644,
+        "aliases": [
+          "The National Art Center, Tokyo"
+        ]
+      },
+      {
+        "name": "도쿄 타워",
+        "cat": "관광",
+        "area": "롯폰기",
+        "lat": 35.65845,
+        "lng": 139.74554,
+        "aliases": [
+          "Tokyo Tower"
+        ]
+      },
+      {
+        "name": "팀랩 플래닛",
+        "cat": "관광",
+        "area": "오다이바",
+        "lat": 35.64938,
+        "lng": 139.78973,
+        "aliases": [
+          "teamLab Planets"
+        ]
+      },
+      {
+        "name": "오다이바 해변공원",
+        "cat": "관광",
+        "area": "오다이바",
+        "lat": 35.63108,
+        "lng": 139.77735,
+        "aliases": [
+          "Odaiba Marine Park"
+        ]
+      },
+      {
+        "name": "다이버시티 도쿄 플라자",
+        "cat": "쇼핑",
+        "area": "오다이바",
+        "lat": 35.62462,
+        "lng": 139.77601,
+        "aliases": [
+          "DiverCity Tokyo Plaza"
+        ]
+      },
+      {
+        "name": "후지TV 본사",
+        "cat": "관광",
+        "area": "오다이바",
+        "lat": 35.62718,
+        "lng": 139.77517,
+        "aliases": [
+          "Fuji Television"
+        ]
+      },
+      {
+        "name": "레인보우 브리지",
+        "cat": "관광",
+        "area": "오다이바",
+        "lat": 35.63638,
+        "lng": 139.76393,
+        "aliases": [
+          "Rainbow Bridge"
+        ]
+      },
+      {
+        "name": "아키하바라 전자상가",
+        "cat": "쇼핑",
+        "area": "아키하바라",
+        "lat": 35.70189,
+        "lng": 139.77437,
+        "aliases": [
+          "Akihabara"
+        ]
+      },
+      {
+        "name": "요도바시 아키바",
+        "cat": "쇼핑",
+        "area": "아키하바라",
+        "lat": 35.69878,
+        "lng": 139.77473,
+        "aliases": [
+          "Yodobashi Akiba"
+        ]
+      },
+      {
+        "name": "간다 묘진",
+        "cat": "관광",
+        "area": "아키하바라",
+        "lat": 35.70194,
+        "lng": 139.76774,
+        "aliases": [
+          "Kanda Myojin"
+        ]
+      },
+      {
+        "name": "아키하바라역",
+        "cat": "교통",
+        "area": "아키하바라",
+        "lat": 35.69759,
+        "lng": 139.77239,
+        "aliases": [
+          "Akihabara Station"
+        ]
+      },
+      {
+        "name": "선샤인 시티",
+        "cat": "쇼핑",
+        "area": "이케부쿠로",
+        "lat": 35.72978,
+        "lng": 139.71704,
+        "aliases": [
+          "Sunshine City"
+        ]
+      },
+      {
+        "name": "리쿠기엔",
+        "cat": "관광",
+        "area": "이케부쿠로",
+        "lat": 35.73533,
+        "lng": 139.74807,
+        "aliases": [
+          "Rikugien"
+        ]
+      },
+      {
+        "name": "이케부쿠로역",
+        "cat": "교통",
+        "area": "이케부쿠로",
+        "lat": 35.72805,
+        "lng": 139.71329,
+        "aliases": [
+          "Ikebukuro Station"
+        ]
+      }
+    ]
+  },
+  "오사카, 일본": {
+    "areas": [
+      "난바·도톤보리",
+      "신사이바시",
+      "우메다",
+      "오사카성",
+      "신세카이·덴노지",
+      "베이 에어리어"
+    ],
+    "picks": [
+      {
+        "name": "도톤보리",
+        "cat": "관광",
+        "area": "난바·도톤보리",
+        "lat": 34.66903,
+        "lng": 135.50157,
+        "aliases": [
+          "Dotonbori"
+        ]
+      },
+      {
+        "name": "에비스바시 (글리코 사인)",
+        "cat": "관광",
+        "area": "난바·도톤보리",
+        "lat": 34.66907,
+        "lng": 135.5013,
+        "aliases": [
+          "戎橋"
+        ]
+      },
+      {
+        "name": "호젠지 요코초",
+        "cat": "식당",
+        "area": "난바·도톤보리",
+        "lat": 34.66797,
+        "lng": 135.50332,
+        "aliases": [
+          "Hozenji Yokocho"
+        ]
+      },
+      {
+        "name": "구로몬 시장",
+        "cat": "식당",
+        "area": "난바·도톤보리",
+        "lat": 34.66533,
+        "lng": 135.50698,
+        "aliases": [
+          "Kuromon Market"
+        ]
+      },
+      {
+        "name": "난바 파크스",
+        "cat": "쇼핑",
+        "area": "난바·도톤보리",
+        "lat": 34.66168,
+        "lng": 135.50208,
+        "aliases": [
+          "Namba Parks"
+        ]
+      },
+      {
+        "name": "난바역",
+        "cat": "교통",
+        "area": "난바·도톤보리",
+        "lat": 34.66366,
+        "lng": 135.50178,
+        "aliases": [
+          "Namba Station"
+        ]
+      },
+      {
+        "name": "신사이바시스지",
+        "cat": "쇼핑",
+        "area": "신사이바시",
+        "lat": 34.67335,
+        "lng": 135.50137,
+        "aliases": [
+          "Shinsaibashi-suji"
+        ]
+      },
+      {
+        "name": "아메리카무라",
+        "cat": "쇼핑",
+        "area": "신사이바시",
+        "lat": 34.67209,
+        "lng": 135.49795,
+        "aliases": [
+          "Amerikamura"
+        ]
+      },
+      {
+        "name": "다이마루 신사이바시",
+        "cat": "쇼핑",
+        "area": "신사이바시",
+        "lat": 34.67326,
+        "lng": 135.50096,
+        "aliases": [
+          "Daimaru Shinsaibashi"
+        ]
+      },
+      {
+        "name": "우메다 스카이 빌딩",
+        "cat": "관광",
+        "area": "우메다",
+        "lat": 34.70529,
+        "lng": 135.49053,
+        "aliases": [
+          "Umeda Sky Building"
+        ]
+      },
+      {
+        "name": "헵 파이브 관람차",
+        "cat": "관광",
+        "area": "우메다",
+        "lat": 34.70406,
+        "lng": 135.50038,
+        "aliases": [
+          "HEP Five"
+        ]
+      },
+      {
+        "name": "그랜드 프론트 오사카",
+        "cat": "쇼핑",
+        "area": "우메다",
+        "lat": 34.70396,
+        "lng": 135.49474,
+        "aliases": [
+          "Grand Front Osaka"
+        ]
+      },
+      {
+        "name": "나카자키초",
+        "cat": "관광",
+        "area": "우메다",
+        "lat": 34.70721,
+        "lng": 135.50564,
+        "aliases": [
+          "Nakazakicho"
+        ]
+      },
+      {
+        "name": "오사카역",
+        "cat": "교통",
+        "area": "우메다",
+        "lat": 34.70238,
+        "lng": 135.49783,
+        "aliases": [
+          "Osaka Station"
+        ]
+      },
+      {
+        "name": "오사카성 천수각",
+        "cat": "관광",
+        "area": "오사카성",
+        "lat": 34.68718,
+        "lng": 135.5254,
+        "aliases": [
+          "Osaka Castle"
+        ]
+      },
+      {
+        "name": "오사카성 공원",
+        "cat": "관광",
+        "area": "오사카성",
+        "lat": 34.68653,
+        "lng": 135.52725,
+        "aliases": [
+          "Osaka Castle Park"
+        ]
+      },
+      {
+        "name": "오사카 역사박물관",
+        "cat": "관광",
+        "area": "오사카성",
+        "lat": 34.68262,
+        "lng": 135.52081,
+        "aliases": [
+          "Osaka Museum of History"
+        ]
+      },
+      {
+        "name": "신세카이",
+        "cat": "식당",
+        "area": "신세카이·덴노지",
+        "lat": 34.65209,
+        "lng": 135.50619,
+        "aliases": [
+          "Shinsekai"
+        ]
+      },
+      {
+        "name": "쓰텐카쿠",
+        "cat": "관광",
+        "area": "신세카이·덴노지",
+        "lat": 34.65254,
+        "lng": 135.50631,
+        "aliases": [
+          "Tsutenkaku"
+        ]
+      },
+      {
+        "name": "아베노 하루카스",
+        "cat": "관광",
+        "area": "신세카이·덴노지",
+        "lat": 34.64577,
+        "lng": 135.51401,
+        "aliases": [
+          "Abeno Harukas"
+        ]
+      },
+      {
+        "name": "덴노지 동물원",
+        "cat": "관광",
+        "area": "신세카이·덴노지",
+        "lat": 34.65064,
+        "lng": 135.50836,
+        "aliases": [
+          "Tennoji Zoo"
+        ]
+      },
+      {
+        "name": "시텐노지",
+        "cat": "관광",
+        "area": "신세카이·덴노지",
+        "lat": 34.65306,
+        "lng": 135.51281,
+        "aliases": [
+          "Shitennoji"
+        ]
+      },
+      {
+        "name": "유니버설 스튜디오 재팬",
+        "cat": "관광",
+        "area": "베이 에어리어",
+        "lat": 34.66564,
+        "lng": 135.43245,
+        "aliases": [
+          "Universal Studios Japan"
+        ]
+      },
+      {
+        "name": "가이유칸 수족관",
+        "cat": "관광",
+        "area": "베이 에어리어",
+        "lat": 34.65455,
+        "lng": 135.42892,
+        "aliases": [
+          "Kaiyukan"
+        ]
+      },
+      {
+        "name": "덴포잔 대관람차",
+        "cat": "관광",
+        "area": "베이 에어리어",
+        "lat": 34.65627,
+        "lng": 135.43096,
+        "aliases": [
+          "Tempozan Ferris Wheel"
+        ]
+      }
+    ]
+  },
+  "서울, 한국": {
+    "areas": [
+      "종로·광화문",
+      "북촌·삼청동",
+      "명동·남산",
+      "홍대·연남",
+      "이태원·용산",
+      "성수",
+      "강남·잠실",
+      "여의도"
+    ],
+    "picks": [
+      {
+        "name": "경복궁",
+        "cat": "관광",
+        "area": "종로·광화문",
+        "lat": 37.57975,
+        "lng": 126.97668
+      },
+      {
+        "name": "광화문광장",
+        "cat": "관광",
+        "area": "종로·광화문",
+        "lat": 37.57278,
+        "lng": 126.97686
+      },
+      {
+        "name": "창덕궁",
+        "cat": "관광",
+        "area": "종로·광화문",
+        "lat": 37.58239,
+        "lng": 126.9917
+      },
+      {
+        "name": "인사동",
+        "cat": "쇼핑",
+        "area": "종로·광화문",
+        "lat": 37.57165,
+        "lng": 126.98642
+      },
+      {
+        "name": "광장시장",
+        "cat": "식당",
+        "area": "종로·광화문",
+        "lat": 37.57019,
+        "lng": 126.9995
+      },
+      {
+        "name": "청계광장",
+        "cat": "관광",
+        "area": "종로·광화문",
+        "lat": 37.56921,
+        "lng": 126.97798
+      },
+      {
+        "name": "북촌한옥마을",
+        "cat": "관광",
+        "area": "북촌·삼청동",
+        "lat": 37.58239,
+        "lng": 126.98586
+      },
+      {
+        "name": "삼청동",
+        "cat": "관광",
+        "area": "북촌·삼청동",
+        "lat": 37.58964,
+        "lng": 126.98112
+      },
+      {
+        "name": "국립현대미술관 서울",
+        "cat": "관광",
+        "area": "북촌·삼청동",
+        "lat": 37.57887,
+        "lng": 126.98068,
+        "aliases": [
+          "국립현대미술관 서울관"
+        ]
+      },
+      {
+        "name": "창경궁",
+        "cat": "관광",
+        "area": "북촌·삼청동",
+        "lat": 37.58025,
+        "lng": 126.99483
+      },
+      {
+        "name": "명동",
+        "cat": "쇼핑",
+        "area": "명동·남산",
+        "lat": 37.56131,
+        "lng": 126.98509
+      },
+      {
+        "name": "명동성당",
+        "cat": "관광",
+        "area": "명동·남산",
+        "lat": 37.56316,
+        "lng": 126.98716
+      },
+      {
+        "name": "N서울타워",
+        "cat": "관광",
+        "area": "명동·남산",
+        "lat": 37.55127,
+        "lng": 126.98828
+      },
+      {
+        "name": "남대문시장",
+        "cat": "쇼핑",
+        "area": "명동·남산",
+        "lat": 37.55928,
+        "lng": 126.97735
+      },
+      {
+        "name": "서울역",
+        "cat": "교통",
+        "area": "명동·남산",
+        "lat": 37.55482,
+        "lng": 126.97222
+      },
+      {
+        "name": "홍대입구역",
+        "cat": "교통",
+        "area": "홍대·연남",
+        "lat": 37.55676,
+        "lng": 126.92374
+      },
+      {
+        "name": "경의선숲길 (연트럴파크)",
+        "cat": "관광",
+        "area": "홍대·연남",
+        "lat": 37.55221,
+        "lng": 126.93532,
+        "aliases": [
+          "경의선숲길"
+        ]
+      },
+      {
+        "name": "망원시장",
+        "cat": "식당",
+        "area": "홍대·연남",
+        "lat": 37.55662,
+        "lng": 126.90605
+      },
+      {
+        "name": "망원한강공원",
+        "cat": "관광",
+        "area": "홍대·연남",
+        "lat": 37.55019,
+        "lng": 126.90216
+      },
+      {
+        "name": "이태원",
+        "cat": "식당",
+        "area": "이태원·용산",
+        "lat": 37.53842,
+        "lng": 126.992,
+        "aliases": [
+          "이태원동"
+        ]
+      },
+      {
+        "name": "국립중앙박물관",
+        "cat": "관광",
+        "area": "이태원·용산",
+        "lat": 37.52395,
+        "lng": 126.98032
+      },
+      {
+        "name": "전쟁기념관",
+        "cat": "관광",
+        "area": "이태원·용산",
+        "lat": 37.53597,
+        "lng": 126.97729
+      },
+      {
+        "name": "용산역",
+        "cat": "교통",
+        "area": "이태원·용산",
+        "lat": 37.52908,
+        "lng": 126.9659
+      },
+      {
+        "name": "서울숲",
+        "cat": "관광",
+        "area": "성수",
+        "lat": 37.54359,
+        "lng": 127.04474
+      },
+      {
+        "name": "성수동 카페거리",
+        "cat": "식당",
+        "area": "성수",
+        "lat": 37.54539,
+        "lng": 127.05362,
+        "aliases": [
+          "성수역"
+        ]
+      },
+      {
+        "name": "뚝섬한강공원",
+        "cat": "관광",
+        "area": "성수",
+        "lat": 37.52983,
+        "lng": 127.06811
+      },
+      {
+        "name": "코엑스",
+        "cat": "쇼핑",
+        "area": "강남·잠실",
+        "lat": 37.51187,
+        "lng": 127.05911
+      },
+      {
+        "name": "봉은사",
+        "cat": "관광",
+        "area": "강남·잠실",
+        "lat": 37.51419,
+        "lng": 127.06024
+      },
+      {
+        "name": "롯데월드타워",
+        "cat": "관광",
+        "area": "강남·잠실",
+        "lat": 37.51255,
+        "lng": 127.10268
+      },
+      {
+        "name": "롯데월드",
+        "cat": "관광",
+        "area": "강남·잠실",
+        "lat": 37.5115,
+        "lng": 127.09824
+      },
+      {
+        "name": "석촌호수",
+        "cat": "관광",
+        "area": "강남·잠실",
+        "lat": 37.51009,
+        "lng": 127.10408
+      },
+      {
+        "name": "더현대 서울",
+        "cat": "쇼핑",
+        "area": "여의도",
+        "lat": 37.52596,
+        "lng": 126.92842
+      },
+      {
+        "name": "여의도한강공원",
+        "cat": "관광",
+        "area": "여의도",
+        "lat": 37.52567,
+        "lng": 126.93606
+      },
+      {
+        "name": "63스퀘어",
+        "cat": "관광",
+        "area": "여의도",
+        "lat": 37.52071,
+        "lng": 126.93966
+      },
+      {
+        "name": "국회의사당",
+        "cat": "관광",
+        "area": "여의도",
+        "lat": 37.52802,
+        "lng": 126.91796
+      }
+    ]
+  },
+  "방콕, 태국": {
+    "areas": [
+      "왕궁·라따나꼬신",
+      "카오산",
+      "시암·칫롬",
+      "수쿰빗",
+      "실롬·리버사이드",
+      "차이나타운",
+      "짜뚜짝"
+    ],
+    "picks": [
+      {
+        "name": "왕궁 · 왓 프라깨우",
+        "cat": "관광",
+        "area": "왕궁·라따나꼬신",
+        "lat": 13.74935,
+        "lng": 100.49186,
+        "aliases": [
+          "Grand Palace Bangkok"
+        ]
+      },
+      {
+        "name": "왓 포",
+        "cat": "관광",
+        "area": "왕궁·라따나꼬신",
+        "lat": 13.74635,
+        "lng": 100.49274,
+        "aliases": [
+          "Wat Pho"
+        ]
+      },
+      {
+        "name": "왓 아룬",
+        "cat": "관광",
+        "area": "왕궁·라따나꼬신",
+        "lat": 13.7439,
+        "lng": 100.48851,
+        "aliases": [
+          "Wat Arun"
+        ]
+      },
+      {
+        "name": "뮤지엄 시암",
+        "cat": "관광",
+        "area": "왕궁·라따나꼬신",
+        "lat": 13.74399,
+        "lng": 100.49385,
+        "aliases": [
+          "Museum Siam"
+        ]
+      },
+      {
+        "name": "왓 사켓 (골든 마운트)",
+        "cat": "관광",
+        "area": "왕궁·라따나꼬신",
+        "lat": 13.75385,
+        "lng": 100.50669,
+        "aliases": [
+          "Wat Saket"
+        ]
+      },
+      {
+        "name": "카오산 로드",
+        "cat": "관광",
+        "area": "카오산",
+        "lat": 13.75891,
+        "lng": 100.49727,
+        "aliases": [
+          "Khao San Road"
+        ]
+      },
+      {
+        "name": "람부뜨리 로드",
+        "cat": "식당",
+        "area": "카오산",
+        "lat": 13.76133,
+        "lng": 100.4961,
+        "aliases": [
+          "Rambuttri"
+        ]
+      },
+      {
+        "name": "민주기념탑",
+        "cat": "관광",
+        "area": "카오산",
+        "lat": 13.75667,
+        "lng": 100.50184,
+        "aliases": [
+          "Democracy Monument"
+        ]
+      },
+      {
+        "name": "프라 수멘 요새",
+        "cat": "관광",
+        "area": "카오산",
+        "lat": 13.76401,
+        "lng": 100.49575,
+        "aliases": [
+          "Phra Sumen Fort"
+        ]
+      },
+      {
+        "name": "시암 파라곤",
+        "cat": "쇼핑",
+        "area": "시암·칫롬",
+        "lat": 13.74678,
+        "lng": 100.53495,
+        "aliases": [
+          "Siam Paragon"
+        ]
+      },
+      {
+        "name": "MBK 센터",
+        "cat": "쇼핑",
+        "area": "시암·칫롬",
+        "lat": 13.74472,
+        "lng": 100.52992,
+        "aliases": [
+          "MBK Center"
+        ]
+      },
+      {
+        "name": "센트럴월드",
+        "cat": "쇼핑",
+        "area": "시암·칫롬",
+        "lat": 13.74658,
+        "lng": 100.53904,
+        "aliases": [
+          "CentralWorld"
+        ]
+      },
+      {
+        "name": "짐 톰슨 하우스",
+        "cat": "관광",
+        "area": "시암·칫롬",
+        "lat": 13.74923,
+        "lng": 100.52828,
+        "aliases": [
+          "Jim Thompson House"
+        ]
+      },
+      {
+        "name": "에라완 사당",
+        "cat": "관광",
+        "area": "시암·칫롬",
+        "lat": 13.74432,
+        "lng": 100.54042,
+        "aliases": [
+          "Erawan Shrine"
+        ]
+      },
+      {
+        "name": "터미널 21",
+        "cat": "쇼핑",
+        "area": "수쿰빗",
+        "lat": 13.73787,
+        "lng": 100.56041,
+        "aliases": [
+          "Terminal 21"
+        ]
+      },
+      {
+        "name": "엠쿼티어",
+        "cat": "쇼핑",
+        "area": "수쿰빗",
+        "lat": 13.73196,
+        "lng": 100.56964,
+        "aliases": [
+          "EmQuartier"
+        ]
+      },
+      {
+        "name": "벤짜끼띠 공원",
+        "cat": "관광",
+        "area": "수쿰빗",
+        "lat": 13.72908,
+        "lng": 100.55476,
+        "aliases": [
+          "Benchakitti Park"
+        ]
+      },
+      {
+        "name": "쏘이 카우보이",
+        "cat": "식당",
+        "area": "수쿰빗",
+        "lat": 13.737,
+        "lng": 100.56214,
+        "aliases": [
+          "Soi Cowboy"
+        ]
+      },
+      {
+        "name": "룸피니 공원",
+        "cat": "관광",
+        "area": "실롬·리버사이드",
+        "lat": 13.7306,
+        "lng": 100.54154,
+        "aliases": [
+          "Lumphini Park"
+        ]
+      },
+      {
+        "name": "마하나콘 스카이워크",
+        "cat": "관광",
+        "area": "실롬·리버사이드",
+        "lat": 13.72341,
+        "lng": 100.52822,
+        "aliases": [
+          "King Power Mahanakhon"
+        ]
+      },
+      {
+        "name": "아이콘시암",
+        "cat": "쇼핑",
+        "area": "실롬·리버사이드",
+        "lat": 13.72682,
+        "lng": 100.51029,
+        "aliases": [
+          "ICONSIAM"
+        ]
+      },
+      {
+        "name": "아시아티크",
+        "cat": "쇼핑",
+        "area": "실롬·리버사이드",
+        "lat": 13.70416,
+        "lng": 100.50271,
+        "aliases": [
+          "Asiatique The Riverfront"
+        ]
+      },
+      {
+        "name": "팟퐁 야시장",
+        "cat": "쇼핑",
+        "area": "실롬·리버사이드",
+        "lat": 13.72885,
+        "lng": 100.53175,
+        "aliases": [
+          "Patpong"
+        ]
+      },
+      {
+        "name": "야오와랏 거리",
+        "cat": "식당",
+        "area": "차이나타운",
+        "lat": 13.7444,
+        "lng": 100.50387,
+        "aliases": [
+          "Yaowarat Road"
+        ]
+      },
+      {
+        "name": "왓 뜨라이밋 (황금불상)",
+        "cat": "관광",
+        "area": "차이나타운",
+        "lat": 13.738,
+        "lng": 100.51365,
+        "aliases": [
+          "Wat Traimit"
+        ]
+      },
+      {
+        "name": "삼펭 레인",
+        "cat": "쇼핑",
+        "area": "차이나타운",
+        "lat": 13.74366,
+        "lng": 100.5033,
+        "aliases": [
+          "Sampeng Lane"
+        ]
+      },
+      {
+        "name": "짜뚜짝 주말시장",
+        "cat": "쇼핑",
+        "area": "짜뚜짝",
+        "lat": 13.80027,
+        "lng": 100.55112,
+        "aliases": [
+          "Chatuchak Weekend Market"
+        ]
+      },
+      {
+        "name": "어또꼬 시장",
+        "cat": "식당",
+        "area": "짜뚜짝",
+        "lat": 13.79713,
+        "lng": 100.54757,
+        "aliases": [
+          "Or Tor Kor Market"
+        ]
+      },
+      {
+        "name": "짜뚜짝 공원",
+        "cat": "관광",
+        "area": "짜뚜짝",
+        "lat": 13.80849,
+        "lng": 100.556,
+        "aliases": [
+          "Chatuchak Park"
+        ]
+      }
+    ]
+  },
+  "파리, 프랑스": {
+    "areas": [
+      "에펠탑·앵발리드",
+      "루브르·튀일리",
+      "시테섬·라탱지구",
+      "몽마르트르",
+      "샹젤리제·오페라",
+      "마레",
+      "베르사유"
+    ],
+    "picks": [
+      {
+        "name": "에펠탑",
+        "cat": "관광",
+        "area": "에펠탑·앵발리드",
+        "lat": 48.85826,
+        "lng": 2.2945,
+        "aliases": [
+          "Tour Eiffel"
+        ]
+      },
+      {
+        "name": "트로카데로 광장",
+        "cat": "관광",
+        "area": "에펠탑·앵발리드",
+        "lat": 48.86205,
+        "lng": 2.28862,
+        "aliases": [
+          "Place du Trocadéro"
+        ]
+      },
+      {
+        "name": "샹 드 마르스",
+        "cat": "관광",
+        "area": "에펠탑·앵발리드",
+        "lat": 48.85614,
+        "lng": 2.29782,
+        "aliases": [
+          "Champ de Mars"
+        ]
+      },
+      {
+        "name": "케 브랑리 박물관",
+        "cat": "관광",
+        "area": "에펠탑·앵발리드",
+        "lat": 48.86099,
+        "lng": 2.29797,
+        "aliases": [
+          "Musée du quai Branly"
+        ]
+      },
+      {
+        "name": "앵발리드",
+        "cat": "관광",
+        "area": "에펠탑·앵발리드",
+        "lat": 48.85704,
+        "lng": 2.31188,
+        "aliases": [
+          "Les Invalides"
+        ]
+      },
+      {
+        "name": "루브르 박물관",
+        "cat": "관광",
+        "area": "루브르·튀일리",
+        "lat": 48.86115,
+        "lng": 2.33803,
+        "aliases": [
+          "Musée du Louvre"
+        ]
+      },
+      {
+        "name": "튀일리 정원",
+        "cat": "관광",
+        "area": "루브르·튀일리",
+        "lat": 48.86357,
+        "lng": 2.32696,
+        "aliases": [
+          "Jardin des Tuileries"
+        ]
+      },
+      {
+        "name": "오랑주리 미술관",
+        "cat": "관광",
+        "area": "루브르·튀일리",
+        "lat": 48.86377,
+        "lng": 2.32266,
+        "aliases": [
+          "Musée de l'Orangerie"
+        ]
+      },
+      {
+        "name": "오르세 미술관",
+        "cat": "관광",
+        "area": "루브르·튀일리",
+        "lat": 48.85992,
+        "lng": 2.32658,
+        "aliases": [
+          "Musée d'Orsay"
+        ]
+      },
+      {
+        "name": "팔레 루아얄",
+        "cat": "관광",
+        "area": "루브르·튀일리",
+        "lat": 48.86358,
+        "lng": 2.3362,
+        "aliases": [
+          "Palais-Royal"
+        ]
+      },
+      {
+        "name": "콩코르드 광장",
+        "cat": "관광",
+        "area": "루브르·튀일리",
+        "lat": 48.86557,
+        "lng": 2.32122,
+        "aliases": [
+          "Place de la Concorde"
+        ]
+      },
+      {
+        "name": "노트르담 대성당",
+        "cat": "관광",
+        "area": "시테섬·라탱지구",
+        "lat": 48.85294,
+        "lng": 2.35005,
+        "aliases": [
+          "Cathédrale Notre-Dame de Paris"
+        ]
+      },
+      {
+        "name": "생트 샤펠",
+        "cat": "관광",
+        "area": "시테섬·라탱지구",
+        "lat": 48.85539,
+        "lng": 2.34499,
+        "aliases": [
+          "Sainte-Chapelle"
+        ]
+      },
+      {
+        "name": "셰익스피어 앤 컴퍼니",
+        "cat": "쇼핑",
+        "area": "시테섬·라탱지구",
+        "lat": 48.85257,
+        "lng": 2.34711,
+        "aliases": [
+          "Shakespeare and Company"
+        ]
+      },
+      {
+        "name": "팡테옹",
+        "cat": "관광",
+        "area": "시테섬·라탱지구",
+        "lat": 48.84619,
+        "lng": 2.34605,
+        "aliases": [
+          "Panthéon"
+        ]
+      },
+      {
+        "name": "뤽상부르 정원",
+        "cat": "관광",
+        "area": "시테섬·라탱지구",
+        "lat": 48.84672,
+        "lng": 2.33641,
+        "aliases": [
+          "Jardin du Luxembourg"
+        ]
+      },
+      {
+        "name": "사크레쾨르 대성당",
+        "cat": "관광",
+        "area": "몽마르트르",
+        "lat": 48.88681,
+        "lng": 2.34302,
+        "aliases": [
+          "Basilique du Sacré-Cœur"
+        ]
+      },
+      {
+        "name": "테르트르 광장",
+        "cat": "관광",
+        "area": "몽마르트르",
+        "lat": 48.88653,
+        "lng": 2.3408,
+        "aliases": [
+          "Place du Tertre"
+        ]
+      },
+      {
+        "name": "물랭 루주",
+        "cat": "관광",
+        "area": "몽마르트르",
+        "lat": 48.88411,
+        "lng": 2.33236,
+        "aliases": [
+          "Moulin Rouge"
+        ]
+      },
+      {
+        "name": "개선문",
+        "cat": "관광",
+        "area": "샹젤리제·오페라",
+        "lat": 48.87378,
+        "lng": 2.29504,
+        "aliases": [
+          "Arc de Triomphe"
+        ]
+      },
+      {
+        "name": "샹젤리제 거리",
+        "cat": "쇼핑",
+        "area": "샹젤리제·오페라",
+        "lat": 48.87341,
+        "lng": 2.2962,
+        "aliases": [
+          "Avenue des Champs-Élysées"
+        ]
+      },
+      {
+        "name": "오페라 가르니에",
+        "cat": "관광",
+        "area": "샹젤리제·오페라",
+        "lat": 48.87209,
+        "lng": 2.33233,
+        "aliases": [
+          "Palais Garnier"
+        ]
+      },
+      {
+        "name": "갤러리 라파예트",
+        "cat": "쇼핑",
+        "area": "샹젤리제·오페라",
+        "lat": 48.87365,
+        "lng": 2.33213,
+        "aliases": [
+          "Galeries Lafayette Haussmann"
+        ]
+      },
+      {
+        "name": "프랭탕 오스만",
+        "cat": "쇼핑",
+        "area": "샹젤리제·오페라",
+        "lat": 48.87389,
+        "lng": 2.32905,
+        "aliases": [
+          "Printemps Haussmann"
+        ]
+      },
+      {
+        "name": "보주 광장",
+        "cat": "관광",
+        "area": "마레",
+        "lat": 48.85563,
+        "lng": 2.36553,
+        "aliases": [
+          "Place des Vosges"
+        ]
+      },
+      {
+        "name": "퐁피두 센터",
+        "cat": "관광",
+        "area": "마레",
+        "lat": 48.8605,
+        "lng": 2.35242,
+        "aliases": [
+          "Centre Pompidou"
+        ]
+      },
+      {
+        "name": "피카소 미술관",
+        "cat": "관광",
+        "area": "마레",
+        "lat": 48.85987,
+        "lng": 2.36212,
+        "aliases": [
+          "Musée Picasso"
+        ]
+      },
+      {
+        "name": "앙팡 루주 시장",
+        "cat": "식당",
+        "area": "마레",
+        "lat": 48.8628,
+        "lng": 2.36197,
+        "aliases": [
+          "Marché des Enfants Rouges"
+        ]
+      },
+      {
+        "name": "베르사유 궁전",
+        "cat": "관광",
+        "area": "베르사유",
+        "lat": 48.80443,
+        "lng": 2.12029,
+        "aliases": [
+          "Château de Versailles"
+        ]
+      },
+      {
+        "name": "그랑 트리아농",
+        "cat": "관광",
+        "area": "베르사유",
+        "lat": 48.81394,
+        "lng": 2.10634,
+        "aliases": [
+          "Grand Trianon"
+        ]
+      }
+    ]
+  },
+  "뉴욕, 미국": {
+    "areas": [
+      "미드타운",
+      "로어맨해튼",
+      "센트럴파크·어퍼사이드",
+      "첼시·허드슨 야드",
+      "그리니치·소호",
+      "브루클린"
+    ],
+    "picks": [
+      {
+        "name": "타임스 스퀘어",
+        "cat": "관광",
+        "area": "미드타운",
+        "lat": 40.75701,
+        "lng": -73.98597,
+        "aliases": [
+          "Times Square"
+        ]
+      },
+      {
+        "name": "엠파이어 스테이트 빌딩",
+        "cat": "관광",
+        "area": "미드타운",
+        "lat": 40.74844,
+        "lng": -73.98566,
+        "aliases": [
+          "Empire State Building"
+        ]
+      },
+      {
+        "name": "탑 오브 더 락",
+        "cat": "관광",
+        "area": "미드타운",
+        "lat": 40.75903,
+        "lng": -73.9794,
+        "aliases": [
+          "Top of the Rock"
+        ]
+      },
+      {
+        "name": "그랜드 센트럴 터미널",
+        "cat": "교통",
+        "area": "미드타운",
+        "lat": 40.75269,
+        "lng": -73.97725,
+        "aliases": [
+          "Grand Central Terminal"
+        ]
+      },
+      {
+        "name": "브라이언트 파크",
+        "cat": "관광",
+        "area": "미드타운",
+        "lat": 40.75375,
+        "lng": -73.98354,
+        "aliases": [
+          "Bryant Park"
+        ]
+      },
+      {
+        "name": "뉴욕 현대미술관 (MoMA)",
+        "cat": "관광",
+        "area": "미드타운",
+        "lat": 40.76161,
+        "lng": -73.9775,
+        "aliases": [
+          "Museum of Modern Art"
+        ]
+      },
+      {
+        "name": "월스트리트",
+        "cat": "관광",
+        "area": "로어맨해튼",
+        "lat": 40.70581,
+        "lng": -74.00843,
+        "aliases": [
+          "Wall Street"
+        ]
+      },
+      {
+        "name": "원 월드 전망대",
+        "cat": "관광",
+        "area": "로어맨해튼",
+        "lat": 40.71295,
+        "lng": -74.01304,
+        "aliases": [
+          "One World Observatory"
+        ]
+      },
+      {
+        "name": "9/11 메모리얼",
+        "cat": "관광",
+        "area": "로어맨해튼",
+        "lat": 40.71137,
+        "lng": -74.01327,
+        "aliases": [
+          "9/11 Memorial"
+        ]
+      },
+      {
+        "name": "배터리 파크",
+        "cat": "관광",
+        "area": "로어맨해튼",
+        "lat": 40.70294,
+        "lng": -74.01555,
+        "aliases": [
+          "The Battery"
+        ]
+      },
+      {
+        "name": "브루클린 브리지",
+        "cat": "관광",
+        "area": "로어맨해튼",
+        "lat": 40.70622,
+        "lng": -73.99702,
+        "aliases": [
+          "Brooklyn Bridge"
+        ]
+      },
+      {
+        "name": "자유의 여신상",
+        "cat": "관광",
+        "area": "로어맨해튼",
+        "lat": 40.68925,
+        "lng": -74.04455,
+        "aliases": [
+          "Statue of Liberty"
+        ]
+      },
+      {
+        "name": "센트럴 파크",
+        "cat": "관광",
+        "area": "센트럴파크·어퍼사이드",
+        "lat": 40.78277,
+        "lng": -73.96536,
+        "aliases": [
+          "Central Park"
+        ]
+      },
+      {
+        "name": "베데스다 테라스",
+        "cat": "관광",
+        "area": "센트럴파크·어퍼사이드",
+        "lat": 40.77422,
+        "lng": -73.97105,
+        "aliases": [
+          "Bethesda Terrace"
+        ]
+      },
+      {
+        "name": "메트로폴리탄 미술관",
+        "cat": "관광",
+        "area": "센트럴파크·어퍼사이드",
+        "lat": 40.77944,
+        "lng": -73.96338,
+        "aliases": [
+          "Metropolitan Museum of Art"
+        ]
+      },
+      {
+        "name": "자연사 박물관",
+        "cat": "관광",
+        "area": "센트럴파크·어퍼사이드",
+        "lat": 40.7811,
+        "lng": -73.97424,
+        "aliases": [
+          "American Museum of Natural History"
+        ]
+      },
+      {
+        "name": "구겐하임 미술관",
+        "cat": "관광",
+        "area": "센트럴파크·어퍼사이드",
+        "lat": 40.78299,
+        "lng": -73.95892,
+        "aliases": [
+          "Solomon R. Guggenheim Museum"
+        ]
+      },
+      {
+        "name": "하이라인",
+        "cat": "관광",
+        "area": "첼시·허드슨 야드",
+        "lat": 40.74715,
+        "lng": -74.00527,
+        "aliases": [
+          "High Line"
+        ]
+      },
+      {
+        "name": "첼시 마켓",
+        "cat": "식당",
+        "area": "첼시·허드슨 야드",
+        "lat": 40.74205,
+        "lng": -74.0049,
+        "aliases": [
+          "Chelsea Market"
+        ]
+      },
+      {
+        "name": "베슬",
+        "cat": "관광",
+        "area": "첼시·허드슨 야드",
+        "lat": 40.7538,
+        "lng": -74.002,
+        "aliases": [
+          "Vessel"
+        ]
+      },
+      {
+        "name": "엣지 전망대",
+        "cat": "관광",
+        "area": "첼시·허드슨 야드",
+        "lat": 40.75405,
+        "lng": -74.00059,
+        "aliases": [
+          "Edge NYC"
+        ]
+      },
+      {
+        "name": "리틀 아일랜드",
+        "cat": "관광",
+        "area": "첼시·허드슨 야드",
+        "lat": 40.742,
+        "lng": -74.01061,
+        "aliases": [
+          "Little Island"
+        ]
+      },
+      {
+        "name": "워싱턴 스퀘어 공원",
+        "cat": "관광",
+        "area": "그리니치·소호",
+        "lat": 40.7309,
+        "lng": -73.9976,
+        "aliases": [
+          "Washington Square Park"
+        ]
+      },
+      {
+        "name": "소호",
+        "cat": "쇼핑",
+        "area": "그리니치·소호",
+        "lat": 40.72288,
+        "lng": -73.99875,
+        "aliases": [
+          "SoHo"
+        ]
+      },
+      {
+        "name": "카츠 델리",
+        "cat": "식당",
+        "area": "그리니치·소호",
+        "lat": 40.72234,
+        "lng": -73.98735,
+        "aliases": [
+          "Katz's Delicatessen"
+        ]
+      },
+      {
+        "name": "첼시 호텔",
+        "cat": "숙박",
+        "area": "그리니치·소호",
+        "lat": 40.74437,
+        "lng": -73.99682,
+        "aliases": [
+          "Hotel Chelsea"
+        ]
+      },
+      {
+        "name": "덤보",
+        "cat": "관광",
+        "area": "브루클린",
+        "lat": 40.70291,
+        "lng": -73.99012,
+        "aliases": [
+          "DUMBO"
+        ]
+      },
+      {
+        "name": "브루클린 브리지 파크",
+        "cat": "관광",
+        "area": "브루클린",
+        "lat": 40.69829,
+        "lng": -73.99993,
+        "aliases": [
+          "Brooklyn Bridge Park"
+        ]
+      },
+      {
+        "name": "타임아웃 마켓 뉴욕",
+        "cat": "식당",
+        "area": "브루클린",
+        "lat": 40.7036,
+        "lng": -73.99189,
+        "aliases": [
+          "Time Out Market New York"
+        ]
+      },
+      {
+        "name": "윌리엄스버그",
+        "cat": "관광",
+        "area": "브루클린",
+        "lat": 40.71462,
+        "lng": -73.95345,
+        "aliases": [
+          "Williamsburg Brooklyn"
+        ]
+      }
+    ]
+  },
+  "LA · 라스베가스": {
+    "areas": [
+      "할리우드",
+      "LA 다운타운",
+      "산타모니카·베니스",
+      "비버리힐스·웨스트LA",
+      "애너하임",
+      "라스베가스 스트립",
+      "라스베가스 다운타운",
+      "그랜드캐니언"
+    ],
+    "picks": [
+      {
+        "name": "할리우드 명예의 거리",
+        "cat": "관광",
+        "area": "할리우드",
+        "lat": 34.10169,
+        "lng": -118.34495,
+        "aliases": [
+          "Hollywood Walk of Fame"
+        ]
+      },
+      {
+        "name": "TCL 차이니즈 극장",
+        "cat": "관광",
+        "area": "할리우드",
+        "lat": 34.10207,
+        "lng": -118.34095,
+        "aliases": [
+          "TCL Chinese Theatre"
+        ]
+      },
+      {
+        "name": "돌비 극장",
+        "cat": "관광",
+        "area": "할리우드",
+        "lat": 34.10269,
+        "lng": -118.34047,
+        "aliases": [
+          "Dolby Theatre"
+        ]
+      },
+      {
+        "name": "그리피스 천문대",
+        "cat": "관광",
+        "area": "할리우드",
+        "lat": 34.11822,
+        "lng": -118.30029,
+        "aliases": [
+          "Griffith Observatory"
+        ]
+      },
+      {
+        "name": "유니버설 스튜디오 할리우드",
+        "cat": "관광",
+        "area": "할리우드",
+        "lat": 34.13923,
+        "lng": -118.35438,
+        "aliases": [
+          "Universal Studios Hollywood"
+        ]
+      },
+      {
+        "name": "그랜드 센트럴 마켓",
+        "cat": "식당",
+        "area": "LA 다운타운",
+        "lat": 34.05073,
+        "lng": -118.2488,
+        "aliases": [
+          "Grand Central Market"
+        ]
+      },
+      {
+        "name": "월트 디즈니 콘서트홀",
+        "cat": "관광",
+        "area": "LA 다운타운",
+        "lat": 34.05543,
+        "lng": -118.24991,
+        "aliases": [
+          "Walt Disney Concert Hall"
+        ]
+      },
+      {
+        "name": "더 브로드",
+        "cat": "관광",
+        "area": "LA 다운타운",
+        "lat": 34.05446,
+        "lng": -118.25059,
+        "aliases": [
+          "The Broad"
+        ]
+      },
+      {
+        "name": "유니언 스테이션",
+        "cat": "교통",
+        "area": "LA 다운타운",
+        "lat": 34.05586,
+        "lng": -118.23429,
+        "aliases": [
+          "Los Angeles Union Station"
+        ]
+      },
+      {
+        "name": "올베라 거리",
+        "cat": "관광",
+        "area": "LA 다운타운",
+        "lat": 34.05746,
+        "lng": -118.23792,
+        "aliases": [
+          "Olvera Street"
+        ]
+      },
+      {
+        "name": "산타모니카 피어",
+        "cat": "관광",
+        "area": "산타모니카·베니스",
+        "lat": 34.0089,
+        "lng": -118.4974,
+        "aliases": [
+          "Santa Monica Pier"
+        ]
+      },
+      {
+        "name": "서드 스트리트 프로머나드",
+        "cat": "쇼핑",
+        "area": "산타모니카·베니스",
+        "lat": 34.01633,
+        "lng": -118.4969,
+        "aliases": [
+          "Third Street Promenade"
+        ]
+      },
+      {
+        "name": "베니스 비치",
+        "cat": "관광",
+        "area": "산타모니카·베니스",
+        "lat": 33.97996,
+        "lng": -118.46877,
+        "aliases": [
+          "Venice Beach"
+        ]
+      },
+      {
+        "name": "베니스 운하",
+        "cat": "관광",
+        "area": "산타모니카·베니스",
+        "lat": 33.98691,
+        "lng": -118.47359,
+        "aliases": [
+          "Venice Canals"
+        ]
+      },
+      {
+        "name": "로데오 드라이브",
+        "cat": "쇼핑",
+        "area": "비버리힐스·웨스트LA",
+        "lat": 34.06763,
+        "lng": -118.40135,
+        "aliases": [
+          "Rodeo Drive"
+        ]
+      },
+      {
+        "name": "게티 센터",
+        "cat": "관광",
+        "area": "비버리힐스·웨스트LA",
+        "lat": 34.07892,
+        "lng": -118.47462,
+        "aliases": [
+          "Getty Center"
+        ]
+      },
+      {
+        "name": "LA 카운티 미술관 (LACMA)",
+        "cat": "관광",
+        "area": "비버리힐스·웨스트LA",
+        "lat": 34.06374,
+        "lng": -118.35894,
+        "aliases": [
+          "Los Angeles County Museum of Art"
+        ]
+      },
+      {
+        "name": "더 그로브",
+        "cat": "쇼핑",
+        "area": "비버리힐스·웨스트LA",
+        "lat": 34.07259,
+        "lng": -118.35774,
+        "aliases": [
+          "The Grove Los Angeles"
+        ]
+      },
+      {
+        "name": "디즈니랜드 파크",
+        "cat": "관광",
+        "area": "애너하임",
+        "lat": 33.81365,
+        "lng": -117.91974,
+        "aliases": [
+          "Disneyland Park"
+        ]
+      },
+      {
+        "name": "디즈니 캘리포니아 어드벤처",
+        "cat": "관광",
+        "area": "애너하임",
+        "lat": 33.8064,
+        "lng": -117.91995,
+        "aliases": [
+          "Disney California Adventure"
+        ]
+      },
+      {
+        "name": "벨라지오 분수쇼",
+        "cat": "관광",
+        "area": "라스베가스 스트립",
+        "lat": 36.11279,
+        "lng": -115.17413,
+        "aliases": [
+          "Fountains of Bellagio"
+        ]
+      },
+      {
+        "name": "베네시안",
+        "cat": "숙박",
+        "area": "라스베가스 스트립",
+        "lat": 36.12171,
+        "lng": -115.16934,
+        "aliases": [
+          "The Venetian Las Vegas"
+        ]
+      },
+      {
+        "name": "시저스 팰리스",
+        "cat": "숙박",
+        "area": "라스베가스 스트립",
+        "lat": 36.11663,
+        "lng": -115.17676,
+        "aliases": [
+          "Caesars Palace"
+        ]
+      },
+      {
+        "name": "하이 롤러 관람차",
+        "cat": "관광",
+        "area": "라스베가스 스트립",
+        "lat": 36.1176,
+        "lng": -115.16816,
+        "aliases": [
+          "High Roller LINQ"
+        ]
+      },
+      {
+        "name": "스피어",
+        "cat": "관광",
+        "area": "라스베가스 스트립",
+        "lat": 36.12121,
+        "lng": -115.16207,
+        "aliases": [
+          "Sphere Las Vegas"
+        ]
+      },
+      {
+        "name": "웰컴 투 라스베가스 사인",
+        "cat": "관광",
+        "area": "라스베가스 스트립",
+        "lat": 36.08206,
+        "lng": -115.17277,
+        "aliases": [
+          "Welcome to Fabulous Las Vegas sign"
+        ]
+      },
+      {
+        "name": "프리몬트 스트리트 익스피리언스",
+        "cat": "관광",
+        "area": "라스베가스 다운타운",
+        "lat": 36.17048,
+        "lng": -115.14353,
+        "aliases": [
+          "Fremont Street Experience"
+        ]
+      },
+      {
+        "name": "네온 뮤지엄",
+        "cat": "관광",
+        "area": "라스베가스 다운타운",
+        "lat": 36.17651,
+        "lng": -115.13528,
+        "aliases": [
+          "Neon Museum"
+        ]
+      },
+      {
+        "name": "그랜드캐니언 빌리지",
+        "cat": "관광",
+        "area": "그랜드캐니언",
+        "lat": 36.05781,
+        "lng": -112.12816,
+        "aliases": [
+          "Grand Canyon Village"
+        ]
+      },
+      {
+        "name": "매더 포인트",
+        "cat": "관광",
+        "area": "그랜드캐니언",
+        "lat": 36.06172,
+        "lng": -112.10903,
+        "aliases": [
+          "Mather Point"
+        ]
+      }
+    ]
+  },
+  "바르셀로나 · 마드리드": {
+    "areas": [
+      "바르셀로나",
+      "마드리드"
+    ],
+    "picks": [
+      {
+        "name": "사그라다 파밀리아",
+        "cat": "관광",
+        "area": "바르셀로나",
+        "lat": 41.4035,
+        "lng": 2.17443,
+        "aliases": [
+          "Sagrada Família"
+        ]
+      },
+      {
+        "name": "구엘 공원",
+        "cat": "관광",
+        "area": "바르셀로나",
+        "lat": 41.41423,
+        "lng": 2.15246,
+        "aliases": [
+          "Park Güell"
+        ]
+      },
+      {
+        "name": "카사 바트요",
+        "cat": "관광",
+        "area": "바르셀로나",
+        "lat": 41.39154,
+        "lng": 2.1647,
+        "aliases": [
+          "Casa Batlló"
+        ]
+      },
+      {
+        "name": "카사 밀라",
+        "cat": "관광",
+        "area": "바르셀로나",
+        "lat": 41.3954,
+        "lng": 2.16176,
+        "aliases": [
+          "Casa Milà"
+        ]
+      },
+      {
+        "name": "라 보케리아 시장",
+        "cat": "식당",
+        "area": "바르셀로나",
+        "lat": 41.38174,
+        "lng": 2.17155,
+        "aliases": [
+          "Mercat de la Boqueria"
+        ]
+      },
+      {
+        "name": "람블라스 거리",
+        "cat": "쇼핑",
+        "area": "바르셀로나",
+        "lat": 41.38013,
+        "lng": 2.17401,
+        "aliases": [
+          "La Rambla Barcelona"
+        ]
+      },
+      {
+        "name": "고딕 지구",
+        "cat": "관광",
+        "area": "바르셀로나",
+        "lat": 41.38384,
+        "lng": 2.17451,
+        "aliases": [
+          "Barri Gòtic"
+        ]
+      },
+      {
+        "name": "프라도 미술관",
+        "cat": "관광",
+        "area": "마드리드",
+        "lat": 40.41379,
+        "lng": -3.69204,
+        "aliases": [
+          "Museo del Prado"
+        ]
+      },
+      {
+        "name": "마드리드 왕궁",
+        "cat": "관광",
+        "area": "마드리드",
+        "lat": 40.41674,
+        "lng": -3.71362,
+        "aliases": [
+          "Palacio Real de Madrid"
+        ]
+      },
+      {
+        "name": "푸에르타 델 솔",
+        "cat": "관광",
+        "area": "마드리드",
+        "lat": 40.41686,
+        "lng": -3.70388,
+        "aliases": [
+          "Puerta del Sol"
+        ]
+      },
+      {
+        "name": "마요르 광장",
+        "cat": "관광",
+        "area": "마드리드",
+        "lat": 40.41945,
+        "lng": -3.70447,
+        "aliases": [
+          "Plaza Mayor Madrid"
+        ]
+      },
+      {
+        "name": "레티로 공원",
+        "cat": "관광",
+        "area": "마드리드",
+        "lat": 40.41495,
+        "lng": -3.68328,
+        "aliases": [
+          "Parque del Retiro"
+        ]
+      },
+      {
+        "name": "산 미겔 시장",
+        "cat": "식당",
+        "area": "마드리드",
+        "lat": 40.41537,
+        "lng": -3.70902,
+        "aliases": [
+          "Mercado de San Miguel"
+        ]
+      }
+    ]
+  },
+  "보라카이, 필리핀": {
+    "areas": [
+      "화이트 비치",
+      "북부",
+      "동부·남부"
+    ],
+    "picks": [
+      {
+        "name": "화이트 비치",
+        "cat": "관광",
+        "area": "화이트 비치",
+        "lat": 11.96789,
+        "lng": 121.91996,
+        "aliases": [
+          "White Beach, Boracay"
+        ]
+      },
+      {
+        "name": "디몰",
+        "cat": "쇼핑",
+        "area": "화이트 비치",
+        "lat": 11.9611,
+        "lng": 121.9252,
+        "aliases": [
+          "D'Mall Boracay"
+        ]
+      },
+      {
+        "name": "윌리스 록",
+        "cat": "관광",
+        "area": "화이트 비치",
+        "lat": 11.96813,
+        "lng": 121.91857,
+        "aliases": [
+          "Willy's Rock"
+        ]
+      },
+      {
+        "name": "디니위드 비치",
+        "cat": "관광",
+        "area": "화이트 비치",
+        "lat": 11.97633,
+        "lng": 121.9118,
+        "aliases": [
+          "Diniwid Beach"
+        ]
+      },
+      {
+        "name": "보라카이 수산시장 (D'Talipapa)",
+        "cat": "식당",
+        "area": "화이트 비치",
+        "lat": 11.95796,
+        "lng": 121.92861,
+        "aliases": [
+          "D'Talipapa"
+        ]
+      },
+      {
+        "name": "스테이션 1",
+        "cat": "관광",
+        "area": "화이트 비치",
+        "lat": 11.96524,
+        "lng": 121.92654,
+        "aliases": [
+          "Station 1, Boracay"
+        ]
+      },
+      {
+        "name": "스테이션 2",
+        "cat": "관광",
+        "area": "화이트 비치",
+        "lat": 11.96525,
+        "lng": 121.92653,
+        "aliases": [
+          "Station 2, Boracay"
+        ]
+      },
+      {
+        "name": "스테이션 3",
+        "cat": "관광",
+        "area": "화이트 비치",
+        "lat": 11.95169,
+        "lng": 121.93028,
+        "aliases": [
+          "Station 3, Boracay"
+        ]
+      },
+      {
+        "name": "푸카 셸 비치",
+        "cat": "관광",
+        "area": "북부",
+        "lat": 11.99433,
+        "lng": 121.91168,
+        "aliases": [
+          "Puka Beach"
+        ]
+      },
+      {
+        "name": "루호 산 전망대",
+        "cat": "관광",
+        "area": "북부",
+        "lat": 11.97689,
+        "lng": 121.92891,
+        "aliases": [
+          "Mount Luho"
+        ]
+      },
+      {
+        "name": "일리그-일리간 비치",
+        "cat": "관광",
+        "area": "북부",
+        "lat": 11.99425,
+        "lng": 121.9253,
+        "aliases": [
+          "Ilig-Iligan Beach"
+        ]
+      },
+      {
+        "name": "불라복 비치",
+        "cat": "관광",
+        "area": "동부·남부",
+        "lat": 11.96368,
+        "lng": 121.93026,
+        "aliases": [
+          "Bulabog Beach"
+        ]
+      },
+      {
+        "name": "크리스탈 코브 섬",
+        "cat": "관광",
+        "area": "동부·남부",
+        "lat": 11.94217,
+        "lng": 121.95699,
+        "aliases": [
+          "Crystal Cove"
+        ]
+      },
+      {
+        "name": "카티클란 항",
+        "cat": "교통",
+        "area": "동부·남부",
+        "lat": 11.93871,
+        "lng": 121.93939,
+        "aliases": [
+          "Caticlan Jetty Port"
+        ]
+      },
+      {
+        "name": "카그반 항",
+        "cat": "교통",
+        "area": "동부·남부",
+        "lat": 11.93871,
+        "lng": 121.93939,
+        "aliases": [
+          "Cagban Jetty Port"
+        ]
+      }
+    ]
+  },
+  "나트랑, 베트남": {
+    "areas": [
+      "시내·해변",
+      "북부",
+      "섬·남부"
+    ],
+    "picks": [
+      {
+        "name": "나트랑 비치",
+        "cat": "관광",
+        "area": "시내·해변",
+        "lat": 12.23631,
+        "lng": 109.19791,
+        "aliases": [
+          "Nha Trang Beach"
+        ]
+      },
+      {
+        "name": "나트랑 대성당",
+        "cat": "관광",
+        "area": "시내·해변",
+        "lat": 12.24673,
+        "lng": 109.18814,
+        "aliases": [
+          "Nha Trang Cathedral"
+        ]
+      },
+      {
+        "name": "롱선사",
+        "cat": "관광",
+        "area": "시내·해변",
+        "lat": 12.25131,
+        "lng": 109.18064,
+        "aliases": [
+          "Long Son Pagoda"
+        ]
+      },
+      {
+        "name": "담 시장",
+        "cat": "쇼핑",
+        "area": "시내·해변",
+        "lat": 12.25545,
+        "lng": 109.19414,
+        "aliases": [
+          "Dam Market Nha Trang"
+        ]
+      },
+      {
+        "name": "나트랑 야시장",
+        "cat": "쇼핑",
+        "area": "시내·해변",
+        "lat": 12.23965,
+        "lng": 109.19579,
+        "aliases": [
+          "Nha Trang Night Market"
+        ]
+      },
+      {
+        "name": "쏨모이 시장",
+        "cat": "쇼핑",
+        "area": "시내·해변",
+        "lat": 12.24276,
+        "lng": 109.19044,
+        "aliases": [
+          "Chợ Xóm Mới"
+        ]
+      },
+      {
+        "name": "롯데마트 나트랑",
+        "cat": "쇼핑",
+        "area": "시내·해변",
+        "lat": 12.24808,
+        "lng": 109.19516,
+        "aliases": [
+          "Lotte Mart Nha Trang"
+        ]
+      },
+      {
+        "name": "예르생 박물관",
+        "cat": "관광",
+        "area": "시내·해변",
+        "lat": 12.25005,
+        "lng": 109.19615,
+        "aliases": [
+          "Alexandre Yersin Museum"
+        ]
+      },
+      {
+        "name": "포나가르 참탑",
+        "cat": "관광",
+        "area": "북부",
+        "lat": 12.26539,
+        "lng": 109.19518,
+        "aliases": [
+          "Po Nagar"
+        ]
+      },
+      {
+        "name": "혼총 곶",
+        "cat": "관광",
+        "area": "북부",
+        "lat": 12.27284,
+        "lng": 109.20656,
+        "aliases": [
+          "Hon Chong"
+        ]
+      },
+      {
+        "name": "탑바 온천",
+        "cat": "관광",
+        "area": "북부",
+        "lat": 12.26551,
+        "lng": 109.19851,
+        "aliases": [
+          "Tháp Bà"
+        ]
+      },
+      {
+        "name": "아이리조트 온천",
+        "cat": "관광",
+        "area": "북부",
+        "lat": 12.27175,
+        "lng": 109.17479,
+        "aliases": [
+          "I-Resort Nha Trang"
+        ]
+      },
+      {
+        "name": "빈원더스 나트랑",
+        "cat": "관광",
+        "area": "섬·남부",
+        "lat": 12.2174,
+        "lng": 109.24122,
+        "aliases": [
+          "VinWonders Nha Trang"
+        ]
+      },
+      {
+        "name": "혼째섬",
+        "cat": "관광",
+        "area": "섬·남부",
+        "lat": 12.2085,
+        "lng": 109.28712,
+        "aliases": [
+          "Hon Tre"
+        ]
+      },
+      {
+        "name": "혼문섬",
+        "cat": "관광",
+        "area": "섬·남부",
+        "lat": 12.16669,
+        "lng": 109.30494,
+        "aliases": [
+          "Hon Mun"
+        ]
+      },
+      {
+        "name": "나트랑 해양학 연구소",
+        "cat": "관광",
+        "area": "섬·남부",
+        "lat": 12.20795,
+        "lng": 109.21385,
+        "aliases": [
+          "Institute of Oceanography Nha Trang"
+        ]
+      },
+      {
+        "name": "깜라인 국제공항",
+        "cat": "교통",
+        "area": "섬·남부",
+        "lat": 11.99825,
+        "lng": 109.21738,
+        "aliases": [
+          "Cam Ranh International Airport"
+        ]
+      }
+    ]
+  },
+  "푸꾸옥, 베트남": {
+    "areas": [
+      "즈엉동",
+      "북부",
+      "남부"
+    ],
+    "picks": [
+      {
+        "name": "푸꾸옥 야시장",
+        "cat": "쇼핑",
+        "area": "즈엉동",
+        "lat": 10.11514,
+        "lng": 103.98356,
+        "aliases": [
+          "Phu Quoc Night Market"
+        ]
+      },
+      {
+        "name": "딘꺼우 사원",
+        "cat": "관광",
+        "area": "즈엉동",
+        "lat": 10.21722,
+        "lng": 103.95643,
+        "aliases": [
+          "Dinh Cau"
+        ]
+      },
+      {
+        "name": "즈엉동 시장",
+        "cat": "쇼핑",
+        "area": "즈엉동",
+        "lat": 10.22054,
+        "lng": 103.9598,
+        "aliases": [
+          "Duong Dong Market"
+        ]
+      },
+      {
+        "name": "롱 비치",
+        "cat": "관광",
+        "area": "즈엉동",
+        "lat": 10.13606,
+        "lng": 103.9764,
+        "aliases": [
+          "Long Beach Phu Quoc"
+        ]
+      },
+      {
+        "name": "푸꾸옥 국제공항",
+        "cat": "교통",
+        "area": "즈엉동",
+        "lat": 10.17271,
+        "lng": 103.99215,
+        "aliases": [
+          "Phu Quoc International Airport"
+        ]
+      },
+      {
+        "name": "빈원더스 푸꾸옥",
+        "cat": "관광",
+        "area": "북부",
+        "lat": 10.3384,
+        "lng": 103.85467,
+        "aliases": [
+          "VinWonders Phu Quoc"
+        ]
+      },
+      {
+        "name": "빈펄 사파리",
+        "cat": "관광",
+        "area": "북부",
+        "lat": 10.3394,
+        "lng": 103.89501,
+        "aliases": [
+          "Vinpearl Safari Phu Quoc"
+        ]
+      },
+      {
+        "name": "그랜드 월드 푸꾸옥",
+        "cat": "쇼핑",
+        "area": "북부",
+        "lat": 10.32494,
+        "lng": 103.85814,
+        "aliases": [
+          "Grand World Phu Quoc"
+        ]
+      },
+      {
+        "name": "옹랑 비치",
+        "cat": "관광",
+        "area": "북부",
+        "lat": 10.25738,
+        "lng": 103.93666,
+        "aliases": [
+          "Ong Lang Beach"
+        ]
+      },
+      {
+        "name": "가할 비치",
+        "cat": "관광",
+        "area": "북부",
+        "lat": 10.37077,
+        "lng": 103.84472,
+        "aliases": [
+          "Ganh Dau"
+        ]
+      },
+      {
+        "name": "사오 비치",
+        "cat": "관광",
+        "area": "남부",
+        "lat": 10.05247,
+        "lng": 104.03519,
+        "aliases": [
+          "Sao Beach"
+        ]
+      },
+      {
+        "name": "혼텀 케이블카",
+        "cat": "관광",
+        "area": "남부",
+        "lat": 9.99201,
+        "lng": 104.01244,
+        "aliases": [
+          "Hon Thom Cable Car"
+        ]
+      },
+      {
+        "name": "선셋 타운",
+        "cat": "관광",
+        "area": "남부",
+        "lat": 10.02943,
+        "lng": 104.00831,
+        "aliases": [
+          "Sunset Town Phu Quoc"
+        ]
+      },
+      {
+        "name": "푸꾸옥 감옥 (코코넛 수용소)",
+        "cat": "관광",
+        "area": "남부",
+        "lat": 10.04345,
+        "lng": 104.01879,
+        "aliases": [
+          "Phu Quoc Prison"
+        ]
+      },
+      {
+        "name": "호국사",
+        "cat": "관광",
+        "area": "남부",
+        "lat": 10.01877,
+        "lng": 104.00986,
+        "aliases": [
+          "Hộ Quốc"
+        ]
+      },
+      {
+        "name": "안터이 항",
+        "cat": "교통",
+        "area": "남부",
+        "lat": 10.01209,
+        "lng": 104.01481,
+        "aliases": [
+          "An Thoi"
+        ]
+      }
+    ]
+  },
+  "파타야, 태국": {
+    "areas": [
+      "센트럴·워킹 스트리트",
+      "북부",
+      "좀티엔·남부",
+      "꼬란"
+    ],
+    "picks": [
+      {
+        "name": "워킹 스트리트",
+        "cat": "관광",
+        "area": "센트럴·워킹 스트리트",
+        "lat": 12.92742,
+        "lng": 100.87465,
+        "aliases": [
+          "Walking Street Pattaya"
+        ]
+      },
+      {
+        "name": "파타야 비치",
+        "cat": "관광",
+        "area": "센트럴·워킹 스트리트",
+        "lat": 12.93658,
+        "lng": 100.88596,
+        "aliases": [
+          "Pattaya Beach"
+        ]
+      },
+      {
+        "name": "센트럴 페스티벌 파타야",
+        "cat": "쇼핑",
+        "area": "센트럴·워킹 스트리트",
+        "lat": 12.93469,
+        "lng": 100.88348,
+        "aliases": [
+          "Central Pattaya"
+        ]
+      },
+      {
+        "name": "터미널 21 파타야",
+        "cat": "쇼핑",
+        "area": "센트럴·워킹 스트리트",
+        "lat": 12.94988,
+        "lng": 100.88977,
+        "aliases": [
+          "Terminal 21 Pattaya"
+        ]
+      },
+      {
+        "name": "파타야 뷰포인트",
+        "cat": "관광",
+        "area": "센트럴·워킹 스트리트",
+        "lat": 12.9505,
+        "lng": 100.95453,
+        "aliases": [
+          "Pattaya Viewpoint"
+        ]
+      },
+      {
+        "name": "왓 프라 야이 (빅 부다)",
+        "cat": "관광",
+        "area": "센트럴·워킹 스트리트",
+        "lat": 12.91407,
+        "lng": 100.86869,
+        "aliases": [
+          "Wat Phra Yai Pattaya"
+        ]
+      },
+      {
+        "name": "티파니 쇼",
+        "cat": "관광",
+        "area": "센트럴·워킹 스트리트",
+        "lat": 12.94905,
+        "lng": 100.88756,
+        "aliases": [
+          "Tiffany's Show Pattaya"
+        ]
+      },
+      {
+        "name": "알카자 쇼",
+        "cat": "관광",
+        "area": "센트럴·워킹 스트리트",
+        "lat": 12.94299,
+        "lng": 100.88901,
+        "aliases": [
+          "Alcazar Cabaret"
+        ]
+      },
+      {
+        "name": "진리의 성전",
+        "cat": "관광",
+        "area": "북부",
+        "lat": 12.97278,
+        "lng": 100.88915,
+        "aliases": [
+          "Sanctuary of Truth"
+        ]
+      },
+      {
+        "name": "아트 인 파라다이스",
+        "cat": "관광",
+        "area": "북부",
+        "lat": 12.94833,
+        "lng": 100.88979,
+        "aliases": [
+          "Art in Paradise Pattaya"
+        ]
+      },
+      {
+        "name": "좀티엔 비치",
+        "cat": "관광",
+        "area": "좀티엔·남부",
+        "lat": 12.90534,
+        "lng": 100.86951,
+        "aliases": [
+          "Jomtien Beach"
+        ]
+      },
+      {
+        "name": "파타야 수상시장",
+        "cat": "쇼핑",
+        "area": "좀티엔·남부",
+        "lat": 12.86857,
+        "lng": 100.90652,
+        "aliases": [
+          "Pattaya Floating Market"
+        ]
+      },
+      {
+        "name": "농눅 빌리지",
+        "cat": "관광",
+        "area": "좀티엔·남부",
+        "lat": 12.7682,
+        "lng": 100.92995,
+        "aliases": [
+          "Nong Nooch Tropical Garden"
+        ]
+      },
+      {
+        "name": "카오치찬",
+        "cat": "관광",
+        "area": "좀티엔·남부",
+        "lat": 12.7758,
+        "lng": 100.94608,
+        "aliases": [
+          "Khao Chi Chan"
+        ]
+      },
+      {
+        "name": "꼬란 섬",
+        "cat": "관광",
+        "area": "꼬란",
+        "lat": 12.91745,
+        "lng": 100.7782,
+        "aliases": [
+          "Ko Lan"
+        ]
+      },
+      {
+        "name": "따웬 비치",
+        "cat": "관광",
+        "area": "꼬란",
+        "lat": 12.92538,
+        "lng": 100.77975,
+        "aliases": [
+          "Tawaen Beach"
+        ]
+      },
+      {
+        "name": "발리하이 선착장",
+        "cat": "교통",
+        "area": "꼬란",
+        "lat": 12.92782,
+        "lng": 100.86793,
+        "aliases": [
+          "Bali Hai Pier"
+        ]
+      }
+    ]
+  },
+  "다낭, 베트남": {
+    "areas": [
+      "시내",
+      "미케·손짜",
+      "오행산",
+      "바나힐",
+      "호이안"
+    ],
+    "picks": [
+      {
+        "name": "용다리",
+        "cat": "관광",
+        "area": "시내",
+        "lat": 16.06117,
+        "lng": 108.2279,
+        "aliases": [
+          "Dragon Bridge Da Nang"
+        ]
+      },
+      {
+        "name": "한 시장",
+        "cat": "쇼핑",
+        "area": "시내",
+        "lat": 16.06835,
+        "lng": 108.22428,
+        "aliases": [
+          "Han Market"
+        ]
+      },
+      {
+        "name": "다낭 대성당",
+        "cat": "관광",
+        "area": "시내",
+        "lat": 16.06668,
+        "lng": 108.22306,
+        "aliases": [
+          "Da Nang Cathedral"
+        ]
+      },
+      {
+        "name": "참 조각 박물관",
+        "cat": "관광",
+        "area": "시내",
+        "lat": 16.06012,
+        "lng": 108.22308,
+        "aliases": [
+          "Museum of Cham Sculpture"
+        ]
+      },
+      {
+        "name": "꼰 시장",
+        "cat": "쇼핑",
+        "area": "시내",
+        "lat": 16.06813,
+        "lng": 108.21452,
+        "aliases": [
+          "Con Market"
+        ]
+      },
+      {
+        "name": "롯데마트 다낭",
+        "cat": "쇼핑",
+        "area": "시내",
+        "lat": 16.03493,
+        "lng": 108.22923,
+        "aliases": [
+          "Lotte Mart Da Nang"
+        ]
+      },
+      {
+        "name": "아시아 파크 (선월드)",
+        "cat": "관광",
+        "area": "시내",
+        "lat": 16.04122,
+        "lng": 108.22639,
+        "aliases": [
+          "Asia Park Da Nang"
+        ]
+      },
+      {
+        "name": "다낭 국제공항",
+        "cat": "교통",
+        "area": "시내",
+        "lat": 16.04258,
+        "lng": 108.19716,
+        "aliases": [
+          "Da Nang International Airport"
+        ]
+      },
+      {
+        "name": "미케 비치",
+        "cat": "관광",
+        "area": "미케·손짜",
+        "lat": 16.07563,
+        "lng": 108.24688,
+        "aliases": [
+          "My Khe Beach"
+        ]
+      },
+      {
+        "name": "영응사 (손짜)",
+        "cat": "관광",
+        "area": "미케·손짜",
+        "lat": 16.10033,
+        "lng": 108.27786,
+        "aliases": [
+          "Linh Ung Pagoda Son Tra"
+        ]
+      },
+      {
+        "name": "손짜 반도",
+        "cat": "관광",
+        "area": "미케·손짜",
+        "lat": 16.08157,
+        "lng": 108.24707,
+        "aliases": [
+          "Son Tra Peninsula"
+        ]
+      },
+      {
+        "name": "오행산 (마블 마운틴)",
+        "cat": "관광",
+        "area": "오행산",
+        "lat": 16.00402,
+        "lng": 108.26277,
+        "aliases": [
+          "Marble Mountains"
+        ]
+      },
+      {
+        "name": "바나힐",
+        "cat": "관광",
+        "area": "바나힐",
+        "lat": 16.02571,
+        "lng": 108.0333,
+        "aliases": [
+          "Ba Na Hills"
+        ]
+      },
+      {
+        "name": "골든 브리지",
+        "cat": "관광",
+        "area": "바나힐",
+        "lat": 15.99509,
+        "lng": 107.99641,
+        "aliases": [
+          "Golden Bridge Ba Na"
+        ]
+      },
+      {
+        "name": "호이안 구시가지",
+        "cat": "관광",
+        "area": "호이안",
+        "lat": 15.87795,
+        "lng": 108.32399,
+        "aliases": [
+          "Hoi An Ancient Town"
+        ]
+      },
+      {
+        "name": "내원교 (일본교)",
+        "cat": "관광",
+        "area": "호이안",
+        "lat": 15.87715,
+        "lng": 108.326,
+        "aliases": [
+          "Chùa Cầu"
+        ]
+      },
+      {
+        "name": "호이안 야시장",
+        "cat": "쇼핑",
+        "area": "호이안",
+        "lat": 15.87578,
+        "lng": 108.32593,
+        "aliases": [
+          "Hoi An Night Market"
+        ]
+      },
+      {
+        "name": "호이안 중앙시장",
+        "cat": "쇼핑",
+        "area": "호이안",
+        "lat": 15.87682,
+        "lng": 108.33134,
+        "aliases": [
+          "Chợ Hội An"
+        ]
+      },
+      {
+        "name": "안방 비치",
+        "cat": "관광",
+        "area": "호이안",
+        "lat": 15.91172,
+        "lng": 108.34117,
+        "aliases": [
+          "An Bang Beach"
+        ]
+      }
+    ]
+  },
+  "푸껫, 태국": {
+    "areas": [
+      "빠똥",
+      "푸껫 타운",
+      "남부",
+      "북부",
+      "피피섬"
+    ],
+    "picks": [
+      {
+        "name": "빠똥 비치",
+        "cat": "관광",
+        "area": "빠똥",
+        "lat": 7.89663,
+        "lng": 98.29543,
+        "aliases": [
+          "Patong Beach"
+        ]
+      },
+      {
+        "name": "방라 로드",
+        "cat": "관광",
+        "area": "빠똥",
+        "lat": 7.8936,
+        "lng": 98.29656,
+        "aliases": [
+          "Bangla Road"
+        ]
+      },
+      {
+        "name": "정실론",
+        "cat": "쇼핑",
+        "area": "빠똥",
+        "lat": 7.89036,
+        "lng": 98.29982,
+        "aliases": [
+          "Jungceylon"
+        ]
+      },
+      {
+        "name": "푸껫 올드타운 (탈랑 로드)",
+        "cat": "관광",
+        "area": "푸껫 타운",
+        "lat": 7.88456,
+        "lng": 98.39207,
+        "aliases": [
+          "Thalang Road Phuket"
+        ]
+      },
+      {
+        "name": "푸껫 주말 야시장",
+        "cat": "쇼핑",
+        "area": "푸껫 타운",
+        "lat": 7.88053,
+        "lng": 98.36633,
+        "aliases": [
+          "Naka Market"
+        ]
+      },
+      {
+        "name": "카오랑 전망대",
+        "cat": "관광",
+        "area": "푸껫 타운",
+        "lat": 7.89347,
+        "lng": 98.37996,
+        "aliases": [
+          "Khao Rang"
+        ]
+      },
+      {
+        "name": "센트럴 푸껫",
+        "cat": "쇼핑",
+        "area": "푸껫 타운",
+        "lat": 7.89117,
+        "lng": 98.36687,
+        "aliases": [
+          "Central Phuket"
+        ]
+      },
+      {
+        "name": "빅 부다",
+        "cat": "관광",
+        "area": "남부",
+        "lat": 7.82752,
+        "lng": 98.31244,
+        "aliases": [
+          "Big Buddha Phuket"
+        ]
+      },
+      {
+        "name": "왓 찰롱",
+        "cat": "관광",
+        "area": "남부",
+        "lat": 7.84626,
+        "lng": 98.33747,
+        "aliases": [
+          "Wat Chalong"
+        ]
+      },
+      {
+        "name": "프롬텝 곶",
+        "cat": "관광",
+        "area": "남부",
+        "lat": 7.76432,
+        "lng": 98.3054,
+        "aliases": [
+          "Promthep Cape"
+        ]
+      },
+      {
+        "name": "카타 비치",
+        "cat": "관광",
+        "area": "남부",
+        "lat": 7.81631,
+        "lng": 98.30011,
+        "aliases": [
+          "Kata Beach"
+        ]
+      },
+      {
+        "name": "카론 비치",
+        "cat": "관광",
+        "area": "남부",
+        "lat": 7.84396,
+        "lng": 98.29342,
+        "aliases": [
+          "Karon Beach"
+        ]
+      },
+      {
+        "name": "카론 뷰포인트",
+        "cat": "관광",
+        "area": "남부",
+        "lat": 7.79725,
+        "lng": 98.30218,
+        "aliases": [
+          "Karon Viewpoint"
+        ]
+      },
+      {
+        "name": "나이한 비치",
+        "cat": "관광",
+        "area": "남부",
+        "lat": 7.77571,
+        "lng": 98.30582,
+        "aliases": [
+          "Nai Harn Beach"
+        ]
+      },
+      {
+        "name": "까말라 비치",
+        "cat": "관광",
+        "area": "북부",
+        "lat": 7.95001,
+        "lng": 98.27555,
+        "aliases": [
+          "Kamala Beach"
+        ]
+      },
+      {
+        "name": "푸껫 판타씨",
+        "cat": "관광",
+        "area": "북부",
+        "lat": 7.95649,
+        "lng": 98.28608,
+        "aliases": [
+          "Phuket FantaSea"
+        ]
+      },
+      {
+        "name": "수린 비치",
+        "cat": "관광",
+        "area": "북부",
+        "lat": 7.97604,
+        "lng": 98.27836,
+        "aliases": [
+          "Surin Beach"
+        ]
+      },
+      {
+        "name": "푸껫 국제공항",
+        "cat": "교통",
+        "area": "북부",
+        "lat": 8.11013,
+        "lng": 98.30582,
+        "aliases": [
+          "Phuket International Airport"
+        ]
+      },
+      {
+        "name": "피피 돈 섬",
+        "cat": "관광",
+        "area": "피피섬",
+        "lat": 7.75224,
+        "lng": 98.77664,
+        "aliases": [
+          "Ko Phi Phi Don"
+        ]
+      },
+      {
+        "name": "마야 베이",
+        "cat": "관광",
+        "area": "피피섬",
+        "lat": 7.67663,
+        "lng": 98.76612,
+        "aliases": [
+          "Maya Bay"
+        ]
+      }
+    ]
+  },
+  "칸쿤, 멕시코": {
+    "areas": [
+      "호텔 존",
+      "다운타운",
+      "이슬라 무헤레스",
+      "리비에라 마야",
+      "툴룸",
+      "치첸이트사"
+    ],
+    "picks": [
+      {
+        "name": "플라야 델피네스",
+        "cat": "관광",
+        "area": "호텔 존",
+        "lat": 21.06196,
+        "lng": -86.77858,
+        "aliases": [
+          "Playa Delfines"
+        ]
+      },
+      {
+        "name": "라 이슬라 쇼핑 빌리지",
+        "cat": "쇼핑",
+        "area": "호텔 존",
+        "lat": 21.10969,
+        "lng": -86.76422,
+        "aliases": [
+          "La Isla Cancún"
+        ]
+      },
+      {
+        "name": "칸쿤 마야 박물관",
+        "cat": "관광",
+        "area": "호텔 존",
+        "lat": 21.07379,
+        "lng": -86.77716,
+        "aliases": [
+          "Museo Maya de Cancún"
+        ]
+      },
+      {
+        "name": "엘 레이 유적",
+        "cat": "관광",
+        "area": "호텔 존",
+        "lat": 21.06115,
+        "lng": -86.78146,
+        "aliases": [
+          "El Rey Cancún"
+        ]
+      },
+      {
+        "name": "코코 봉고",
+        "cat": "관광",
+        "area": "호텔 존",
+        "lat": 21.1329,
+        "lng": -86.74721,
+        "aliases": [
+          "Coco Bongo"
+        ]
+      },
+      {
+        "name": "플라야 가비오타 아술",
+        "cat": "관광",
+        "area": "호텔 존",
+        "lat": 21.13232,
+        "lng": -86.74637,
+        "aliases": [
+          "Playa Gaviota Azul"
+        ]
+      },
+      {
+        "name": "플라야 토르투가스",
+        "cat": "관광",
+        "area": "호텔 존",
+        "lat": 21.13973,
+        "lng": -86.76931,
+        "aliases": [
+          "Playa Tortugas"
+        ]
+      },
+      {
+        "name": "메르카도 28",
+        "cat": "쇼핑",
+        "area": "다운타운",
+        "lat": 21.16184,
+        "lng": -86.8341,
+        "aliases": [
+          "Mercado 28"
+        ]
+      },
+      {
+        "name": "라스 팔라파스 공원",
+        "cat": "관광",
+        "area": "다운타운",
+        "lat": 21.1612,
+        "lng": -86.8276,
+        "aliases": [
+          "Parque Las Palapas"
+        ]
+      },
+      {
+        "name": "칸쿤 국제공항",
+        "cat": "교통",
+        "area": "다운타운",
+        "lat": 21.0407,
+        "lng": -86.88176,
+        "aliases": [
+          "Cancún International Airport"
+        ]
+      },
+      {
+        "name": "이슬라 무헤레스",
+        "cat": "관광",
+        "area": "이슬라 무헤레스",
+        "lat": 21.23719,
+        "lng": -86.735,
+        "aliases": [
+          "Isla Mujeres"
+        ]
+      },
+      {
+        "name": "플라야 노르테",
+        "cat": "관광",
+        "area": "이슬라 무헤레스",
+        "lat": 21.26065,
+        "lng": -86.75099,
+        "aliases": [
+          "Playa Norte Isla Mujeres"
+        ]
+      },
+      {
+        "name": "스칼렛 파크",
+        "cat": "관광",
+        "area": "리비에라 마야",
+        "lat": 20.58139,
+        "lng": -87.11904,
+        "aliases": [
+          "Xcaret"
+        ]
+      },
+      {
+        "name": "플라야 델 카르멘 5번가",
+        "cat": "쇼핑",
+        "area": "리비에라 마야",
+        "lat": 20.63472,
+        "lng": -87.06665,
+        "aliases": [
+          "Quinta Avenida Playa del Carmen"
+        ]
+      },
+      {
+        "name": "셀하",
+        "cat": "관광",
+        "area": "리비에라 마야",
+        "lat": 20.61558,
+        "lng": -87.08902,
+        "aliases": [
+          "Xel-Há"
+        ]
+      },
+      {
+        "name": "툴룸 유적",
+        "cat": "관광",
+        "area": "툴룸",
+        "lat": 20.21457,
+        "lng": -87.42946,
+        "aliases": [
+          "Tulum archaeological site"
+        ]
+      },
+      {
+        "name": "치첸이트사",
+        "cat": "관광",
+        "area": "치첸이트사",
+        "lat": 20.68288,
+        "lng": -88.56872,
+        "aliases": [
+          "Chichén Itzá"
+        ]
+      },
+      {
+        "name": "익킬 세노테",
+        "cat": "관광",
+        "area": "치첸이트사",
+        "lat": 20.66113,
+        "lng": -88.5505,
+        "aliases": [
+          "Cenote Ik Kil"
+        ]
+      }
+    ]
+  },
+  "사이판": {
+    "areas": [
+      "가라판",
+      "북부",
+      "마나가하",
+      "남부"
+    ],
+    "picks": [
+      {
+        "name": "가라판 시내",
+        "cat": "관광",
+        "area": "가라판",
+        "lat": 15.20709,
+        "lng": 145.72086,
+        "aliases": [
+          "Garapan"
+        ]
+      },
+      {
+        "name": "T 갤러리아",
+        "cat": "쇼핑",
+        "area": "가라판",
+        "lat": 15.2102,
+        "lng": 145.71808,
+        "aliases": [
+          "DFS Galleria"
+        ]
+      },
+      {
+        "name": "아메리칸 메모리얼 파크",
+        "cat": "관광",
+        "area": "가라판",
+        "lat": 15.21764,
+        "lng": 145.71844,
+        "aliases": [
+          "American Memorial Park"
+        ]
+      },
+      {
+        "name": "마이크로 비치",
+        "cat": "관광",
+        "area": "가라판",
+        "lat": 15.21229,
+        "lng": 145.71554,
+        "aliases": [
+          "Micro Beach"
+        ]
+      },
+      {
+        "name": "가라판 스트리트 마켓",
+        "cat": "쇼핑",
+        "area": "가라판",
+        "lat": 15.20955,
+        "lng": 145.72161,
+        "aliases": [
+          "Garapan Street Market"
+        ]
+      },
+      {
+        "name": "만세 절벽",
+        "cat": "관광",
+        "area": "북부",
+        "lat": 15.27731,
+        "lng": 145.79908,
+        "aliases": [
+          "Banzai Cliff"
+        ]
+      },
+      {
+        "name": "자살 절벽",
+        "cat": "관광",
+        "area": "북부",
+        "lat": 15.27712,
+        "lng": 145.81012,
+        "aliases": [
+          "Suicide Cliff"
+        ]
+      },
+      {
+        "name": "그로토",
+        "cat": "관광",
+        "area": "북부",
+        "lat": 15.26041,
+        "lng": 145.82369,
+        "aliases": [
+          "The Grotto Saipan"
+        ]
+      },
+      {
+        "name": "버드 아일랜드",
+        "cat": "관광",
+        "area": "북부",
+        "lat": 15.25752,
+        "lng": 145.81372,
+        "aliases": [
+          "Bird Island Saipan"
+        ]
+      },
+      {
+        "name": "마나가하 섬",
+        "cat": "관광",
+        "area": "마나가하",
+        "lat": 15.2414,
+        "lng": 145.71257,
+        "aliases": [
+          "Managaha"
+        ]
+      },
+      {
+        "name": "래더 비치",
+        "cat": "관광",
+        "area": "남부",
+        "lat": 15.10788,
+        "lng": 145.7168,
+        "aliases": [
+          "Ladder Beach"
+        ]
+      },
+      {
+        "name": "오비얀 비치",
+        "cat": "관광",
+        "area": "남부",
+        "lat": 15.10569,
+        "lng": 145.73933,
+        "aliases": [
+          "Obyan Beach"
+        ]
+      },
+      {
+        "name": "사이판 국제공항",
+        "cat": "교통",
+        "area": "남부",
+        "lat": 15.12049,
+        "lng": 145.72963,
+        "aliases": [
+          "Saipan International Airport"
+        ]
+      }
+    ]
+  },
+  "칭다오, 중국": {
+    "areas": [
+      "구시가지",
+      "5·4광장",
+      "라오산",
+      "공항"
+    ],
+    "picks": [
+      {
+        "name": "잔교",
+        "cat": "관광",
+        "area": "구시가지",
+        "lat": 36.06064,
+        "lng": 120.31461,
+        "aliases": [
+          "Zhanqiao Pier"
+        ]
+      },
+      {
+        "name": "칭다오 맥주 박물관",
+        "cat": "관광",
+        "area": "구시가지",
+        "lat": 36.07897,
+        "lng": 120.34256,
+        "aliases": [
+          "Tsingtao Beer Museum"
+        ]
+      },
+      {
+        "name": "성 미카엘 성당",
+        "cat": "관광",
+        "area": "구시가지",
+        "lat": 36.06801,
+        "lng": 120.31565,
+        "aliases": [
+          "St. Michael's Cathedral Qingdao"
+        ]
+      },
+      {
+        "name": "신호산 공원",
+        "cat": "관광",
+        "area": "구시가지",
+        "lat": 36.06633,
+        "lng": 120.32644,
+        "aliases": [
+          "Signal Hill Park Qingdao"
+        ]
+      },
+      {
+        "name": "소어산 공원",
+        "cat": "관광",
+        "area": "구시가지",
+        "lat": 36.05867,
+        "lng": 120.33128,
+        "aliases": [
+          "Xiaoyushan Park"
+        ]
+      },
+      {
+        "name": "팔대관",
+        "cat": "관광",
+        "area": "구시가지",
+        "lat": 36.05761,
+        "lng": 120.34522,
+        "aliases": [
+          "Badaguan"
+        ]
+      },
+      {
+        "name": "제1해수욕장",
+        "cat": "관광",
+        "area": "구시가지",
+        "lat": 36.05661,
+        "lng": 120.33725,
+        "aliases": [
+          "第一海水浴场"
+        ]
+      },
+      {
+        "name": "피차이위안 먹자골목",
+        "cat": "식당",
+        "area": "구시가지",
+        "lat": 36.07105,
+        "lng": 120.31301,
+        "aliases": [
+          "劈柴院"
+        ]
+      },
+      {
+        "name": "타이둥 보행가",
+        "cat": "쇼핑",
+        "area": "구시가지",
+        "lat": 36.08241,
+        "lng": 120.35032,
+        "aliases": [
+          "台东步行街"
+        ]
+      },
+      {
+        "name": "5·4광장",
+        "cat": "관광",
+        "area": "5·4광장",
+        "lat": 36.06442,
+        "lng": 120.37544,
+        "aliases": [
+          "May Fourth Square"
+        ]
+      },
+      {
+        "name": "칭다오 올림픽 요트 센터",
+        "cat": "관광",
+        "area": "5·4광장",
+        "lat": 36.0557,
+        "lng": 120.39114,
+        "aliases": [
+          "Qingdao Olympic Sailing Center"
+        ]
+      },
+      {
+        "name": "라오산",
+        "cat": "관광",
+        "area": "라오산",
+        "lat": 36.19681,
+        "lng": 120.62968,
+        "aliases": [
+          "Laoshan"
+        ]
+      },
+      {
+        "name": "태청궁",
+        "cat": "관광",
+        "area": "라오산",
+        "lat": 36.1402,
+        "lng": 120.67182,
+        "aliases": [
+          "Taiqing Palace"
+        ]
+      },
+      {
+        "name": "칭다오 자오둥 국제공항",
+        "cat": "교통",
+        "area": "공항",
+        "lat": 36.36196,
+        "lng": 120.088,
+        "aliases": [
+          "Qingdao Jiaodong International Airport"
+        ]
+      }
+    ]
+  },
+  "여수, 한국": {
+    "areas": [
+      "중앙동·종포",
+      "돌산",
+      "오동도·엑스포",
+      "돌산 남부",
+      "그 밖"
+    ],
+    "picks": [
+      {
+        "name": "이순신광장",
+        "cat": "관광",
+        "area": "중앙동·종포",
+        "lat": 34.7393,
+        "lng": 127.73594
+      },
+      {
+        "name": "진남관",
+        "cat": "관광",
+        "area": "중앙동·종포",
+        "lat": 34.74169,
+        "lng": 127.7366,
+        "aliases": [
+          "여수 진남관"
+        ]
+      },
+      {
+        "name": "종포해양공원",
+        "cat": "관광",
+        "area": "중앙동·종포",
+        "lat": 34.73756,
+        "lng": 127.73844
+      },
+      {
+        "name": "여수 낭만포차 거리",
+        "cat": "식당",
+        "area": "중앙동·종포",
+        "lat": 34.75233,
+        "lng": 127.70297,
+        "aliases": [
+          "낭만포차"
+        ]
+      },
+      {
+        "name": "하멜등대",
+        "cat": "관광",
+        "area": "중앙동·종포",
+        "lat": 34.73645,
+        "lng": 127.74702
+      },
+      {
+        "name": "여수 수산시장",
+        "cat": "쇼핑",
+        "area": "중앙동·종포",
+        "lat": 34.73815,
+        "lng": 127.73174,
+        "aliases": [
+          "여수수산시장"
+        ]
+      },
+      {
+        "name": "교동시장",
+        "cat": "쇼핑",
+        "area": "중앙동·종포",
+        "lat": 34.7394,
+        "lng": 127.73084,
+        "aliases": [
+          "여수 교동시장"
+        ]
+      },
+      {
+        "name": "여수 해상케이블카",
+        "cat": "관광",
+        "area": "돌산",
+        "lat": 34.7355,
+        "lng": 127.74726,
+        "aliases": [
+          "여수해상케이블카"
+        ]
+      },
+      {
+        "name": "돌산공원",
+        "cat": "관광",
+        "area": "돌산",
+        "lat": 34.73031,
+        "lng": 127.73965
+      },
+      {
+        "name": "예술의 섬 장도",
+        "cat": "관광",
+        "area": "돌산",
+        "lat": 34.74307,
+        "lng": 127.66421,
+        "aliases": [
+          "장도"
+        ]
+      },
+      {
+        "name": "오동도",
+        "cat": "관광",
+        "area": "오동도·엑스포",
+        "lat": 34.74504,
+        "lng": 127.76709
+      },
+      {
+        "name": "아쿠아플라넷 여수",
+        "cat": "관광",
+        "area": "오동도·엑스포",
+        "lat": 34.74628,
+        "lng": 127.74862
+      },
+      {
+        "name": "여수세계박람회장",
+        "cat": "관광",
+        "area": "오동도·엑스포",
+        "lat": 34.74868,
+        "lng": 127.7472
+      },
+      {
+        "name": "여수엑스포역",
+        "cat": "교통",
+        "area": "오동도·엑스포",
+        "lat": 34.75551,
+        "lng": 127.74924
+      },
+      {
+        "name": "향일암",
+        "cat": "관광",
+        "area": "돌산 남부",
+        "lat": 34.5916,
+        "lng": 127.80381
+      },
+      {
+        "name": "방죽포해수욕장",
+        "cat": "관광",
+        "area": "돌산 남부",
+        "lat": 34.63044,
+        "lng": 127.794,
+        "aliases": [
+          "방죽포"
+        ]
+      },
+      {
+        "name": "여수 레일바이크",
+        "cat": "관광",
+        "area": "그 밖",
+        "lat": 34.7722,
+        "lng": 127.74701,
+        "aliases": [
+          "해양레일바이크"
+        ]
+      },
+      {
+        "name": "여수공항",
+        "cat": "교통",
+        "area": "그 밖",
+        "lat": 34.84243,
+        "lng": 127.61619
+      }
+    ]
+  },
+  "전주, 한국": {
+    "areas": [
+      "한옥마을",
+      "객사·시내",
+      "덕진·아중",
+      "서부"
+    ],
+    "picks": [
+      {
+        "name": "전주한옥마을",
+        "cat": "관광",
+        "area": "한옥마을",
+        "lat": 35.81818,
+        "lng": 127.15304
+      },
+      {
+        "name": "경기전",
+        "cat": "관광",
+        "area": "한옥마을",
+        "lat": 35.81566,
+        "lng": 127.1498
+      },
+      {
+        "name": "전동성당",
+        "cat": "관광",
+        "area": "한옥마을",
+        "lat": 35.81333,
+        "lng": 127.14946
+      },
+      {
+        "name": "오목대",
+        "cat": "관광",
+        "area": "한옥마을",
+        "lat": 35.81404,
+        "lng": 127.15415
+      },
+      {
+        "name": "전주향교",
+        "cat": "관광",
+        "area": "한옥마을",
+        "lat": 35.81258,
+        "lng": 127.15715
+      },
+      {
+        "name": "자만벽화마을",
+        "cat": "관광",
+        "area": "한옥마을",
+        "lat": 35.81414,
+        "lng": 127.15716
+      },
+      {
+        "name": "남천교 (청연루)",
+        "cat": "관광",
+        "area": "한옥마을",
+        "lat": 35.81073,
+        "lng": 127.1532,
+        "aliases": [
+          "남천교"
+        ]
+      },
+      {
+        "name": "한벽당",
+        "cat": "관광",
+        "area": "한옥마을",
+        "lat": 35.81187,
+        "lng": 127.16081
+      },
+      {
+        "name": "풍남문",
+        "cat": "관광",
+        "area": "한옥마을",
+        "lat": 35.81349,
+        "lng": 127.14744
+      },
+      {
+        "name": "전주 남부시장",
+        "cat": "쇼핑",
+        "area": "한옥마을",
+        "lat": 35.81219,
+        "lng": 127.14745,
+        "aliases": [
+          "전주남부시장"
+        ]
+      },
+      {
+        "name": "전주객사 (풍패지관)",
+        "cat": "관광",
+        "area": "객사·시내",
+        "lat": 35.81852,
+        "lng": 127.1453,
+        "aliases": [
+          "전주객사"
+        ]
+      },
+      {
+        "name": "객리단길",
+        "cat": "식당",
+        "area": "객사·시내",
+        "lat": 35.81817,
+        "lng": 127.14525,
+        "aliases": [
+          "객사3길"
+        ]
+      },
+      {
+        "name": "전주 고속버스터미널",
+        "cat": "교통",
+        "area": "객사·시내",
+        "lat": 35.83454,
+        "lng": 127.12927,
+        "aliases": [
+          "전주고속버스터미널"
+        ]
+      },
+      {
+        "name": "덕진공원",
+        "cat": "관광",
+        "area": "덕진·아중",
+        "lat": 35.84861,
+        "lng": 127.12304
+      },
+      {
+        "name": "전주동물원",
+        "cat": "관광",
+        "area": "덕진·아중",
+        "lat": 35.85609,
+        "lng": 127.14469
+      },
+      {
+        "name": "아중호수",
+        "cat": "관광",
+        "area": "덕진·아중",
+        "lat": 35.82184,
+        "lng": 127.17715
+      },
+      {
+        "name": "전주역",
+        "cat": "교통",
+        "area": "덕진·아중",
+        "lat": 35.85005,
+        "lng": 127.16236
+      },
+      {
+        "name": "국립전주박물관",
+        "cat": "관광",
+        "area": "서부",
+        "lat": 35.80103,
+        "lng": 127.0897
+      },
+      {
+        "name": "전주수목원",
+        "cat": "관광",
+        "area": "서부",
+        "lat": 35.87044,
+        "lng": 127.05378
+      }
+    ]
+  },
+  "강릉, 한국": {
+    "areas": [
+      "경포",
+      "안목·남항진",
+      "시내",
+      "주문진",
+      "정동진"
+    ],
+    "picks": [
+      {
+        "name": "경포해변",
+        "cat": "관광",
+        "area": "경포",
+        "lat": 37.8042,
+        "lng": 128.90622
+      },
+      {
+        "name": "경포대",
+        "cat": "관광",
+        "area": "경포",
+        "lat": 37.79475,
+        "lng": 128.89636
+      },
+      {
+        "name": "경포호",
+        "cat": "관광",
+        "area": "경포",
+        "lat": 37.79719,
+        "lng": 128.90282
+      },
+      {
+        "name": "오죽헌",
+        "cat": "관광",
+        "area": "경포",
+        "lat": 37.77905,
+        "lng": 128.88007
+      },
+      {
+        "name": "선교장",
+        "cat": "관광",
+        "area": "경포",
+        "lat": 37.78517,
+        "lng": 128.88463
+      },
+      {
+        "name": "허균허난설헌기념공원",
+        "cat": "관광",
+        "area": "경포",
+        "lat": 37.78988,
+        "lng": 128.90993,
+        "aliases": [
+          "허난설헌"
+        ]
+      },
+      {
+        "name": "참소리축음기·에디슨과학박물관",
+        "cat": "관광",
+        "area": "경포",
+        "lat": 37.79753,
+        "lng": 128.89718,
+        "aliases": [
+          "참소리"
+        ]
+      },
+      {
+        "name": "안목해변 (강릉 커피거리)",
+        "cat": "식당",
+        "area": "안목·남항진",
+        "lat": 37.77387,
+        "lng": 128.94527,
+        "aliases": [
+          "안목해변"
+        ]
+      },
+      {
+        "name": "남항진해변",
+        "cat": "관광",
+        "area": "안목·남항진",
+        "lat": 37.76341,
+        "lng": 128.95604
+      },
+      {
+        "name": "강릉중앙시장",
+        "cat": "쇼핑",
+        "area": "시내",
+        "lat": 37.75177,
+        "lng": 128.89747,
+        "aliases": [
+          "중앙시장"
+        ]
+      },
+      {
+        "name": "월화거리",
+        "cat": "관광",
+        "area": "시내",
+        "lat": 37.75226,
+        "lng": 128.90146,
+        "aliases": [
+          "월화교"
+        ]
+      },
+      {
+        "name": "강릉대도호부관아",
+        "cat": "관광",
+        "area": "시내",
+        "lat": 37.75261,
+        "lng": 128.89204
+      },
+      {
+        "name": "강릉역",
+        "cat": "교통",
+        "area": "시내",
+        "lat": 37.76452,
+        "lng": 128.8994
+      },
+      {
+        "name": "주문진항",
+        "cat": "관광",
+        "area": "주문진",
+        "lat": 37.89192,
+        "lng": 128.83015
+      },
+      {
+        "name": "주문진수산시장",
+        "cat": "쇼핑",
+        "area": "주문진",
+        "lat": 37.89029,
+        "lng": 128.82841
+      },
+      {
+        "name": "영진해변 (도깨비 방파제)",
+        "cat": "관광",
+        "area": "주문진",
+        "lat": 37.86777,
+        "lng": 128.84767,
+        "aliases": [
+          "영진해수욕장"
+        ]
+      },
+      {
+        "name": "아들바위공원",
+        "cat": "관광",
+        "area": "주문진",
+        "lat": 37.90484,
+        "lng": 128.82927,
+        "aliases": [
+          "아들바위"
+        ]
+      },
+      {
+        "name": "정동진역",
+        "cat": "교통",
+        "area": "정동진",
+        "lat": 37.69183,
+        "lng": 129.03251
+      },
+      {
+        "name": "정동진해변",
+        "cat": "관광",
+        "area": "정동진",
+        "lat": 37.69766,
+        "lng": 129.02536
+      },
+      {
+        "name": "썬크루즈 리조트",
+        "cat": "관광",
+        "area": "정동진",
+        "lat": 37.68213,
+        "lng": 129.04378,
+        "aliases": [
+          "썬크루즈"
+        ]
+      },
+      {
+        "name": "하슬라아트월드",
+        "cat": "관광",
+        "area": "정동진",
+        "lat": 37.70736,
+        "lng": 129.01184
+      },
+      {
+        "name": "정동심곡 바다부채길",
+        "cat": "관광",
+        "area": "정동진",
+        "lat": 37.67601,
+        "lng": 129.05518,
+        "aliases": [
+          "바다부채길"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,409 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "할그림스키르캬",
+   "cat": "관광",
+   "area": "Reykjavíkurborg",
+   "lat": 64.14194,
+   "lng": -21.92694,
+   "aliases": [
+    "Hallgrímskirkja"
+   ],
+   "wd": "Q271466"
+  },
+  {
+   "name": "아이슬란드 성기 박물관",
+   "cat": "관광",
+   "area": "레이캬비크",
+   "lat": 64.1485,
+   "lng": -21.93578,
+   "aliases": [
+    "Icelandic Phallological Museum"
+   ],
+   "wd": "Q177174"
+  },
+  {
+   "name": "아이슬란드 국립박물관",
+   "cat": "관광",
+   "area": "레이캬비크",
+   "lat": 64.1419,
+   "lng": -21.94811,
+   "aliases": [
+    "National Museum of Iceland"
+   ],
+   "wd": "Q626963"
+  },
+  {
+   "name": "Bessastaðir",
+   "cat": "관광",
+   "area": "가르다바이르",
+   "lat": 64.10583,
+   "lng": -21.99556,
+   "wd": "Q634146"
+  },
+  {
+   "name": "이매진 피스 타워",
+   "cat": "관광",
+   "area": "Reykjavíkurborg",
+   "lat": 64.16324,
+   "lng": -21.85947,
+   "aliases": [
+    "Imagine Peace Tower"
+   ],
+   "wd": "Q116484"
+  },
+  {
+   "name": "Landakotskirkja",
+   "cat": "관광",
+   "area": "레이캬비크",
+   "lat": 64.14744,
+   "lng": -21.94855,
+   "wd": "Q794242"
+  },
+  {
+   "name": "하르파",
+   "cat": "관광",
+   "area": "레이캬비크",
+   "lat": 64.15028,
+   "lng": -21.9325,
+   "aliases": [
+    "Harpa"
+   ],
+   "wd": "Q1783706"
+  },
+  {
+   "name": "Álafoss",
+   "cat": "관광",
+   "area": "모스펠스바이르",
+   "lat": 64.16664,
+   "lng": -21.67587,
+   "wd": "Q1890166"
+  },
+  {
+   "name": "Reykjavik Art Museum",
+   "cat": "관광",
+   "area": "레이캬비크",
+   "lat": 64.149,
+   "lng": -21.9406,
+   "wd": "Q3358410"
+  },
+  {
+   "name": "National Gallery of Iceland",
+   "cat": "관광",
+   "area": "레이캬비크",
+   "lat": 64.14417,
+   "lng": -21.93917,
+   "wd": "Q3480309"
+  },
+  {
+   "name": "National Theatre of Iceland",
+   "cat": "관광",
+   "area": "레이캬비크",
+   "lat": 64.14721,
+   "lng": -21.93163,
+   "wd": "Q565455"
+  },
+  {
+   "name": "Reykjavík Botanic Garden",
+   "cat": "관광",
+   "area": "레이캬비크",
+   "lat": 64.14083,
+   "lng": -21.86944,
+   "wd": "Q894659"
+  },
+  {
+   "name": "Kópavogskirkja",
+   "cat": "관광",
+   "area": "코파보귀르",
+   "lat": 64.1123,
+   "lng": -21.913,
+   "wd": "Q1636222"
+  },
+  {
+   "name": "스마랄린드",
+   "cat": "쇼핑",
+   "area": "코파보귀르",
+   "lat": 64.10111,
+   "lng": -21.88417,
+   "aliases": [
+    "Smáralind"
+   ],
+   "wd": "Q2295690"
+  },
+  {
+   "name": "Fríkirkjan í Reykjavík",
+   "cat": "관광",
+   "area": "레이캬비크",
+   "lat": 64.1443,
+   "lng": -21.93914,
+   "wd": "Q1250667"
+  },
+  {
+   "name": "Árbæjarsafn",
+   "cat": "관광",
+   "area": "레이캬비크",
+   "lat": 64.118,
+   "lng": -21.818,
+   "wd": "Q3481984"
+  },
+  {
+   "name": "The Living Art Museum",
+   "cat": "관광",
+   "area": "레이캬비크",
+   "lat": 64.14561,
+   "lng": -21.91953,
+   "wd": "Q356308"
+  },
+  {
+   "name": "Reykjavík Mosque",
+   "cat": "관광",
+   "area": "레이캬비크",
+   "lat": 64.13417,
+   "lng": -21.875,
+   "wd": "Q3482143"
+  },
+  {
+   "name": "Austurvöllur",
+   "cat": "관광",
+   "area": "Reykjavíkurborg",
+   "lat": 64.14718,
+   "lng": -21.93983,
+   "wd": "Q783980"
+  },
+  {
+   "name": "크링글란",
+   "cat": "쇼핑",
+   "area": "레이캬비크",
+   "lat": 64.13056,
+   "lng": -21.89361,
+   "aliases": [
+    "Kringlan"
+   ],
+   "wd": "Q1165723"
+  },
+  {
+   "name": "Háteigskirkja",
+   "cat": "관광",
+   "area": "레이캬비크",
+   "lat": 64.13875,
+   "lng": -21.90607,
+   "wd": "Q1551192"
+  },
+  {
+   "name": "the Settlement Exhibition",
+   "cat": "관광",
+   "area": "레이캬비크",
+   "lat": 64.14751,
+   "lng": -21.94281,
+   "wd": "Q7319496"
+  },
+  {
+   "name": "Reykjavík Museum of Photography",
+   "cat": "관광",
+   "area": "레이캬비크",
+   "lat": 64.14928,
+   "lng": -21.94165,
+   "wd": "Q16420866"
+  },
+  {
+   "name": "Reykjavík Park and Zoo",
+   "cat": "관광",
+   "area": "",
+   "lat": 64.13833,
+   "lng": -21.87083,
+   "wd": "Q1422518"
+  },
+  {
+   "name": "Reykjavík City Theatre",
+   "cat": "관광",
+   "area": "레이캬비크",
+   "lat": 64.12883,
+   "lng": -21.89617,
+   "wd": "Q893530"
+  },
+  {
+   "name": "Einar Jónsson Museum",
+   "cat": "관광",
+   "area": "레이캬비크",
+   "lat": 64.14188,
+   "lng": -21.9289,
+   "wd": "Q3481715"
+  },
+  {
+   "name": "Tungufoss",
+   "cat": "관광",
+   "area": "회뷔드보르가르스바이디",
+   "lat": 64.17675,
+   "lng": -21.70398,
+   "wd": "Q2098194"
+  },
+  {
+   "name": "Landakotsskóli",
+   "cat": "관광",
+   "area": "Vesturbær",
+   "lat": 64.1479,
+   "lng": -21.9496,
+   "wd": "Q6484299"
+  },
+  {
+   "name": "콜라포르티드",
+   "cat": "관광",
+   "area": "Miðborg",
+   "lat": 64.14889,
+   "lng": -21.93861,
+   "aliases": [
+    "Kolaportið"
+   ],
+   "wd": "Q3481191"
+  },
+  {
+   "name": "Kjarvalsstaðir",
+   "cat": "관광",
+   "area": "",
+   "lat": 64.1378,
+   "lng": -21.9135,
+   "wd": "Q3481694"
+  },
+  {
+   "name": "Klambratún",
+   "cat": "관광",
+   "area": "",
+   "lat": 64.13705,
+   "lng": -21.91356,
+   "wd": "Q27016265"
+  },
+  {
+   "name": "Öskjuhlíð",
+   "cat": "관광",
+   "area": "레이캬비크",
+   "lat": 64.1281,
+   "lng": -21.9195,
+   "wd": "Q8079036"
+  },
+  {
+   "name": "Hljómskálagarðurinn",
+   "cat": "관광",
+   "area": "회뷔드보르가르스바이디",
+   "lat": 64.1406,
+   "lng": -21.94124,
+   "wd": "Q16427983"
+  },
+  {
+   "name": "Gróttuviti",
+   "cat": "관광",
+   "area": "셀티아르드나르네스",
+   "lat": 64.165,
+   "lng": -22.0225,
+   "wd": "Q3378240"
+  },
+  {
+   "name": "Seltjarnarneskirkja",
+   "cat": "관광",
+   "area": "레이캬비크",
+   "lat": 64.15295,
+   "lng": -21.9901,
+   "wd": "Q97260341"
+  },
+  {
+   "name": "Statue of Ingólfur Arnason (Arnarhóll)",
+   "cat": "관광",
+   "area": "레이캬비크",
+   "lat": 64.14778,
+   "lng": -21.93289,
+   "wd": "Q16429209"
+  },
+  {
+   "name": "Hellisgerði",
+   "cat": "관광",
+   "area": "하프나르피외르뒤르",
+   "lat": 64.0716,
+   "lng": -21.9581,
+   "wd": "Q15331604"
+  },
+  {
+   "name": "Garðakirkja",
+   "cat": "관광",
+   "area": "아울프타네스",
+   "lat": 64.08623,
+   "lng": -21.99693,
+   "wd": "Q4133632"
+  },
+  {
+   "name": "Engeyjarviti",
+   "cat": "관광",
+   "area": "Reykjavíkurborg",
+   "lat": 64.1749,
+   "lng": -21.9246,
+   "wd": "Q3378160"
+  },
+  {
+   "name": "Ásmundur Sveinsson Sculpture Museum",
+   "cat": "관광",
+   "area": "Laugardalur",
+   "lat": 64.1416,
+   "lng": -21.8853,
+   "wd": "Q16419618"
+  },
+  {
+   "name": "Viðeyjarstofa",
+   "cat": "관광",
+   "area": "Reykjavíkurborg",
+   "lat": 64.16283,
+   "lng": -21.85308,
+   "wd": "Q16430177"
+  },
+  {
+   "name": "Grímsbær",
+   "cat": "쇼핑",
+   "area": "",
+   "lat": 64.12211,
+   "lng": -21.87531,
+   "wd": "Q5612808"
+  },
+  {
+   "name": "Viðeyjarkirkja",
+   "cat": "관광",
+   "area": "",
+   "lat": 64.16295,
+   "lng": -21.85339,
+   "wd": "Q10952302"
+  },
+  {
+   "name": "회프다토르그 타워 1",
+   "cat": "관광",
+   "area": "",
+   "lat": 64.145,
+   "lng": -21.90833,
+   "aliases": [
+    "Höfðatorg Tower 1"
+   ],
+   "wd": "Q15227483"
+  },
+  {
+   "name": "Ásvellir",
+   "cat": "관광",
+   "area": "",
+   "lat": 64.02,
+   "lng": -21.97,
+   "wd": "Q30593866"
+  },
+  {
+   "name": "The Black Cone, Monument to Civil Disobedience",
+   "cat": "관광",
+   "area": "",
+   "lat": 64.14694,
+   "lng": -21.94028,
+   "wd": "Q45391397"
+  },
+  {
+   "name": "Reykjavík City Museum",
+   "cat": "관광",
+   "area": "",
+   "lat": 64.15328,
+   "lng": -21.9488,
+   "wd": "Q97257707"
+  }
+ ]
+}

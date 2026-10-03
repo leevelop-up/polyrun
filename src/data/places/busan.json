@@ -1,0 +1,532 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "범어사",
+   "cat": "관광",
+   "area": "부산광역시",
+   "lat": 35.28391,
+   "lng": 129.06899,
+   "aliases": [
+    "Beomeosa"
+   ],
+   "wd": "Q487662"
+  },
+  {
+   "name": "국립해양박물관",
+   "cat": "관광",
+   "area": "부산광역시",
+   "lat": 35.0787,
+   "lng": 129.08,
+   "aliases": [
+    "National Maritime Museum"
+   ],
+   "wd": "Q130628"
+  },
+  {
+   "name": "유엔기념공원",
+   "cat": "관광",
+   "area": "부산광역시",
+   "lat": 35.12845,
+   "lng": 129.09623,
+   "aliases": [
+    "United Nations Memorial Cemetery",
+    "UN기념공원",
+    "재한UN기념공원",
+    "재한유엔기념공원"
+   ],
+   "wd": "Q15465499"
+  },
+  {
+   "name": "해운대해수욕장",
+   "cat": "관광",
+   "area": "부산광역시",
+   "lat": 35.15855,
+   "lng": 129.16054,
+   "aliases": [
+    "Haeundae Beach",
+    "해운대해수욕장 ，海雲臺海水浴場"
+   ],
+   "wd": "Q491203"
+  },
+  {
+   "name": "광안대교",
+   "cat": "관광",
+   "area": "부산광역시",
+   "lat": 35.14633,
+   "lng": 129.12864,
+   "aliases": [
+    "Gwangan Bridge",
+    "광안대로"
+   ],
+   "wd": "Q485443"
+  },
+  {
+   "name": "자갈치시장",
+   "cat": "쇼핑",
+   "area": "",
+   "lat": 35.09665,
+   "lng": 129.02966,
+   "aliases": [
+    "Jagalchi Market",
+    "부산자갈치시장",
+    "부산 자갈치 시장"
+   ],
+   "wd": "Q490809"
+  },
+  {
+   "name": "광안리해수욕장",
+   "cat": "관광",
+   "area": "",
+   "lat": 35.15417,
+   "lng": 129.12056,
+   "aliases": [
+    "Gwangalli Beach",
+    "광안 해수욕장",
+    "광안해수욕장"
+   ],
+   "wd": "Q495370"
+  },
+  {
+   "name": "영화의전당",
+   "cat": "관광",
+   "area": "부산광역시",
+   "lat": 35.17116,
+   "lng": 129.12719,
+   "aliases": [
+    "Busan Cinema Center"
+   ],
+   "wd": "Q14020347"
+  },
+  {
+   "name": "부산항대교",
+   "cat": "관광",
+   "area": "남구",
+   "lat": 35.10556,
+   "lng": 129.065,
+   "aliases": [
+    "Busan Harbor Bridge",
+    "북항대교"
+   ],
+   "wd": "Q2187707"
+  },
+  {
+   "name": "한국 이슬람 부산성원",
+   "cat": "관광",
+   "area": "부산광역시",
+   "lat": 35.26,
+   "lng": 129.09222,
+   "aliases": [
+    "Busan Al-Fatah Mosque"
+   ],
+   "wd": "Q30156702"
+  },
+  {
+   "name": "태종대",
+   "cat": "관광",
+   "area": "부산광역시",
+   "lat": 35.05,
+   "lng": 129.083,
+   "aliases": [
+    "Taejongdae"
+   ],
+   "wd": "Q490572"
+  },
+  {
+   "name": "용두산공원",
+   "cat": "관광",
+   "area": "부산광역시",
+   "lat": 35.10056,
+   "lng": 129.03278,
+   "aliases": [
+    "Yongdusan Park",
+    "우남공원",
+    "우남 공원"
+   ],
+   "wd": "Q483056"
+  },
+  {
+   "name": "부산근대역사관",
+   "cat": "관광",
+   "area": "",
+   "lat": 35.10269,
+   "lng": 129.03118,
+   "aliases": [
+    "Busan Modern History Museum"
+   ],
+   "wd": "Q11246045"
+  },
+  {
+   "name": "부산공동어시장",
+   "cat": "관광",
+   "area": "부산광역시",
+   "lat": 35.0884,
+   "lng": 129.0252,
+   "aliases": [
+    "Busan Cooperative Fish Market"
+   ],
+   "wd": "Q5001260"
+  },
+  {
+   "name": "동삼동 패총",
+   "cat": "관광",
+   "area": "부산광역시",
+   "lat": 35.0712,
+   "lng": 129.07968,
+   "aliases": [
+    "Dongsam-dong Shell Midden",
+    "부산 동삼동 패총"
+   ],
+   "wd": "Q5296014"
+  },
+  {
+   "name": "금정산성",
+   "cat": "관광",
+   "area": "금정구",
+   "lat": 35.28306,
+   "lng": 129.05556,
+   "aliases": [
+    "Geumjeongsanseong",
+    "동래산성"
+   ],
+   "wd": "Q5554858"
+  },
+  {
+   "name": "부산광역시립박물관",
+   "cat": "관광",
+   "area": "남구",
+   "lat": 35.12959,
+   "lng": 129.09405,
+   "aliases": [
+    "Busan Museum",
+    "부산박물관"
+   ],
+   "wd": "Q16689597"
+  },
+  {
+   "name": "임시수도기념관",
+   "cat": "관광",
+   "area": "부민동",
+   "lat": 35.1034,
+   "lng": 129.0174,
+   "aliases": [
+    "Provisional Capital Memorial Hall"
+   ],
+   "wd": "Q18191755"
+  },
+  {
+   "name": "영도대교",
+   "cat": "관광",
+   "area": "영도구",
+   "lat": 35.09556,
+   "lng": 129.03667,
+   "aliases": [
+    "Yeongdo Bridge",
+    "영도다리"
+   ],
+   "wd": "Q7464522"
+  },
+  {
+   "name": "부산아쿠아리움",
+   "cat": "관광",
+   "area": "",
+   "lat": 35.15934,
+   "lng": 129.16101,
+   "aliases": [
+    "Busan Aquarium"
+   ],
+   "wd": "Q486310"
+  },
+  {
+   "name": "부산해양자연사박물관",
+   "cat": "관광",
+   "area": "부산광역시",
+   "lat": 35.2218,
+   "lng": 129.07589,
+   "aliases": [
+    "Busan Marine Natural History Museum"
+   ],
+   "wd": "Q5001268"
+  },
+  {
+   "name": "충렬사",
+   "cat": "관광",
+   "area": "부산광역시",
+   "lat": 35.20124,
+   "lng": 129.0956,
+   "aliases": [
+    "Chungnyeolsa",
+    "안락서원"
+   ],
+   "wd": "Q5116389"
+  },
+  {
+   "name": "용두산신사",
+   "cat": "관광",
+   "area": "부산광역시",
+   "lat": 35.1008,
+   "lng": 129.0325,
+   "aliases": [
+    "Ryūtōsan Shrine"
+   ],
+   "wd": "Q11180716"
+  },
+  {
+   "name": "부산시민공원",
+   "cat": "관광",
+   "area": "부산광역시",
+   "lat": 35.16625,
+   "lng": 129.05666,
+   "aliases": [
+    "Busan Citizens Park"
+   ],
+   "wd": "Q15206062"
+  },
+  {
+   "name": "부산광역시립미술관",
+   "cat": "관광",
+   "area": "부산광역시",
+   "lat": 35.16674,
+   "lng": 129.13704,
+   "aliases": [
+    "Busan Museum of Art",
+    "부산시립미술관"
+   ],
+   "wd": "Q16096732"
+  },
+  {
+   "name": "부산진성",
+   "cat": "관광",
+   "area": "범일동",
+   "lat": 35.13592,
+   "lng": 129.06117,
+   "aliases": [
+    "Busanjinseong",
+    "자성대",
+    "자성대왜성",
+    "釜山鎭城"
+   ],
+   "wd": "Q5001277"
+  },
+  {
+   "name": "동래온천",
+   "cat": "관광",
+   "area": "부산광역시",
+   "lat": 35.22015,
+   "lng": 129.0814,
+   "aliases": [
+    "Dongnae Hot Spring",
+    "온천장",
+    "동래온천、東萊溫泉"
+   ],
+   "wd": "Q626070"
+  },
+  {
+   "name": "송상현광장",
+   "cat": "관광",
+   "area": "부산광역시",
+   "lat": 35.16917,
+   "lng": 129.06778,
+   "aliases": [
+    "Song Sang-hyeon Square"
+   ],
+   "wd": "Q17148059"
+  },
+  {
+   "name": "남항대교",
+   "cat": "관광",
+   "area": "",
+   "lat": 35.08016,
+   "lng": 129.03219,
+   "aliases": [
+    "Namhang Bridge"
+   ],
+   "wd": "Q626271"
+  },
+  {
+   "name": "정교회 성모희보성당",
+   "cat": "관광",
+   "area": "",
+   "lat": 35.1059,
+   "lng": 129.03094,
+   "aliases": [
+    "Orthodox church of the Annunciation of Our Lady in Busan"
+   ],
+   "wd": "Q11648089"
+  },
+  {
+   "name": "구포대교",
+   "cat": "관광",
+   "area": "",
+   "lat": 35.2056,
+   "lng": 128.9913,
+   "aliases": [
+    "Gupo Bridge",
+    "구포다리"
+   ],
+   "wd": "Q12585564"
+  },
+  {
+   "name": "부산대교",
+   "cat": "관광",
+   "area": "",
+   "lat": 35.0962,
+   "lng": 129.0387,
+   "aliases": [
+    "Busan Bridge"
+   ],
+   "wd": "Q12598793"
+  },
+  {
+   "name": "복천박물관",
+   "cat": "관광",
+   "area": "",
+   "lat": 35.20892,
+   "lng": 129.09114,
+   "aliases": [
+    "Bokcheon Museum"
+   ],
+   "wd": "Q16799646"
+  },
+  {
+   "name": "부산광역시현대미술관",
+   "cat": "관광",
+   "area": "",
+   "lat": 35.10928,
+   "lng": 128.94275,
+   "aliases": [
+    "Museum of Contemporary Art Busan",
+    "부산시현대미술관",
+    "부산현대미술관"
+   ],
+   "wd": "Q47296845"
+  },
+  {
+   "name": "암남공원",
+   "cat": "관광",
+   "area": "부산광역시",
+   "lat": 35.05556,
+   "lng": 129.01472,
+   "wd": "Q12605947"
+  },
+  {
+   "name": "송도해수욕장",
+   "cat": "관광",
+   "area": "부산광역시",
+   "lat": 35.07619,
+   "lng": 129.01803,
+   "aliases": [
+    "Songdo Beach"
+   ],
+   "wd": "Q16178122"
+  },
+  {
+   "name": "부산금정소방서",
+   "cat": "관광",
+   "area": "금정구",
+   "lat": 35.24396,
+   "lng": 129.09259,
+   "aliases": [
+    "Busan Geumjeong Fire Station",
+    "금정소방서"
+   ],
+   "wd": "Q17313754"
+  },
+  {
+   "name": "부산진소방서",
+   "cat": "관광",
+   "area": "동구",
+   "lat": 35.14043,
+   "lng": 129.05906,
+   "aliases": [
+    "Busanjin Fire Station"
+   ],
+   "wd": "Q12598866"
+  },
+  {
+   "name": "부산사하소방서",
+   "cat": "관광",
+   "area": "사하구",
+   "lat": 35.09026,
+   "lng": 128.97368,
+   "aliases": [
+    "Busan Saha Fire Station",
+    "사하소방서"
+   ],
+   "wd": "Q16096729"
+  },
+  {
+   "name": "부산동래소방서",
+   "cat": "관광",
+   "area": "연제구",
+   "lat": 35.18385,
+   "lng": 129.10593,
+   "aliases": [
+    "Busan Dongnae Fire Station",
+    "동래소방서"
+   ],
+   "wd": "Q16097623"
+  },
+  {
+   "name": "부산해운대소방서",
+   "cat": "관광",
+   "area": "해운대구",
+   "lat": 35.15945,
+   "lng": 129.14345,
+   "aliases": [
+    "Busan Haeundae Fire Station",
+    "해운대소방서"
+   ],
+   "wd": "Q16096793"
+  },
+  {
+   "name": "부산중부소방서",
+   "cat": "관광",
+   "area": "중구",
+   "lat": 35.10701,
+   "lng": 129.03675,
+   "aliases": [
+    "Busan Jungbu Fire Station",
+    "중부소방서"
+   ],
+   "wd": "Q7422301"
+  },
+  {
+   "name": "부산광역시 소방재난본부",
+   "cat": "관광",
+   "area": "연제구",
+   "lat": 35.18385,
+   "lng": 129.10593,
+   "aliases": [
+    "Busan Metropolitan City Fire Safety Headquarters",
+    "부산소방본부",
+    "부산광역시 소방안전본부"
+   ],
+   "wd": "Q11648087"
+  },
+  {
+   "name": "국립일제강제동원역사관",
+   "cat": "관광",
+   "area": "",
+   "lat": 35.12497,
+   "lng": 129.09233,
+   "aliases": [
+    "National Memorial Museum of Forced Mobilization under Japanese Occupation",
+    "國立日帝强制動員歷史館"
+   ],
+   "wd": "Q55687046"
+  },
+  {
+   "name": "롯데월드 어드벤처 부산",
+   "cat": "관광",
+   "area": "",
+   "lat": 35.19639,
+   "lng": 129.215,
+   "aliases": [
+    "Lotte World Adventure Busan"
+   ],
+   "wd": "Q109458312"
+  }
+ ]
+}

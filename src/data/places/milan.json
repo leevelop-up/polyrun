@@ -1,0 +1,873 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "라 스칼라 극장",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.4675,
+   "lng": 9.18917,
+   "aliases": [
+    "La Scala"
+   ],
+   "wd": "Q5471"
+  },
+  {
+   "name": "산타 마리아 델레 그라치에 성당",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46583,
+   "lng": 9.17111,
+   "aliases": [
+    "Santa Maria delle Grazie",
+    "산타 마리아 그라치에 성당",
+    "산타 마리아 그라치에 교회"
+   ],
+   "wd": "Q244952"
+  },
+  {
+   "name": "스포르체스코성",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.471,
+   "lng": 9.17969,
+   "aliases": [
+    "Sforza Castle"
+   ],
+   "wd": "Q23354"
+  },
+  {
+   "name": "피나코테카 디 브레라",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.47196,
+   "lng": 9.18782,
+   "aliases": [
+    "Pinacoteca di Brera"
+   ],
+   "wd": "Q150066"
+  },
+  {
+   "name": "로레토 광장",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.48623,
+   "lng": 9.21677,
+   "aliases": [
+    "Piazzale Loreto"
+   ],
+   "wd": "Q525297"
+  },
+  {
+   "name": "Museo Poldi Pezzoli",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46866,
+   "lng": 9.19158,
+   "wd": "Q1190657"
+  },
+  {
+   "name": "Museo Civico di Storia Naturale di Milano",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.47278,
+   "lng": 9.20246,
+   "wd": "Q1533416"
+  },
+  {
+   "name": "Brera Astronomical Observatory",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.47199,
+   "lng": 9.1877,
+   "wd": "Q1580885"
+  },
+  {
+   "name": "노베첸토 박물관",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46341,
+   "lng": 9.19026,
+   "aliases": [
+    "Museo del Novecento"
+   ],
+   "wd": "Q261233"
+  },
+  {
+   "name": "Parco Sempione",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.47333,
+   "lng": 9.17528,
+   "wd": "Q133963"
+  },
+  {
+   "name": "트리엔날레 디 밀라노",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.47181,
+   "lng": 9.17371,
+   "aliases": [
+    "Triennale di Milano"
+   ],
+   "wd": "Q2705493"
+  },
+  {
+   "name": "브레라궁",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.47206,
+   "lng": 9.18813,
+   "aliases": [
+    "Palazzo Brera",
+    "팔라초 디 브레라",
+    "팔라초 브레라"
+   ],
+   "wd": "Q21748501"
+  },
+  {
+   "name": "San Bernardino alle Ossa",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.4625,
+   "lng": 9.19555,
+   "wd": "Q734371"
+  },
+  {
+   "name": "Gallerie d'Italia – Milano",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46735,
+   "lng": 9.19004,
+   "wd": "Q2054135"
+  },
+  {
+   "name": "Basilica di Santo Stefano Maggiore",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46221,
+   "lng": 9.19595,
+   "wd": "Q384032"
+  },
+  {
+   "name": "Basilica of San Simpliciano",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.47387,
+   "lng": 9.18467,
+   "wd": "Q509104"
+  },
+  {
+   "name": "밀라노 고고학 박물관",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46562,
+   "lng": 9.17872,
+   "aliases": [
+    "Archaeological Museum of Milan"
+   ],
+   "wd": "Q604908"
+  },
+  {
+   "name": "산 카를로 알 코르소 교회",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46621,
+   "lng": 9.19629,
+   "aliases": [
+    "San Carlo al Corso"
+   ],
+   "wd": "Q731479"
+  },
+  {
+   "name": "Santa Maria presso San Celso Church",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.4544,
+   "lng": 9.18767,
+   "wd": "Q734515"
+  },
+  {
+   "name": "Chiaravalle Abbey",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.41603,
+   "lng": 9.23691,
+   "wd": "Q860569"
+  },
+  {
+   "name": "Teatro dal Verme",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46712,
+   "lng": 9.18147,
+   "wd": "Q1049376"
+  },
+  {
+   "name": "Santa Maria della Passione Church",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46528,
+   "lng": 9.20361,
+   "wd": "Q1256328"
+  },
+  {
+   "name": "Museo Teatrale alla Scala",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.4673,
+   "lng": 9.18934,
+   "wd": "Q51099"
+  },
+  {
+   "name": "Bagatti Valsecchi Museum",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46963,
+   "lng": 9.19527,
+   "wd": "Q838986"
+  },
+  {
+   "name": "Sant'Alessandro in Zebedia Church",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46095,
+   "lng": 9.18687,
+   "wd": "Q901491"
+  },
+  {
+   "name": "San Maurizio al Monastero Maggiore",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46566,
+   "lng": 9.17892,
+   "wd": "Q1255890"
+  },
+  {
+   "name": "밀라노 근대미술관",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.4725,
+   "lng": 9.19972,
+   "aliases": [
+    "Galleria d'arte moderna di Milano"
+   ],
+   "wd": "Q3757721"
+  },
+  {
+   "name": "스포르체스코성 미술관",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46972,
+   "lng": 9.18028,
+   "aliases": [
+    "Pinacoteca del Castello Sforzesco"
+   ],
+   "wd": "Q3905124"
+  },
+  {
+   "name": "Moschea di Segrate",
+   "cat": "관광",
+   "area": "쎄그라떼",
+   "lat": 45.49056,
+   "lng": 9.26083,
+   "wd": "Q3866050"
+  },
+  {
+   "name": "Giardini Pubblici Indro Montanelli",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.47444,
+   "lng": 9.2,
+   "wd": "Q169090"
+  },
+  {
+   "name": "벨조이오소궁",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46758,
+   "lng": 9.19242,
+   "aliases": [
+    "Belgioioso Palace"
+   ],
+   "wd": "Q730981"
+  },
+  {
+   "name": "San Vittore al Corpo",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46249,
+   "lng": 9.1699,
+   "wd": "Q731222"
+  },
+  {
+   "name": "Palazzo Litta",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46615,
+   "lng": 9.17791,
+   "wd": "Q732658"
+  },
+  {
+   "name": "산마르코 교회",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.47333,
+   "lng": 9.18889,
+   "aliases": [
+    "San Marco Church"
+   ],
+   "wd": "Q839168"
+  },
+  {
+   "name": "San Pietro in Gessate Church",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46299,
+   "lng": 9.2015,
+   "wd": "Q901469"
+  },
+  {
+   "name": "Museo della Scienza e della Tecnologia \"Leonardo da Vinci\"",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46214,
+   "lng": 9.17066,
+   "wd": "Q947082"
+  },
+  {
+   "name": "Palazzo della Ragione",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46481,
+   "lng": 9.18778,
+   "wd": "Q1648312"
+  },
+  {
+   "name": "밀라노 악기 박물관",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.47056,
+   "lng": 9.17861,
+   "aliases": [
+    "Museum of Musical Instruments"
+   ],
+   "wd": "Q3867896"
+  },
+  {
+   "name": "Arch of Peace",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.4757,
+   "lng": 9.17241,
+   "wd": "Q776576"
+  },
+  {
+   "name": "Piazza Mercanti",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46463,
+   "lng": 9.18768,
+   "wd": "Q929968"
+  },
+  {
+   "name": "산 로렌초 기둥",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.45824,
+   "lng": 9.18103,
+   "aliases": [
+    "Colonne di San Lorenzo"
+   ],
+   "wd": "Q1053483"
+  },
+  {
+   "name": "Pinacoteca Ambrosiana",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46378,
+   "lng": 9.18595,
+   "wd": "Q1085811"
+  },
+  {
+   "name": "Teatro Carcano",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.4568,
+   "lng": 9.19563,
+   "wd": "Q1130908"
+  },
+  {
+   "name": "Museum of the Risorgimento",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.47211,
+   "lng": 9.18964,
+   "wd": "Q3867927"
+  },
+  {
+   "name": "스칼라 광장",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46674,
+   "lng": 9.18962,
+   "aliases": [
+    "Piazza della Scala"
+   ],
+   "wd": "Q3902450"
+  },
+  {
+   "name": "San Sepolcro Church",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46317,
+   "lng": 9.1854,
+   "wd": "Q599021"
+  },
+  {
+   "name": "Palazzo dei Giureconsulti",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46507,
+   "lng": 9.18807,
+   "wd": "Q839012"
+  },
+  {
+   "name": "아렌가리오궁",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46352,
+   "lng": 9.1902,
+   "aliases": [
+    "Palazzo dell'Arengario"
+   ],
+   "wd": "Q1107168"
+  },
+  {
+   "name": "San Vincenzo in Prato",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.45771,
+   "lng": 9.17406,
+   "wd": "Q1255998"
+  },
+  {
+   "name": "Sant'Angelo Church",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.47594,
+   "lng": 9.19267,
+   "wd": "Q1256546"
+  },
+  {
+   "name": "브레라 식물원",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.47102,
+   "lng": 9.18924,
+   "aliases": [
+    "Orto Botanico di Brera"
+   ],
+   "wd": "Q2882456"
+  },
+  {
+   "name": "Teatro Regio Ducal",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.4632,
+   "lng": 9.19114,
+   "wd": "Q3277167"
+  },
+  {
+   "name": "마돈니나 동상",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.4643,
+   "lng": 9.19183,
+   "aliases": [
+    "Madonnina"
+   ],
+   "wd": "Q3842780"
+  },
+  {
+   "name": "고미술 박물관",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.4706,
+   "lng": 9.17861,
+   "aliases": [
+    "Museo d'Arte Antica"
+   ],
+   "wd": "Q3867848"
+  },
+  {
+   "name": "Padiglione d'Arte Contemporanea",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.47285,
+   "lng": 9.19907,
+   "wd": "Q3888740"
+  },
+  {
+   "name": "San Sebastiano",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46222,
+   "lng": 9.18611,
+   "wd": "Q431955"
+  },
+  {
+   "name": "Portinari Chapel",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.4541,
+   "lng": 9.18216,
+   "wd": "Q549951"
+  },
+  {
+   "name": "Basilica di Sant'Eufemia",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.4575,
+   "lng": 9.18861,
+   "wd": "Q734216"
+  },
+  {
+   "name": "San Gottardo in Corte Church",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46284,
+   "lng": 9.19209,
+   "wd": "Q1059560"
+  },
+  {
+   "name": "Porta Venezia",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.47438,
+   "lng": 9.20501,
+   "wd": "Q2104876"
+  },
+  {
+   "name": "San Paolo Converso",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.45727,
+   "lng": 9.18755,
+   "wd": "Q3671553"
+  },
+  {
+   "name": "Porta Sempione",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.47566,
+   "lng": 9.17243,
+   "wd": "Q3875281"
+  },
+  {
+   "name": "Teatro Lirico",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46152,
+   "lng": 9.19179,
+   "wd": "Q3982039"
+  },
+  {
+   "name": "HangarBicocca",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.52126,
+   "lng": 9.21934,
+   "wd": "Q18199019"
+  },
+  {
+   "name": "San Barnaba Church",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.45966,
+   "lng": 9.19893,
+   "wd": "Q24277"
+  },
+  {
+   "name": "Porta Garibaldi",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.48066,
+   "lng": 9.18687,
+   "wd": "Q205844"
+  },
+  {
+   "name": "Porta Ticinese",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.45251,
+   "lng": 9.18022,
+   "wd": "Q734204"
+  },
+  {
+   "name": "Teatro degli Arcimboldi",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.5143,
+   "lng": 9.21393,
+   "wd": "Q1131522"
+  },
+  {
+   "name": "San Cristoforo sul Naviglio Church",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.44771,
+   "lng": 9.15475,
+   "wd": "Q1255640"
+  },
+  {
+   "name": "Santa Maria Incoronata Church",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.47944,
+   "lng": 9.1866,
+   "wd": "Q1256232"
+  },
+  {
+   "name": "Palazzo delle Scuole Palatine",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46485,
+   "lng": 9.18735,
+   "wd": "Q1648317"
+  },
+  {
+   "name": "Casa Panigarola",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46478,
+   "lng": 9.18731,
+   "wd": "Q1649868"
+  },
+  {
+   "name": "Palazzo Serbelloni",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46917,
+   "lng": 9.19972,
+   "wd": "Q3361332"
+  },
+  {
+   "name": "Archi di Porta Nuova",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.4721,
+   "lng": 9.19493,
+   "wd": "Q3398707"
+  },
+  {
+   "name": "Civic Aquarium of Milan",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.47402,
+   "lng": 9.18071,
+   "wd": "Q3604681"
+  },
+  {
+   "name": "Cà de sass",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46891,
+   "lng": 9.18969,
+   "wd": "Q3649108"
+  },
+  {
+   "name": "House Manzoni",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46786,
+   "lng": 9.19214,
+   "wd": "Q3661123"
+  },
+  {
+   "name": "San Vito in Pasquirolo Church",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46466,
+   "lng": 9.19626,
+   "wd": "Q3672193"
+  },
+  {
+   "name": "Santa Maria della Pace",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.45973,
+   "lng": 9.20143,
+   "wd": "Q3673878"
+  },
+  {
+   "name": "Basilicas Park",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.45578,
+   "lng": 9.18004,
+   "wd": "Q3895557"
+  },
+  {
+   "name": "L.O.V.E.",
+   "cat": "관광",
+   "area": "",
+   "lat": 45.4648,
+   "lng": 9.18327,
+   "wd": "Q16570025"
+  },
+  {
+   "name": "Diocesan Museum of Milan",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.45415,
+   "lng": 9.18111,
+   "wd": "Q1846306"
+  },
+  {
+   "name": "Piazza Cordusio",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46559,
+   "lng": 9.18594,
+   "wd": "Q2071624"
+  },
+  {
+   "name": "Porta Romana",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.45226,
+   "lng": 9.20205,
+   "wd": "Q2104856"
+  },
+  {
+   "name": "Sant'Antonio abate",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46109,
+   "lng": 9.19351,
+   "wd": "Q3672675"
+  },
+  {
+   "name": "Civic Planetarium of Milan",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.47373,
+   "lng": 9.2036,
+   "wd": "Q3906237"
+  },
+  {
+   "name": "Tempio Valdese",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.4615,
+   "lng": 9.19684,
+   "wd": "Q3983197"
+  },
+  {
+   "name": "Palazzo delle Assicurazioni Generali",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46507,
+   "lng": 9.18685,
+   "wd": "Q28150806"
+  },
+  {
+   "name": "ADI Design Museum",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.48333,
+   "lng": 9.18028,
+   "wd": "Q85859030"
+  },
+  {
+   "name": "Piazza San Babila",
+   "cat": "관광",
+   "area": "Municipio 1",
+   "lat": 45.46667,
+   "lng": 9.19755,
+   "wd": "Q2783781"
+  },
+  {
+   "name": "Palazzo Anguissola",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.4683,
+   "lng": 9.1909,
+   "wd": "Q533598"
+  },
+  {
+   "name": "Palazzo Saporiti",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.47185,
+   "lng": 9.20244,
+   "wd": "Q734359"
+  },
+  {
+   "name": "Pusterla di Sant'Ambrogio",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.462,
+   "lng": 9.17383,
+   "wd": "Q1241706"
+  },
+  {
+   "name": "Torre Branca",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.47329,
+   "lng": 9.17289,
+   "wd": "Q2444521"
+  },
+  {
+   "name": "San Giuseppe Church",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.4685,
+   "lng": 9.18907,
+   "wd": "Q2783777"
+  },
+  {
+   "name": "Porta Vittoria",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.46222,
+   "lng": 9.20722,
+   "wd": "Q3281273"
+  },
+  {
+   "name": "Castello Cova",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.4629,
+   "lng": 9.17349,
+   "wd": "Q3662319"
+  },
+  {
+   "name": "San Carlo al Lazzaretto, Milan",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.47722,
+   "lng": 9.20451,
+   "wd": "Q3669749"
+  },
+  {
+   "name": "chiesa di San Francesco di Paola",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.47033,
+   "lng": 9.19345,
+   "wd": "Q3670167"
+  },
+  {
+   "name": "Santa Maria al Paradiso Church",
+   "cat": "관광",
+   "area": "밀라노",
+   "lat": 45.45515,
+   "lng": 9.19556,
+   "wd": "Q3673630"
+  }
+ ]
+}

@@ -1,0 +1,416 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "두브로브니크 성벽",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.64,
+   "lng": 18.108,
+   "aliases": [
+    "Walls of Dubrovnik"
+   ],
+   "wd": "Q931733"
+  },
+  {
+   "name": "렉터궁",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.64028,
+   "lng": 18.11083,
+   "aliases": [
+    "Rector's Palace, Dubrovnik"
+   ],
+   "wd": "Q2497590"
+  },
+  {
+   "name": "두브로브니크 대성당",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.6399,
+   "lng": 18.1104,
+   "aliases": [
+    "Dubrovnik Cathedral"
+   ],
+   "wd": "Q584428"
+  },
+  {
+   "name": "스폰자궁",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.64111,
+   "lng": 18.11056,
+   "aliases": [
+    "Sponza Palace"
+   ],
+   "wd": "Q2986276"
+  },
+  {
+   "name": "Franciscan Church and Monastery",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.6418,
+   "lng": 18.1078,
+   "wd": "Q3509032"
+  },
+  {
+   "name": "성 구세주 교회",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.6417,
+   "lng": 18.1069,
+   "aliases": [
+    "St. Saviour Church"
+   ],
+   "wd": "Q3434033"
+  },
+  {
+   "name": "Franjo Tuđman Bridge",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.66806,
+   "lng": 18.07917,
+   "wd": "Q1442774"
+  },
+  {
+   "name": "St Blaise's Church",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.64056,
+   "lng": 18.11028,
+   "wd": "Q2986286"
+  },
+  {
+   "name": "Onofrio fountain",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.64153,
+   "lng": 18.10722,
+   "wd": "Q2624621"
+  },
+  {
+   "name": "두브로브니크 종탑",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.64099,
+   "lng": 18.1107,
+   "aliases": [
+    "Clock tower"
+   ],
+   "wd": "Q3509014"
+  },
+  {
+   "name": "Saint Ignatius Church",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.6395,
+   "lng": 18.10936,
+   "wd": "Q682758"
+  },
+  {
+   "name": "Bokar Fortress",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.64092,
+   "lng": 18.10613,
+   "wd": "Q3508984"
+  },
+  {
+   "name": "Pile Gate, Dubrovnik",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.64174,
+   "lng": 18.10685,
+   "wd": "Q3509061"
+  },
+  {
+   "name": "Ploče Gate, Dubrovnik",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.642,
+   "lng": 18.11274,
+   "wd": "Q3509567"
+  },
+  {
+   "name": "Lazzarettos of Dubrovnik",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.64172,
+   "lng": 18.11319,
+   "wd": "Q12635361"
+  },
+  {
+   "name": "Mala Onofrijeva česma",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.64102,
+   "lng": 18.11051,
+   "wd": "Q3443120"
+  },
+  {
+   "name": "Dominican Church and Monastery in Dubrovnik",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.64158,
+   "lng": 18.11144,
+   "wd": "Q3509039"
+  },
+  {
+   "name": "Holy Annunciation Orthodox church",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.6409,
+   "lng": 18.10886,
+   "wd": "Q5884916"
+  },
+  {
+   "name": "Banje Beach",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.64139,
+   "lng": 18.11583,
+   "wd": "Q11908072"
+  },
+  {
+   "name": "Diocesan Classical Gymnasium \"Ruđer Bošković\" in Dubrovnik",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.63929,
+   "lng": 18.10928,
+   "wd": "Q5278780"
+  },
+  {
+   "name": "Petka",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.65104,
+   "lng": 18.0681,
+   "wd": "Q11941348"
+  },
+  {
+   "name": "Maritime Museum",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.6398,
+   "lng": 18.1122,
+   "wd": "Q12640048"
+  },
+  {
+   "name": "Fort Imperial",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.65,
+   "lng": 18.11056,
+   "wd": "Q12644250"
+  },
+  {
+   "name": "Danče Beach",
+   "cat": "관광",
+   "area": "두브로브니크네레트바주",
+   "lat": 42.64061,
+   "lng": 18.10079,
+   "wd": "Q3465043"
+  },
+  {
+   "name": "Porporela",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.63978,
+   "lng": 18.11253,
+   "wd": "Q16111759"
+  },
+  {
+   "name": "House of Marin Držić",
+   "cat": "관광",
+   "area": "",
+   "lat": 42.64079,
+   "lng": 18.10804,
+   "wd": "Q16111789"
+  },
+  {
+   "name": "Betina špilja",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.6395,
+   "lng": 18.12295,
+   "wd": "Q2900110"
+  },
+  {
+   "name": "Gradac, Dubrovnik",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.64142,
+   "lng": 18.10263,
+   "wd": "Q11924577"
+  },
+  {
+   "name": "St. Jakov Beach",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.63514,
+   "lng": 18.13065,
+   "wd": "Q11950588"
+  },
+  {
+   "name": "Bellevue Beach",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.64639,
+   "lng": 18.09222,
+   "wd": "Q12639823"
+  },
+  {
+   "name": "City Guard Building",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.64087,
+   "lng": 18.11064,
+   "wd": "Q12806677"
+  },
+  {
+   "name": "Skočibuha palace",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.63946,
+   "lng": 18.11094,
+   "wd": "Q16116693"
+  },
+  {
+   "name": "Cross on Srđ",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.64878,
+   "lng": 18.11217,
+   "wd": "Q17147057"
+  },
+  {
+   "name": "Archaeological Museum",
+   "cat": "관광",
+   "area": "",
+   "lat": 42.64201,
+   "lng": 18.11225,
+   "wd": "Q12627206"
+  },
+  {
+   "name": "Museum of Croatian War of Independence, Dubrovnik",
+   "cat": "관광",
+   "area": "",
+   "lat": 42.64977,
+   "lng": 18.11068,
+   "wd": "Q12637458"
+  },
+  {
+   "name": "St. Mary church and monastery at Danče",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.64107,
+   "lng": 18.10159,
+   "wd": "Q12629302"
+  },
+  {
+   "name": "Marin Držić Theatre",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.64061,
+   "lng": 18.11094,
+   "wd": "Q12631749"
+  },
+  {
+   "name": "Cava Beach",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.66403,
+   "lng": 18.06174,
+   "wd": "Q12639826"
+  },
+  {
+   "name": "Buža Beach",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.63889,
+   "lng": 18.10861,
+   "wd": "Q12639825"
+  },
+  {
+   "name": "Tri brata Beach",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.68332,
+   "lng": 18.05217,
+   "wd": "Q12639834"
+  },
+  {
+   "name": "Lokrum Beaches",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.62691,
+   "lng": 18.11908,
+   "wd": "Q12639835"
+  },
+  {
+   "name": "President Beach",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.66225,
+   "lng": 18.05796,
+   "wd": "Q12639833"
+  },
+  {
+   "name": "Natural History Museum (Dubrovnik)",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.63964,
+   "lng": 18.10964,
+   "wd": "Q15547215"
+  },
+  {
+   "name": "Luka Gruž",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.65861,
+   "lng": 18.08583,
+   "wd": "Q16111419"
+  },
+  {
+   "name": "Copacabana Beach",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.66389,
+   "lng": 18.06444,
+   "wd": "Q17463883"
+  },
+  {
+   "name": "Luža Square, Dubrovnik",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.64091,
+   "lng": 18.1104,
+   "wd": "Q18325392"
+  },
+  {
+   "name": "Gundulićs",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.6403,
+   "lng": 18.10999,
+   "wd": "Q18585224"
+  },
+  {
+   "name": "Grebeni Lighthouse",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.65167,
+   "lng": 18.04778,
+   "wd": "Q28376013"
+  },
+  {
+   "name": "Daksa Lighthouse",
+   "cat": "관광",
+   "area": "두브로브니크",
+   "lat": 42.67028,
+   "lng": 18.05556,
+   "wd": "Q55620536"
+  }
+ ]
+}

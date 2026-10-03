@@ -10,6 +10,12 @@ export default defineConfig({
     react(),
     legacy()
   ],
+  server: {
+    // 지오코딩 백엔드(npm run server)로 /api 요청 전달
+    proxy: {
+      '/api': 'http://localhost:8787'
+    }
+  },
   test: {
     globals: true,
     environment: 'jsdom',

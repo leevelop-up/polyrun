@@ -1,0 +1,916 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "시드니 오페라 하우스",
+   "cat": "관광",
+   "area": "시티 오브 시드니",
+   "lat": -33.85706,
+   "lng": 151.2149,
+   "aliases": [
+    "Sydney Opera House"
+   ],
+   "wd": "Q45178"
+  },
+  {
+   "name": "시드니 하버 브리지",
+   "cat": "관광",
+   "area": "시드니",
+   "lat": -33.85223,
+   "lng": 151.21068,
+   "aliases": [
+    "Sydney Harbour Bridge"
+   ],
+   "wd": "Q54495"
+  },
+  {
+   "name": "시드니 타워",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.87028,
+   "lng": 151.20889,
+   "aliases": [
+    "Sydney Tower",
+    "AMP Tower",
+    "AMP 타워"
+   ],
+   "wd": "Q827268"
+  },
+  {
+   "name": "Australian Museum",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8743,
+   "lng": 151.213,
+   "wd": "Q769416"
+  },
+  {
+   "name": "타롱가 동물원",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.84333,
+   "lng": 151.24111,
+   "aliases": [
+    "Taronga Zoo"
+   ],
+   "wd": "Q1064813"
+  },
+  {
+   "name": "뉴사우스웨일스 주 아트 갤러리",
+   "cat": "관광",
+   "area": "시드니",
+   "lat": -33.86861,
+   "lng": 151.21722,
+   "aliases": [
+    "Art Gallery of New South Wales",
+    "뉴사우스웨일스 아트 갤러리",
+    "뉴사우스웨일스 아트갤러리",
+    "뉴사우스웨일스 주립 미술관"
+   ],
+   "wd": "Q705551"
+  },
+  {
+   "name": "시드니 현대 미술관",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.86,
+   "lng": 151.20889,
+   "aliases": [
+    "Museum of Contemporary Art Australia"
+   ],
+   "wd": "Q690242"
+  },
+  {
+   "name": "시드니 왕립식물원",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.86222,
+   "lng": 151.2175,
+   "aliases": [
+    "Royal Botanic Gardens, Sydney"
+   ],
+   "wd": "Q54489"
+  },
+  {
+   "name": "하이드 파크",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.87333,
+   "lng": 151.21139,
+   "aliases": [
+    "Hyde Park",
+    "시드니 하이드 파크",
+    "시드니 하이드파크"
+   ],
+   "wd": "Q1144894"
+  },
+  {
+   "name": "퀸 빅토리아 빌딩",
+   "cat": "쇼핑",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8718,
+   "lng": 151.207,
+   "aliases": [
+    "Queen Victoria Building"
+   ],
+   "wd": "Q54518"
+  },
+  {
+   "name": "시드니 타운 홀",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8732,
+   "lng": 151.206,
+   "aliases": [
+    "Sydney Town Hall",
+    "시드니 시청"
+   ],
+   "wd": "Q1192985"
+  },
+  {
+   "name": "앤잭 전쟁 기념관",
+   "cat": "관광",
+   "area": "시티 오브 시드니",
+   "lat": -33.87572,
+   "lng": 151.21094,
+   "aliases": [
+    "Anzac Memorial",
+    "앤잭 워 메모리얼",
+    "안작 워 메모리얼",
+    "ANZAC 전쟁기념관"
+   ],
+   "wd": "Q844556"
+  },
+  {
+   "name": "Hyde Park Barracks",
+   "cat": "관광",
+   "area": "시드니",
+   "lat": -33.86961,
+   "lng": 151.21281,
+   "wd": "Q1577600"
+  },
+  {
+   "name": "ANZAC Bridge",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.86933,
+   "lng": 151.18578,
+   "wd": "Q295838"
+  },
+  {
+   "name": "Lane Cove National Park",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.7836,
+   "lng": 151.139,
+   "wd": "Q835267"
+  },
+  {
+   "name": "시 라이프 시드니 아쿠아리움",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8694,
+   "lng": 151.202,
+   "aliases": [
+    "Sea Life Sydney Aquarium"
+   ],
+   "wd": "Q2591764"
+  },
+  {
+   "name": "Manly Beach",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.78972,
+   "lng": 151.28778,
+   "wd": "Q3271969"
+  },
+  {
+   "name": "시드니 천문대",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.85956,
+   "lng": 151.20458,
+   "aliases": [
+    "Sydney Observatory"
+   ],
+   "wd": "Q7660067"
+  },
+  {
+   "name": "Sydney Harbour National Park",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.81306,
+   "lng": 151.29167,
+   "wd": "Q746452"
+  },
+  {
+   "name": "St James’ Church, Sydney",
+   "cat": "관광",
+   "area": "시티 오브 시드니",
+   "lat": -33.8694,
+   "lng": 151.211,
+   "wd": "Q648182"
+  },
+  {
+   "name": "시드니 중국식 정원",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8765,
+   "lng": 151.203,
+   "aliases": [
+    "Chinese Garden of Friendship",
+    "시드니 차이니스 가든",
+    "시드니 차이니즈 가든",
+    "중국 우호 정원"
+   ],
+   "wd": "Q1068032"
+  },
+  {
+   "name": "오스트레일리아 국립해양박물관",
+   "cat": "관광",
+   "area": "시티 오브 시드니",
+   "lat": -33.8692,
+   "lng": 151.199,
+   "aliases": [
+    "Australian National Maritime Museum",
+    "호주 국립해양박물관",
+    "호주 해양박물관",
+    "오스트레일리아 해양박물관"
+   ],
+   "wd": "Q844329"
+  },
+  {
+   "name": "시드니 조폐국",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.86889,
+   "lng": 151.2125,
+   "aliases": [
+    "Sydney Mint"
+   ],
+   "wd": "Q1641346"
+  },
+  {
+   "name": "Lakemba Mosque",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.91259,
+   "lng": 151.07407,
+   "wd": "Q24242"
+  },
+  {
+   "name": "Archibald Fountain",
+   "cat": "관광",
+   "area": "시티 오브 시드니",
+   "lat": -33.87099,
+   "lng": 151.21182,
+   "wd": "Q585241"
+  },
+  {
+   "name": "시드니 도메인",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.865,
+   "lng": 151.21778,
+   "aliases": [
+    "The Domain",
+    "시드니 도메인 지역",
+    "시드니 도메인 공원",
+    "시드니 도메인 파크"
+   ],
+   "wd": "Q844407"
+  },
+  {
+   "name": "시드니 박물관",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8636,
+   "lng": 151.211,
+   "aliases": [
+    "Museum of Sydney",
+    "뮤지엄 오브 시드니"
+   ],
+   "wd": "Q910232"
+  },
+  {
+   "name": "루나 파크 시드니",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.84756,
+   "lng": 151.21007,
+   "aliases": [
+    "Luna Park"
+   ],
+   "wd": "Q1165470"
+  },
+  {
+   "name": "뉴사우스웨일스 주립 도서관",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.86639,
+   "lng": 151.21333,
+   "aliases": [
+    "State Library of New South Wales",
+    "뉴사우스웨일스 스테이트 라이브러리",
+    "시드니 미첼 도서관",
+    "시드니 주립 도서관"
+   ],
+   "wd": "Q6133813"
+  },
+  {
+   "name": "Macquarie Lighthouse",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.85394,
+   "lng": 151.28517,
+   "wd": "Q1065004"
+  },
+  {
+   "name": "데니슨 성채",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.85478,
+   "lng": 151.22563,
+   "aliases": [
+    "Fort Denison",
+    "포트 데니슨",
+    "포트데니슨",
+    "시드니 데니슨 성채"
+   ],
+   "wd": "Q3748475"
+  },
+  {
+   "name": "Museum of Applied Arts and Science",
+   "cat": "관광",
+   "area": "Ultimo",
+   "lat": -33.87861,
+   "lng": 151.19944,
+   "wd": "Q2107035"
+  },
+  {
+   "name": "Belmore Park",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8815,
+   "lng": 151.208,
+   "wd": "Q219057"
+  },
+  {
+   "name": "Al-Zahra Mosque",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.9327,
+   "lng": 151.149,
+   "wd": "Q4703363"
+  },
+  {
+   "name": "General Post Office, Sydney",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.86777,
+   "lng": 151.20775,
+   "wd": "Q5532119"
+  },
+  {
+   "name": "Theatre Royal, Sydney",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8685,
+   "lng": 151.20956,
+   "wd": "Q7777440"
+  },
+  {
+   "name": "Railway Square",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8829,
+   "lng": 151.204,
+   "wd": "Q76803"
+  },
+  {
+   "name": "베어섬",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.99211,
+   "lng": 151.23118,
+   "aliases": [
+    "Bare Island"
+   ],
+   "wd": "Q4860286"
+  },
+  {
+   "name": "Dr Chau Chak Wing Building",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8811,
+   "lng": 151.201,
+   "wd": "Q5304516"
+  },
+  {
+   "name": "Shelly Beach",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8005,
+   "lng": 151.298,
+   "wd": "Q7493888"
+  },
+  {
+   "name": "Centennial Park",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.9,
+   "lng": 151.23333,
+   "wd": "Q61721649"
+  },
+  {
+   "name": "Victoria Park",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8855,
+   "lng": 151.193,
+   "wd": "Q7926927"
+  },
+  {
+   "name": "Wild Life Sydney",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8698,
+   "lng": 151.202,
+   "wd": "Q8000710"
+  },
+  {
+   "name": "El Alamein Fountain",
+   "cat": "관광",
+   "area": "시티 오브 시드니",
+   "lat": -33.87291,
+   "lng": 151.225,
+   "wd": "Q5350715"
+  },
+  {
+   "name": "Cadmans Cottage",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8589,
+   "lng": 151.209,
+   "wd": "Q1025284"
+  },
+  {
+   "name": "Gladesville Bridge",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.84222,
+   "lng": 151.14806,
+   "wd": "Q1529051"
+  },
+  {
+   "name": "Sydney Gay and Lesbian Holocaust Memorial",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8794,
+   "lng": 151.22,
+   "wd": "Q2083566"
+  },
+  {
+   "name": "St Philip's Church, Sydney",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.864,
+   "lng": 151.205,
+   "wd": "Q4505123"
+  },
+  {
+   "name": "시드니 바이센테니얼 파크",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8493,
+   "lng": 151.078,
+   "aliases": [
+    "Bicentennial Park, Homebush Bay",
+    "시드니 바이센테니얼 공원",
+    "시드니 바이센테니얼공원",
+    "시드니 200주년 기념 공원"
+   ],
+   "wd": "Q4903562"
+  },
+  {
+   "name": "뉴사우스웨일스 주립 극장",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.87096,
+   "lng": 151.20739,
+   "aliases": [
+    "State Theatre",
+    "시드니 스테이트 시어터",
+    "시드니 주립 극장",
+    "시드니 주립극장"
+   ],
+   "wd": "Q7603582"
+  },
+  {
+   "name": "Wynyard Park",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.86583,
+   "lng": 151.20597,
+   "wd": "Q8040270"
+  },
+  {
+   "name": "Sydney Cenotaph",
+   "cat": "관광",
+   "area": "시티 오브 시드니",
+   "lat": -33.8675,
+   "lng": 151.20719,
+   "wd": "Q7659860"
+  },
+  {
+   "name": "Our Lady of the Sacred Heart Church of Randwick",
+   "cat": "관광",
+   "area": "City of Randwick",
+   "lat": -33.9162,
+   "lng": 151.242,
+   "wd": "Q7111039"
+  },
+  {
+   "name": "Enmore Theatre",
+   "cat": "관광",
+   "area": "시드니",
+   "lat": -33.8989,
+   "lng": 151.174,
+   "wd": "Q5379114"
+  },
+  {
+   "name": "1 Macquarie Place",
+   "cat": "관광",
+   "area": "시드니",
+   "lat": -33.8621,
+   "lng": 151.21,
+   "wd": "Q19870155"
+  },
+  {
+   "name": "Children's Chapel, St James' Church",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.86944,
+   "lng": 151.21111,
+   "wd": "Q3633633"
+  },
+  {
+   "name": "HMAS Pioneer",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8642,
+   "lng": 151.331,
+   "wd": "Q4353260"
+  },
+  {
+   "name": "AMP Centre",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.86194,
+   "lng": 151.21164,
+   "wd": "Q4652698"
+  },
+  {
+   "name": "Bronte Beach",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.9036,
+   "lng": 151.268,
+   "wd": "Q4974072"
+  },
+  {
+   "name": "Freshwater Beach",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.7814,
+   "lng": 151.291,
+   "wd": "Q5503110"
+  },
+  {
+   "name": "Lady Robinsons Beach",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.9754,
+   "lng": 151.151,
+   "wd": "Q6470513"
+  },
+  {
+   "name": "Nielsen Park",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.84833,
+   "lng": 151.26778,
+   "wd": "Q7031614"
+  },
+  {
+   "name": "시드니 파크",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.9105,
+   "lng": 151.185,
+   "aliases": [
+    "Sydney Park",
+    "시드니공원",
+    "시드니 공원"
+   ],
+   "wd": "Q7660094"
+  },
+  {
+   "name": "Tumbalong Park",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8757,
+   "lng": 151.202,
+   "wd": "Q7852524"
+  },
+  {
+   "name": "Hornby Lighthouse",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.83357,
+   "lng": 151.281,
+   "wd": "Q12060536"
+  },
+  {
+   "name": "Peter and Paul Cathedral",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.87517,
+   "lng": 151.08883,
+   "wd": "Q16601903"
+  },
+  {
+   "name": "Malabar Beach",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.9639,
+   "lng": 151.25234,
+   "wd": "Q21957006"
+  },
+  {
+   "name": "Malabar Headland National Park",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.95554,
+   "lng": 151.25075,
+   "wd": "Q21971995"
+  },
+  {
+   "name": "One Central Park",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8843,
+   "lng": 151.2003,
+   "wd": "Q25182912"
+  },
+  {
+   "name": "SS Ayrfield",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.83322,
+   "lng": 151.07667,
+   "wd": "Q30970310"
+  },
+  {
+   "name": "Bourke Street Congregational Church and School",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8819,
+   "lng": 151.2162,
+   "wd": "Q58204920"
+  },
+  {
+   "name": "Statue of Queen Victoria",
+   "cat": "관광",
+   "area": "시티 오브 시드니",
+   "lat": -33.87272,
+   "lng": 151.20685,
+   "wd": "Q17480153"
+  },
+  {
+   "name": "Macquarie Centre",
+   "cat": "쇼핑",
+   "area": "Macquarie Park",
+   "lat": -33.77694,
+   "lng": 151.12028,
+   "wd": "Q6724958"
+  },
+  {
+   "name": "St Leonards Park",
+   "cat": "관광",
+   "area": "St Leonards",
+   "lat": -33.83116,
+   "lng": 151.2106,
+   "wd": "Q21901876"
+  },
+  {
+   "name": "City Recital Hall",
+   "cat": "관광",
+   "area": "시드니",
+   "lat": -33.867,
+   "lng": 151.208,
+   "wd": "Q5123393"
+  },
+  {
+   "name": "Robertson Point Light",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8488,
+   "lng": 151.233,
+   "wd": "Q1397837"
+  },
+  {
+   "name": "Bradleys Head Fortification Complex",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8523,
+   "lng": 151.246,
+   "wd": "Q3308589"
+  },
+  {
+   "name": "Artspace Sydney",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8694,
+   "lng": 151.221,
+   "wd": "Q4801559"
+  },
+  {
+   "name": "Birchgrove Park",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8496,
+   "lng": 151.1817,
+   "wd": "Q4915733"
+  },
+  {
+   "name": "Boronia Park",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.825,
+   "lng": 151.142,
+   "wd": "Q4946271"
+  },
+  {
+   "name": "Chief Secretary's Building",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8635,
+   "lng": 151.212,
+   "wd": "Q5096917"
+  },
+  {
+   "name": "Fairy Bower Beach",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.7986,
+   "lng": 151.293,
+   "wd": "Q5430943"
+  },
+  {
+   "name": "Sydney Lyric",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8686,
+   "lng": 151.196,
+   "wd": "Q6709996"
+  },
+  {
+   "name": "Paddy's Markets",
+   "cat": "쇼핑",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8796,
+   "lng": 151.204,
+   "wd": "Q7123382"
+  },
+  {
+   "name": "State Savings Bank building",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.86729,
+   "lng": 151.2102,
+   "wd": "Q7603516"
+  },
+  {
+   "name": "Chau Chak Wing Museum",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.88528,
+   "lng": 151.19028,
+   "wd": "Q113059363"
+  },
+  {
+   "name": "The Wharf Theatre",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8551,
+   "lng": 151.206,
+   "wd": "Q7774368"
+  },
+  {
+   "name": "Westfield Bondi Junction",
+   "cat": "쇼핑",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.89139,
+   "lng": 151.25111,
+   "wd": "Q7988648"
+  },
+  {
+   "name": "Westfield Warringah Mall",
+   "cat": "쇼핑",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.7679,
+   "lng": 151.265,
+   "wd": "Q7988774"
+  },
+  {
+   "name": "St Peter Julian's Church, Sydney",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8786,
+   "lng": 151.205,
+   "wd": "Q14935007"
+  },
+  {
+   "name": "Westfield Sydney",
+   "cat": "쇼핑",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8705,
+   "lng": 151.209,
+   "wd": "Q14935037"
+  },
+  {
+   "name": "Garrison Church",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8584,
+   "lng": 151.206,
+   "wd": "Q18165591"
+  },
+  {
+   "name": "Bondi Beach",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.892,
+   "lng": 151.276,
+   "wd": "Q21919992"
+  },
+  {
+   "name": "Archer Park",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.81778,
+   "lng": 151.07278,
+   "wd": "Q21925738"
+  },
+  {
+   "name": "Ferndale Park",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8,
+   "lng": 151.17,
+   "wd": "Q21928476"
+  },
+  {
+   "name": "Redfern Park",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.89457,
+   "lng": 151.20609,
+   "wd": "Q21935132"
+  },
+  {
+   "name": "St. Maron's Cathedral, Sydney",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.89263,
+   "lng": 151.20723,
+   "wd": "Q27925096"
+  },
+  {
+   "name": "Hong Kong House",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.87263,
+   "lng": 151.20629,
+   "wd": "Q33158029"
+  },
+  {
+   "name": "Old Mining Museum Building",
+   "cat": "관광",
+   "area": "뉴사우스웨일스주",
+   "lat": -33.8566,
+   "lng": 151.2085,
+   "wd": "Q59872311"
+  },
+  {
+   "name": "Capitol Theatre",
+   "cat": "관광",
+   "area": "시티 오브 시드니",
+   "lat": -33.8797,
+   "lng": 151.207,
+   "wd": "Q5035941"
+  }
+ ]
+}

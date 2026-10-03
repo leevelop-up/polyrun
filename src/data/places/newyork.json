@@ -1,0 +1,737 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "리버티섬",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.69,
+   "lng": -74.045,
+   "aliases": [
+    "Liberty Island"
+   ],
+   "wd": "Q319821"
+  },
+  {
+   "name": "조지 워싱턴 다리",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.85167,
+   "lng": -73.9525,
+   "aliases": [
+    "George Washington Bridge"
+   ],
+   "wd": "Q125821"
+  },
+  {
+   "name": "브루클린 미술관",
+   "cat": "관광",
+   "area": "브루클린",
+   "lat": 40.67121,
+   "lng": -73.96363,
+   "aliases": [
+    "Brooklyn Museum",
+    "브루클린 박물관"
+   ],
+   "wd": "Q632682"
+  },
+  {
+   "name": "뉴암스테르담",
+   "cat": "관광",
+   "area": "니우네데를란트",
+   "lat": 40.70365,
+   "lng": -74.01241,
+   "aliases": [
+    "New Amsterdam",
+    "뉴앰스터댐",
+    "뉴 앰스터댐"
+   ],
+   "wd": "Q223308"
+  },
+  {
+   "name": "맨해튼교",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.70722,
+   "lng": -73.99083,
+   "aliases": [
+    "Manhattan Bridge"
+   ],
+   "wd": "Q125050"
+  },
+  {
+   "name": "세인트 패트릭 대성당",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.75861,
+   "lng": -73.97639,
+   "aliases": [
+    "St. Patrick's Cathedral",
+    "성 파트리치오 대성당"
+   ],
+   "wd": "Q624556"
+  },
+  {
+   "name": "윌리엄스버그 다리",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.713,
+   "lng": -73.97,
+   "aliases": [
+    "Williamsburg Bridge"
+   ],
+   "wd": "Q125068"
+  },
+  {
+   "name": "플러싱 메도스 코로나 파크",
+   "cat": "관광",
+   "area": "퀸스",
+   "lat": 40.74375,
+   "lng": -73.84479,
+   "aliases": [
+    "Flushing Meadows–Corona Park",
+    "플러싱 메도우스 코로나 파크"
+   ],
+   "wd": "Q745296"
+  },
+  {
+   "name": "매디슨 스퀘어",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.74222,
+   "lng": -73.98806,
+   "aliases": [
+    "Madison Square and Madison Square Park"
+   ],
+   "wd": "Q110000"
+  },
+  {
+   "name": "퀸즈버러교",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.75694,
+   "lng": -73.95472,
+   "aliases": [
+    "Queensboro Bridge"
+   ],
+   "wd": "Q125157"
+  },
+  {
+   "name": "트리니티 교회",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.70801,
+   "lng": -74.01221,
+   "aliases": [
+    "Trinity Church"
+   ],
+   "wd": "Q866896"
+  },
+  {
+   "name": "프로스펙트 공원",
+   "cat": "관광",
+   "area": "브루클린",
+   "lat": 40.66143,
+   "lng": -73.97035,
+   "aliases": [
+    "Prospect Park"
+   ],
+   "wd": "Q1049632"
+  },
+  {
+   "name": "스튜디오 54",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.76436,
+   "lng": -73.98378,
+   "aliases": [
+    "Studio 54"
+   ],
+   "wd": "Q607212"
+  },
+  {
+   "name": "휘트니 미술관",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.7396,
+   "lng": -74.0089,
+   "aliases": [
+    "Whitney Museum of American Art"
+   ],
+   "wd": "Q639791"
+  },
+  {
+   "name": "프릭 컬렉션",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.77111,
+   "lng": -73.96722,
+   "aliases": [
+    "The Frick Collection"
+   ],
+   "wd": "Q682827"
+  },
+  {
+   "name": "유니언 스퀘어",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.73556,
+   "lng": -73.99056,
+   "aliases": [
+    "Union Square"
+   ],
+   "wd": "Q110007"
+  },
+  {
+   "name": "콜럼버스 서클",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.76806,
+   "lng": -73.98194,
+   "aliases": [
+    "Columbus Circle"
+   ],
+   "wd": "Q109968"
+  },
+  {
+   "name": "아폴로 극장",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.80993,
+   "lng": -73.95011,
+   "aliases": [
+    "Apollo Theater"
+   ],
+   "wd": "Q619124"
+  },
+  {
+   "name": "우딴섬",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.7466,
+   "lng": -73.96439,
+   "aliases": [
+    "U Thant Island",
+    "우탄트섬",
+    "벨몬트섬"
+   ],
+   "wd": "Q933185"
+  },
+  {
+   "name": "센트럴 파크 동물원",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.76778,
+   "lng": -73.97167,
+   "aliases": [
+    "Central Park Zoo"
+   ],
+   "wd": "Q954207"
+  },
+  {
+   "name": "클로이스터스",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.86486,
+   "lng": -73.93173,
+   "aliases": [
+    "The Cloisters"
+   ],
+   "wd": "Q1138030"
+  },
+  {
+   "name": "리버사이드 교회",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.81178,
+   "lng": -73.96307,
+   "aliases": [
+    "Riverside Church"
+   ],
+   "wd": "Q1156586"
+  },
+  {
+   "name": "헬 게이트 다리",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.7825,
+   "lng": -73.92194,
+   "aliases": [
+    "Hell Gate Bridge",
+    "헬 게이트 교"
+   ],
+   "wd": "Q1035131"
+  },
+  {
+   "name": "브루클린 식물원",
+   "cat": "관광",
+   "area": "브루클린",
+   "lat": 40.66806,
+   "lng": -73.96389,
+   "aliases": [
+    "Brooklyn Botanic Garden"
+   ],
+   "wd": "Q1360424"
+  },
+  {
+   "name": "뉴 뮤지엄",
+   "cat": "관광",
+   "area": "뉴욕",
+   "lat": 40.72236,
+   "lng": -73.99292,
+   "aliases": [
+    "New Museum"
+   ],
+   "wd": "Q1156823"
+  },
+  {
+   "name": "National Academy of Design",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.73769,
+   "lng": -73.98675,
+   "wd": "Q502218"
+  },
+  {
+   "name": "클린턴 성",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.70361,
+   "lng": -74.01667,
+   "aliases": [
+    "Castle Clinton"
+   ],
+   "wd": "Q1049423"
+  },
+  {
+   "name": "로버트 F. 케네디 브리지",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.78,
+   "lng": -73.92667,
+   "aliases": [
+    "Robert F. Kennedy Bridge"
+   ],
+   "wd": "Q125450"
+  },
+  {
+   "name": "쿠퍼 휴이트 국립 디자인 박물관",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.78472,
+   "lng": -73.95806,
+   "aliases": [
+    "Cooper Hewitt, Smithsonian Design Museum"
+   ],
+   "wd": "Q1129820"
+  },
+  {
+   "name": "스트로베리 필즈",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.77541,
+   "lng": -73.97461,
+   "aliases": [
+    "Strawberry Fields"
+   ],
+   "wd": "Q1156980"
+  },
+  {
+   "name": "리버사이드 공원",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.804,
+   "lng": -73.97,
+   "aliases": [
+    "Riverside Park"
+   ],
+   "wd": "Q1339602"
+  },
+  {
+   "name": "세인트 니콜라스 그리스 정교회",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.71013,
+   "lng": -74.01322,
+   "aliases": [
+    "St. Nicholas Greek Orthodox Church"
+   ],
+   "wd": "Q18157"
+  },
+  {
+   "name": "Art Students League of New York",
+   "cat": "관광",
+   "area": "뉴욕",
+   "lat": 40.76608,
+   "lng": -73.98086,
+   "wd": "Q705737"
+  },
+  {
+   "name": "노이에 갤러리",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.78126,
+   "lng": -73.96033,
+   "aliases": [
+    "Neue Galerie",
+    "노이에 갤러리 뉴욕",
+    "누 갤러리",
+    "누 갤러리 뉴욕"
+   ],
+   "wd": "Q59468"
+  },
+  {
+   "name": "뉴욕 동영상 박물관",
+   "cat": "관광",
+   "area": "애스토리아",
+   "lat": 40.75621,
+   "lng": -73.92396,
+   "aliases": [
+    "Museum of the Moving Image"
+   ],
+   "wd": "Q465765"
+  },
+  {
+   "name": "국제사진센터",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.75472,
+   "lng": -73.98496,
+   "aliases": [
+    "International Center of Photography"
+   ],
+   "wd": "Q636942"
+  },
+  {
+   "name": "그랜트 장군의 묘",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.81344,
+   "lng": -73.96301,
+   "aliases": [
+    "Grant's Tomb"
+   ],
+   "wd": "Q1025105"
+  },
+  {
+   "name": "Fearless Girl",
+   "cat": "관광",
+   "area": "",
+   "lat": 40.7067,
+   "lng": -74.0109,
+   "wd": "Q28916452"
+  },
+  {
+   "name": "뉴욕 박물관",
+   "cat": "관광",
+   "area": "뉴욕",
+   "lat": 40.79248,
+   "lng": -73.95188,
+   "aliases": [
+    "Museum of the City of New York",
+    "뉴욕 시 박물관"
+   ],
+   "wd": "Q1321141"
+  },
+  {
+   "name": "즈카티 공원",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.70917,
+   "lng": -74.01111,
+   "aliases": [
+    "Zuccotti Park"
+   ],
+   "wd": "Q227659"
+  },
+  {
+   "name": "그랜드 아미 플라자",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.7644,
+   "lng": -73.9733,
+   "aliases": [
+    "Grand Army Plaza"
+   ],
+   "wd": "Q1139579"
+  },
+  {
+   "name": "퀸스 미술관",
+   "cat": "관광",
+   "area": "플러싱 메도스 코로나 파크",
+   "lat": 40.74583,
+   "lng": -73.84667,
+   "aliases": [
+    "Queens Museum",
+    "퀸즈 미술관"
+   ],
+   "wd": "Q1320229"
+  },
+  {
+   "name": "볼링 그린",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.705,
+   "lng": -74.01361,
+   "aliases": [
+    "Bowling Green"
+   ],
+   "wd": "Q895455"
+  },
+  {
+   "name": "New Amsterdam Theatre",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.75611,
+   "lng": -73.98778,
+   "wd": "Q2004827"
+  },
+  {
+   "name": "브롱크스-화이트스톤교",
+   "cat": "관광",
+   "area": "퀸스",
+   "lat": 40.80111,
+   "lng": -73.82917,
+   "aliases": [
+    "Bronx–Whitestone Bridge"
+   ],
+   "wd": "Q125543"
+  },
+  {
+   "name": "인트레피드 해양항공우주박물관",
+   "cat": "관광",
+   "area": "뉴욕",
+   "lat": 40.76461,
+   "lng": -73.99961,
+   "aliases": [
+    "Intrepid Sea, Air & Space Museum"
+   ],
+   "wd": "Q952270"
+  },
+  {
+   "name": "New York Hall of Science",
+   "cat": "관광",
+   "area": "뉴욕주",
+   "lat": 40.74745,
+   "lng": -73.85163,
+   "wd": "Q2306200"
+  },
+  {
+   "name": "헤럴드 스퀘어",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.75012,
+   "lng": -73.98774,
+   "aliases": [
+    "Herald Square"
+   ],
+   "wd": "Q109982"
+  },
+  {
+   "name": "Gershwin Theatre",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.7625,
+   "lng": -73.985,
+   "wd": "Q1515007"
+  },
+  {
+   "name": "Broadway Theatre",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.76333,
+   "lng": -73.98333,
+   "wd": "Q2925870"
+  },
+  {
+   "name": "민스코프 극장",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.75806,
+   "lng": -73.98611,
+   "aliases": [
+    "Minskoff Theatre"
+   ],
+   "wd": "Q3062716"
+  },
+  {
+   "name": "David Geffen Hall",
+   "cat": "관광",
+   "area": "어퍼웨스트사이드",
+   "lat": 40.77278,
+   "lng": -73.98306,
+   "wd": "Q790654"
+  },
+  {
+   "name": "Roosevelt Island Bridge",
+   "cat": "관광",
+   "area": "뉴욕",
+   "lat": 40.76333,
+   "lng": -73.94556,
+   "wd": "Q282921"
+  },
+  {
+   "name": "Fort Amsterdam",
+   "cat": "관광",
+   "area": "뉴욕주",
+   "lat": 40.704,
+   "lng": -74.0137,
+   "wd": "Q633264"
+  },
+  {
+   "name": "사우스스트리트시포트",
+   "cat": "쇼핑",
+   "area": "맨해튼",
+   "lat": 40.7061,
+   "lng": -74.0033,
+   "aliases": [
+    "South Street Seaport"
+   ],
+   "wd": "Q223000"
+  },
+  {
+   "name": "Belasco Theatre",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.75665,
+   "lng": -73.98379,
+   "wd": "Q815278"
+  },
+  {
+   "name": "St. Paul's Chapel",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.7113,
+   "lng": -74.00921,
+   "wd": "Q1325500"
+  },
+  {
+   "name": "Rucker Park",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.82956,
+   "lng": -73.93646,
+   "wd": "Q2004591"
+  },
+  {
+   "name": "Ed Sullivan Theater",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.76375,
+   "lng": -73.98278,
+   "wd": "Q3268242"
+  },
+  {
+   "name": "팰리스 극장",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.7588,
+   "lng": -73.9847,
+   "aliases": [
+    "Palace Theatre"
+   ],
+   "wd": "Q3360756"
+  },
+  {
+   "name": "Chicago The Musical Ambassador Theater",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.76111,
+   "lng": -73.985,
+   "wd": "Q4741073"
+  },
+  {
+   "name": "리버티 파크",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.71025,
+   "lng": -74.01353,
+   "aliases": [
+    "Liberty Park"
+   ],
+   "wd": "Q16932670"
+  },
+  {
+   "name": "메트로폴리탄 오페라",
+   "cat": "관광",
+   "area": "어퍼웨스트사이드",
+   "lat": 40.7728,
+   "lng": -73.9842,
+   "aliases": [
+    "Metropolitan Opera House",
+    "메트로폴리탄 오페라 극장",
+    "메트로폴리탄 오페라 하우스",
+    "메트로폴리탄 가극장"
+   ],
+   "wd": "Q188031"
+  },
+  {
+   "name": "African Burial Ground National Monument",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.7146,
+   "lng": -74.00447,
+   "wd": "Q383996"
+  },
+  {
+   "name": "Hayden Planetarium",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.7815,
+   "lng": -73.9732,
+   "wd": "Q665475"
+  },
+  {
+   "name": "뉴욕 역사 협회",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.77917,
+   "lng": -73.97417,
+   "aliases": [
+    "New York Historical"
+   ],
+   "wd": "Q1059456"
+  },
+  {
+   "name": "포트 트라이언 공원",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.86204,
+   "lng": -73.9318,
+   "aliases": [
+    "Fort Tryon Park",
+    "포트 트라이언 파크",
+    "포트 트라이언"
+   ],
+   "wd": "Q1190346"
+  },
+  {
+   "name": "톰킨스 스퀘어 공원",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.72611,
+   "lng": -73.98139,
+   "aliases": [
+    "Tompkins Square Park"
+   ],
+   "wd": "Q1310674"
+  },
+  {
+   "name": "Majestic Theatre",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.75833,
+   "lng": -73.98806,
+   "wd": "Q1393081"
+  },
+  {
+   "name": "Shubert Theatre",
+   "cat": "관광",
+   "area": "맨해튼",
+   "lat": 40.75806,
+   "lng": -73.98722,
+   "wd": "Q1797756"
+  }
+ ]
+}

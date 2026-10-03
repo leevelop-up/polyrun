@@ -1,0 +1,631 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "스탠리 파크",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.3,
+   "lng": -123.14,
+   "aliases": [
+    "Stanley Park"
+   ],
+   "wd": "Q1126258"
+  },
+  {
+   "name": "Lions Gate Bridge",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.31528,
+   "lng": -123.13833,
+   "wd": "Q124352"
+  },
+  {
+   "name": "Museum of Anthropology at UBC",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.26917,
+   "lng": -123.25972,
+   "wd": "Q1954743"
+  },
+  {
+   "name": "Queen Elizabeth Park",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.2422,
+   "lng": -123.115,
+   "wd": "Q1479020"
+  },
+  {
+   "name": "Cathedral of Our Lady of the Rosary, Vancouver",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.28194,
+   "lng": -123.11472,
+   "wd": "Q1514655"
+  },
+  {
+   "name": "Vancouver Aquarium",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.3006,
+   "lng": -123.131,
+   "wd": "Q185228"
+  },
+  {
+   "name": "Sam Kee Building",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.28044,
+   "lng": -123.10478,
+   "wd": "Q4263314"
+  },
+  {
+   "name": "Nitobe Memorial Garden",
+   "cat": "관광",
+   "area": "메트로 밴쿠버",
+   "lat": 49.26667,
+   "lng": -123.25972,
+   "wd": "Q1476562"
+  },
+  {
+   "name": "VanDusen Botanical Garden",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.23972,
+   "lng": -123.13222,
+   "wd": "Q1119013"
+  },
+  {
+   "name": "Jericho Beach",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.272,
+   "lng": -123.192,
+   "wd": "Q3506816"
+  },
+  {
+   "name": "Cambie Bridge",
+   "cat": "관광",
+   "area": "브리티시컬럼비아주",
+   "lat": 49.272,
+   "lng": -123.115,
+   "wd": "Q278084"
+  },
+  {
+   "name": "쑨얏센 중국 정원",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.27966,
+   "lng": -123.10397,
+   "aliases": [
+    "Dr. Sun Yat-Sen Classical Chinese Garden"
+   ],
+   "wd": "Q741730"
+  },
+  {
+   "name": "Burrard Bridge",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.2755,
+   "lng": -123.137,
+   "wd": "Q919808"
+  },
+  {
+   "name": "Museum of Vancouver",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.2761,
+   "lng": -123.144,
+   "wd": "Q1478298"
+  },
+  {
+   "name": "Kitsilano Beach",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.2739,
+   "lng": -123.155,
+   "wd": "Q6418340"
+  },
+  {
+   "name": "Orpheum",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.27993,
+   "lng": -123.12057,
+   "wd": "Q7103961"
+  },
+  {
+   "name": "Ironworkers Memorial Second Narrows Crossing",
+   "cat": "관광",
+   "area": "",
+   "lat": 49.29583,
+   "lng": -123.02639,
+   "wd": "Q1477359"
+  },
+  {
+   "name": "Second Beach",
+   "cat": "관광",
+   "area": "브리티시컬럼비아주",
+   "lat": 49.29462,
+   "lng": -123.1503,
+   "wd": "Q22556204"
+  },
+  {
+   "name": "Arthur Laing Bridge",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.1993,
+   "lng": -123.136,
+   "wd": "Q710283"
+  },
+  {
+   "name": "Science World",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.2733,
+   "lng": -123.104,
+   "wd": "Q1391769"
+  },
+  {
+   "name": "Robson Square",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.2812,
+   "lng": -123.123,
+   "wd": "Q9293120"
+  },
+  {
+   "name": "Beaty Biodiversity Museum",
+   "cat": "관광",
+   "area": "메트로 밴쿠버",
+   "lat": 49.26342,
+   "lng": -123.251,
+   "wd": "Q4120770"
+  },
+  {
+   "name": "Wreck Beach",
+   "cat": "관광",
+   "area": "메트로 밴쿠버",
+   "lat": 49.2611,
+   "lng": -123.2614,
+   "wd": "Q10283669"
+  },
+  {
+   "name": "Oak Street Bridge",
+   "cat": "관광",
+   "area": "브리티시컬럼비아주",
+   "lat": 49.1999,
+   "lng": -123.126,
+   "wd": "Q2008430"
+  },
+  {
+   "name": "Minoru Park",
+   "cat": "관광",
+   "area": "브리티시컬럼비아주",
+   "lat": 49.1656,
+   "lng": -123.145,
+   "wd": "Q6869292"
+  },
+  {
+   "name": "Third Beach",
+   "cat": "관광",
+   "area": "브리티시컬럼비아주",
+   "lat": 49.30355,
+   "lng": -123.15674,
+   "wd": "Q22494852"
+  },
+  {
+   "name": "Granville Street Bridge",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.2726,
+   "lng": -123.133,
+   "wd": "Q1543294"
+  },
+  {
+   "name": "Khalsa Diwan Society Vancouver",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.212,
+   "lng": -123.083,
+   "wd": "Q6399853"
+  },
+  {
+   "name": "St. Andrew's-Wesley United Church",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.2813,
+   "lng": -123.12678,
+   "wd": "Q7586909"
+  },
+  {
+   "name": "Kuomintang Building",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.28019,
+   "lng": -123.09756,
+   "wd": "Q130362887"
+  },
+  {
+   "name": "UBC Botanical Garden and Centre for Plant Research",
+   "cat": "관광",
+   "area": "메트로 밴쿠버",
+   "lat": 49.25333,
+   "lng": -123.25,
+   "wd": "Q2466506"
+  },
+  {
+   "name": "Point Atkinson Lighthouse",
+   "cat": "관광",
+   "area": "웨스트밴쿠버",
+   "lat": 49.3304,
+   "lng": -123.2646,
+   "wd": "Q15267226"
+  },
+  {
+   "name": "Second Narrows Bridge",
+   "cat": "관광",
+   "area": "메트로 밴쿠버",
+   "lat": 49.29583,
+   "lng": -123.02528,
+   "wd": "Q643658"
+  },
+  {
+   "name": "Hastings Mill",
+   "cat": "관광",
+   "area": "",
+   "lat": 49.286,
+   "lng": -123.095,
+   "wd": "Q3489972"
+  },
+  {
+   "name": "Locarno Beach",
+   "cat": "관광",
+   "area": "브리티시컬럼비아주",
+   "lat": 49.27553,
+   "lng": -123.20596,
+   "wd": "Q6664722"
+  },
+  {
+   "name": "Playland",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.2827,
+   "lng": -123.037,
+   "wd": "Q3392121"
+  },
+  {
+   "name": "Bloedel Conservatory",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.2421,
+   "lng": -123.114,
+   "wd": "Q4927320"
+  },
+  {
+   "name": "Holy Trinity Ukrainian Orthodox Cathedral",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.26179,
+   "lng": -123.10202,
+   "wd": "Q5886843"
+  },
+  {
+   "name": "Knight Street Bridge",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.2041,
+   "lng": -123.078,
+   "wd": "Q6422284"
+  },
+  {
+   "name": "Pacific Centre",
+   "cat": "쇼핑",
+   "area": "밴쿠버",
+   "lat": 49.2834,
+   "lng": -123.118,
+   "wd": "Q7122335"
+  },
+  {
+   "name": "Spanish Banks",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.277,
+   "lng": -123.216,
+   "wd": "Q7573148"
+  },
+  {
+   "name": "Vancouver Aquatic Centre",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.2769,
+   "lng": -123.1351,
+   "wd": "Q130413865"
+  },
+  {
+   "name": "Sunset Beach",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.27986,
+   "lng": -123.13861,
+   "wd": "Q7641231"
+  },
+  {
+   "name": "Vanier Park",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.2778,
+   "lng": -123.143,
+   "wd": "Q7914902"
+  },
+  {
+   "name": "Victory Square, Vancouver",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.2821,
+   "lng": -123.11,
+   "wd": "Q10901377"
+  },
+  {
+   "name": "Lynn Canyon Suspension Bridge",
+   "cat": "관광",
+   "area": "노스 밴쿠버",
+   "lat": 49.3437,
+   "lng": -123.018,
+   "wd": "Q1878848"
+  },
+  {
+   "name": "Kensington Park",
+   "cat": "관광",
+   "area": "버나비",
+   "lat": 49.2775,
+   "lng": -122.977,
+   "wd": "Q6391472"
+  },
+  {
+   "name": "파크로얄 쇼핑몰",
+   "cat": "쇼핑",
+   "area": "웨스트밴쿠버",
+   "lat": 49.326,
+   "lng": -123.137,
+   "aliases": [
+    "Park Royal Shopping Centre"
+   ],
+   "wd": "Q7137992"
+  },
+  {
+   "name": "Lonsdale Quay Market",
+   "cat": "쇼핑",
+   "area": "노스밴쿠버",
+   "lat": 49.31043,
+   "lng": -123.08278,
+   "wd": "Q6674847"
+  },
+  {
+   "name": "The Polygon Gallery",
+   "cat": "관광",
+   "area": "노스밴쿠버",
+   "lat": 49.3103,
+   "lng": -123.0809,
+   "wd": "Q7240975"
+  },
+  {
+   "name": "Seawall",
+   "cat": "관광",
+   "area": "",
+   "lat": 49.3134,
+   "lng": -123.14563,
+   "wd": "Q2849509"
+  },
+  {
+   "name": "North Arm Bridge",
+   "cat": "관광",
+   "area": "브리티시컬럼비아주",
+   "lat": 49.20222,
+   "lng": -123.11778,
+   "wd": "Q7053967"
+  },
+  {
+   "name": "Bard on the Beach",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.27659,
+   "lng": -123.14211,
+   "wd": "Q807984"
+  },
+  {
+   "name": "Beatty Street Drill Hall",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.2794,
+   "lng": -123.111,
+   "wd": "Q4877316"
+  },
+  {
+   "name": "George Wainborn Park",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.27282,
+   "lng": -123.12888,
+   "wd": "Q5545799"
+  },
+  {
+   "name": "Girl in a Wetsuit",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.30262,
+   "lng": -123.12592,
+   "wd": "Q5564477"
+  },
+  {
+   "name": "Hastings Park",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.28521,
+   "lng": -123.04013,
+   "wd": "Q5680423"
+  },
+  {
+   "name": "Hastings Racecourse",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.2864,
+   "lng": -123.039,
+   "wd": "Q5680430"
+  },
+  {
+   "name": "Qube",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.2889,
+   "lng": -123.128,
+   "wd": "Q7269642"
+  },
+  {
+   "name": "Seaforth Armoury",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.271,
+   "lng": -123.144,
+   "wd": "Q7440409"
+  },
+  {
+   "name": "St. James Anglican Church",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.28249,
+   "lng": -123.09727,
+   "wd": "Q7588434"
+  },
+  {
+   "name": "Roedde House Museum",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.2869,
+   "lng": -123.132,
+   "wd": "Q18167820"
+  },
+  {
+   "name": "Brockton Point Lighthouse",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.30092,
+   "lng": -123.11702,
+   "wd": "Q19460680"
+  },
+  {
+   "name": "Vancouver Japanese Language School",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.2841,
+   "lng": -123.0938,
+   "wd": "Q27925825"
+  },
+  {
+   "name": "Vancouver International Film Centre",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.277,
+   "lng": -123.125,
+   "wd": "Q7914201"
+  },
+  {
+   "name": "Hotel Georgia",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.28344,
+   "lng": -123.11891,
+   "wd": "Q14874623"
+  },
+  {
+   "name": "Coastal Church",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.2864,
+   "lng": -123.1248,
+   "wd": "Q16836939"
+  },
+  {
+   "name": "St. Mark's Chapel",
+   "cat": "관광",
+   "area": "밴쿠버",
+   "lat": 49.2721,
+   "lng": -123.249,
+   "wd": "Q16900590"
+  },
+  {
+   "name": "Aberdeen Centre",
+   "cat": "쇼핑",
+   "area": "리치먼드",
+   "lat": 49.1841,
+   "lng": -123.134,
+   "wd": "Q4666899"
+  },
+  {
+   "name": "Minoru Chapel",
+   "cat": "관광",
+   "area": "리치먼드",
+   "lat": 49.16722,
+   "lng": -123.14611,
+   "wd": "Q14082090"
+  },
+  {
+   "name": "Burnaby Lake Regional Park",
+   "cat": "관광",
+   "area": "버나비",
+   "lat": 49.2425,
+   "lng": -122.9475,
+   "wd": "Q731136"
+  },
+  {
+   "name": "Lighthouse Park",
+   "cat": "관광",
+   "area": "웨스트밴쿠버",
+   "lat": 49.33516,
+   "lng": -123.26218,
+   "wd": "Q1824686"
+  },
+  {
+   "name": "The Amazing Brentwood",
+   "cat": "쇼핑",
+   "area": "버나비",
+   "lat": 49.2681,
+   "lng": -123,
+   "wd": "Q4961795"
+  },
+  {
+   "name": "Crystal Mall",
+   "cat": "쇼핑",
+   "area": "버나비",
+   "lat": 49.2292,
+   "lng": -123.005,
+   "wd": "Q5191279"
+  },
+  {
+   "name": "Metropolis at Metrotown",
+   "cat": "쇼핑",
+   "area": "버나비",
+   "lat": 49.2265,
+   "lng": -123,
+   "wd": "Q14874689"
+  },
+  {
+   "name": "King Edward VII fountain",
+   "cat": "관광",
+   "area": "",
+   "lat": 49.28322,
+   "lng": -123.12065,
+   "wd": "Q6411511"
+  },
+  {
+   "name": "Harbour Green Park",
+   "cat": "관광",
+   "area": "",
+   "lat": 49.29025,
+   "lng": -123.12179,
+   "wd": "Q22596778"
+  }
+ ]
+}

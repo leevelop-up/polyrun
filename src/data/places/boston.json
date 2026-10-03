@@ -1,0 +1,869 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "보스턴 미술관",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.33944,
+   "lng": -71.09417,
+   "aliases": [
+    "Museum of Fine Arts Boston"
+   ],
+   "wd": "Q49133"
+  },
+  {
+   "name": "이저벨라 스튜어트 가드너 박물관",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.33818,
+   "lng": -71.09912,
+   "aliases": [
+    "Isabella Stewart Gardner Museum"
+   ],
+   "wd": "Q49135"
+  },
+  {
+   "name": "배드 미술관",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.32194,
+   "lng": -71.0625,
+   "aliases": [
+    "Museum of Bad Art"
+   ],
+   "wd": "Q11643"
+  },
+  {
+   "name": "보스턴 코먼",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.355,
+   "lng": -71.06556,
+   "aliases": [
+    "Boston Common"
+   ],
+   "wd": "Q49132"
+  },
+  {
+   "name": "Peabody Museum of Archaeology and Ethnology",
+   "cat": "관광",
+   "area": "케임브리지",
+   "lat": 42.3782,
+   "lng": -71.1148,
+   "wd": "Q1249027"
+  },
+  {
+   "name": "하버드 미술관",
+   "cat": "관광",
+   "area": "케임브리지",
+   "lat": 42.37417,
+   "lng": -71.11472,
+   "aliases": [
+    "Harvard Art Museums"
+   ],
+   "wd": "Q3783572"
+  },
+  {
+   "name": "코플리 광장",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.35,
+   "lng": -71.076,
+   "aliases": [
+    "Copley Square"
+   ],
+   "wd": "Q901479"
+  },
+  {
+   "name": "올드 노스 교회",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.36639,
+   "lng": -71.05444,
+   "aliases": [
+    "Old North Church"
+   ],
+   "wd": "Q1321240"
+  },
+  {
+   "name": "Arnold Arboretum",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.29778,
+   "lng": -71.12278,
+   "wd": "Q568666"
+  },
+  {
+   "name": "벙커 힐 기념탑",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.37636,
+   "lng": -71.06078,
+   "aliases": [
+    "Bunker Hill Monument"
+   ],
+   "wd": "Q1009561"
+  },
+  {
+   "name": "올드 스테이트 하우스",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.35875,
+   "lng": -71.05747,
+   "aliases": [
+    "Old State House"
+   ],
+   "wd": "Q1320533"
+  },
+  {
+   "name": "심포니 홀",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.34259,
+   "lng": -71.08581,
+   "aliases": [
+    "Symphony Hall"
+   ],
+   "wd": "Q3045309"
+  },
+  {
+   "name": "Museum of Comparative Zoology",
+   "cat": "관광",
+   "area": "케임브리지",
+   "lat": 42.3785,
+   "lng": -71.1156,
+   "wd": "Q1420782"
+  },
+  {
+   "name": "트리니티 교회",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.34989,
+   "lng": -71.07536,
+   "aliases": [
+    "Trinity Church"
+   ],
+   "wd": "Q901259"
+  },
+  {
+   "name": "Cathedral of the Holy Cross",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.3406,
+   "lng": -71.0697,
+   "wd": "Q2942887"
+  },
+  {
+   "name": "포그 미술관",
+   "cat": "관광",
+   "area": "케임브리지",
+   "lat": 42.37409,
+   "lng": -71.11436,
+   "aliases": [
+    "Fogg Museum"
+   ],
+   "wd": "Q809600"
+  },
+  {
+   "name": "보스턴 퍼블릭 가든",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.3541,
+   "lng": -71.0699,
+   "aliases": [
+    "Boston Public Garden"
+   ],
+   "wd": "Q894579"
+  },
+  {
+   "name": "과학박물관",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.3675,
+   "lng": -71.07111,
+   "aliases": [
+    "Museum of Science"
+   ],
+   "wd": "Q1139748"
+  },
+  {
+   "name": "킹스 채플",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.35806,
+   "lng": -71.06,
+   "aliases": [
+    "King's Chapel"
+   ],
+   "wd": "Q1139921"
+  },
+  {
+   "name": "Boston Navy Yard",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.37611,
+   "lng": -71.0525,
+   "wd": "Q894573"
+  },
+  {
+   "name": "올드 사우스 교회",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.3502,
+   "lng": -71.07801,
+   "aliases": [
+    "Old South Church"
+   ],
+   "wd": "Q1059013"
+  },
+  {
+   "name": "Stata Center",
+   "cat": "관광",
+   "area": "케임브리지",
+   "lat": 42.36154,
+   "lng": -71.09056,
+   "wd": "Q3312712"
+  },
+  {
+   "name": "파크 스트리트 교회",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.35694,
+   "lng": -71.06222,
+   "aliases": [
+    "Park Street Church"
+   ],
+   "wd": "Q1139853"
+  },
+  {
+   "name": "Fort Independence",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.33806,
+   "lng": -71.01167,
+   "wd": "Q1438579"
+  },
+  {
+   "name": "Harvard Bridge",
+   "cat": "관광",
+   "area": "매사추세츠주",
+   "lat": 42.35698,
+   "lng": -71.09254,
+   "wd": "Q1587840"
+  },
+  {
+   "name": "Harvard Museum of Natural History",
+   "cat": "관광",
+   "area": "매사추세츠주",
+   "lat": 42.37841,
+   "lng": -71.11555,
+   "wd": "Q2001855"
+  },
+  {
+   "name": "Leonard P. Zakim Bunker Hill Memorial Bridge",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.36875,
+   "lng": -71.06319,
+   "wd": "Q151914"
+  },
+  {
+   "name": "New England Holocaust Memorial",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.3613,
+   "lng": -71.0573,
+   "wd": "Q1532554"
+  },
+  {
+   "name": "뉴잉글랜드 수족관",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.35902,
+   "lng": -71.05068,
+   "aliases": [
+    "New England Aquarium"
+   ],
+   "wd": "Q2859185"
+  },
+  {
+   "name": "매튜스 아레나",
+   "cat": "관광",
+   "area": "매사추세츠주",
+   "lat": 42.3411,
+   "lng": -71.0844,
+   "aliases": [
+    "Matthews Arena"
+   ],
+   "wd": "Q919959"
+  },
+  {
+   "name": "Harvard Square",
+   "cat": "관광",
+   "area": "케임브리지",
+   "lat": 42.37361,
+   "lng": -71.11889,
+   "wd": "Q1587858"
+  },
+  {
+   "name": "Harvard Museum of the Ancient Near East",
+   "cat": "관광",
+   "area": "케임브리지",
+   "lat": 42.3781,
+   "lng": -71.1139,
+   "wd": "Q2918448"
+  },
+  {
+   "name": "Metropolitan Waterworks Museum",
+   "cat": "관광",
+   "area": "체스트넛힐",
+   "lat": 42.33169,
+   "lng": -71.15565,
+   "wd": "Q73906704"
+  },
+  {
+   "name": "Basilica and Shrine of Our Lady of Perpetual Help",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.33258,
+   "lng": -71.1006,
+   "wd": "Q810125"
+  },
+  {
+   "name": "Institute of Contemporary Art, Boston",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.3528,
+   "lng": -71.0429,
+   "wd": "Q3152226"
+  },
+  {
+   "name": "Fort Warren",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.32028,
+   "lng": -70.92778,
+   "wd": "Q2287837"
+  },
+  {
+   "name": "성십자가 그리스 정교회 신학교",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.3171,
+   "lng": -71.129,
+   "aliases": [
+    "Hellenic College and Holy Cross Greek Orthodox School of Theology"
+   ],
+   "wd": "Q5707189"
+  },
+  {
+   "name": "Longfellow Bridge",
+   "cat": "관광",
+   "area": "매사추세츠주",
+   "lat": 42.36167,
+   "lng": -71.07528,
+   "wd": "Q1479078"
+  },
+  {
+   "name": "Kenmore Square",
+   "cat": "관광",
+   "area": "매사추세츠주",
+   "lat": 42.3487,
+   "lng": -71.0956,
+   "wd": "Q1738779"
+  },
+  {
+   "name": "Charlestown Bridge",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.3689,
+   "lng": -71.06,
+   "wd": "Q1066692"
+  },
+  {
+   "name": "African Meeting House",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.35998,
+   "lng": -71.06548,
+   "wd": "Q3329655"
+  },
+  {
+   "name": "Boston Music Hall",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.3562,
+   "lng": -71.0608,
+   "wd": "Q14715412"
+  },
+  {
+   "name": "Armenian Heritage Park",
+   "cat": "관광",
+   "area": "매사추세츠주",
+   "lat": 42.3611,
+   "lng": -71.0532,
+   "wd": "Q4793193"
+  },
+  {
+   "name": "Stone Zoo",
+   "cat": "관광",
+   "area": "매사추세츠주",
+   "lat": 42.463,
+   "lng": -71.0929,
+   "wd": "Q7619047"
+  },
+  {
+   "name": "Islamic Society of Boston",
+   "cat": "관광",
+   "area": "매사추세츠주",
+   "lat": 42.3309,
+   "lng": -71.0934,
+   "wd": "Q14715618"
+  },
+  {
+   "name": "존 하버드 동상",
+   "cat": "관광",
+   "area": "미들섹스군",
+   "lat": 42.37447,
+   "lng": -71.11719,
+   "aliases": [
+    "John Harvard statue"
+   ],
+   "wd": "Q6238106"
+  },
+  {
+   "name": "Revere Beach",
+   "cat": "관광",
+   "area": "리비어",
+   "lat": 42.40784,
+   "lng": -70.99084,
+   "wd": "Q2146799"
+  },
+  {
+   "name": "Mosque No. 11",
+   "cat": "관광",
+   "area": "",
+   "lat": 42.31155,
+   "lng": -71.08014,
+   "wd": "Q29097769"
+  },
+  {
+   "name": "Agganis Arena",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.3522,
+   "lng": -71.1178,
+   "wd": "Q4692179"
+  },
+  {
+   "name": "Cathedral of St. George Historic District",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.33531,
+   "lng": -71.04356,
+   "wd": "Q4798109"
+  },
+  {
+   "name": "Brewer Fountain",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.3562,
+   "lng": -71.0631,
+   "wd": "Q4962652"
+  },
+  {
+   "name": "Church of the Covenant",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.35217,
+   "lng": -71.07393,
+   "wd": "Q5117829"
+  },
+  {
+   "name": "First Baptist Church",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.35192,
+   "lng": -71.07622,
+   "wd": "Q5452368"
+  },
+  {
+   "name": "Post Office Square",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.3563,
+   "lng": -71.0557,
+   "wd": "Q7233695"
+  },
+  {
+   "name": "Shubert Theatre",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.3504,
+   "lng": -71.0651,
+   "wd": "Q7504541"
+  },
+  {
+   "name": "Soldiers and Sailors Monument",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.355,
+   "lng": -71.06583,
+   "wd": "Q7557410"
+  },
+  {
+   "name": "Dewey Square",
+   "cat": "관광",
+   "area": "매사추세츠주",
+   "lat": 42.3528,
+   "lng": -71.0556,
+   "wd": "Q2754409"
+  },
+  {
+   "name": "Annunciation Melkite Catholic Cathedral",
+   "cat": "관광",
+   "area": "매사추세츠주",
+   "lat": 42.2975,
+   "lng": -71.1344,
+   "wd": "Q4769775"
+  },
+  {
+   "name": "Franklin Park Zoo",
+   "cat": "관광",
+   "area": "매사추세츠주",
+   "lat": 42.3052,
+   "lng": -71.0891,
+   "wd": "Q5491738"
+  },
+  {
+   "name": "The First Church of Christ, Scientist",
+   "cat": "관광",
+   "area": "매사추세츠주",
+   "lat": 42.3444,
+   "lng": -71.0849,
+   "wd": "Q7734092"
+  },
+  {
+   "name": "USS Constitution Museum",
+   "cat": "관광",
+   "area": "매사추세츠주",
+   "lat": 42.37394,
+   "lng": -71.05551,
+   "wd": "Q7868542"
+  },
+  {
+   "name": "Busch–Reisinger Museum",
+   "cat": "관광",
+   "area": "케임브리지",
+   "lat": 42.37511,
+   "lng": -71.11457,
+   "wd": "Q1017269"
+  },
+  {
+   "name": "Green Building",
+   "cat": "관광",
+   "area": "케임브리지",
+   "lat": 42.3603,
+   "lng": -71.0893,
+   "wd": "Q5602382"
+  },
+  {
+   "name": "Frederick Law Olmsted National Historic Site",
+   "cat": "관광",
+   "area": "브루클라인",
+   "lat": 42.325,
+   "lng": -71.13222,
+   "wd": "Q5498250"
+  },
+  {
+   "name": "Back Bay Fens",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.3423,
+   "lng": -71.093,
+   "wd": "Q798303"
+  },
+  {
+   "name": "Old West Church",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.36144,
+   "lng": -71.06421,
+   "wd": "Q1597350"
+  },
+  {
+   "name": "Olmsted Park",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.32611,
+   "lng": -71.11444,
+   "wd": "Q2021084"
+  },
+  {
+   "name": "St. Stephen's Church",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.36561,
+   "lng": -71.05281,
+   "wd": "Q2323323"
+  },
+  {
+   "name": "Annunciation Greek Orthodox Cathedral of New England",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.33667,
+   "lng": -71.09361,
+   "wd": "Q4769774"
+  },
+  {
+   "name": "Charles Playhouse",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.35056,
+   "lng": -71.06556,
+   "wd": "Q5081687"
+  },
+  {
+   "name": "Charles Street Meeting House",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.3579,
+   "lng": -71.0706,
+   "wd": "Q5082721"
+  },
+  {
+   "name": "Copley Society of Art",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.35051,
+   "lng": -71.07824,
+   "wd": "Q5168633"
+  },
+  {
+   "name": "Fenway Studios",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.34722,
+   "lng": -71.09111,
+   "wd": "Q5443667"
+  },
+  {
+   "name": "Larz Anderson Park",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.31194,
+   "lng": -71.13611,
+   "wd": "Q6492004"
+  },
+  {
+   "name": "Long Island Head Light",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.33022,
+   "lng": -70.95767,
+   "wd": "Q6672695"
+  },
+  {
+   "name": "Statue of Benjamin Franklin",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.35806,
+   "lng": -71.05972,
+   "wd": "Q49474378"
+  },
+  {
+   "name": "Statue of Edward Everett Hale",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.35453,
+   "lng": -71.06875,
+   "wd": "Q49485910"
+  },
+  {
+   "name": "Tobin Bridge",
+   "cat": "관광",
+   "area": "매사추세츠주",
+   "lat": 42.3848,
+   "lng": -71.0475,
+   "wd": "Q151947"
+  },
+  {
+   "name": "The Country Club",
+   "cat": "쇼핑",
+   "area": "매사추세츠주",
+   "lat": 42.3133,
+   "lng": -71.1508,
+   "wd": "Q2278251"
+  },
+  {
+   "name": "Carson Beach, South Boston",
+   "cat": "관광",
+   "area": "매사추세츠주",
+   "lat": 42.3262,
+   "lng": -71.0481,
+   "wd": "Q5046907"
+  },
+  {
+   "name": "Mary T. Ronan School",
+   "cat": "관광",
+   "area": "매사추세츠주",
+   "lat": 42.39611,
+   "lng": -70.98694,
+   "wd": "Q6780808"
+  },
+  {
+   "name": "Pemberton Square",
+   "cat": "관광",
+   "area": "매사추세츠주",
+   "lat": 42.3587,
+   "lng": -71.0615,
+   "wd": "Q7161895"
+  },
+  {
+   "name": "Winthrop Beach",
+   "cat": "관광",
+   "area": "매사추세츠주",
+   "lat": 42.375,
+   "lng": -70.97028,
+   "wd": "Q8026557"
+  },
+  {
+   "name": "Wollaston Beach",
+   "cat": "관광",
+   "area": "매사추세츠주",
+   "lat": 42.28065,
+   "lng": -71.01199,
+   "wd": "Q8030314"
+  },
+  {
+   "name": "Rose Fitzgerald Kennedy Greenway",
+   "cat": "관광",
+   "area": "매사추세츠주",
+   "lat": 42.3572,
+   "lng": -71.0513,
+   "wd": "Q12067553"
+  },
+  {
+   "name": "Fort Washington",
+   "cat": "관광",
+   "area": "케임브리지",
+   "lat": 42.35639,
+   "lng": -71.10444,
+   "wd": "Q5472257"
+  },
+  {
+   "name": "Inman Square",
+   "cat": "관광",
+   "area": "케임브리지",
+   "lat": 42.37372,
+   "lng": -71.10083,
+   "wd": "Q6035057"
+  },
+  {
+   "name": "Kresge Auditorium",
+   "cat": "관광",
+   "area": "케임브리지",
+   "lat": 42.3581,
+   "lng": -71.0951,
+   "wd": "Q6436787"
+  },
+  {
+   "name": "MIT Chapel",
+   "cat": "관광",
+   "area": "케임브리지",
+   "lat": 42.3583,
+   "lng": -71.0941,
+   "wd": "Q6716291"
+  },
+  {
+   "name": "Porter Square",
+   "cat": "관광",
+   "area": "케임브리지",
+   "lat": 42.3886,
+   "lng": -71.1194,
+   "wd": "Q7231656"
+  },
+  {
+   "name": "Saint Aidan's Church and Rectory",
+   "cat": "관광",
+   "area": "브루클라인",
+   "lat": 42.3475,
+   "lng": -71.11972,
+   "wd": "Q7400882"
+  },
+  {
+   "name": "North Bennet Street School",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.3662,
+   "lng": -71.0547,
+   "wd": "Q500269"
+  },
+  {
+   "name": "Orpheum Theatre",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.3562,
+   "lng": -71.0608,
+   "wd": "Q894568"
+  },
+  {
+   "name": "First Church in Boston",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.35364,
+   "lng": -71.07476,
+   "wd": "Q989111"
+  },
+  {
+   "name": "Colonial Theatre, Boston",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.3523,
+   "lng": -71.0654,
+   "wd": "Q2984240"
+  },
+  {
+   "name": "Ether Monument",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.35538,
+   "lng": -71.072,
+   "wd": "Q3718507"
+  },
+  {
+   "name": "Bedford Block",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.35318,
+   "lng": -71.05807,
+   "wd": "Q4879106"
+  },
+  {
+   "name": "Benedict Fenwick School",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.31361,
+   "lng": -71.0725,
+   "wd": "Q4887261"
+  },
+  {
+   "name": "Bigelow School",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.33747,
+   "lng": -71.05026,
+   "wd": "Q4906816"
+  },
+  {
+   "name": "Bowditch School",
+   "cat": "관광",
+   "area": "보스턴",
+   "lat": 42.31172,
+   "lng": -71.1095,
+   "wd": "Q4950750"
+  }
+ ]
+}

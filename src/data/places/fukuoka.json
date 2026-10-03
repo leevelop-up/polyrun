@@ -1,0 +1,566 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "후쿠오카 타워",
+   "cat": "관광",
+   "area": "Momochi-hama",
+   "lat": 33.59331,
+   "lng": 130.3515,
+   "aliases": [
+    "Fukuoka Tower"
+   ],
+   "wd": "Q847033"
+  },
+  {
+   "name": "Fukuoka Mosque",
+   "cat": "관광",
+   "area": "후쿠오카시",
+   "lat": 33.62,
+   "lng": 130.42694,
+   "wd": "Q5507696"
+  },
+  {
+   "name": "Shōfuku-ji Temple",
+   "cat": "관광",
+   "area": "Gokushomachi",
+   "lat": 33.59739,
+   "lng": 130.41447,
+   "wd": "Q657825"
+  },
+  {
+   "name": "후쿠오카시 미술관",
+   "cat": "관광",
+   "area": "Ōhorikōen",
+   "lat": 33.58383,
+   "lng": 130.37951,
+   "aliases": [
+    "Fukuoka Art Museum"
+   ],
+   "wd": "Q3073273"
+  },
+  {
+   "name": "후쿠오카성",
+   "cat": "관광",
+   "area": "Maizuru Kōen",
+   "lat": 33.58438,
+   "lng": 130.3831,
+   "aliases": [
+    "Fukuoka Castle"
+   ],
+   "wd": "Q1143944"
+  },
+  {
+   "name": "Hakozaki Shrine",
+   "cat": "관광",
+   "area": "후쿠오카시",
+   "lat": 33.61475,
+   "lng": 130.42289,
+   "wd": "Q714742"
+  },
+  {
+   "name": "미즈키",
+   "cat": "관광",
+   "area": "후쿠오카현",
+   "lat": 33.5181,
+   "lng": 130.4928,
+   "aliases": [
+    "Mizuki"
+   ],
+   "wd": "Q11548410"
+  },
+  {
+   "name": "후쿠오카 현립 미술관",
+   "cat": "관광",
+   "area": "덴진",
+   "lat": 33.59731,
+   "lng": 130.39875,
+   "aliases": [
+    "Fukuoka Prefectural Museum of Art"
+   ],
+   "wd": "Q11592587"
+  },
+  {
+   "name": "Sōfuku-ji Temple",
+   "cat": "관광",
+   "area": "하카타구",
+   "lat": 33.6057,
+   "lng": 130.414,
+   "wd": "Q3511678"
+  },
+  {
+   "name": "Our Lady of Victory Cathedral, Fukuoka",
+   "cat": "관광",
+   "area": "Daimyō",
+   "lat": 33.59039,
+   "lng": 130.395,
+   "wd": "Q4425927"
+  },
+  {
+   "name": "Sumiyoshi Shrine",
+   "cat": "관광",
+   "area": "지쿠젠국",
+   "lat": 33.58575,
+   "lng": 130.41375,
+   "wd": "Q29682"
+  },
+  {
+   "name": "Hakata Port Tower",
+   "cat": "관광",
+   "area": "하카타구",
+   "lat": 33.60444,
+   "lng": 130.39778,
+   "wd": "Q1568000"
+  },
+  {
+   "name": "Kashii-gū",
+   "cat": "관광",
+   "area": "지쿠젠국",
+   "lat": 33.65349,
+   "lng": 130.45266,
+   "wd": "Q631373"
+  },
+  {
+   "name": "Fukuoka Japan Temple",
+   "cat": "관광",
+   "area": "주오구",
+   "lat": 33.57262,
+   "lng": 130.3917,
+   "wd": "Q3235448"
+  },
+  {
+   "name": "NHK 후쿠오카 방송국",
+   "cat": "관광",
+   "area": "Ropponmatsu",
+   "lat": 33.58169,
+   "lng": 130.37933,
+   "aliases": [
+    "NHK Fukuoka Broadcasting Station"
+   ],
+   "wd": "Q10854748"
+  },
+  {
+   "name": "Fukuoka Oriental Ceramics Museum",
+   "cat": "관광",
+   "area": "Nanakuma",
+   "lat": 33.55223,
+   "lng": 130.3633,
+   "wd": "Q11592423"
+  },
+  {
+   "name": "구시다 신사",
+   "cat": "관광",
+   "area": "Kami-kawabatamachi",
+   "lat": 33.59311,
+   "lng": 130.41069,
+   "aliases": [
+    "Kushida Shrine"
+   ],
+   "wd": "Q865839"
+  },
+  {
+   "name": "커낼시티 하카타",
+   "cat": "쇼핑",
+   "area": "하카타구",
+   "lat": 33.59111,
+   "lng": 130.41056,
+   "aliases": [
+    "Canal City Hakata"
+   ],
+   "wd": "Q1050353"
+  },
+  {
+   "name": "Fukuoka Municipal Zoo and Botanical Garden",
+   "cat": "관광",
+   "area": "Terukuni",
+   "lat": 33.57225,
+   "lng": 130.39023,
+   "wd": "Q5507695"
+  },
+  {
+   "name": "Hakata-za",
+   "cat": "관광",
+   "area": "Shimo-kawabatamachi",
+   "lat": 33.5957,
+   "lng": 130.40648,
+   "wd": "Q5640353"
+  },
+  {
+   "name": "Umi Hachimangū",
+   "cat": "관광",
+   "area": "우미정",
+   "lat": 33.57028,
+   "lng": 130.50889,
+   "wd": "Q924940"
+  },
+  {
+   "name": "ACROS Fukuoka",
+   "cat": "관광",
+   "area": "덴진",
+   "lat": 33.59153,
+   "lng": 130.40247,
+   "wd": "Q2819057"
+  },
+  {
+   "name": "Shikaumi Shrine",
+   "cat": "관광",
+   "area": "지쿠젠국",
+   "lat": 33.66789,
+   "lng": 130.31319,
+   "wd": "Q11491171"
+  },
+  {
+   "name": "Najima Castle",
+   "cat": "관광",
+   "area": "히가시구",
+   "lat": 33.64584,
+   "lng": 130.42314,
+   "wd": "Q2970111"
+  },
+  {
+   "name": "Fukuoka Asian Art Museum",
+   "cat": "관광",
+   "area": "하카타구",
+   "lat": 33.59503,
+   "lng": 130.40592,
+   "wd": "Q3330163"
+  },
+  {
+   "name": "Tōchō-ji Temple",
+   "cat": "관광",
+   "area": "Gokushomachi",
+   "lat": 33.59519,
+   "lng": 130.41397,
+   "wd": "Q3547067"
+  },
+  {
+   "name": "마린월드 우미노나카미치",
+   "cat": "관광",
+   "area": "히가시구",
+   "lat": 33.66083,
+   "lng": 130.36333,
+   "aliases": [
+    "Marine World Uminonakamichi"
+   ],
+   "wd": "Q6764266"
+  },
+  {
+   "name": "Jōten-ji Temple",
+   "cat": "관광",
+   "area": "Hakata-ekimae",
+   "lat": 33.59528,
+   "lng": 130.41694,
+   "wd": "Q3191242"
+  },
+  {
+   "name": "Tachibana Castle",
+   "cat": "관광",
+   "area": "",
+   "lat": 33.67972,
+   "lng": 130.46832,
+   "wd": "Q866621"
+  },
+  {
+   "name": "Seinan Gakuin University Biblical Botanical Garden",
+   "cat": "관광",
+   "area": "후쿠오카현",
+   "lat": 33.58333,
+   "lng": 130.4,
+   "wd": "Q9010947"
+  },
+  {
+   "name": "Shōkaku-ji Temple",
+   "cat": "관광",
+   "area": "조난구",
+   "lat": 33.52731,
+   "lng": 130.36994,
+   "wd": "Q11545643"
+  },
+  {
+   "name": "Washio-atago Shrine",
+   "cat": "관광",
+   "area": "니시구",
+   "lat": 33.58556,
+   "lng": 130.33472,
+   "wd": "Q11676235"
+  },
+  {
+   "name": "우미노나카미치 해변공원",
+   "cat": "관광",
+   "area": "히가시구",
+   "lat": 33.65922,
+   "lng": 130.35347,
+   "aliases": [
+    "Uminonakamichi Seaside Park"
+   ],
+   "wd": "Q11558610"
+  },
+  {
+   "name": "원구 사료관",
+   "cat": "관광",
+   "area": "Higashi-kōen",
+   "lat": 33.60721,
+   "lng": 130.42039,
+   "aliases": [
+    "Genkō Historical Museum"
+   ],
+   "wd": "Q10889644"
+  },
+  {
+   "name": "Itazuke Site",
+   "cat": "관광",
+   "area": "이타즈케",
+   "lat": 33.56547,
+   "lng": 130.45281,
+   "wd": "Q11532469"
+  },
+  {
+   "name": "Kōrokan",
+   "cat": "관광",
+   "area": "Maizuru Kōen",
+   "lat": 33.5865,
+   "lng": 130.38569,
+   "wd": "Q11675677"
+  },
+  {
+   "name": "주후쿠오카 미국 영사관",
+   "cat": "관광",
+   "area": "Ōhori",
+   "lat": 33.58808,
+   "lng": 130.37303,
+   "aliases": [
+    "U.S. Consulate Fukuoka"
+   ],
+   "wd": "Q47452365"
+  },
+  {
+   "name": "Sugu-Okamoto Site",
+   "cat": "관광",
+   "area": "가스가시",
+   "lat": 33.53808,
+   "lng": 130.4505,
+   "wd": "Q11473236"
+  },
+  {
+   "name": "Kasuga Shrine",
+   "cat": "관광",
+   "area": "가스가시",
+   "lat": 33.52189,
+   "lng": 130.46928,
+   "wd": "Q11513666"
+  },
+  {
+   "name": "Yūsentei Park",
+   "cat": "관광",
+   "area": "조난구",
+   "lat": 33.56282,
+   "lng": 130.37635,
+   "wd": "Q8062769"
+  },
+  {
+   "name": "덴진 지하가",
+   "cat": "쇼핑",
+   "area": "덴진",
+   "lat": 33.59,
+   "lng": 130.3995,
+   "aliases": [
+    "Tenjin Chikagai"
+   ],
+   "wd": "Q11234557"
+  },
+  {
+   "name": "Shōryū-ji Temple",
+   "cat": "관광",
+   "area": "덴진",
+   "lat": 33.59389,
+   "lng": 130.40078,
+   "wd": "Q30932323"
+  },
+  {
+   "name": "왕정치 베이스볼 뮤지엄",
+   "cat": "관광",
+   "area": "주오구",
+   "lat": 33.59517,
+   "lng": 130.36192,
+   "aliases": [
+    "Oh Sadaharu Baseball Museum",
+    "왕정치 야구 박물관"
+   ],
+   "wd": "Q575508"
+  },
+  {
+   "name": "마리노아시티 후쿠오카",
+   "cat": "쇼핑",
+   "area": "니시구",
+   "lat": 33.59436,
+   "lng": 130.32275,
+   "aliases": [
+    "Marinoa City Fukuoka"
+   ],
+   "wd": "Q11238879"
+  },
+  {
+   "name": "솔라리아 스테이지",
+   "cat": "쇼핑",
+   "area": "주오구",
+   "lat": 33.59,
+   "lng": 130.399,
+   "aliases": [
+    "Solaria Stage"
+   ],
+   "wd": "Q11315372"
+  },
+  {
+   "name": "Terumo Shrine",
+   "cat": "관광",
+   "area": "주오구",
+   "lat": 33.59749,
+   "lng": 130.37654,
+   "wd": "Q11388585"
+  },
+  {
+   "name": "Koshu-ji Temple",
+   "cat": "관광",
+   "area": "미나미구",
+   "lat": 33.5575,
+   "lng": 130.40111,
+   "wd": "Q11613380"
+  },
+  {
+   "name": "Nokata Site",
+   "cat": "관광",
+   "area": "니시구",
+   "lat": 33.5554,
+   "lng": 130.30599,
+   "wd": "Q17215101"
+  },
+  {
+   "name": "Uminonakamichi Bridge",
+   "cat": "관광",
+   "area": "히가시구",
+   "lat": 33.67361,
+   "lng": 130.40694,
+   "wd": "Q11558611"
+  },
+  {
+   "name": "Shōfū-en",
+   "cat": "관광",
+   "area": "Hirao",
+   "lat": 33.57406,
+   "lng": 130.39619,
+   "wd": "Q46995835"
+  },
+  {
+   "name": "Rakusui-en",
+   "cat": "관광",
+   "area": "Sumiyoshi",
+   "lat": 33.58686,
+   "lng": 130.41347,
+   "wd": "Q11117155"
+  },
+  {
+   "name": "베이사이드 플레이스 하카타 부두",
+   "cat": "관광",
+   "area": "Chikkō-honmachi",
+   "lat": 33.60378,
+   "lng": 130.39886,
+   "aliases": [
+    "Bayside Place Hakata Wharf"
+   ],
+   "wd": "Q11244907"
+  },
+  {
+   "name": "마리존",
+   "cat": "쇼핑",
+   "area": "Momochi-hama",
+   "lat": 33.59561,
+   "lng": 130.35108,
+   "aliases": [
+    "Marizon"
+   ],
+   "wd": "Q11341062"
+  },
+  {
+   "name": "Najima Bridge",
+   "cat": "관광",
+   "area": "Hakozaki",
+   "lat": 33.63958,
+   "lng": 130.42692,
+   "wd": "Q11415403"
+  },
+  {
+   "name": "Aratsu Bridge",
+   "cat": "관광",
+   "area": "Nanotsu",
+   "lat": 33.59978,
+   "lng": 130.38317,
+   "wd": "Q11618776"
+  },
+  {
+   "name": "MARK IS 후쿠오카 모모치",
+   "cat": "쇼핑",
+   "area": "Jigyō-hama",
+   "lat": 33.592,
+   "lng": 130.36378,
+   "aliases": [
+    "MARK IS Fukuoka Momochi"
+   ],
+   "wd": "Q60987739"
+  },
+  {
+   "name": "시사이드모모치 해변공원",
+   "cat": "관광",
+   "area": "Jigyō-hama",
+   "lat": 33.59412,
+   "lng": 130.35135,
+   "aliases": [
+    "Seaside Momochi Seaside Park"
+   ],
+   "wd": "Q115792838"
+  },
+  {
+   "name": "Kanenokuma Site",
+   "cat": "관광",
+   "area": "Kanenokuma",
+   "lat": 33.56239,
+   "lng": 130.47194,
+   "wd": "Q125701009"
+  },
+  {
+   "name": "가시이 가모메 대교",
+   "cat": "관광",
+   "area": "",
+   "lat": 33.64472,
+   "lng": 130.41139,
+   "aliases": [
+    "Kashii Kamome Bridge"
+   ],
+   "wd": "Q10855023"
+  },
+  {
+   "name": "Fukuoka Kasuga Park Stadium",
+   "cat": "관광",
+   "area": "",
+   "lat": 33.52867,
+   "lng": 130.47033,
+   "wd": "Q11513583"
+  },
+  {
+   "name": "Yanagibashi Rengo Ichiba",
+   "cat": "쇼핑",
+   "area": "",
+   "lat": 33.58306,
+   "lng": 130.40833,
+   "wd": "Q11534354"
+  },
+  {
+   "name": "Yoshitaketakagi Site",
+   "cat": "관광",
+   "area": "",
+   "lat": 33.53794,
+   "lng": 130.31856,
+   "wd": "Q102282475"
+  }
+ ]
+}

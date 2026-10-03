@@ -1,0 +1,218 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "롱교",
+   "cat": "관광",
+   "area": "다낭",
+   "lat": 16.06111,
+   "lng": 108.22667,
+   "aliases": [
+    "Dragon River Bridge"
+   ],
+   "wd": "Q5305270"
+  },
+  {
+   "name": "송한교",
+   "cat": "관광",
+   "area": "",
+   "lat": 16.07228,
+   "lng": 108.22672,
+   "aliases": [
+    "Han River Bridge"
+   ],
+   "wd": "Q10752400"
+  },
+  {
+   "name": "쩐티리교",
+   "cat": "관광",
+   "area": "다낭",
+   "lat": 16.05028,
+   "lng": 108.22944,
+   "aliases": [
+    "Tran Thi Ly Bridge"
+   ],
+   "wd": "Q7833322"
+  },
+  {
+   "name": "투언안프억교",
+   "cat": "관광",
+   "area": "",
+   "lat": 16.0919,
+   "lng": 108.222,
+   "aliases": [
+    "Thuận Phước Bridge"
+   ],
+   "wd": "Q7798648"
+  },
+  {
+   "name": "Precious Heritage Art Gallery Museum",
+   "cat": "관광",
+   "area": "호이안",
+   "lat": 15.87723,
+   "lng": 108.3342,
+   "wd": "Q30744118"
+  },
+  {
+   "name": "Museum of Trade Ceramics",
+   "cat": "관광",
+   "area": "호이안",
+   "lat": 15.87723,
+   "lng": 108.32968,
+   "wd": "Q6941034"
+  },
+  {
+   "name": "Hoi An Museum",
+   "cat": "관광",
+   "area": "호이안",
+   "lat": 15.879,
+   "lng": 108.329,
+   "wd": "Q114397271"
+  },
+  {
+   "name": "Tiên Sơn Bridge",
+   "cat": "관광",
+   "area": "다낭",
+   "lat": 16.03547,
+   "lng": 108.23607,
+   "wd": "Q10752410"
+  },
+  {
+   "name": "Zone 5 Military Museum",
+   "cat": "관광",
+   "area": "다낭",
+   "lat": 16.0487,
+   "lng": 108.218,
+   "wd": "Q18164670"
+  },
+  {
+   "name": "Son Tra Guanyin",
+   "cat": "관광",
+   "area": "다낭",
+   "lat": 16.0996,
+   "lng": 108.2769,
+   "wd": "Q60853845"
+  },
+  {
+   "name": "Dien Hai Citadel",
+   "cat": "관광",
+   "area": "하이쩌우군",
+   "lat": 16.07634,
+   "lng": 108.22178,
+   "wd": "Q3917231"
+  },
+  {
+   "name": "March 29 Park",
+   "cat": "관광",
+   "area": "다낭",
+   "lat": 16.06271,
+   "lng": 108.20481,
+   "wd": "Q32176308"
+  },
+  {
+   "name": "Nguyen Van Troi Bridge",
+   "cat": "관광",
+   "area": "다낭",
+   "lat": 16.05106,
+   "lng": 108.22881,
+   "wd": "Q65164322"
+  },
+  {
+   "name": "Cua Dai Bridge",
+   "cat": "관광",
+   "area": "",
+   "lat": 15.86553,
+   "lng": 108.37618,
+   "wd": "Q24959045"
+  },
+  {
+   "name": "Quan Cong Temple",
+   "cat": "관광",
+   "area": "호이안",
+   "lat": 15.87944,
+   "lng": 108.335,
+   "wd": "Q56320631"
+  },
+  {
+   "name": "Nguyen Tri Phuong Bridge",
+   "cat": "관광",
+   "area": "",
+   "lat": 16.01571,
+   "lng": 108.21375,
+   "wd": "Q10752385"
+  },
+  {
+   "name": "Bãi Tắm Nam Ô",
+   "cat": "관광",
+   "area": "",
+   "lat": 16.13556,
+   "lng": 108.12306,
+   "wd": "Q32174278"
+  },
+  {
+   "name": "Bãi Tắm Non Nước",
+   "cat": "관광",
+   "area": "",
+   "lat": 16.00722,
+   "lng": 108.26806,
+   "wd": "Q32174297"
+  },
+  {
+   "name": "Cau Lau Bridge",
+   "cat": "관광",
+   "area": "디엔반 시사",
+   "lat": 15.86155,
+   "lng": 108.27218,
+   "wd": "Q32300559"
+  },
+  {
+   "name": "Evangelical Church of Hội An",
+   "cat": "관광",
+   "area": "호이안",
+   "lat": 15.87875,
+   "lng": 108.32332,
+   "wd": "Q89576998"
+  },
+  {
+   "name": "Hoi An Park",
+   "cat": "관광",
+   "area": "호이안",
+   "lat": 15.88031,
+   "lng": 108.33408,
+   "wd": "Q113003348"
+  },
+  {
+   "name": "Minh Huong Temple of Literature, Hoi An",
+   "cat": "관광",
+   "area": "호이안",
+   "lat": 15.87871,
+   "lng": 108.33048,
+   "wd": "Q132483343"
+  },
+  {
+   "name": "Rạp Hội An",
+   "cat": "관광",
+   "area": "호이안",
+   "lat": 15.87833,
+   "lng": 108.32964,
+   "wd": "Q132484484"
+  },
+  {
+   "name": "Tan Ky Old House",
+   "cat": "관광",
+   "area": "호이안",
+   "lat": 15.87645,
+   "lng": 108.32781,
+   "wd": "Q140915999"
+  },
+  {
+   "name": "Trung Hoa Assembly Hall",
+   "cat": "관광",
+   "area": "호이안",
+   "lat": 15.87742,
+   "lng": 108.33002,
+   "wd": "Q140932347"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+/* 이동 안내의 걷는 사람: 다리·팔을 번갈아 흔들고 몸이 살짝 위아래로 움직인다 */
+.walker svg { display: block; overflow: visible; }
+.walker .w-leg-a, .walker .w-leg-b { transform-origin: 20px 30px; }
+.walker .w-arm-a, .walker .w-arm-b { transform-origin: 20px 19px; }
+.walker.walking .w-leg-a, .walker.walking .w-arm-b { animation: walker-swing 0.5s ease-in-out infinite alternate; }
+.walker.walking .w-leg-b, .walker.walking .w-arm-a { animation: walker-swing 0.5s ease-in-out infinite alternate-reverse; }
+.walker.walking .w-body { animation: walker-bob 0.25s ease-in-out infinite alternate; }
+.walker.cheer .w-body { animation: walker-jump 0.6s cubic-bezier(0.3, 0, 0.4, 1) infinite; }
+.walker.cheer .w-arm-a { transform: rotate(105deg); }
+.walker.cheer .w-arm-b { transform: rotate(-105deg); }
+.walker.west svg { transform: scaleX(-1); }
+@keyframes walker-swing { from { transform: rotate(-28deg); } to { transform: rotate(28deg); } }
+@keyframes walker-bob { from { transform: translateY(0); } to { transform: translateY(-1.5px); } }
+@keyframes walker-jump { 0%, 100% { transform: translateY(0); } 40% { transform: translateY(-7px); } }
+@media (prefers-reduced-motion: reduce) {
+  .walker .w-leg-a, .walker .w-leg-b, .walker .w-arm-a, .walker .w-arm-b, .walker .w-body { animation: none !important; }
+}
+/* 서 있을 때: 다리를 살짝 벌리고 팔을 몸 옆으로 */
+.walker.idle .w-leg-a { transform: rotate(-8deg); }
+.walker.idle .w-leg-b { transform: rotate(8deg); }
+.walker.idle .w-arm-a { transform: rotate(-18deg); }
+.walker.idle .w-arm-b { transform: rotate(18deg); }

@@ -1,0 +1,332 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "쿠투비아 모스크",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.62412,
+   "lng": -7.99354,
+   "aliases": [
+    "Koutoubia Mosque"
+   ],
+   "wd": "Q1137533"
+  },
+  {
+   "name": "자마엘프나",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.62597,
+   "lng": -7.9891,
+   "aliases": [
+    "Jemaa el-Fnaa"
+   ],
+   "wd": "Q258348"
+  },
+  {
+   "name": "Majorelle Garden",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.6415,
+   "lng": -8.0029,
+   "wd": "Q1395431"
+  },
+  {
+   "name": "Menara gardens",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.6167,
+   "lng": -8.02424,
+   "wd": "Q1920259"
+  },
+  {
+   "name": "El Badi Palace",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.61833,
+   "lng": -7.98583,
+   "wd": "Q1277747"
+  },
+  {
+   "name": "Bab Agnaou",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.61761,
+   "lng": -7.99067,
+   "wd": "Q4837210"
+  },
+  {
+   "name": "Bahia Palace",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.62159,
+   "lng": -7.98223,
+   "wd": "Q2465115"
+  },
+  {
+   "name": "Almoravid Koubba",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.6315,
+   "lng": -7.9872,
+   "wd": "Q3412514"
+  },
+  {
+   "name": "Saadian Tombs",
+   "cat": "관광",
+   "area": "Marrakesh Prefecture",
+   "lat": 31.61722,
+   "lng": -7.98861,
+   "wd": "Q2152745"
+  },
+  {
+   "name": "Agdal Gardens",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.60611,
+   "lng": -7.97972,
+   "wd": "Q392057"
+  },
+  {
+   "name": "Marrakech Museum",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.63121,
+   "lng": -7.98677,
+   "wd": "Q3090631"
+  },
+  {
+   "name": "Ibn Yusuf Mosque",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.63192,
+   "lng": -7.98716,
+   "wd": "Q4886745"
+  },
+  {
+   "name": "Al-Mansour Mosque",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.61768,
+   "lng": -7.98895,
+   "wd": "Q1948938"
+  },
+  {
+   "name": "Al-Shorafaa Mosque",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.6296,
+   "lng": -7.98949,
+   "wd": "Q3324857"
+  },
+  {
+   "name": "Dar Si Said Museum",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.62333,
+   "lng": -7.98361,
+   "wd": "Q3329122"
+  },
+  {
+   "name": "Ibn Salah Mosque",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.6296,
+   "lng": -7.98259,
+   "wd": "Q15958582"
+  },
+  {
+   "name": "Bab Doukkala Grand Mosque",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.6317,
+   "lng": -7.99592,
+   "wd": "Q65034641"
+  },
+  {
+   "name": "Zawiya of Muhammad Ben Sliman al-Jazuli",
+   "cat": "관광",
+   "area": "Marrakesh Prefecture",
+   "lat": 31.6318,
+   "lng": -7.992,
+   "wd": "Q95149901"
+  },
+  {
+   "name": "Bab er-Robb",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.6172,
+   "lng": -7.9906,
+   "wd": "Q4837238"
+  },
+  {
+   "name": "Zawiya of Sidi Abd el-Aziz",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.63218,
+   "lng": -7.98911,
+   "wd": "Q95504014"
+  },
+  {
+   "name": "Shrob ou shouf fountain",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.63355,
+   "lng": -7.98769,
+   "wd": "Q3076107"
+  },
+  {
+   "name": "Sidi Bel Abbes Zawiya",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.6391,
+   "lng": -7.99081,
+   "wd": "Q3574792"
+  },
+  {
+   "name": "Al-Qita Mosque",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.62786,
+   "lng": -7.98969,
+   "wd": "Q117075309"
+  },
+  {
+   "name": "Bab Aghmat",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.62386,
+   "lng": -7.97456,
+   "wd": "Q12195501"
+  },
+  {
+   "name": "Bab Dukkala",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.6341,
+   "lng": -7.99894,
+   "wd": "Q12195551"
+  },
+  {
+   "name": "Yves Saint Laurent Museum in Marrakesh",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.64279,
+   "lng": -8.00314,
+   "wd": "Q30727522"
+  },
+  {
+   "name": "Bab Debbagh",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.63414,
+   "lng": -7.97904,
+   "wd": "Q58897207"
+  },
+  {
+   "name": "Buraima Mosque",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.61642,
+   "lng": -7.98269,
+   "wd": "Q92061407"
+  },
+  {
+   "name": "Mouassine Museum",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.62931,
+   "lng": -7.98883,
+   "wd": "Q96394004"
+  },
+  {
+   "name": "Oued Tensift Bridge",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.69208,
+   "lng": -7.98825,
+   "wd": "Q105089685"
+  },
+  {
+   "name": "Bab Ksiba",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.6122,
+   "lng": -7.9893,
+   "wd": "Q4837219"
+  },
+  {
+   "name": "Mouassine Fountain",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.63,
+   "lng": -7.98928,
+   "wd": "Q58974467"
+  },
+  {
+   "name": "Dar el Bacha",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.63159,
+   "lng": -7.99219,
+   "wd": "Q59956159"
+  },
+  {
+   "name": "Menara Mall",
+   "cat": "쇼핑",
+   "area": "마라케시",
+   "lat": 31.61823,
+   "lng": -8.00869,
+   "wd": "Q21971419"
+  },
+  {
+   "name": "Tiskiwin Museum",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.6222,
+   "lng": -7.98394,
+   "wd": "Q3329095"
+  },
+  {
+   "name": "Al Maaden Museum of Contemporary African Art",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.60025,
+   "lng": -7.94991,
+   "wd": "Q18578018"
+  },
+  {
+   "name": "Arsat Moulay Abdessalam Garden",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.6266,
+   "lng": -7.99914,
+   "wd": "Q3162287"
+  },
+  {
+   "name": "House of photography",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.632,
+   "lng": -7.98446,
+   "wd": "Q3279792"
+  },
+  {
+   "name": "Water Museum of Marrakesh",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.68544,
+   "lng": -7.99426,
+   "wd": "Q86724614"
+  },
+  {
+   "name": "Royal Theatre",
+   "cat": "관광",
+   "area": "마라케시",
+   "lat": 31.62944,
+   "lng": -8.01472,
+   "wd": "Q113627642"
+  }
+ ]
+}

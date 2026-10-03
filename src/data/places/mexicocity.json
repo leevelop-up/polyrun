@@ -1,0 +1,836 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "멕시코시티 메트로폴리타나 대성당",
+   "cat": "관광",
+   "area": "Cuauhtémoc",
+   "lat": 19.43439,
+   "lng": -99.13308,
+   "aliases": [
+    "Mexico City Metropolitan Cathedral"
+   ],
+   "wd": "Q610961"
+  },
+  {
+   "name": "국립 인류학 박물관",
+   "cat": "관광",
+   "area": "Miguel Hidalgo",
+   "lat": 19.42611,
+   "lng": -99.18611,
+   "aliases": [
+    "National Museum of Anthropology"
+   ],
+   "wd": "Q524249"
+  },
+  {
+   "name": "팔라시꾸 공연장",
+   "cat": "관광",
+   "area": "Cuauhtémoc",
+   "lat": 19.43528,
+   "lng": -99.14139,
+   "aliases": [
+    "Palace of Fine arts"
+   ],
+   "wd": "Q1139081"
+  },
+  {
+   "name": "National Palace",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.4325,
+   "lng": -99.13139,
+   "wd": "Q1517884"
+  },
+  {
+   "name": "템플로 마요르",
+   "cat": "관광",
+   "area": "Cuauhtémoc",
+   "lat": 19.435,
+   "lng": -99.13139,
+   "aliases": [
+    "Templo Mayor"
+   ],
+   "wd": "Q774021"
+  },
+  {
+   "name": "Frida Kahlo Museum",
+   "cat": "관광",
+   "area": "코요아칸",
+   "lat": 19.35514,
+   "lng": -99.16253,
+   "wd": "Q2663377"
+  },
+  {
+   "name": "차풀테펙성",
+   "cat": "관광",
+   "area": "멕시코",
+   "lat": 19.42056,
+   "lng": -99.18167,
+   "aliases": [
+    "Chapultepec Castle"
+   ],
+   "wd": "Q1072510"
+  },
+  {
+   "name": "Luis Barragán House and Studio",
+   "cat": "관광",
+   "area": "Tacubaya",
+   "lat": 19.41111,
+   "lng": -99.1925,
+   "wd": "Q1046414"
+  },
+  {
+   "name": "독립기념비",
+   "cat": "관광",
+   "area": "Cuauhtémoc",
+   "lat": 19.427,
+   "lng": -99.16771,
+   "aliases": [
+    "Angel of Independence"
+   ],
+   "wd": "Q928541"
+  },
+  {
+   "name": "Basilica of Our Lady of Guadalupe",
+   "cat": "관광",
+   "area": "Gustavo A. Madero",
+   "lat": 19.48444,
+   "lng": -99.11722,
+   "wd": "Q305419"
+  },
+  {
+   "name": "Cuicuilco",
+   "cat": "관광",
+   "area": "Tlalpan",
+   "lat": 19.30167,
+   "lng": -99.18167,
+   "wd": "Q1143307"
+  },
+  {
+   "name": "Monumento a la Revolución",
+   "cat": "관광",
+   "area": "Cuauhtémoc",
+   "lat": 19.43618,
+   "lng": -99.15463,
+   "wd": "Q1389520"
+  },
+  {
+   "name": "Plaza de las Tres Culturas",
+   "cat": "관광",
+   "area": "Cuauhtémoc",
+   "lat": 19.45167,
+   "lng": -99.13611,
+   "wd": "Q1851912"
+  },
+  {
+   "name": "멕시코 국립미술관",
+   "cat": "관광",
+   "area": "Cuauhtémoc",
+   "lat": 19.43639,
+   "lng": -99.13944,
+   "aliases": [
+    "Museo Nacional de Arte"
+   ],
+   "wd": "Q1138147"
+  },
+  {
+   "name": "Alameda Central Park",
+   "cat": "관광",
+   "area": "Cuauhtémoc",
+   "lat": 19.43556,
+   "lng": -99.14389,
+   "wd": "Q3355305"
+  },
+  {
+   "name": "Academy of San Carlos",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.43309,
+   "lng": -99.12884,
+   "wd": "Q337267"
+  },
+  {
+   "name": "Tlatilco",
+   "cat": "관광",
+   "area": "나우칼판",
+   "lat": 19.5,
+   "lng": -99.25,
+   "wd": "Q1929180"
+  },
+  {
+   "name": "Palace of Iturbide",
+   "cat": "관광",
+   "area": "Cuauhtémoc",
+   "lat": 19.43352,
+   "lng": -99.13906,
+   "wd": "Q130898"
+  },
+  {
+   "name": "Palacio de Correos de Mexico",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.43569,
+   "lng": -99.1404,
+   "wd": "Q978161"
+  },
+  {
+   "name": "Tenayuca",
+   "cat": "관광",
+   "area": "틀랄네판틀라데바스",
+   "lat": 19.53252,
+   "lng": -99.16852,
+   "wd": "Q647989"
+  },
+  {
+   "name": "Auditorio Nacional",
+   "cat": "관광",
+   "area": "Miguel Hidalgo",
+   "lat": 19.42472,
+   "lng": -99.19492,
+   "wd": "Q286179"
+  },
+  {
+   "name": "Six Flags México",
+   "cat": "관광",
+   "area": "",
+   "lat": 19.295,
+   "lng": -99.209,
+   "wd": "Q2562111"
+  },
+  {
+   "name": "plaza Garibaldi",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.44056,
+   "lng": -99.13889,
+   "wd": "Q1471225"
+  },
+  {
+   "name": "Anahuacalli Museum",
+   "cat": "관광",
+   "area": "코요아칸",
+   "lat": 19.3227,
+   "lng": -99.14451,
+   "wd": "Q675877"
+  },
+  {
+   "name": "Franz Mayer Museum",
+   "cat": "관광",
+   "area": "Cuauhtémoc",
+   "lat": 19.43726,
+   "lng": -99.14321,
+   "wd": "Q1148324"
+  },
+  {
+   "name": "Museo Nacional de San Carlos",
+   "cat": "관광",
+   "area": "Cuauhtémoc",
+   "lat": 19.43804,
+   "lng": -99.1519,
+   "wd": "Q6940507"
+  },
+  {
+   "name": "Museo de Arte Moderno",
+   "cat": "관광",
+   "area": "Miguel Hidalgo",
+   "lat": 19.42274,
+   "lng": -99.17954,
+   "wd": "Q3032842"
+  },
+  {
+   "name": "Casa de los Azulejos, Mexico City",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.43422,
+   "lng": -99.14021,
+   "wd": "Q1267814"
+  },
+  {
+   "name": "La Feria Chapultepec Mágico",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.41561,
+   "lng": -99.19578,
+   "wd": "Q1811321"
+  },
+  {
+   "name": "Chapultepec Zoo",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.42392,
+   "lng": -99.18922,
+   "wd": "Q3375717"
+  },
+  {
+   "name": "Palacio de Minería",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.43556,
+   "lng": -99.13944,
+   "wd": "Q3431087"
+  },
+  {
+   "name": "Fuente de Cibeles",
+   "cat": "관광",
+   "area": "Cuauhtémoc",
+   "lat": 19.42,
+   "lng": -99.16639,
+   "wd": "Q129506"
+  },
+  {
+   "name": "Museum of Mexico City",
+   "cat": "관광",
+   "area": "Cuauhtémoc",
+   "lat": 19.42916,
+   "lng": -99.13212,
+   "wd": "Q1402600"
+  },
+  {
+   "name": "Teatro de la Ciudad",
+   "cat": "관광",
+   "area": "Cuauhtémoc",
+   "lat": 19.4366,
+   "lng": -99.1373,
+   "wd": "Q7691977"
+  },
+  {
+   "name": "Cerro de la Estrella National Park",
+   "cat": "관광",
+   "area": "Iztapalapa",
+   "lat": 19.3419,
+   "lng": -99.0894,
+   "wd": "Q4274872"
+  },
+  {
+   "name": "Santa Cecilia Acatitlan",
+   "cat": "관광",
+   "area": "틀랄네판틀라데바스",
+   "lat": 19.55258,
+   "lng": -99.17333,
+   "wd": "Q2725918"
+  },
+  {
+   "name": "Viveros de Coyoacán",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.35417,
+   "lng": -99.17222,
+   "wd": "Q2751011"
+  },
+  {
+   "name": "El Tepeyac National Park",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.50306,
+   "lng": -99.10667,
+   "wd": "Q2856164"
+  },
+  {
+   "name": "Leon Trotsky House Museum",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.3577,
+   "lng": -99.15959,
+   "wd": "Q4165221"
+  },
+  {
+   "name": "Historic Synagogue Justo Sierra 71",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.43514,
+   "lng": -99.12817,
+   "wd": "Q12220576"
+  },
+  {
+   "name": "Salón de la Plástica Mexicana",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.41951,
+   "lng": -99.16112,
+   "wd": "Q845947"
+  },
+  {
+   "name": "Teatro Metropólitan",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.4333,
+   "lng": -99.1469,
+   "wd": "Q1446543"
+  },
+  {
+   "name": "Teatro de los Insurgentes",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.36422,
+   "lng": -99.18242,
+   "wd": "Q1637094"
+  },
+  {
+   "name": "Museo Dolores Olmedo",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.266,
+   "lng": -99.12602,
+   "wd": "Q1744258"
+  },
+  {
+   "name": "Polyforum Cultural Siqueiros",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.39333,
+   "lng": -99.17361,
+   "wd": "Q2265075"
+  },
+  {
+   "name": "Church of Nuestra Señora de Valvanera, Mexico City",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.42941,
+   "lng": -99.13043,
+   "wd": "Q2942226"
+  },
+  {
+   "name": "México City México Temple",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.4659,
+   "lng": -99.08675,
+   "wd": "Q3289708"
+  },
+  {
+   "name": "The St. Regis Mexico City",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.42558,
+   "lng": -99.17213,
+   "wd": "Q3495353"
+  },
+  {
+   "name": "Hemicycle to Juárez",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.435,
+   "lng": -99.14417,
+   "wd": "Q4020213"
+  },
+  {
+   "name": "Museo Nacional de las Culturas del Mundo",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.43319,
+   "lng": -99.1303,
+   "wd": "Q6940503"
+  },
+  {
+   "name": "키오스코 모리스코",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.44967,
+   "lng": -99.15685,
+   "aliases": [
+    "Morisco Kiosk"
+   ],
+   "wd": "Q54820837"
+  },
+  {
+   "name": "Museo de la Secretaría de Hacienda y Crédito Público",
+   "cat": "관광",
+   "area": "Cuauhtémoc",
+   "lat": 19.43366,
+   "lng": -99.13135,
+   "wd": "Q1142398"
+  },
+  {
+   "name": "Museo Tamayo Arte Contemporáneo",
+   "cat": "관광",
+   "area": "Miguel Hidalgo",
+   "lat": 19.42552,
+   "lng": -99.18173,
+   "wd": "Q3330551"
+  },
+  {
+   "name": "La Merced Market, Mexico City",
+   "cat": "쇼핑",
+   "area": "Venustiano Carranza",
+   "lat": 19.42592,
+   "lng": -99.12406,
+   "wd": "Q3377015"
+  },
+  {
+   "name": "Parque España",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.415,
+   "lng": -99.17139,
+   "wd": "Q580662"
+  },
+  {
+   "name": "Fuentes Brotantes de Tlalpan National Park",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.2831,
+   "lng": -99.1831,
+   "wd": "Q1764926"
+  },
+  {
+   "name": "Museo Universitario del Chopo",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.44194,
+   "lng": -99.15672,
+   "wd": "Q1954283"
+  },
+  {
+   "name": "Folk Art Museum",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.43378,
+   "lng": -99.1463,
+   "wd": "Q2723096"
+  },
+  {
+   "name": "Church of San Francisco",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.43345,
+   "lng": -99.14011,
+   "wd": "Q5117093"
+  },
+  {
+   "name": "Cathedral of St. Bernard of Siena",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.26318,
+   "lng": -99.10198,
+   "wd": "Q5758558"
+  },
+  {
+   "name": "House of the First Print Shop in the Americas",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.43356,
+   "lng": -99.13098,
+   "wd": "Q5915612"
+  },
+  {
+   "name": "Museum of Memory and Tolerance",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.43415,
+   "lng": -99.14467,
+   "wd": "Q6033509"
+  },
+  {
+   "name": "Punto Chapultepec",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.42379,
+   "lng": -99.1755,
+   "wd": "Q6093171"
+  },
+  {
+   "name": "Porta Cæli Cathedral, Mexico City",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.43345,
+   "lng": -99.1402,
+   "wd": "Q27925183"
+  },
+  {
+   "name": "Monumento a los Niños Héroes",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.42152,
+   "lng": -99.17926,
+   "wd": "Q19381838"
+  },
+  {
+   "name": "Los Remedios National Park",
+   "cat": "관광",
+   "area": "나우칼판",
+   "lat": 19.4752,
+   "lng": -99.2539,
+   "wd": "Q6063011"
+  },
+  {
+   "name": "Cerro de la Estrella",
+   "cat": "관광",
+   "area": "Iztapalapa",
+   "lat": 19.34361,
+   "lng": -99.09,
+   "wd": "Q2299724"
+  },
+  {
+   "name": "Borda House",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.43357,
+   "lng": -99.13766,
+   "wd": "Q4944441"
+  },
+  {
+   "name": "Caricature Museum, Mexico City",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.43559,
+   "lng": -99.13267,
+   "wd": "Q5039534"
+  },
+  {
+   "name": "Chapultepec aqueduct",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.42247,
+   "lng": -99.16804,
+   "wd": "Q5073555"
+  },
+  {
+   "name": "Church of La Soledad, Mexico City",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.43171,
+   "lng": -99.12303,
+   "wd": "Q5116926"
+  },
+  {
+   "name": "Museo Universitario Arte Contemporáneo",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.31442,
+   "lng": -99.18538,
+   "wd": "Q6033782"
+  },
+  {
+   "name": "Zoológico Los Coyotes",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.319,
+   "lng": -99.122,
+   "wd": "Q6171767"
+  },
+  {
+   "name": "José Luis Cuevas Museum",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.43363,
+   "lng": -99.12912,
+   "wd": "Q6292752"
+  },
+  {
+   "name": "Old Customs Buildings, Mexico City",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.43723,
+   "lng": -99.13352,
+   "wd": "Q7083811"
+  },
+  {
+   "name": "Palace of the Inquisition",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.43789,
+   "lng": -99.13332,
+   "wd": "Q7126272"
+  },
+  {
+   "name": "Palacio de la Autonomía",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.43449,
+   "lng": -99.13064,
+   "wd": "Q7126319"
+  },
+  {
+   "name": "Indios Verdes monument",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.49139,
+   "lng": -99.11917,
+   "wd": "Q9034987"
+  },
+  {
+   "name": "Mother's Monument",
+   "cat": "관광",
+   "area": "멕시코주",
+   "lat": 19.43255,
+   "lng": -99.16079,
+   "wd": "Q9034973"
+  },
+  {
+   "name": "Garros Galería",
+   "cat": "관광",
+   "area": "Colonia Roma",
+   "lat": 19.41739,
+   "lng": -99.16044,
+   "wd": "Q5524081"
+  },
+  {
+   "name": "Cineteca Nacional",
+   "cat": "관광",
+   "area": "코요아칸",
+   "lat": 19.36113,
+   "lng": -99.1646,
+   "wd": "Q1092492"
+  },
+  {
+   "name": "Museo Nacional de la Estampa",
+   "cat": "관광",
+   "area": "Cuauhtémoc",
+   "lat": 19.43687,
+   "lng": -99.1427,
+   "wd": "Q2893965"
+  },
+  {
+   "name": "Parque México",
+   "cat": "관광",
+   "area": "Cuauhtémoc",
+   "lat": 19.41222,
+   "lng": -99.16917,
+   "wd": "Q3376971"
+  },
+  {
+   "name": "우니베르숨",
+   "cat": "관광",
+   "area": "코요아칸",
+   "lat": 19.31139,
+   "lng": -99.18056,
+   "aliases": [
+    "Universum"
+   ],
+   "wd": "Q4005964"
+  },
+  {
+   "name": "Alfredo Guati Rojo National Watercolor Museum",
+   "cat": "관광",
+   "area": "코요아칸",
+   "lat": 19.34858,
+   "lng": -99.17709,
+   "wd": "Q4723788"
+  },
+  {
+   "name": "Tlatelolco",
+   "cat": "관광",
+   "area": "Cuauhtémoc",
+   "lat": 19.4511,
+   "lng": -99.1375,
+   "wd": "Q14623034"
+  },
+  {
+   "name": "Parque Tezozómoc",
+   "cat": "관광",
+   "area": "Azcapotzalco",
+   "lat": 19.49917,
+   "lng": -99.20944,
+   "wd": "Q3375727"
+  },
+  {
+   "name": "Corpus Christi Cathedral, Tlalnepantla",
+   "cat": "관광",
+   "area": "틀랄네판틀라데바스",
+   "lat": 19.5378,
+   "lng": -99.1941,
+   "wd": "Q5758393"
+  },
+  {
+   "name": "Christ the King",
+   "cat": "관광",
+   "area": "틀랄네판틀라데바스",
+   "lat": 19.56206,
+   "lng": -99.18443,
+   "wd": "Q5791678"
+  },
+  {
+   "name": "게레로 치말리",
+   "cat": "관광",
+   "area": "Chimalhuacán Municipality",
+   "lat": 19.41306,
+   "lng": -98.98389,
+   "aliases": [
+    "Chimalli Warrior"
+   ],
+   "wd": "Q60854014"
+  },
+  {
+   "name": "Garden of the Triple Alliance",
+   "cat": "관광",
+   "area": "Federal District",
+   "lat": 19.43569,
+   "lng": -99.13904,
+   "wd": "Q3031817"
+  },
+  {
+   "name": "Zazacatla",
+   "cat": "관광",
+   "area": "",
+   "lat": 19.4327,
+   "lng": -99.1342,
+   "wd": "Q1424918"
+  },
+  {
+   "name": "Plaza Manuel Tolsá",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.43611,
+   "lng": -99.13944,
+   "wd": "Q516715"
+  },
+  {
+   "name": "Casa Lamm Cultural Center",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.41856,
+   "lng": -99.15957,
+   "wd": "Q581182"
+  },
+  {
+   "name": "Mexican Petroleum Institute",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.48997,
+   "lng": -99.14599,
+   "wd": "Q980969"
+  },
+  {
+   "name": "Museo Experimental el Eco",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.43339,
+   "lng": -99.16126,
+   "wd": "Q2876299"
+  },
+  {
+   "name": "Church of San Bernardo, Mexico City",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.43078,
+   "lng": -99.13386,
+   "wd": "Q2944138"
+  },
+  {
+   "name": "Templo Mayor Museum",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.43441,
+   "lng": -99.13208,
+   "wd": "Q3330387"
+  },
+  {
+   "name": "Copilco",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.33556,
+   "lng": -99.17667,
+   "wd": "Q3429206"
+  },
+  {
+   "name": "Parque Hundido",
+   "cat": "관광",
+   "area": "멕시코시티",
+   "lat": 19.37806,
+   "lng": -99.17889,
+   "wd": "Q3438112"
+  }
+ ]
+}

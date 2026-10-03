@@ -1,0 +1,30 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "Xom Bong Bridge",
+   "cat": "관광",
+   "area": "냐짱",
+   "lat": 12.26331,
+   "lng": 109.1956,
+   "wd": "Q32252088"
+  },
+  {
+   "name": "Tran Phu Bridge",
+   "cat": "관광",
+   "area": "냐짱",
+   "lat": 12.26169,
+   "lng": 109.19912,
+   "wd": "Q32253700"
+  },
+  {
+   "name": "Bãi Tre",
+   "cat": "관광",
+   "area": "",
+   "lat": 12.21667,
+   "lng": 109.31667,
+   "wd": "Q32174166"
+  }
+ ]
+}

@@ -1,0 +1,831 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "국립 소피아 왕비 예술센터",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.40857,
+   "lng": -3.694,
+   "aliases": [
+    "Museo Nacional Centro de Arte Reina Sofía"
+   ],
+   "wd": "Q460889"
+  },
+  {
+   "name": "스페인 왕립 학술원",
+   "cat": "관광",
+   "area": "",
+   "lat": 40.41502,
+   "lng": -3.69091,
+   "aliases": [
+    "Royal Spanish Academy"
+   ],
+   "wd": "Q11993457"
+  },
+  {
+   "name": "Cathedral of the Holy Cross and Saint Eulalia",
+   "cat": "관광",
+   "area": "Gothic Quarter",
+   "lat": 41.38389,
+   "lng": 2.17639,
+   "wd": "Q17155"
+  },
+  {
+   "name": "카탈루냐 음악당",
+   "cat": "관광",
+   "area": "Sant Pere, Santa Caterina i la Ribera",
+   "lat": 41.38767,
+   "lng": 2.17528,
+   "aliases": [
+    "Palau de la Música Catalana"
+   ],
+   "wd": "Q327940"
+  },
+  {
+   "name": "알무데나 대성당",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.41556,
+   "lng": -3.71444,
+   "aliases": [
+    "Almudena Cathedral",
+    "알무데나 주교좌 성당",
+    "산타 마리아 라 레알 데 라 알무데나 대성당"
+   ],
+   "wd": "Q849711"
+  },
+  {
+   "name": "카탈루냐 광장",
+   "cat": "관광",
+   "area": "Gothic Quarter",
+   "lat": 41.38703,
+   "lng": 2.17008,
+   "aliases": [
+    "Plaça de Catalunya"
+   ],
+   "wd": "Q822881"
+  },
+  {
+   "name": "티센보르네미차 미술관",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.41604,
+   "lng": -3.69493,
+   "aliases": [
+    "Thyssen-Bornemisza Museum"
+   ],
+   "wd": "Q176251"
+  },
+  {
+   "name": "Palau Güell",
+   "cat": "관광",
+   "area": "라발 / 바리 크시니스",
+   "lat": 41.37882,
+   "lng": 2.17439,
+   "wd": "Q597051"
+  },
+  {
+   "name": "Casa Vicens",
+   "cat": "관광",
+   "area": "Vila de Gràcia",
+   "lat": 41.40349,
+   "lng": 2.15064,
+   "wd": "Q746333"
+  },
+  {
+   "name": "국립 고고학 박물관",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.42365,
+   "lng": -3.68942,
+   "aliases": [
+    "National Museum of Archaeology"
+   ],
+   "wd": "Q1352282"
+  },
+  {
+   "name": "카탈루냐 미술관",
+   "cat": "관광",
+   "area": "몬주이크",
+   "lat": 41.36833,
+   "lng": 2.15331,
+   "aliases": [
+    "Museu Nacional d'Art de Catalunya"
+   ],
+   "wd": "Q861252"
+  },
+  {
+   "name": "피카소 미술관",
+   "cat": "관광",
+   "area": "Ciutat Vella",
+   "lat": 41.38522,
+   "lng": 2.18089,
+   "aliases": [
+    "Museu Picasso"
+   ],
+   "wd": "Q1050032"
+  },
+  {
+   "name": "미로 미술관",
+   "cat": "관광",
+   "area": "몬주이크",
+   "lat": 41.36861,
+   "lng": 2.16,
+   "aliases": [
+    "Fundació Joan Miró"
+   ],
+   "wd": "Q867072"
+  },
+  {
+   "name": "Temple of Debod",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.42405,
+   "lng": -3.71778,
+   "wd": "Q1140249"
+  },
+  {
+   "name": "Palace of Moncloa",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.44361,
+   "lng": -3.73694,
+   "wd": "Q1367970"
+  },
+  {
+   "name": "왕립극장",
+   "cat": "관광",
+   "area": "Palacio",
+   "lat": 40.41824,
+   "lng": -3.71037,
+   "aliases": [
+    "Teatro Real"
+   ],
+   "wd": "Q211250"
+  },
+  {
+   "name": "라스 벤타스",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.43208,
+   "lng": -3.66328,
+   "aliases": [
+    "Las Ventas"
+   ],
+   "wd": "Q756621"
+  },
+  {
+   "name": "산 페르난도 왕립 예술원",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.4178,
+   "lng": -3.7007,
+   "aliases": [
+    "Royal Academy of Fine Arts of San Fernando",
+    "레알 아카데미아 데 벨라스 아르테스 데 산 페르난도"
+   ],
+   "wd": "Q1322403"
+  },
+  {
+   "name": "스페인 광장",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.42339,
+   "lng": -3.71223,
+   "aliases": [
+    "plaza de España"
+   ],
+   "wd": "Q1326261"
+  },
+  {
+   "name": "FC 바르셀로나 박물관",
+   "cat": "관광",
+   "area": "바르셀로나",
+   "lat": 41.38039,
+   "lng": 2.12064,
+   "aliases": [
+    "FC Barcelona Museum"
+   ],
+   "wd": "Q616238"
+  },
+  {
+   "name": "바르셀로나 현대미술관",
+   "cat": "관광",
+   "area": "라발 / 바리 크시니스",
+   "lat": 41.38311,
+   "lng": 2.16679,
+   "aliases": [
+    "MACBA Barcelona Museum of Contemporary Art"
+   ],
+   "wd": "Q1067140"
+  },
+  {
+   "name": "Palace of Zarzuela",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.48278,
+   "lng": -3.80143,
+   "wd": "Q604921"
+  },
+  {
+   "name": "시우타데야 공원",
+   "cat": "관광",
+   "area": "Sant Pere, Santa Caterina i la Ribera",
+   "lat": 41.38811,
+   "lng": 2.18752,
+   "aliases": [
+    "Parc de la Ciutadella"
+   ],
+   "wd": "Q301135"
+  },
+  {
+   "name": "푸에르타 데 알칼라",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.42002,
+   "lng": -3.68873,
+   "aliases": [
+    "Alcalá Gate"
+   ],
+   "wd": "Q1140634"
+  },
+  {
+   "name": "시벨레스 광장",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.41917,
+   "lng": -3.69306,
+   "aliases": [
+    "plaza de Cibeles"
+   ],
+   "wd": "Q1537446"
+  },
+  {
+   "name": "기억의 숲",
+   "cat": "관광",
+   "area": "아토차",
+   "lat": 40.41194,
+   "lng": -3.68694,
+   "aliases": [
+    "Forest of Remembrance"
+   ],
+   "wd": "Q833213"
+  },
+  {
+   "name": "바르셀로나 동물원",
+   "cat": "관광",
+   "area": "바르셀로나",
+   "lat": 41.38788,
+   "lng": 2.19119,
+   "aliases": [
+    "Barcelona Zoo"
+   ],
+   "wd": "Q220013"
+  },
+  {
+   "name": "Columbus Monument",
+   "cat": "관광",
+   "area": "Gothic Quarter",
+   "lat": 41.3758,
+   "lng": 2.17776,
+   "wd": "Q2288815"
+  },
+  {
+   "name": "몬주이크 마법의 분수",
+   "cat": "관광",
+   "area": "몬주이크",
+   "lat": 41.37114,
+   "lng": 2.15173,
+   "aliases": [
+    "Magic Fountain of Montjuïc"
+   ],
+   "wd": "Q1414600"
+  },
+  {
+   "name": "마드리드 왕립식물원",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.41087,
+   "lng": -3.6914,
+   "aliases": [
+    "Royal Botanic Garden of Madrid"
+   ],
+   "wd": "Q1794858"
+  },
+  {
+   "name": "에스파냐 광장",
+   "cat": "관광",
+   "area": "몬주이크",
+   "lat": 41.37504,
+   "lng": 2.14911,
+   "aliases": [
+    "Plaça d'Espanya",
+    "플라사 데스파냐"
+   ],
+   "wd": "Q2013874"
+  },
+  {
+   "name": "소로야 미술관",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.4354,
+   "lng": -3.69254,
+   "aliases": [
+    "Sorolla Museum"
+   ],
+   "wd": "Q1592523"
+  },
+  {
+   "name": "바르셀로나 수족관",
+   "cat": "관광",
+   "area": "Gothic Quarter",
+   "lat": 41.37667,
+   "lng": 2.18417,
+   "aliases": [
+    "Aquarium Barcelona",
+    "아쿠아리움 바르셀로나",
+    "바르셀로나 아쿠아리움"
+   ],
+   "wd": "Q1200948"
+  },
+  {
+   "name": "카사 데 캄포",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.42291,
+   "lng": -3.75595,
+   "aliases": [
+    "Casa de Campo Park"
+   ],
+   "wd": "Q1046524"
+  },
+  {
+   "name": "Museu d'Història de Barcelona",
+   "cat": "관광",
+   "area": "Gothic Quarter",
+   "lat": 41.3839,
+   "lng": 2.17769,
+   "wd": "Q3571337"
+  },
+  {
+   "name": "콜론 광장",
+   "cat": "관광",
+   "area": "Almagro",
+   "lat": 40.42493,
+   "lng": -3.68944,
+   "aliases": [
+    "plaza de Colón"
+   ],
+   "wd": "Q970525"
+  },
+  {
+   "name": "마드리드 아레나",
+   "cat": "관광",
+   "area": "Casa de Campo",
+   "lat": 40.41305,
+   "lng": -3.73826,
+   "aliases": [
+    "Madrid Arena"
+   ],
+   "wd": "Q1423431"
+  },
+  {
+   "name": "Zoo Aquarium de Madrid",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.40861,
+   "lng": -3.7625,
+   "wd": "Q1994806"
+  },
+  {
+   "name": "Museum of the Americas",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.43813,
+   "lng": -3.72207,
+   "wd": "Q2568412"
+  },
+  {
+   "name": "사그랏 코르",
+   "cat": "관광",
+   "area": "Vallvidrera, el Tibidabo i les Planes",
+   "lat": 41.42207,
+   "lng": 2.11886,
+   "aliases": [
+    "National Expiatory Basilica of the Sacred Heart of Jesus"
+   ],
+   "wd": "Q1189293"
+  },
+  {
+   "name": "Church of Colònia Güell",
+   "cat": "관광",
+   "area": "Colònia Güell",
+   "lat": 41.3638,
+   "lng": 2.02785,
+   "wd": "Q2160663"
+  },
+  {
+   "name": "Montjuïc Castle",
+   "cat": "관광",
+   "area": "몬주이크",
+   "lat": 41.36342,
+   "lng": 2.16617,
+   "wd": "Q2500125"
+  },
+  {
+   "name": "Convent of Las Descalzas Reales",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.41827,
+   "lng": -3.70619,
+   "wd": "Q2268271"
+  },
+  {
+   "name": "Gate of Toledo",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.40671,
+   "lng": -3.71162,
+   "wd": "Q2657591"
+  },
+  {
+   "name": "plaça del Rei",
+   "cat": "관광",
+   "area": "Gothic Quarter",
+   "lat": 41.38413,
+   "lng": 2.17744,
+   "wd": "Q2067174"
+  },
+  {
+   "name": "바르셀로나 모누멘탈 투우장",
+   "cat": "관광",
+   "area": "Fort Pienc",
+   "lat": 41.4,
+   "lng": 2.18111,
+   "aliases": [
+    "La Monumental"
+   ],
+   "wd": "Q337522"
+  },
+  {
+   "name": "Castle of the Three Dragons",
+   "cat": "관광",
+   "area": "Sant Pere, Santa Caterina i la Ribera",
+   "lat": 41.38807,
+   "lng": 2.18339,
+   "wd": "Q1048705"
+  },
+  {
+   "name": "Parc del Laberint d'Horta",
+   "cat": "관광",
+   "area": "Hort",
+   "lat": 41.44028,
+   "lng": 2.14556,
+   "wd": "Q1435468"
+  },
+  {
+   "name": "마드리드 역사박물관",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.42583,
+   "lng": -3.70083,
+   "aliases": [
+    "Madrid History Museum"
+   ],
+   "wd": "Q876383"
+  },
+  {
+   "name": "시벨레스궁",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.41861,
+   "lng": -3.69167,
+   "aliases": [
+    "Palacio de Cibeles"
+   ],
+   "wd": "Q1849031"
+  },
+  {
+   "name": "오리엔테 광장",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.41806,
+   "lng": -3.71222,
+   "aliases": [
+    "Oriente square"
+   ],
+   "wd": "Q2193218"
+  },
+  {
+   "name": "리나레스궁",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.4199,
+   "lng": -3.6921,
+   "aliases": [
+    "Palace of Linares"
+   ],
+   "wd": "Q2628455"
+  },
+  {
+   "name": "국립 인류학 박물관",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.40769,
+   "lng": -3.68898,
+   "aliases": [
+    "National Museum of Anthropology"
+   ],
+   "wd": "Q2917041"
+  },
+  {
+   "name": "Teatro de la Zarzuela",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.41719,
+   "lng": -3.69678,
+   "wd": "Q3321632"
+  },
+  {
+   "name": "Palacio de las Cortes",
+   "cat": "관광",
+   "area": "Cortes",
+   "lat": 40.4164,
+   "lng": -3.69654,
+   "wd": "Q9054619"
+  },
+  {
+   "name": "Royal Academy of Exact, Physical and Natural Sciences",
+   "cat": "관광",
+   "area": "",
+   "lat": 40.42194,
+   "lng": -3.71278,
+   "wd": "Q427318"
+  },
+  {
+   "name": "Plaça Sant Jaume",
+   "cat": "관광",
+   "area": "Gothic Quarter",
+   "lat": 41.3825,
+   "lng": 2.17694,
+   "wd": "Q2082605"
+  },
+  {
+   "name": "CosmoCaixa Barcelona",
+   "cat": "관광",
+   "area": "Sant Gervasi-la Bonanova",
+   "lat": 41.41306,
+   "lng": 2.13111,
+   "wd": "Q2625747"
+  },
+  {
+   "name": "Sant Feliu de Llobregat Cathedral",
+   "cat": "관광",
+   "area": "Sant Feliu de Llobregat",
+   "lat": 41.38089,
+   "lng": 2.04633,
+   "wd": "Q2942382"
+  },
+  {
+   "name": "Madrid Central Mosque",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.45681,
+   "lng": -3.70083,
+   "wd": "Q183179"
+  },
+  {
+   "name": "Lázaro Galdiano Museum",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.43691,
+   "lng": -3.68585,
+   "wd": "Q386570"
+  },
+  {
+   "name": "National Museum of Natural Sciences",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.44103,
+   "lng": -3.69028,
+   "wd": "Q1966699"
+  },
+  {
+   "name": "Crystal Palace",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.41356,
+   "lng": -3.68206,
+   "wd": "Q2420025"
+  },
+  {
+   "name": "Royal Basilica of Saint Francis the Great",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.41048,
+   "lng": -3.71439,
+   "wd": "Q2473884"
+  },
+  {
+   "name": "Liria Palace",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.4277,
+   "lng": -3.7124,
+   "wd": "Q3288223"
+  },
+  {
+   "name": "plaça de les Glòries Catalanes",
+   "cat": "관광",
+   "area": "Sant Martí",
+   "lat": 41.40333,
+   "lng": 2.18694,
+   "wd": "Q1426190"
+  },
+  {
+   "name": "Font de Canaletes",
+   "cat": "관광",
+   "area": "라발 / 바리 크시니스",
+   "lat": 41.38528,
+   "lng": 2.17014,
+   "wd": "Q2723971"
+  },
+  {
+   "name": "Buen Retiro Palace",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.41367,
+   "lng": -3.68169,
+   "wd": "Q962117"
+  },
+  {
+   "name": "Naval Museum of Madrid",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.41752,
+   "lng": -3.6928,
+   "wd": "Q1815235"
+  },
+  {
+   "name": "Parque del Oeste",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.42833,
+   "lng": -3.72417,
+   "wd": "Q2369398"
+  },
+  {
+   "name": "비야 광장",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.41528,
+   "lng": -3.71056,
+   "aliases": [
+    "Plaza de la Villa"
+   ],
+   "wd": "Q2711992"
+  },
+  {
+   "name": "Santa Cruz Palace",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.4147,
+   "lng": -3.70603,
+   "wd": "Q2982559"
+  },
+  {
+   "name": "카야오 광장",
+   "cat": "관광",
+   "area": "Sol",
+   "lat": 40.41995,
+   "lng": -3.7058,
+   "aliases": [
+    "Plaza del Callao"
+   ],
+   "wd": "Q2099125"
+  },
+  {
+   "name": "Royal Convent of La Encarnación",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.41992,
+   "lng": -3.71149,
+   "wd": "Q205524"
+  },
+  {
+   "name": "Parque de Atracciones de Madrid",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.41278,
+   "lng": -3.75083,
+   "wd": "Q587612"
+  },
+  {
+   "name": "Cerralbo Museum",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.42368,
+   "lng": -3.71458,
+   "wd": "Q976019"
+  },
+  {
+   "name": "Juan Carlos I Park",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.46011,
+   "lng": -3.60605,
+   "wd": "Q1583169"
+  },
+  {
+   "name": "세고비아교",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.41417,
+   "lng": -3.72289,
+   "aliases": [
+    "Bridge of Segovia"
+   ],
+   "wd": "Q2838423"
+  },
+  {
+   "name": "Royal Chapel of St. Anthony of La Florida",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.42536,
+   "lng": -3.7256,
+   "wd": "Q3109752"
+  },
+  {
+   "name": "Statue of the Bear and the Strawberry Tree",
+   "cat": "관광",
+   "area": "Sol",
+   "lat": 40.41698,
+   "lng": -3.70246,
+   "wd": "Q3887613"
+  },
+  {
+   "name": "Sant Sebastià",
+   "cat": "관광",
+   "area": "바르셀로네타",
+   "lat": 41.37346,
+   "lng": 2.18963,
+   "wd": "Q3331620"
+  },
+  {
+   "name": "구엘 별장",
+   "cat": "관광",
+   "area": "Les Corts",
+   "lat": 41.38932,
+   "lng": 2.11927,
+   "aliases": [
+    "Güell Pavilions"
+   ],
+   "wd": "Q595553"
+  },
+  {
+   "name": "카탈루냐 국립극장",
+   "cat": "관광",
+   "area": "Fort Pienc",
+   "lat": 41.39972,
+   "lng": 2.18611,
+   "aliases": [
+    "Teatre Nacional de Catalunya"
+   ],
+   "wd": "Q1320197"
+  },
+  {
+   "name": "Fossar de les Moreres",
+   "cat": "관광",
+   "area": "Sant Pere, Santa Caterina i la Ribera",
+   "lat": 41.38368,
+   "lng": 2.18243,
+   "wd": "Q2749521"
+  },
+  {
+   "name": "El Capricho Park",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.45611,
+   "lng": -3.59867,
+   "wd": "Q2054035"
+  },
+  {
+   "name": "St. Isidore's Collegiate Church",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.41278,
+   "lng": -3.70694,
+   "wd": "Q3682887"
+  },
+  {
+   "name": "Pontifical Basilica of St. Michael",
+   "cat": "관광",
+   "area": "마드리드",
+   "lat": 40.41441,
+   "lng": -3.70969,
+   "wd": "Q4407295"
+  }
+ ]
+}

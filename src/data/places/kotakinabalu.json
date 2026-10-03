@@ -1,0 +1,435 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "코타키나발루시립 모스크",
+   "cat": "관광",
+   "area": "코타키나발루",
+   "lat": 5.99586,
+   "lng": 116.10775,
+   "aliases": [
+    "Kota Kinabalu City Mosque"
+   ],
+   "wd": "Q3397006"
+  },
+  {
+   "name": "Tunku Abdul Rahman National Park",
+   "cat": "관광",
+   "area": "사바주",
+   "lat": 5.96667,
+   "lng": 116,
+   "wd": "Q1097024"
+  },
+  {
+   "name": "사바 박물관",
+   "cat": "관광",
+   "area": "코타키나발루",
+   "lat": 5.96056,
+   "lng": 116.07167,
+   "aliases": [
+    "Sabah Museum"
+   ],
+   "wd": "Q2209383"
+  },
+  {
+   "name": "사바주립 모스크",
+   "cat": "관광",
+   "area": "코타키나발루",
+   "lat": 5.96,
+   "lng": 116.06722,
+   "aliases": [
+    "Sabah State Mosque"
+   ],
+   "wd": "Q3394882"
+  },
+  {
+   "name": "Atkinson Clock Tower",
+   "cat": "관광",
+   "area": "",
+   "lat": 5.98219,
+   "lng": 116.07733,
+   "wd": "Q4281727"
+  },
+  {
+   "name": "Sacred Heart Cathedral, Kota Kinabalu",
+   "cat": "관광",
+   "area": "코타키나발루",
+   "lat": 5.965,
+   "lng": 116.072,
+   "wd": "Q15274240"
+  },
+  {
+   "name": "Petagas War Memorial",
+   "cat": "관광",
+   "area": "Petagas",
+   "lat": 5.92112,
+   "lng": 116.05458,
+   "wd": "Q1786431"
+  },
+  {
+   "name": "1Borneo Hypermall",
+   "cat": "쇼핑",
+   "area": "코타키나발루",
+   "lat": 6.03611,
+   "lng": 116.12944,
+   "wd": "Q4595873"
+  },
+  {
+   "name": "사바 미술관",
+   "cat": "관광",
+   "area": "코타키나발루",
+   "lat": 5.9535,
+   "lng": 116.08156,
+   "aliases": [
+    "Sabah Art Gallery"
+   ],
+   "wd": "Q14545591"
+  },
+  {
+   "name": "St. Michael's Church, Penampang",
+   "cat": "관광",
+   "area": "피남팡",
+   "lat": 5.90769,
+   "lng": 116.10979,
+   "wd": "Q1464088"
+  },
+  {
+   "name": "Double Six Monument",
+   "cat": "관광",
+   "area": "",
+   "lat": 5.96222,
+   "lng": 116.06181,
+   "wd": "Q2754389"
+  },
+  {
+   "name": "Sutera Harbour",
+   "cat": "관광",
+   "area": "사바주",
+   "lat": 5.96944,
+   "lng": 116.05833,
+   "wd": "Q12518239"
+  },
+  {
+   "name": "Pu Tuo Si Temple",
+   "cat": "관광",
+   "area": "코타키나발루",
+   "lat": 5.99278,
+   "lng": 116.11667,
+   "wd": "Q28187444"
+  },
+  {
+   "name": "Peak Nam Toong Temple",
+   "cat": "관광",
+   "area": "코타키나발루",
+   "lat": 5.95028,
+   "lng": 116.07583,
+   "wd": "Q65080760"
+  },
+  {
+   "name": "사바 이슬람 문명 박물관",
+   "cat": "관광",
+   "area": "",
+   "lat": 5.96333,
+   "lng": 116.07389,
+   "aliases": [
+    "Sabah Islamic Civilisation Museum"
+   ],
+   "wd": "Q64827925"
+  },
+  {
+   "name": "Tun Datu Mustapha Memorial",
+   "cat": "관광",
+   "area": "사바주",
+   "lat": 5.89954,
+   "lng": 116.06015,
+   "wd": "Q1781720"
+  },
+  {
+   "name": "Suria Sabah",
+   "cat": "쇼핑",
+   "area": "코타키나발루",
+   "lat": 5.98741,
+   "lng": 116.07722,
+   "wd": "Q12496276"
+  },
+  {
+   "name": "North Borneo War Memorial",
+   "cat": "관광",
+   "area": "코타키나발루",
+   "lat": 5.98167,
+   "lng": 116.01777,
+   "wd": "Q14545056"
+  },
+  {
+   "name": "Sabah Tourism Board",
+   "cat": "관광",
+   "area": "코타키나발루",
+   "lat": 5.98543,
+   "lng": 116.078,
+   "wd": "Q27910289"
+  },
+  {
+   "name": "이마고 KK 타임스퀘어",
+   "cat": "관광",
+   "area": "코타키나발루",
+   "lat": 5.97056,
+   "lng": 116.06639,
+   "aliases": [
+    "Imago KK Times Square"
+   ],
+   "wd": "Q28219530"
+  },
+  {
+   "name": "Wisma Tun Fuad Stephens",
+   "cat": "관광",
+   "area": "사바주",
+   "lat": 5.96833,
+   "lng": 116.07444,
+   "wd": "Q28219542"
+  },
+  {
+   "name": "Jesselton Freemason Hall",
+   "cat": "관광",
+   "area": "",
+   "lat": 5.97246,
+   "lng": 116.07347,
+   "wd": "Q65074310"
+  },
+  {
+   "name": "The Green Connection",
+   "cat": "관광",
+   "area": "",
+   "lat": 5.97769,
+   "lng": 116.088,
+   "wd": "Q29208"
+  },
+  {
+   "name": "One Jesselton Waterfront",
+   "cat": "관광",
+   "area": "사바주",
+   "lat": 5.9907,
+   "lng": 116.0791,
+   "wd": "Q11102806"
+  },
+  {
+   "name": "Wisma Merdeka",
+   "cat": "쇼핑",
+   "area": "코타키나발루",
+   "lat": 5.98556,
+   "lng": 116.07556,
+   "wd": "Q28219535"
+  },
+  {
+   "name": "Aeropod",
+   "cat": "관광",
+   "area": "사바주",
+   "lat": 5.94722,
+   "lng": 116.05889,
+   "wd": "Q28219554"
+  },
+  {
+   "name": "Jesselton Residences",
+   "cat": "관광",
+   "area": "사바주",
+   "lat": 5.98889,
+   "lng": 116.07806,
+   "wd": "Q28219562"
+  },
+  {
+   "name": "Jesselton Quay",
+   "cat": "관광",
+   "area": "사바주",
+   "lat": 5.99167,
+   "lng": 116.08056,
+   "wd": "Q28219560"
+  },
+  {
+   "name": "1Sulaman",
+   "cat": "관광",
+   "area": "사바주",
+   "lat": 6.04639,
+   "lng": 116.14778,
+   "wd": "Q28219571"
+  },
+  {
+   "name": "Plaza Shell",
+   "cat": "관광",
+   "area": "사바주",
+   "lat": 5.97694,
+   "lng": 116.07444,
+   "wd": "Q28219605"
+  },
+  {
+   "name": "Malaysia Monument",
+   "cat": "관광",
+   "area": "코타키나발루",
+   "lat": 5.98222,
+   "lng": 116.07559,
+   "wd": "Q125891430"
+  },
+  {
+   "name": "Lok Kawi Wildlife Park",
+   "cat": "관광",
+   "area": "Putatan District",
+   "lat": 5.84747,
+   "lng": 116.06867,
+   "wd": "Q7445905"
+  },
+  {
+   "name": "Pogunon Community Museum",
+   "cat": "관광",
+   "area": "",
+   "lat": 5.91333,
+   "lng": 116.145,
+   "wd": "Q64819591"
+  },
+  {
+   "name": "Jesselton Twin Towers",
+   "cat": "관광",
+   "area": "",
+   "lat": 5.9662,
+   "lng": 116.0979,
+   "wd": "Q111169786"
+  },
+  {
+   "name": "Mari Mari Cultural Village",
+   "cat": "관광",
+   "area": "",
+   "lat": 5.97389,
+   "lng": 116.20366,
+   "wd": "Q136653239"
+  },
+  {
+   "name": "Karamunsing Complex",
+   "cat": "쇼핑",
+   "area": "코타키나발루",
+   "lat": 5.97056,
+   "lng": 116.075,
+   "wd": "Q28219539"
+  },
+  {
+   "name": "Grand Merdeka",
+   "cat": "관광",
+   "area": "사바주",
+   "lat": 6.06056,
+   "lng": 116.17944,
+   "wd": "Q28219592"
+  },
+  {
+   "name": "Kota Kinabalu Convention City",
+   "cat": "관광",
+   "area": "사바주",
+   "lat": 5.99472,
+   "lng": 116.08278,
+   "wd": "Q28219608"
+  },
+  {
+   "name": "Che Sui Khor Moral Uplifting Society",
+   "cat": "관광",
+   "area": "코타키나발루",
+   "lat": 5.97217,
+   "lng": 116.08275,
+   "wd": "Q101786935"
+  },
+  {
+   "name": "Gurudwara Sahib Kota Kinabalu",
+   "cat": "관광",
+   "area": "코타키나발루",
+   "lat": 5.95674,
+   "lng": 116.06549,
+   "wd": "Q14545681"
+  },
+  {
+   "name": "Sabah State Administrative Centre",
+   "cat": "관광",
+   "area": "코타키나발루",
+   "lat": 6.015,
+   "lng": 116.11083,
+   "wd": "Q16964907"
+  },
+  {
+   "name": "Centre Point",
+   "cat": "쇼핑",
+   "area": "코타키나발루",
+   "lat": 5.97806,
+   "lng": 116.07167,
+   "wd": "Q28219533"
+  },
+  {
+   "name": "탄중아루 해변",
+   "cat": "관광",
+   "area": "탄중아루 해변",
+   "lat": 5.94699,
+   "lng": 116.0456,
+   "aliases": [
+    "Tanjung Aru Beach"
+   ],
+   "wd": "Q877363"
+  },
+  {
+   "name": "Centre Point Sabah",
+   "cat": "쇼핑",
+   "area": "",
+   "lat": 5.97806,
+   "lng": 116.07167,
+   "wd": "Q65091640"
+  },
+  {
+   "name": "Oceanus Waterfront Mall",
+   "cat": "쇼핑",
+   "area": "코타키나발루",
+   "lat": 5.97694,
+   "lng": 116.06861,
+   "wd": "Q28219551"
+  },
+  {
+   "name": "Warisan Square Kota Kinabalu",
+   "cat": "쇼핑",
+   "area": "코타키나발루",
+   "lat": 5.97861,
+   "lng": 116.07083,
+   "wd": "Q42404836"
+  },
+  {
+   "name": "Sabah Hakka Complex",
+   "cat": "관광",
+   "area": "코타키나발루",
+   "lat": 5.99475,
+   "lng": 116.08836,
+   "wd": "Q85847112"
+  },
+  {
+   "name": "Warriors' Mausoleum",
+   "cat": "관광",
+   "area": "사바주",
+   "lat": 5.96012,
+   "lng": 116.06666,
+   "wd": "Q112275646"
+  },
+  {
+   "name": "Hongkod Koisaan",
+   "cat": "관광",
+   "area": "Penampang District",
+   "lat": 5.92324,
+   "lng": 116.09025,
+   "wd": "Q126282176"
+  },
+  {
+   "name": "Mega Long Mall",
+   "cat": "쇼핑",
+   "area": "",
+   "lat": 5.9125,
+   "lng": 116.10361,
+   "wd": "Q28219548"
+  },
+  {
+   "name": "Likas Beach",
+   "cat": "관광",
+   "area": "",
+   "lat": 5.99461,
+   "lng": 116.10339,
+   "wd": "Q33327291"
+  }
+ ]
+}

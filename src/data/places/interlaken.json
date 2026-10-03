@@ -1,0 +1,836 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "슈타우바흐 폭포",
+   "cat": "관광",
+   "area": "베른주",
+   "lat": 46.58965,
+   "lng": 7.90551,
+   "aliases": [
+    "Staubbach Falls"
+   ],
+   "wd": "Q686835"
+  },
+  {
+   "name": "트뤼멜바흐 폭포",
+   "cat": "관광",
+   "area": "베른주",
+   "lat": 46.56907,
+   "lng": 7.91498,
+   "aliases": [
+    "Trümmelbach Falls"
+   ],
+   "wd": "Q38141"
+  },
+  {
+   "name": "Open-air Museum Ballenberg",
+   "cat": "관광",
+   "area": "브리엔츠빌러",
+   "lat": 46.74955,
+   "lng": 8.08645,
+   "wd": "Q680419"
+  },
+  {
+   "name": "Giessbach",
+   "cat": "관광",
+   "area": "브리엔츠",
+   "lat": 46.73528,
+   "lng": 8.02056,
+   "wd": "Q680772"
+  },
+  {
+   "name": "Jungfrau Park",
+   "cat": "관광",
+   "area": "베른주",
+   "lat": 46.68222,
+   "lng": 7.88806,
+   "wd": "Q181016"
+  },
+  {
+   "name": "툰성",
+   "cat": "관광",
+   "area": "툰",
+   "lat": 46.76,
+   "lng": 7.63,
+   "aliases": [
+    "Thun Castle"
+   ],
+   "wd": "Q519524"
+  },
+  {
+   "name": "오버호펜성",
+   "cat": "관광",
+   "area": "오버호펜 암 투너제",
+   "lat": 46.72972,
+   "lng": 7.66861,
+   "aliases": [
+    "Oberhofen Castle"
+   ],
+   "wd": "Q679478"
+  },
+  {
+   "name": "슈피츠성",
+   "cat": "관광",
+   "area": "슈피츠",
+   "lat": 46.68942,
+   "lng": 7.68742,
+   "aliases": [
+    "Spiez Castle"
+   ],
+   "wd": "Q2243562"
+  },
+  {
+   "name": "묀히스요흐 산장",
+   "cat": "관광",
+   "area": "발레주",
+   "lat": 46.55467,
+   "lng": 8.00561,
+   "aliases": [
+    "Mönchsjoch Hut"
+   ],
+   "wd": "Q1958012"
+  },
+  {
+   "name": "Mürrenbachfall",
+   "cat": "관광",
+   "area": "베른주",
+   "lat": 46.5552,
+   "lng": 7.89711,
+   "wd": "Q1302606"
+  },
+  {
+   "name": "링겐베르크성",
+   "cat": "관광",
+   "area": "링엔베르크",
+   "lat": 46.701,
+   "lng": 7.89694,
+   "aliases": [
+    "Ringgenberg Castle"
+   ],
+   "wd": "Q1483036"
+  },
+  {
+   "name": "Weissenau Castle",
+   "cat": "관광",
+   "area": "운터젠",
+   "lat": 46.6701,
+   "lng": 7.83236,
+   "wd": "Q2175480"
+  },
+  {
+   "name": "운슈푼넨성",
+   "cat": "관광",
+   "area": "빌더스빌",
+   "lat": 46.66868,
+   "lng": 7.85729,
+   "aliases": [
+    "Unspunnen Castle"
+   ],
+   "wd": "Q1014334"
+  },
+  {
+   "name": "Mittellegi Hut",
+   "cat": "관광",
+   "area": "베른주",
+   "lat": 46.5834,
+   "lng": 8.02261,
+   "wd": "Q1770993"
+  },
+  {
+   "name": "시니게플라테 고산식물원",
+   "cat": "관광",
+   "area": "귄들리슈반트",
+   "lat": 46.6535,
+   "lng": 7.91161,
+   "aliases": [
+    "Schynige Platte Alpine Garden"
+   ],
+   "wd": "Q18213068"
+  },
+  {
+   "name": "트로펜하우스 프루티겐",
+   "cat": "관광",
+   "area": "프루티겐",
+   "lat": 46.59326,
+   "lng": 7.65608,
+   "aliases": [
+    "Tropenhaus Frutigen"
+   ],
+   "wd": "Q1690700"
+  },
+  {
+   "name": "Kursaal",
+   "cat": "관광",
+   "area": "인터라켄",
+   "lat": 46.68864,
+   "lng": 7.85819,
+   "wd": "Q257727"
+  },
+  {
+   "name": "Bergli Hut",
+   "cat": "관광",
+   "area": "베른주",
+   "lat": 46.5667,
+   "lng": 8.02047,
+   "wd": "Q819966"
+  },
+  {
+   "name": "Schmadribachfall",
+   "cat": "관광",
+   "area": "베른주",
+   "lat": 46.5113,
+   "lng": 7.90806,
+   "wd": "Q2245560"
+  },
+  {
+   "name": "Rottal Hut",
+   "cat": "관광",
+   "area": "라우터브루넨",
+   "lat": 46.52611,
+   "lng": 7.94472,
+   "wd": "Q14907430"
+  },
+  {
+   "name": "Mattenbach Falls",
+   "cat": "관광",
+   "area": "라우터브루넨",
+   "lat": 46.54654,
+   "lng": 7.90986,
+   "wd": "Q107574683"
+  },
+  {
+   "name": "Merligen church",
+   "cat": "관광",
+   "area": "지그리스빌",
+   "lat": 46.69893,
+   "lng": 7.73755,
+   "wd": "Q55412391"
+  },
+  {
+   "name": "Aris ob Kien Castle",
+   "cat": "관광",
+   "area": "라이헨바흐 임 칸데르탈",
+   "lat": 46.6086,
+   "lng": 7.69556,
+   "wd": "Q1010836"
+  },
+  {
+   "name": "ruin Mülenen castle and Letzi",
+   "cat": "관광",
+   "area": "라이헨바흐 임 칸데르탈",
+   "lat": 46.6378,
+   "lng": 7.692,
+   "wd": "Q1015428"
+  },
+  {
+   "name": "Wimmis Castle",
+   "cat": "관광",
+   "area": "비미스",
+   "lat": 46.67251,
+   "lng": 7.63448,
+   "wd": "Q1442357"
+  },
+  {
+   "name": "Scherzligen Reformed Church",
+   "cat": "관광",
+   "area": "툰",
+   "lat": 46.74735,
+   "lng": 7.6363,
+   "wd": "Q1303983"
+  },
+  {
+   "name": "Thun City Church",
+   "cat": "관광",
+   "area": "툰",
+   "lat": 46.75881,
+   "lng": 7.6313,
+   "wd": "Q2327481"
+  },
+  {
+   "name": "Artilleriewerk Hondrich",
+   "cat": "관광",
+   "area": "베른",
+   "lat": 46.67796,
+   "lng": 7.68593,
+   "wd": "Q19946282"
+  },
+  {
+   "name": "Mountain Inn Faulhorn",
+   "cat": "관광",
+   "area": "그린델발트",
+   "lat": 46.6748,
+   "lng": 7.99952,
+   "wd": "Q819781"
+  },
+  {
+   "name": "Gleckstein Hut",
+   "cat": "관광",
+   "area": "베른주",
+   "lat": 46.6251,
+   "lng": 8.09658,
+   "wd": "Q1530186"
+  },
+  {
+   "name": "Ruine Faulensee",
+   "cat": "관광",
+   "area": "베른주",
+   "lat": 46.67609,
+   "lng": 7.70276,
+   "wd": "Q102112421"
+  },
+  {
+   "name": "Silberhornhütte",
+   "cat": "관광",
+   "area": "라우터브루넨",
+   "lat": 46.54899,
+   "lng": 7.93365,
+   "wd": "Q19309143"
+  },
+  {
+   "name": "Reformed Church",
+   "cat": "관광",
+   "area": "라우터브루넨",
+   "lat": 46.59264,
+   "lng": 7.90841,
+   "wd": "Q29639712"
+  },
+  {
+   "name": "Jungfraubahn power plant",
+   "cat": "관광",
+   "area": "라우터브루넨",
+   "lat": 46.60456,
+   "lng": 7.90668,
+   "wd": "Q29673071"
+  },
+  {
+   "name": "Hotel Regina",
+   "cat": "관광",
+   "area": "라우터브루넨",
+   "lat": 46.55946,
+   "lng": 7.89346,
+   "wd": "Q111196549"
+  },
+  {
+   "name": "Alpina-Edelweiss Hotel",
+   "cat": "관광",
+   "area": "라우터브루넨",
+   "lat": 46.56152,
+   "lng": 7.89692,
+   "wd": "Q124545759"
+  },
+  {
+   "name": "Hotel \"Des Alpes\" (1896)",
+   "cat": "관광",
+   "area": "라우터브루넨",
+   "lat": 46.58493,
+   "lng": 7.96227,
+   "wd": "Q136779175"
+  },
+  {
+   "name": "Marien chapel",
+   "cat": "관광",
+   "area": "브리엔츠",
+   "lat": 46.75539,
+   "lng": 8.03439,
+   "wd": "Q55415060"
+  },
+  {
+   "name": "Wildpark Brienz",
+   "cat": "관광",
+   "area": "브리엔츠",
+   "lat": 46.75574,
+   "lng": 8.04361,
+   "wd": "Q107434467"
+  },
+  {
+   "name": "High-pressure hydroelectric power station of the Jungfrau Railway (1908)",
+   "cat": "관광",
+   "area": "뤼첸탈",
+   "lat": 46.63734,
+   "lng": 7.95433,
+   "wd": "Q124840201"
+  },
+  {
+   "name": "Heiligenschwendi blocking site",
+   "cat": "관광",
+   "area": "Heiligenschwendi",
+   "lat": 46.75245,
+   "lng": 7.68424,
+   "wd": "Q20012635"
+  },
+  {
+   "name": "Park Hotel",
+   "cat": "관광",
+   "area": "지그리스빌",
+   "lat": 46.71238,
+   "lng": 7.70255,
+   "wd": "Q110450630"
+  },
+  {
+   "name": "Guggihütte",
+   "cat": "관광",
+   "area": "마텐 바이 인터라켄",
+   "lat": 46.56271,
+   "lng": 7.97444,
+   "wd": "Q20669004"
+  },
+  {
+   "name": "museum of housing culture of historicism and art nouveau",
+   "cat": "관광",
+   "area": "Hilterfingen",
+   "lat": 46.73773,
+   "lng": 7.6548,
+   "wd": "Q27481444"
+  },
+  {
+   "name": "Alt-Oberhofen Castle",
+   "cat": "관광",
+   "area": "오버호펜 암 투너제",
+   "lat": 46.7371,
+   "lng": 7.67674,
+   "wd": "Q1010722"
+  },
+  {
+   "name": "Schadburg ruin",
+   "cat": "관광",
+   "area": "링엔베르크",
+   "lat": 46.7128,
+   "lng": 7.91611,
+   "wd": "Q1335263"
+  },
+  {
+   "name": "Museum für Uhren und mechanische Musikinstrumente",
+   "cat": "관광",
+   "area": "오버호펜 암 투너제",
+   "lat": 46.7285,
+   "lng": 7.6717,
+   "wd": "Q6940720"
+  },
+  {
+   "name": "Goldswil viaduct",
+   "cat": "관광",
+   "area": "링엔베르크",
+   "lat": 46.69269,
+   "lng": 7.87193,
+   "wd": "Q125795024"
+  },
+  {
+   "name": "Weissenau observation tower",
+   "cat": "관광",
+   "area": "운터젠",
+   "lat": 46.67189,
+   "lng": 7.82878,
+   "wd": "Q26879646"
+  },
+  {
+   "name": "former Hotel Stadthaus",
+   "cat": "관광",
+   "area": "운터젠",
+   "lat": 46.68687,
+   "lng": 7.84962,
+   "wd": "Q29675660"
+  },
+  {
+   "name": "Heimwehfluhturm",
+   "cat": "관광",
+   "area": "인터라켄",
+   "lat": 46.67534,
+   "lng": 7.84991,
+   "wd": "Q17561163"
+  },
+  {
+   "name": "Hotel Royal-St.Georges",
+   "cat": "관광",
+   "area": "인터라켄",
+   "lat": 46.68878,
+   "lng": 7.86265,
+   "wd": "Q19362611"
+  },
+  {
+   "name": "Kunsthaus Interlaken",
+   "cat": "관광",
+   "area": "인터라켄",
+   "lat": 46.68449,
+   "lng": 7.85706,
+   "wd": "Q27481498"
+  },
+  {
+   "name": "Hotel Beaurivage",
+   "cat": "관광",
+   "area": "인터라켄",
+   "lat": 46.68974,
+   "lng": 7.86454,
+   "wd": "Q29673469"
+  },
+  {
+   "name": "Japanese garden",
+   "cat": "관광",
+   "area": "인터라켄",
+   "lat": 46.68861,
+   "lng": 7.86382,
+   "wd": "Q54321962"
+  },
+  {
+   "name": "Hotel Harder–Minerva",
+   "cat": "관광",
+   "area": "인터라켄",
+   "lat": 46.6866,
+   "lng": 7.85517,
+   "wd": "Q111467391"
+  },
+  {
+   "name": "Hotel Central (1899)",
+   "cat": "관광",
+   "area": "인터라켄",
+   "lat": 46.6845,
+   "lng": 7.85082,
+   "wd": "Q111875334"
+  },
+  {
+   "name": "Chalet Diana (around 1880)",
+   "cat": "관광",
+   "area": "인터라켄",
+   "lat": 46.68879,
+   "lng": 7.86324,
+   "wd": "Q126301103"
+  },
+  {
+   "name": "Former Hotel Simplon (1899)",
+   "cat": "관광",
+   "area": "인터라켄",
+   "lat": 46.6805,
+   "lng": 7.85166,
+   "wd": "Q126301108"
+  },
+  {
+   "name": "Hotel Carlton (1900)",
+   "cat": "관광",
+   "area": "인터라켄",
+   "lat": 46.68934,
+   "lng": 7.86566,
+   "wd": "Q126301114"
+  },
+  {
+   "name": "Hotel St. Georges",
+   "cat": "관광",
+   "area": "인터라켄",
+   "lat": 46.68859,
+   "lng": 7.86233,
+   "wd": "Q141368553"
+  },
+  {
+   "name": "Art Museum Thun",
+   "cat": "관광",
+   "area": "툰",
+   "lat": 46.75594,
+   "lng": 7.63395,
+   "wd": "Q1309669"
+  },
+  {
+   "name": "Strättlig Tower",
+   "cat": "관광",
+   "area": "툰",
+   "lat": 46.7128,
+   "lng": 7.62833,
+   "wd": "Q2175448"
+  },
+  {
+   "name": "Schwäbisturm",
+   "cat": "관광",
+   "area": "툰",
+   "lat": 46.7607,
+   "lng": 7.62671,
+   "wd": "Q2258068"
+  },
+  {
+   "name": "Thun Castle Museum",
+   "cat": "관광",
+   "area": "툰",
+   "lat": 46.76,
+   "lng": 7.63,
+   "wd": "Q27489083"
+  },
+  {
+   "name": "Former Department Store \"Zur Stadt Paris\" (1912/14)",
+   "cat": "관광",
+   "area": "툰",
+   "lat": 46.76034,
+   "lng": 7.62871,
+   "wd": "Q126363830"
+  },
+  {
+   "name": "Kleist monument",
+   "cat": "관광",
+   "area": "툰",
+   "lat": 46.75218,
+   "lng": 7.63404,
+   "wd": "Q136351528"
+  },
+  {
+   "name": "Reformed Castle Church",
+   "cat": "관광",
+   "area": "슈피츠",
+   "lat": 46.68906,
+   "lng": 7.68849,
+   "wd": "Q19362706"
+  },
+  {
+   "name": "Vineyard",
+   "cat": "관광",
+   "area": "슈피츠",
+   "lat": 46.69081,
+   "lng": 7.68401,
+   "wd": "Q19362708"
+  },
+  {
+   "name": "Gspaltenhornhütte",
+   "cat": "관광",
+   "area": "",
+   "lat": 46.51266,
+   "lng": 7.81022,
+   "wd": "Q16064923"
+  },
+  {
+   "name": "Artilleriewerk Waldbrand",
+   "cat": "관광",
+   "area": "",
+   "lat": 46.69438,
+   "lng": 7.75137,
+   "wd": "Q20012422"
+  },
+  {
+   "name": "St. Nikolaus Marbach Parish Church",
+   "cat": "관광",
+   "area": "Escholzmatt-Marbach",
+   "lat": 46.85298,
+   "lng": 7.90077,
+   "wd": "Q55415186"
+  },
+  {
+   "name": "Hotel Bellevue des Alpes",
+   "cat": "관광",
+   "area": "그린델발트",
+   "lat": 46.58517,
+   "lng": 7.96198,
+   "wd": "Q117090191"
+  },
+  {
+   "name": "Eismeer viewpoint",
+   "cat": "관광",
+   "area": "그린델발트",
+   "lat": 46.5723,
+   "lng": 8.01048,
+   "wd": "Q128598899"
+  },
+  {
+   "name": "Chapel of the Assumption of Mary",
+   "cat": "관광",
+   "area": "Escholzmatt-Marbach",
+   "lat": 46.8323,
+   "lng": 7.93076,
+   "wd": "Q129023505"
+  },
+  {
+   "name": "Trachsellauenen, medieval / modern silver mining",
+   "cat": "관광",
+   "area": "라우터브루넨",
+   "lat": 46.52403,
+   "lng": 7.90168,
+   "wd": "Q19362646"
+  },
+  {
+   "name": "Protestant Reformed Church",
+   "cat": "관광",
+   "area": "이젤트발트",
+   "lat": 46.70966,
+   "lng": 7.96485,
+   "wd": "Q55414988"
+  },
+  {
+   "name": "Storage (1700 or 1706)",
+   "cat": "관광",
+   "area": "Eriz",
+   "lat": 46.78673,
+   "lng": 7.75496,
+   "wd": "Q125604877"
+  },
+  {
+   "name": "Bolbach Bridge (1932)",
+   "cat": "관광",
+   "area": "Habkern",
+   "lat": 46.73232,
+   "lng": 7.86982,
+   "wd": "Q140583804"
+  },
+  {
+   "name": "Hotel Mattenhof",
+   "cat": "관광",
+   "area": "마텐 바이 인터라켄",
+   "lat": 46.67935,
+   "lng": 7.86407,
+   "wd": "Q29673262"
+  },
+  {
+   "name": "Non-motorized traffic bridge over the Simme",
+   "cat": "관광",
+   "area": "비미스",
+   "lat": 46.68655,
+   "lng": 7.63334,
+   "wd": "Q134661933"
+  },
+  {
+   "name": "Hotel Oberländerhof",
+   "cat": "관광",
+   "area": "뵈니겐",
+   "lat": 46.68817,
+   "lng": 7.89805,
+   "wd": "Q112960898"
+  },
+  {
+   "name": "Community Vault (1564)",
+   "cat": "관광",
+   "area": "지그리스빌",
+   "lat": 46.71784,
+   "lng": 7.71435,
+   "wd": "Q125464596"
+  },
+  {
+   "name": "Letzi Spissi, Talsperre",
+   "cat": "관광",
+   "area": "비미스",
+   "lat": 46.66739,
+   "lng": 7.62929,
+   "wd": "Q19362741"
+  },
+  {
+   "name": "Former Inn",
+   "cat": "관광",
+   "area": "프루티겐",
+   "lat": 46.57558,
+   "lng": 7.65988,
+   "wd": "Q29652088"
+  },
+  {
+   "name": "Sust",
+   "cat": "관광",
+   "area": "프루티겐",
+   "lat": 46.58255,
+   "lng": 7.65821,
+   "wd": "Q29652089"
+  },
+  {
+   "name": "Eichbühl Estate",
+   "cat": "관광",
+   "area": "Hilterfingen",
+   "lat": 46.74334,
+   "lng": 7.65115,
+   "wd": "Q29652139"
+  },
+  {
+   "name": "Hotel Bellevue au Lac",
+   "cat": "관광",
+   "area": "Hilterfingen",
+   "lat": 46.73394,
+   "lng": 7.6603,
+   "wd": "Q136089752"
+  },
+  {
+   "name": "Bären Inn",
+   "cat": "관광",
+   "area": "라이헨바흐 임 칸데르탈",
+   "lat": 46.6256,
+   "lng": 7.69436,
+   "wd": "Q19362686"
+  },
+  {
+   "name": "Church Ruin",
+   "cat": "관광",
+   "area": "링엔베르크",
+   "lat": 46.69656,
+   "lng": 7.88029,
+   "wd": "Q29674639"
+  },
+  {
+   "name": "Stöckli",
+   "cat": "관광",
+   "area": "링엔베르크",
+   "lat": 46.70099,
+   "lng": 7.89611,
+   "wd": "Q112341257"
+  },
+  {
+   "name": "old school house",
+   "cat": "관광",
+   "area": "Schangnau",
+   "lat": 46.82841,
+   "lng": 7.86348,
+   "wd": "Q29674848"
+  },
+  {
+   "name": "Lion's Inn",
+   "cat": "관광",
+   "area": "Schangnau",
+   "lat": 46.82779,
+   "lng": 7.86098,
+   "wd": "Q29674864"
+  },
+  {
+   "name": "Hohebrücke",
+   "cat": "관광",
+   "area": "운터젠",
+   "lat": 46.68654,
+   "lng": 7.85214,
+   "wd": "Q112779765"
+  },
+  {
+   "name": "Räben Bridge",
+   "cat": "관광",
+   "area": "Schangnau",
+   "lat": 46.82056,
+   "lng": 7.84467,
+   "wd": "Q113130589"
+  },
+  {
+   "name": "Mill Bridge (1866)",
+   "cat": "관광",
+   "area": "Schangnau",
+   "lat": 46.81384,
+   "lng": 7.88164,
+   "wd": "Q125418455"
+  },
+  {
+   "name": "Lower lock (1854)",
+   "cat": "관광",
+   "area": "운터젠",
+   "lat": 46.68667,
+   "lng": 7.85067,
+   "wd": "Q134661721"
+  },
+  {
+   "name": "Mountain Restaurant Harder Kulm",
+   "cat": "관광",
+   "area": "운터젠",
+   "lat": 46.69751,
+   "lng": 7.85188,
+   "wd": "Q135291777"
+  },
+  {
+   "name": "Former Hotel Du Pont",
+   "cat": "관광",
+   "area": "운터젠",
+   "lat": 46.68658,
+   "lng": 7.85187,
+   "wd": "Q141490142"
+  },
+  {
+   "name": "Fountain (2nd half of the 19th century)",
+   "cat": "관광",
+   "area": "인터라켄",
+   "lat": 46.68643,
+   "lng": 7.85233,
+   "wd": "Q112777984"
+  }
+ ]
+}

@@ -1,0 +1,511 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "수흐바타르 광장",
+   "cat": "관광",
+   "area": "울란바타르",
+   "lat": 47.9189,
+   "lng": 106.918,
+   "aliases": [
+    "Sükhbaatar Square"
+   ],
+   "wd": "Q1348864"
+  },
+  {
+   "name": "Choijin Lama Temple",
+   "cat": "관광",
+   "area": "울란바타르",
+   "lat": 47.915,
+   "lng": 106.91833,
+   "wd": "Q2093410"
+  },
+  {
+   "name": "National Museum of Mongolia",
+   "cat": "관광",
+   "area": "울란바타르",
+   "lat": 47.9208,
+   "lng": 106.915,
+   "wd": "Q2154176"
+  },
+  {
+   "name": "Government Palace",
+   "cat": "관광",
+   "area": "울란바타르",
+   "lat": 47.92083,
+   "lng": 106.91722,
+   "wd": "Q2370147"
+  },
+  {
+   "name": "Saints Peter and Paul Cathedral (Ulaanbaatar)",
+   "cat": "관광",
+   "area": "울란바타르",
+   "lat": 47.91206,
+   "lng": 106.97596,
+   "wd": "Q16538387"
+  },
+  {
+   "name": "Zaisan Memorial",
+   "cat": "관광",
+   "area": "Khan-Uul",
+   "lat": 47.88417,
+   "lng": 106.91583,
+   "wd": "Q144444"
+  },
+  {
+   "name": "Natural History Museum",
+   "cat": "관광",
+   "area": "Chingeltei",
+   "lat": 47.9235,
+   "lng": 106.90578,
+   "wd": "Q2154359"
+  },
+  {
+   "name": "Sükhbaatar's Mausoleum",
+   "cat": "관광",
+   "area": "울란바타르",
+   "lat": 47.9197,
+   "lng": 106.917,
+   "wd": "Q2258994"
+  },
+  {
+   "name": "National Academic Theatre of Opera and Ballet of Mongolia",
+   "cat": "관광",
+   "area": "울란바타르",
+   "lat": 47.91861,
+   "lng": 106.91972,
+   "wd": "Q559620"
+  },
+  {
+   "name": "Fine Arts Zanabazar Museum",
+   "cat": "관광",
+   "area": "울란바타르",
+   "lat": 47.9202,
+   "lng": 106.9097,
+   "wd": "Q2370206"
+  },
+  {
+   "name": "블루 스카이 타워",
+   "cat": "관광",
+   "area": "울란바타르",
+   "lat": 47.91636,
+   "lng": 106.91883,
+   "aliases": [
+    "Blue Sky Tower"
+   ],
+   "wd": "Q15107804"
+  },
+  {
+   "name": "Ulaanbaatar City Museum",
+   "cat": "관광",
+   "area": "Bayanzürkh",
+   "lat": 47.91806,
+   "lng": 106.93583,
+   "wd": "Q2368924"
+  },
+  {
+   "name": "Holy Trinity Church",
+   "cat": "관광",
+   "area": "울란바타르",
+   "lat": 47.9161,
+   "lng": 106.959,
+   "wd": "Q4463461"
+  },
+  {
+   "name": "Marshall Zhukov House Museum",
+   "cat": "관광",
+   "area": "울란바타르",
+   "lat": 47.91797,
+   "lng": 106.953,
+   "wd": "Q19615122"
+  },
+  {
+   "name": "Memorial Museum of Victims of Political Repression",
+   "cat": "관광",
+   "area": "울란바타르",
+   "lat": 47.91522,
+   "lng": 106.92061,
+   "wd": "Q25631559"
+  },
+  {
+   "name": "Mongolian Military Museum",
+   "cat": "관광",
+   "area": "Bayanzürkh",
+   "lat": 47.9226,
+   "lng": 106.9533,
+   "wd": "Q17034430"
+  },
+  {
+   "name": "초이렌 명문",
+   "cat": "관광",
+   "area": "",
+   "lat": 47.92143,
+   "lng": 106.91302,
+   "aliases": [
+    "Monument of Choir"
+   ],
+   "wd": "Q19610328"
+  },
+  {
+   "name": "Peace Bridge",
+   "cat": "관광",
+   "area": "울란바타르",
+   "lat": 47.9076,
+   "lng": 106.913,
+   "wd": "Q2370261"
+  },
+  {
+   "name": "Central Tower",
+   "cat": "관광",
+   "area": "Sükhbaatar",
+   "lat": 47.91778,
+   "lng": 106.92056,
+   "wd": "Q2257082"
+  },
+  {
+   "name": "National Academic Drama Theatre",
+   "cat": "관광",
+   "area": "울란바타르",
+   "lat": 47.91464,
+   "lng": 106.9144,
+   "wd": "Q6899648"
+  },
+  {
+   "name": "National Garden Park",
+   "cat": "관광",
+   "area": "울란바타르",
+   "lat": 47.90028,
+   "lng": 106.94333,
+   "wd": "Q131416188"
+  },
+  {
+   "name": "National Art Gallery of Mongolia",
+   "cat": "관광",
+   "area": "울란바타르",
+   "lat": 47.91969,
+   "lng": 106.92122,
+   "wd": "Q17034485"
+  },
+  {
+   "name": "Chinggis Khaan National Museum",
+   "cat": "관광",
+   "area": "울란바타르",
+   "lat": 47.92253,
+   "lng": 106.91492,
+   "wd": "Q120021719"
+  },
+  {
+   "name": "Red Rock Castle",
+   "cat": "관광",
+   "area": "Sükhbaatar",
+   "lat": 47.90917,
+   "lng": 106.92083,
+   "wd": "Q2743662"
+  },
+  {
+   "name": "Mansion Complex of H.E. Chin Van Mr. Handdorj",
+   "cat": "관광",
+   "area": "Sükhbaatar",
+   "lat": 47.914,
+   "lng": 106.9093,
+   "wd": "Q4165428"
+  },
+  {
+   "name": "Megjid Janraisig Temple",
+   "cat": "관광",
+   "area": "Bayangol",
+   "lat": 47.9232,
+   "lng": 106.895,
+   "wd": "Q4309776"
+  },
+  {
+   "name": "Ulaanbaatar Central Mosque",
+   "cat": "관광",
+   "area": "Bayangol",
+   "lat": 47.91394,
+   "lng": 106.88472,
+   "wd": "Q121307809"
+  },
+  {
+   "name": "Urgoo Cinema",
+   "cat": "관광",
+   "area": "울란바타르",
+   "lat": 47.9233,
+   "lng": 106.875,
+   "wd": "Q7900494"
+  },
+  {
+   "name": "International Intellectual Museum",
+   "cat": "관광",
+   "area": "울란바타르",
+   "lat": 47.91758,
+   "lng": 106.94178,
+   "wd": "Q10926251"
+  },
+  {
+   "name": "Memorial Monument for Deceased Japanese",
+   "cat": "관광",
+   "area": "울란바타르",
+   "lat": 47.99687,
+   "lng": 106.94407,
+   "wd": "Q11317544"
+  },
+  {
+   "name": "ASA Arena",
+   "cat": "관광",
+   "area": "울란바타르",
+   "lat": 47.91202,
+   "lng": 106.90729,
+   "wd": "Q17059451"
+  },
+  {
+   "name": "Roerich's Shambala Museum",
+   "cat": "관광",
+   "area": "Bayanzürkh",
+   "lat": 47.91789,
+   "lng": 106.95686,
+   "wd": "Q4165218"
+  },
+  {
+   "name": "Ulaanbaatar Department Store",
+   "cat": "쇼핑",
+   "area": "Sükhbaatar",
+   "lat": 47.915,
+   "lng": 106.9016,
+   "wd": "Q65406255"
+  },
+  {
+   "name": "National Amusement Park",
+   "cat": "관광",
+   "area": "Sükhbaatar",
+   "lat": 47.90986,
+   "lng": 106.92192,
+   "wd": "Q110014267"
+  },
+  {
+   "name": "Development Center for Children with Disabilities",
+   "cat": "관광",
+   "area": "Bayangol",
+   "lat": 47.88317,
+   "lng": 106.78692,
+   "wd": "Q123757967"
+  },
+  {
+   "name": "State Department Store",
+   "cat": "쇼핑",
+   "area": "Chingeltei",
+   "lat": 47.91703,
+   "lng": 106.90625,
+   "wd": "Q125944026"
+  },
+  {
+   "name": "Soyombo Movie Theater",
+   "cat": "관광",
+   "area": "울란바타르",
+   "lat": 47.9128,
+   "lng": 106.845,
+   "wd": "Q7572030"
+  },
+  {
+   "name": "International Commercial Center",
+   "cat": "관광",
+   "area": "울란바타르",
+   "lat": 47.91588,
+   "lng": 106.91985,
+   "wd": "Q25349357"
+  },
+  {
+   "name": "Statue of Lenin in Ulaanbaatar",
+   "cat": "관광",
+   "area": "울란바타르",
+   "lat": 47.91811,
+   "lng": 106.92283,
+   "wd": "Q25632591"
+  },
+  {
+   "name": "Urjinshadduvlin Monastery",
+   "cat": "관광",
+   "area": "Bayanzürkh",
+   "lat": 47.91722,
+   "lng": 106.97528,
+   "wd": "Q21194310"
+  },
+  {
+   "name": "Tank Memorial",
+   "cat": "관광",
+   "area": "Khan-Uul",
+   "lat": 47.88664,
+   "lng": 106.91611,
+   "wd": "Q25632589"
+  },
+  {
+   "name": "Monument to Marshal Georgy Zhukov",
+   "cat": "관광",
+   "area": "Bayanzürkh",
+   "lat": 47.91817,
+   "lng": 106.95244,
+   "wd": "Q135319529"
+  },
+  {
+   "name": "Fountain Square",
+   "cat": "관광",
+   "area": "Sükhbaatar",
+   "lat": 47.91544,
+   "lng": 106.9065,
+   "wd": "Q121754284"
+  },
+  {
+   "name": "Mongol Art Gallery",
+   "cat": "관광",
+   "area": "Bayanzürkh",
+   "lat": 47.90453,
+   "lng": 106.94881,
+   "wd": "Q123347067"
+  },
+  {
+   "name": "Narantuul Market",
+   "cat": "쇼핑",
+   "area": "Bayanzürkh",
+   "lat": 47.90919,
+   "lng": 106.94806,
+   "wd": "Q130051111"
+  },
+  {
+   "name": "Galleria Ulaanbaatar",
+   "cat": "쇼핑",
+   "area": "Sükhbaatar",
+   "lat": 47.92058,
+   "lng": 106.91911,
+   "wd": "Q130259098"
+  },
+  {
+   "name": "Yavuuhulan Garden",
+   "cat": "관광",
+   "area": "Chingeltei",
+   "lat": 47.91833,
+   "lng": 106.90911,
+   "wd": "Q131424582"
+  },
+  {
+   "name": "Shangri-La Ulaanbaatar Complex",
+   "cat": "관광",
+   "area": "",
+   "lat": 47.91308,
+   "lng": 106.92108,
+   "wd": "Q129677504"
+  },
+  {
+   "name": "Tengis Movie Theater",
+   "cat": "관광",
+   "area": "Chingeltei",
+   "lat": 47.92138,
+   "lng": 106.90554,
+   "wd": "Q36142164"
+  },
+  {
+   "name": "Wedding Palace",
+   "cat": "관광",
+   "area": "Sükhbaatar",
+   "lat": 47.91436,
+   "lng": 106.91997,
+   "wd": "Q134845680"
+  },
+  {
+   "name": "Hunnu Mall",
+   "cat": "쇼핑",
+   "area": "Khan-Uul",
+   "lat": 47.87856,
+   "lng": 106.85106,
+   "wd": "Q135218563"
+  },
+  {
+   "name": "Astropark",
+   "cat": "관광",
+   "area": "Bayanzürkh",
+   "lat": 47.92114,
+   "lng": 106.95431,
+   "wd": "Q136061645"
+  },
+  {
+   "name": "Amgalan Thermal Power Plant",
+   "cat": "관광",
+   "area": "Bayanzürkh",
+   "lat": 47.91658,
+   "lng": 107.00467,
+   "wd": "Q121754414"
+  },
+  {
+   "name": "Word Financial History Museum",
+   "cat": "관광",
+   "area": "Sükhbaatar",
+   "lat": 47.91597,
+   "lng": 106.91908,
+   "wd": "Q129260932"
+  },
+  {
+   "name": "Yarmag Bridge",
+   "cat": "관광",
+   "area": "Khan-Uul",
+   "lat": 47.88747,
+   "lng": 106.86428,
+   "wd": "Q129261419"
+  },
+  {
+   "name": "Zaisan Bridge",
+   "cat": "관광",
+   "area": "Khan-Uul",
+   "lat": 47.89028,
+   "lng": 106.90975,
+   "wd": "Q129263744"
+  },
+  {
+   "name": "Tolgoit Mosque",
+   "cat": "관광",
+   "area": "Songino Khairkhan",
+   "lat": 47.92622,
+   "lng": 106.79108,
+   "wd": "Q131463617"
+  },
+  {
+   "name": "Mt.Bogd Golf Course",
+   "cat": "쇼핑",
+   "area": "",
+   "lat": 47.882,
+   "lng": 107.044,
+   "wd": "Q16998259"
+  },
+  {
+   "name": "Khan-Uul Stadium",
+   "cat": "관광",
+   "area": "",
+   "lat": 47.8864,
+   "lng": 106.9057,
+   "wd": "Q117032008"
+  },
+  {
+   "name": "New Central Wastewater Treatment Plant",
+   "cat": "관광",
+   "area": "",
+   "lat": 47.9025,
+   "lng": 106.7625,
+   "wd": "Q123746509"
+  },
+  {
+   "name": "Ulaanchuluut Landfill",
+   "cat": "관광",
+   "area": "",
+   "lat": 47.94839,
+   "lng": 106.79025,
+   "wd": "Q131824479"
+  },
+  {
+   "name": "Eco Tower One",
+   "cat": "관광",
+   "area": "",
+   "lat": 47.91594,
+   "lng": 106.91478,
+   "wd": "Q141596097"
+  }
+ ]
+}

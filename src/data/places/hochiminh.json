@@ -1,0 +1,495 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "사이공 노트르담 성당",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.77972,
+   "lng": 106.69917,
+   "aliases": [
+    "Saigon Notre-Dame Basilica"
+   ],
+   "wd": "Q428129"
+  },
+  {
+   "name": "통일궁",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.77705,
+   "lng": 106.69537,
+   "aliases": [
+    "Independence Palace"
+   ],
+   "wd": "Q933384"
+  },
+  {
+   "name": "전쟁 박물관",
+   "cat": "관광",
+   "area": "3군",
+   "lat": 10.7795,
+   "lng": 106.692,
+   "aliases": [
+    "War Remnants Museum"
+   ],
+   "wd": "Q703871"
+  },
+  {
+   "name": "호찌민 시립 극장",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.77639,
+   "lng": 106.70278,
+   "aliases": [
+    "Saigon Opera House"
+   ],
+   "wd": "Q1949129"
+  },
+  {
+   "name": "사이공 동식물원",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.78806,
+   "lng": 106.70472,
+   "aliases": [
+    "Saigon Zoo and Botanical Gardens"
+   ],
+   "wd": "Q3162430"
+  },
+  {
+   "name": "호찌민시 박물관",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.77611,
+   "lng": 106.69972,
+   "aliases": [
+    "Museum of Ho Chi Minh City"
+   ],
+   "wd": "Q864767"
+  },
+  {
+   "name": "Xá Lợi Pagoda",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.77806,
+   "lng": 106.68667,
+   "wd": "Q1005868"
+  },
+  {
+   "name": "Mariamman Temple, Ho Chi Minh City",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.7723,
+   "lng": 106.6956,
+   "wd": "Q4448947"
+  },
+  {
+   "name": "Thien Hau Temple",
+   "cat": "관광",
+   "area": "촐롱",
+   "lat": 10.75291,
+   "lng": 106.66117,
+   "wd": "Q1063916"
+  },
+  {
+   "name": "사이공 중앙 우체국",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.78,
+   "lng": 106.7,
+   "aliases": [
+    "Saigon Central Post Office"
+   ],
+   "wd": "Q2227270"
+  },
+  {
+   "name": "호찌민시 역사박물관",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.78484,
+   "lng": 106.70759,
+   "aliases": [
+    "Ho Chi Minh City Museum of History",
+    "베트남 역사 박물관 (호찌민 시)"
+   ],
+   "wd": "Q6941045"
+  },
+  {
+   "name": "떤딘 성당",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.78842,
+   "lng": 106.69069,
+   "aliases": [
+    "Tan Dinh church"
+   ],
+   "wd": "Q7682043"
+  },
+  {
+   "name": "호찌민시 미술박물관",
+   "cat": "관광",
+   "area": "",
+   "lat": 10.76944,
+   "lng": 106.7,
+   "aliases": [
+    "Ho Chi Minh City Museum of Fine Arts",
+    "호찌민 미술 박물관"
+   ],
+   "wd": "Q2756351"
+  },
+  {
+   "name": "푸미교",
+   "cat": "관광",
+   "area": "",
+   "lat": 10.74499,
+   "lng": 106.74446,
+   "aliases": [
+    "Phu My Bridge"
+   ],
+   "wd": "Q4216999"
+  },
+  {
+   "name": "Saigon Central Mosque",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.77622,
+   "lng": 106.70428,
+   "wd": "Q108864020"
+  },
+  {
+   "name": "Dam Sen Cultural Park",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.76611,
+   "lng": 106.63806,
+   "wd": "Q2056423"
+  },
+  {
+   "name": "Saigon Bridge",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.79889,
+   "lng": 106.72722,
+   "wd": "Q2290616"
+  },
+  {
+   "name": "Paris Commune Square",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.77934,
+   "lng": 106.69946,
+   "wd": "Q10752011"
+  },
+  {
+   "name": "사이공성",
+   "cat": "관광",
+   "area": "Six Provinces of Southern Vietnam",
+   "lat": 10.7866,
+   "lng": 106.7016,
+   "aliases": [
+    "Citadel of Saigon (1790)",
+    "지아딘시",
+    "사이공시"
+   ],
+   "wd": "Q5122391"
+  },
+  {
+   "name": "Giác Lâm Pagoda",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.77944,
+   "lng": 106.64917,
+   "wd": "Q3360457"
+  },
+  {
+   "name": "Tao Dan Park",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.77472,
+   "lng": 106.69306,
+   "wd": "Q10752055"
+  },
+  {
+   "name": "바손교",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.77955,
+   "lng": 106.71017,
+   "aliases": [
+    "Ba Son Bridge"
+   ],
+   "wd": "Q19705165"
+  },
+  {
+   "name": "Jade Emperor Pagoda",
+   "cat": "관광",
+   "area": "1군",
+   "lat": 10.79167,
+   "lng": 106.69778,
+   "wd": "Q6121304"
+  },
+  {
+   "name": "Việt Nam Quốc Tự",
+   "cat": "관광",
+   "area": "",
+   "lat": 10.77115,
+   "lng": 106.67322,
+   "wd": "Q10832864"
+  },
+  {
+   "name": "Diamond Plaza",
+   "cat": "쇼핑",
+   "area": "호찌민시",
+   "lat": 10.78083,
+   "lng": 106.69833,
+   "wd": "Q5270896"
+  },
+  {
+   "name": "Saint Francis Xavier Church",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.752,
+   "lng": 106.653,
+   "wd": "Q6837230"
+  },
+  {
+   "name": "Dragon House",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.76824,
+   "lng": 106.7068,
+   "wd": "Q10743440"
+  },
+  {
+   "name": "Sacred Heart Church",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.7575,
+   "lng": 106.68167,
+   "wd": "Q10800884"
+  },
+  {
+   "name": "Saint Joseph Church",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.837,
+   "lng": 106.65892,
+   "wd": "Q10800888"
+  },
+  {
+   "name": "Jeanne d'Arc Church",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.75694,
+   "lng": 106.66719,
+   "wd": "Q10800896"
+  },
+  {
+   "name": "Lam Sơn Square",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.77639,
+   "lng": 106.70306,
+   "wd": "Q66177958"
+  },
+  {
+   "name": "Vinh Nghiem Pagoda",
+   "cat": "관광",
+   "area": "Xuân Hòa",
+   "lat": 10.7904,
+   "lng": 106.682,
+   "wd": "Q7932538",
+   "aliases": [
+    "永嚴寺 (胡志明市)"
+   ]
+  },
+  {
+   "name": "Thu Thiem Bridge",
+   "cat": "관광",
+   "area": "",
+   "lat": 10.7858,
+   "lng": 106.718,
+   "wd": "Q7798636"
+  },
+  {
+   "name": "September 23 Park",
+   "cat": "관광",
+   "area": "",
+   "lat": 10.7694,
+   "lng": 106.6938,
+   "wd": "Q10752046"
+  },
+  {
+   "name": "꽉티짱 광장",
+   "cat": "관광",
+   "area": "",
+   "lat": 10.77139,
+   "lng": 106.69833,
+   "aliases": [
+    "Quách Thị Trang Square"
+   ],
+   "wd": "Q66587141"
+  },
+  {
+   "name": "Le Van Tam Park",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.78861,
+   "lng": 106.69371,
+   "wd": "Q10752054"
+  },
+  {
+   "name": "Hồ Con Rùa",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.78272,
+   "lng": 106.69594,
+   "wd": "Q10771949"
+  },
+  {
+   "name": "April 30 Park",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.7786,
+   "lng": 106.6971,
+   "wd": "Q66585294"
+  },
+  {
+   "name": "Hùng King Temple",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.7872,
+   "lng": 106.7057,
+   "wd": "Q10841729"
+  },
+  {
+   "name": "Văn Thánh Park",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.79806,
+   "lng": 106.71528,
+   "wd": "Q16480647"
+  },
+  {
+   "name": "Crescent Mall",
+   "cat": "쇼핑",
+   "area": "호찌민시",
+   "lat": 10.72892,
+   "lng": 106.71872,
+   "wd": "Q56193221"
+  },
+  {
+   "name": "Mê Linh Square",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.77528,
+   "lng": 106.70639,
+   "wd": "Q66188628"
+  },
+  {
+   "name": "Chi Lăng Park",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.7777,
+   "lng": 106.7017,
+   "wd": "Q66439466"
+  },
+  {
+   "name": "Quan Am Temple",
+   "cat": "관광",
+   "area": "촐롱",
+   "lat": 10.7541,
+   "lng": 106.6596,
+   "wd": "Q7268821"
+  },
+  {
+   "name": "An Quang Pagoda",
+   "cat": "관광",
+   "area": "",
+   "lat": 10.76583,
+   "lng": 106.67167,
+   "wd": "Q482355"
+  },
+  {
+   "name": "Binh Quoi Tourist Village",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.833,
+   "lng": 106.742,
+   "wd": "Q4914339"
+  },
+  {
+   "name": "Bình Triệu Bridge",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.82101,
+   "lng": 106.71352,
+   "wd": "Q5005108"
+  },
+  {
+   "name": "Bến Thành Theatre",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.77699,
+   "lng": 106.70129,
+   "wd": "Q10800814"
+  },
+  {
+   "name": "Lê Thị Riêng Park",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.7851,
+   "lng": 106.6644,
+   "wd": "Q66439765"
+  },
+  {
+   "name": "Cao Dai Temple of Saigon",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.75457,
+   "lng": 106.67954,
+   "wd": "Q10825817"
+  },
+  {
+   "name": "Binh Loi Railway Bridge",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.8257,
+   "lng": 106.70924,
+   "wd": "Q11840147"
+  },
+  {
+   "name": "Cầu Kiệu",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.79252,
+   "lng": 106.68612,
+   "wd": "Q30919767"
+  },
+  {
+   "name": "Bách Tùng Diệp Park",
+   "cat": "관광",
+   "area": "호찌민시",
+   "lat": 10.7762,
+   "lng": 106.6991,
+   "wd": "Q66423823"
+  },
+  {
+   "name": "Southern Women's Museum",
+   "cat": "관광",
+   "area": "",
+   "lat": 10.7806,
+   "lng": 106.6883,
+   "wd": "Q10743286"
+  },
+  {
+   "name": "Nguyen Thien Thuat apartment buildings",
+   "cat": "관광",
+   "area": "",
+   "lat": 10.7682,
+   "lng": 106.6788,
+   "wd": "Q113561030"
+  }
+ ]
+}

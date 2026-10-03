@@ -1,0 +1,644 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "인천대교",
+   "cat": "관광",
+   "area": "인천광역시",
+   "lat": 37.41389,
+   "lng": 126.56667,
+   "aliases": [
+    "Incheon Bridge",
+    "인천제2연륙교"
+   ],
+   "wd": "Q483949"
+  },
+  {
+   "name": "영종대교",
+   "cat": "관광",
+   "area": "",
+   "lat": 37.5451,
+   "lng": 126.58265,
+   "aliases": [
+    "Yeongjong Bridge"
+   ],
+   "wd": "Q496701"
+  },
+  {
+   "name": "Tower Infinity",
+   "cat": "관광",
+   "area": "인천광역시",
+   "lat": 37.53297,
+   "lng": 126.6341,
+   "wd": "Q15076316"
+  },
+  {
+   "name": "답동성당",
+   "cat": "관광",
+   "area": "인천광역시",
+   "lat": 37.47119,
+   "lng": 126.62969,
+   "aliases": [
+    "Dapdong Cathedral"
+   ],
+   "wd": "Q12591068"
+  },
+  {
+   "name": "잭니클라우스골프클럽코리아",
+   "cat": "관광",
+   "area": "송도국제도시",
+   "lat": 37.38,
+   "lng": 126.624,
+   "aliases": [
+    "Jack Nicklaus Golf Club Korea"
+   ],
+   "wd": "Q6114333"
+  },
+  {
+   "name": "자유공원",
+   "cat": "관광",
+   "area": "인천광역시",
+   "lat": 37.47561,
+   "lng": 126.62197,
+   "aliases": [
+    "Incheon Jayu Park"
+   ],
+   "wd": "Q11267359"
+  },
+  {
+   "name": "공화춘",
+   "cat": "관광",
+   "area": "인천광역시",
+   "lat": 37.47487,
+   "lng": 126.61825,
+   "aliases": [
+    "Gonghwachun"
+   ],
+   "wd": "Q16092291"
+  },
+  {
+   "name": "정교회 성 바울로 성당",
+   "cat": "관광",
+   "area": "",
+   "lat": 37.46297,
+   "lng": 126.70417,
+   "aliases": [
+    "Saint Paul Orthodox church in Incheon",
+    "인천 성 바울로 성당"
+   ],
+   "wd": "Q16167004"
+  },
+  {
+   "name": "청라하늘대교",
+   "cat": "관광",
+   "area": "인천광역시",
+   "lat": 37.516,
+   "lng": 126.589,
+   "aliases": [
+    "Cheongna Haneul Bridge",
+    "제3연륙교"
+   ],
+   "wd": "Q136766579"
+  },
+  {
+   "name": "부천소방서",
+   "cat": "관광",
+   "area": "부천시",
+   "lat": 37.49335,
+   "lng": 126.77781,
+   "aliases": [
+    "Bucheon Fire Station"
+   ],
+   "wd": "Q16096824"
+  },
+  {
+   "name": "시흥소방서",
+   "cat": "관광",
+   "area": "시흥시",
+   "lat": 37.3492,
+   "lng": 126.74008,
+   "aliases": [
+    "Siheung Fire Station"
+   ],
+   "wd": "Q16098104"
+  },
+  {
+   "name": "서울푸른수목원",
+   "cat": "관광",
+   "area": "구로구",
+   "lat": 37.48409,
+   "lng": 126.82542,
+   "aliases": [
+    "Pureun Arboretum",
+    "항동 서울푸른수목원",
+    "항동 수목원",
+    "항동수목원"
+   ],
+   "wd": "Q12601393"
+  },
+  {
+   "name": "인천계양소방서",
+   "cat": "관광",
+   "area": "계양구",
+   "lat": 37.537,
+   "lng": 126.73521,
+   "aliases": [
+    "Incheon Gyeyang Fire Station",
+    "계양소방서"
+   ],
+   "wd": "Q16099410"
+  },
+  {
+   "name": "성공회 내동성당",
+   "cat": "관광",
+   "area": "동인천동",
+   "lat": 37.47403,
+   "lng": 126.62752,
+   "aliases": [
+    "Naedong Anglican Church",
+    "내동성당",
+    "내동 성공회성당",
+    "대한성공회 내동성당"
+   ],
+   "wd": "Q12601864"
+  },
+  {
+   "name": "인천공단소방서",
+   "cat": "관광",
+   "area": "남동구",
+   "lat": 37.40808,
+   "lng": 126.69301,
+   "aliases": [
+    "Incheon Gongdan Fire Station",
+    "공단소방서"
+   ],
+   "wd": "Q12613466"
+  },
+  {
+   "name": "인천남동소방서",
+   "cat": "관광",
+   "area": "남동구",
+   "lat": 37.44891,
+   "lng": 126.71616,
+   "aliases": [
+    "Incheon Namdong Fire Station",
+    "남동소방서"
+   ],
+   "wd": "Q12613495"
+  },
+  {
+   "name": "인천미추홀소방서",
+   "cat": "관광",
+   "area": "미추홀구",
+   "lat": 37.44837,
+   "lng": 126.66901,
+   "aliases": [
+    "Incheon Michuhol Fire Station",
+    "남부소방서",
+    "미추홀소방서"
+   ],
+   "wd": "Q12613497"
+  },
+  {
+   "name": "애관극장",
+   "cat": "관광",
+   "area": "",
+   "lat": 37.47227,
+   "lng": 126.62984,
+   "aliases": [
+    "Ae Kwan Theater",
+    "협률사",
+    "축항사"
+   ],
+   "wd": "Q63877371"
+  },
+  {
+   "name": "구 일본우선주식회사 인천지점",
+   "cat": "관광",
+   "area": "인천광역시",
+   "lat": 37.47333,
+   "lng": 126.61944,
+   "aliases": [
+    "Former Nippon Yusen's Incheon branch office"
+   ],
+   "wd": "Q12585335"
+  },
+  {
+   "name": "계양산성",
+   "cat": "관광",
+   "area": "인천광역시",
+   "lat": 37.55139,
+   "lng": 126.71889,
+   "aliases": [
+    "Gyeyangsanseong Fortress"
+   ],
+   "wd": "Q16725534"
+  },
+  {
+   "name": "장도포대지",
+   "cat": "관광",
+   "area": "인천광역시",
+   "lat": 37.40332,
+   "lng": 126.73381,
+   "aliases": [
+    "Jangdo Battery Site"
+   ],
+   "wd": "Q65288006"
+  },
+  {
+   "name": "서울구로소방서",
+   "cat": "관광",
+   "area": "구로구",
+   "lat": 37.49784,
+   "lng": 126.86542,
+   "aliases": [
+    "Seoul Guro Fire Station",
+    "구로소방서"
+   ],
+   "wd": "Q12601163"
+  },
+  {
+   "name": "서울특별시119특수구조단",
+   "cat": "관광",
+   "area": "도봉구",
+   "lat": 37.55321,
+   "lng": 126.78909,
+   "aliases": [
+    "Seoul Special Rescue Squad",
+    "서울시 특수구조단",
+    "서울특수구조단",
+    "서울소방항공대"
+   ],
+   "wd": "Q12601367"
+  },
+  {
+   "name": "인천서부소방서",
+   "cat": "관광",
+   "area": "서구",
+   "lat": 37.5431,
+   "lng": 126.67729,
+   "aliases": [
+    "Incheon Seobu Fire Station",
+    "서부소방서"
+   ],
+   "wd": "Q12613512"
+  },
+  {
+   "name": "인천부평소방서",
+   "cat": "관광",
+   "area": "부평구",
+   "lat": 37.52019,
+   "lng": 126.72213,
+   "aliases": [
+    "Incheon Bupyeong Fire Station",
+    "부평소방서"
+   ],
+   "wd": "Q16100811"
+  },
+  {
+   "name": "아트센터 인천",
+   "cat": "관광",
+   "area": "연수구",
+   "lat": 37.39318,
+   "lng": 126.62612,
+   "aliases": [
+    "Arts Center Incheon"
+   ],
+   "wd": "Q55731561"
+  },
+  {
+   "name": "평강 성서 유물박물관",
+   "cat": "관광",
+   "area": "오류동",
+   "lat": 37.492,
+   "lng": 126.844,
+   "aliases": [
+    "The Abraham Park Kenneth Vine Collection"
+   ],
+   "wd": "Q7712137"
+  },
+  {
+   "name": "인천중부소방서",
+   "cat": "관광",
+   "area": "인천 중구 원도심",
+   "lat": 37.47014,
+   "lng": 126.62245,
+   "aliases": [
+    "Incheon Jungbu Fire Station",
+    "중부소방서"
+   ],
+   "wd": "Q12613543"
+  },
+  {
+   "name": "송월동 동화마을",
+   "cat": "관광",
+   "area": "",
+   "lat": 37.4777,
+   "lng": 126.6208,
+   "aliases": [
+    "Songwol-dong Fairy Tale Village"
+   ],
+   "wd": "Q61100239"
+  },
+  {
+   "name": "송도달빛축제공원",
+   "cat": "관광",
+   "area": "",
+   "lat": 37.40639,
+   "lng": 126.63389,
+   "aliases": [
+    "Songdo Moonlight Festival Park"
+   ],
+   "wd": "Q66750898"
+  },
+  {
+   "name": "구 인천부 청사",
+   "cat": "관광",
+   "area": "인천광역시",
+   "lat": 37.47361,
+   "lng": 126.62139,
+   "aliases": [
+    "Former Incheon Government Office Building",
+    "인천 중구청 본관"
+   ],
+   "wd": "Q12585334"
+  },
+  {
+   "name": "창영초등학교 구 교사",
+   "cat": "관광",
+   "area": "인천광역시",
+   "lat": 37.47111,
+   "lng": 126.64083,
+   "aliases": [
+    "former school building of Changyeong Elementary School"
+   ],
+   "wd": "Q16095204"
+  },
+  {
+   "name": "문학산성",
+   "cat": "관광",
+   "area": "인천광역시",
+   "lat": 37.42944,
+   "lng": 126.68111,
+   "aliases": [
+    "Munhaksan Fortress",
+    "文鶴山城"
+   ],
+   "wd": "Q16766899"
+  },
+  {
+   "name": "화도진지",
+   "cat": "관광",
+   "area": "인천광역시",
+   "lat": 37.4825,
+   "lng": 126.62889,
+   "aliases": [
+    "Hwadojinji"
+   ],
+   "wd": "Q19603908"
+  },
+  {
+   "name": "논현포대",
+   "cat": "관광",
+   "area": "인천광역시",
+   "lat": 37.40333,
+   "lng": 126.70472,
+   "aliases": [
+    "Nonhyeon Battery"
+   ],
+   "wd": "Q55728808"
+  },
+  {
+   "name": "소래습지생태공원",
+   "cat": "관광",
+   "area": "인천광역시",
+   "lat": 37.4122,
+   "lng": 126.7474,
+   "aliases": [
+    "Sorae Wetland Ecology Park"
+   ],
+   "wd": "Q66175402"
+  },
+  {
+   "name": "영회원",
+   "cat": "관광",
+   "area": "경기도",
+   "lat": 37.43939,
+   "lng": 126.85997,
+   "wd": "Q12607584",
+   "aliases": [
+    "광명(光明) 영회원"
+   ]
+  },
+  {
+   "name": "변종인 신도비",
+   "cat": "관광",
+   "area": "부천시",
+   "lat": 37.52944,
+   "lng": 126.82556,
+   "aliases": [
+    "Byeong-in’s tomb and shrine"
+   ],
+   "wd": "Q12598210"
+  },
+  {
+   "name": "부천우체국",
+   "cat": "관광",
+   "area": "부천시",
+   "lat": 37.50295,
+   "lng": 126.75939,
+   "aliases": [
+    "Bucheon Post Office"
+   ],
+   "wd": "Q16096833"
+  },
+  {
+   "name": "부천우편집중국",
+   "cat": "관광",
+   "area": "부천시",
+   "lat": 37.52955,
+   "lng": 126.78252,
+   "aliases": [
+    "Bucheon Mail Center",
+    "부천집중국"
+   ],
+   "wd": "Q16096836"
+  },
+  {
+   "name": "시흥우체국",
+   "cat": "관광",
+   "area": "시흥시",
+   "lat": 37.33632,
+   "lng": 126.72858,
+   "aliases": [
+    "Siheung Post Office"
+   ],
+   "wd": "Q16098109"
+  },
+  {
+   "name": "인천계양우체국",
+   "cat": "관광",
+   "area": "계양구",
+   "lat": 37.53757,
+   "lng": 126.73637,
+   "aliases": [
+    "Incheon Gyeyang Post Office",
+    "계양우체국"
+   ],
+   "wd": "Q16099414"
+  },
+  {
+   "name": "부평도호부관아",
+   "cat": "관광",
+   "area": "계양구",
+   "lat": 37.54222,
+   "lng": 126.72361,
+   "wd": "Q19000110"
+  },
+  {
+   "name": "남인천우체국",
+   "cat": "관광",
+   "area": "남동구",
+   "lat": 37.46062,
+   "lng": 126.69646,
+   "aliases": [
+    "Namincheon Post Office"
+   ],
+   "wd": "Q16095157"
+  },
+  {
+   "name": "인천남동우체국",
+   "cat": "관광",
+   "area": "남동구",
+   "lat": 37.40171,
+   "lng": 126.71191,
+   "aliases": [
+    "Incheon Namdong Post Office",
+    "남동우체국"
+   ],
+   "wd": "Q26213754"
+  },
+  {
+   "name": "서울구로우체국",
+   "cat": "관광",
+   "area": "구로구",
+   "lat": 37.48144,
+   "lng": 126.84205,
+   "aliases": [
+    "Seoul Guro Post Office",
+    "구로우체국"
+   ],
+   "wd": "Q31180834"
+  },
+  {
+   "name": "서인천우체국",
+   "cat": "관광",
+   "area": "서구",
+   "lat": 37.5458,
+   "lng": 126.67729,
+   "aliases": [
+    "Seoincheon Post Office"
+   ],
+   "wd": "Q16097756"
+  },
+  {
+   "name": "인천우체국",
+   "cat": "관광",
+   "area": "연수구",
+   "lat": 37.41932,
+   "lng": 126.69096,
+   "aliases": [
+    "Incheon Post Office"
+   ],
+   "wd": "Q16099470"
+  },
+  {
+   "name": "부평우체국",
+   "cat": "관광",
+   "area": "부평구",
+   "lat": 37.50892,
+   "lng": 126.70839,
+   "aliases": [
+    "Bupyeong Post Office"
+   ],
+   "wd": "Q19000004"
+  },
+  {
+   "name": "인천송도소방서",
+   "cat": "관광",
+   "area": "연수구",
+   "lat": 37.3672,
+   "lng": 126.65051,
+   "aliases": [
+    "Incheon Songdo Fire Station",
+    "송도소방서"
+   ],
+   "wd": "Q47830553"
+  },
+  {
+   "name": "수도국산달동네박물관",
+   "cat": "관광",
+   "area": "송현동",
+   "lat": 37.47754,
+   "lng": 126.6392,
+   "wd": "Q18052735",
+   "aliases": [
+    "수도국산박물관",
+    "달동네박물관"
+   ]
+  },
+  {
+   "name": "상동호수공원",
+   "cat": "관광",
+   "area": "원미구",
+   "lat": 37.50395,
+   "lng": 126.74515,
+   "aliases": [
+    "Sangdong Lake Park"
+   ],
+   "wd": "Q17564536"
+  },
+  {
+   "name": "가좌시장",
+   "cat": "쇼핑",
+   "area": "",
+   "lat": 37.58281,
+   "lng": 126.70633,
+   "aliases": [
+    "Gajwa Market"
+   ],
+   "wd": "Q137532827"
+  },
+  {
+   "name": "류사눌 묘",
+   "cat": "관광",
+   "area": "",
+   "lat": 37.55833,
+   "lng": 126.64167,
+   "aliases": [
+    "Ryusanul Tomb"
+   ],
+   "wd": "Q55729459"
+  },
+  {
+   "name": "생금집",
+   "cat": "관광",
+   "area": "",
+   "lat": 37.35028,
+   "lng": 126.75861,
+   "aliases": [
+    "Saenggeum House"
+   ],
+   "wd": "Q55730744"
+  },
+  {
+   "name": "National Museum of World Writing Systems",
+   "cat": "관광",
+   "area": "",
+   "lat": 37.3947,
+   "lng": 126.638,
+   "wd": "Q127273742"
+  }
+ ]
+}

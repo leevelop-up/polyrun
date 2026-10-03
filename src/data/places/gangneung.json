@@ -1,0 +1,253 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "송정해수욕장",
+   "cat": "관광",
+   "area": "강원특별자치도",
+   "lat": 37.77861,
+   "lng": 128.93972,
+   "aliases": [
+    "Songjeong Beach (Gangneung)"
+   ],
+   "wd": "Q27306502"
+  },
+  {
+   "name": "강릉솔향수목원",
+   "cat": "관광",
+   "area": "구정면",
+   "lat": 37.69486,
+   "lng": 128.85909,
+   "aliases": [
+    "Gangneung Solhyang Arboretum"
+   ],
+   "wd": "Q24565460"
+  },
+  {
+   "name": "남항진해수욕장",
+   "cat": "관광",
+   "area": "성덕동",
+   "lat": 37.76431,
+   "lng": 128.95482,
+   "aliases": [
+    "Namhangjin Beach"
+   ],
+   "wd": "Q110114530"
+  },
+  {
+   "name": "경포 도립공원",
+   "cat": "관광",
+   "area": "강릉시",
+   "lat": 37.78917,
+   "lng": 128.90083,
+   "aliases": [
+    "Gyeongpo Provincial Park"
+   ],
+   "wd": "Q27304285"
+  },
+  {
+   "name": "강릉향교",
+   "cat": "관광",
+   "area": "",
+   "lat": 37.7634,
+   "lng": 128.89457,
+   "aliases": [
+    "Gangneunghyanggyo"
+   ],
+   "wd": "Q18444037"
+  },
+  {
+   "name": "강문해변",
+   "cat": "관광",
+   "area": "",
+   "lat": 37.79585,
+   "lng": 128.91963,
+   "aliases": [
+    "Gangmun Beach"
+   ],
+   "wd": "Q105430919"
+  },
+  {
+   "name": "강릉우체국",
+   "cat": "관광",
+   "area": "강릉시",
+   "lat": 37.76514,
+   "lng": 128.90369,
+   "aliases": [
+    "Gangneung Post Office"
+   ],
+   "wd": "Q16093206"
+  },
+  {
+   "name": "강릉소방서",
+   "cat": "관광",
+   "area": "강릉시",
+   "lat": 37.76102,
+   "lng": 128.90232,
+   "aliases": [
+    "Gangneung Fire Station"
+   ],
+   "wd": "Q16093532"
+  },
+  {
+   "name": "경포해수욕장",
+   "cat": "관광",
+   "area": "강원특별자치도",
+   "lat": 37.80567,
+   "lng": 128.91076,
+   "aliases": [
+    "Gyeongpo Beach"
+   ],
+   "wd": "Q16182443"
+  },
+  {
+   "name": "강릉 굴산사지",
+   "cat": "관광",
+   "area": "강원특별자치도",
+   "lat": 37.70722,
+   "lng": 128.88694,
+   "aliases": [
+    "Gulsansaji"
+   ],
+   "wd": "Q19794498"
+  },
+  {
+   "name": "강릉효자리비",
+   "cat": "관광",
+   "area": "옥천동",
+   "lat": 37.76119,
+   "lng": 128.90114,
+   "wd": "Q27511046",
+   "aliases": [
+    "효자리비"
+   ]
+  },
+  {
+   "name": "사천해수욕장",
+   "cat": "관광",
+   "area": "강원특별자치도",
+   "lat": 37.82806,
+   "lng": 128.88028,
+   "aliases": [
+    "Sach'on-haesuyokchang"
+   ],
+   "wd": "Q27306645"
+  },
+  {
+   "name": "삼포암폭포",
+   "cat": "관광",
+   "area": "강원특별자치도",
+   "lat": 37.71556,
+   "lng": 128.78972,
+   "aliases": [
+    "Samp'oam-p'okp'o"
+   ],
+   "wd": "Q27313192"
+  },
+  {
+   "name": "오죽헌시립박물관",
+   "cat": "관광",
+   "area": "강릉시",
+   "lat": 37.77806,
+   "lng": 128.87667,
+   "aliases": [
+    "Ojukheon City Museum"
+   ],
+   "wd": "Q48090826"
+  },
+  {
+   "name": "국립강릉원주대학교 박물관",
+   "cat": "관광",
+   "area": "강릉시",
+   "lat": 37.7698,
+   "lng": 128.8705,
+   "aliases": [
+    "Gangneung–Wonju National University Museum",
+    "강릉원주대 박물관",
+    "강릉원주대학교 박물관"
+   ],
+   "wd": "Q55736544"
+  },
+  {
+   "name": "해람문화관",
+   "cat": "관광",
+   "area": "강릉시",
+   "lat": 37.7709,
+   "lng": 128.8714,
+   "aliases": [
+    "Haeram Culture Center",
+    "강릉원주대학교 해람문화관",
+    "강릉대학교 문화관",
+    "국립강릉원주대학교 해람문화관"
+   ],
+   "wd": "Q85988508"
+  },
+  {
+   "name": "해운정",
+   "cat": "관광",
+   "area": "",
+   "lat": 37.78616,
+   "lng": 128.88872,
+   "aliases": [
+    "Gangneung Haeunjeong",
+    "강릉해운정",
+    "강릉 해운정"
+   ],
+   "wd": "Q12624658"
+  },
+  {
+   "name": "강릉 대공산성",
+   "cat": "관광",
+   "area": "",
+   "lat": 37.73639,
+   "lng": 128.75833,
+   "aliases": [
+    "Gangneung Daegongsanseong Fortress"
+   ],
+   "wd": "Q17986971"
+  },
+  {
+   "name": "강릉향교 대성전",
+   "cat": "관광",
+   "area": "강릉시",
+   "lat": 37.76361,
+   "lng": 128.89528,
+   "aliases": [
+    "Gangneung Hyanggyo Daeseongjeon Hall"
+   ],
+   "wd": "Q13422073"
+  },
+  {
+   "name": "강릉우편집중국",
+   "cat": "관광",
+   "area": "강릉시",
+   "lat": 37.75954,
+   "lng": 128.87399,
+   "aliases": [
+    "Gangneung Mail Center",
+    "강릉집중국"
+   ],
+   "wd": "Q16093210"
+  },
+  {
+   "name": "임영관 삼문",
+   "cat": "관광",
+   "area": "강원특별자치도",
+   "lat": 37.75333,
+   "lng": 128.89222,
+   "aliases": [
+    "Gangneung Imyeonggwan Sammun"
+   ],
+   "wd": "Q16094440"
+  },
+  {
+   "name": "강릉 임당동성당",
+   "cat": "관광",
+   "area": "강원특별자치도",
+   "lat": 37.75436,
+   "lng": 128.89203,
+   "wd": "Q19598709"
+  }
+ ]
+}

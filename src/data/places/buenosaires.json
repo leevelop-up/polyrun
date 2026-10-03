@@ -1,0 +1,842 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "테아트로 콜론",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.60108,
+   "lng": -58.38308,
+   "aliases": [
+    "Colón Theater",
+    "부에노스아이레스 코론 극장",
+    "콜론 극장"
+   ],
+   "wd": "Q827401"
+  },
+  {
+   "name": "마요 광장",
+   "cat": "관광",
+   "area": "Monserrat",
+   "lat": -34.60833,
+   "lng": -58.37194,
+   "aliases": [
+    "Plaza de Mayo"
+   ],
+   "wd": "Q1126357"
+  },
+  {
+   "name": "Obelisco de Buenos Aires",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.60376,
+   "lng": -58.38162,
+   "wd": "Q831389"
+  },
+  {
+   "name": "아르헨티나 국회 궁전",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.60986,
+   "lng": -58.39269,
+   "aliases": [
+    "Palace of the Argentine National Congress"
+   ],
+   "wd": "Q646142"
+  },
+  {
+   "name": "부에노스아이레스 대성당",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.60741,
+   "lng": -58.37328,
+   "aliases": [
+    "Buenos Aires Cathedral"
+   ],
+   "wd": "Q967929"
+  },
+  {
+   "name": "아르헨티나 국립미술관",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.58399,
+   "lng": -58.39297,
+   "aliases": [
+    "National Museum of Fine Arts, Argentina"
+   ],
+   "wd": "Q1848918"
+  },
+  {
+   "name": "Puente de la Mujer",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.60794,
+   "lng": -58.36491,
+   "wd": "Q2336867"
+  },
+  {
+   "name": "부에노스아이레스 증권거래소",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.60389,
+   "lng": -58.37072,
+   "aliases": [
+    "Buenos Aires Stock Exchange"
+   ],
+   "wd": "Q891560"
+  },
+  {
+   "name": "Buenos Aires Botanical Garden",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.58247,
+   "lng": -58.4186,
+   "wd": "Q831148"
+  },
+  {
+   "name": "토레 모누멘탈",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.59296,
+   "lng": -58.37319,
+   "aliases": [
+    "Torre Monumental"
+   ],
+   "wd": "Q570385"
+  },
+  {
+   "name": "Cabildo of Buenos Aires",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.60886,
+   "lng": -58.37376,
+   "wd": "Q1024829"
+  },
+  {
+   "name": "국립 장식미술관",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.582,
+   "lng": -58.4015,
+   "aliases": [
+    "National Museum of Decorative Arts"
+   ],
+   "wd": "Q1136338"
+  },
+  {
+   "name": "El Ateneo Grand Splendid",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.59611,
+   "lng": -58.39417,
+   "wd": "Q1323870"
+  },
+  {
+   "name": "아르헨티나 국립역사박물관",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.62694,
+   "lng": -58.37056,
+   "aliases": [
+    "National Historical Museum"
+   ],
+   "wd": "Q57785"
+  },
+  {
+   "name": "Museum of Latin American Art of Buenos Aires",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.57711,
+   "lng": -58.40359,
+   "wd": "Q1808336"
+  },
+  {
+   "name": "Pirámide de Mayo",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.60893,
+   "lng": -58.37215,
+   "wd": "Q831484"
+  },
+  {
+   "name": "Parque Tres de Febrero",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.57333,
+   "lng": -58.41472,
+   "wd": "Q1276582"
+  },
+  {
+   "name": "Planetario Galileo Galilei",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.56972,
+   "lng": -58.41167,
+   "wd": "Q606675"
+  },
+  {
+   "name": "Bernardino Rivadavia Natural Sciences Museum",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.6048,
+   "lng": -58.4377,
+   "wd": "Q1633517"
+  },
+  {
+   "name": "산 마르틴 광장",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.59444,
+   "lng": -58.375,
+   "aliases": [
+    "Plaza San Martín"
+   ],
+   "wd": "Q2099124"
+  },
+  {
+   "name": "Cervantes National Theatre",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.59889,
+   "lng": -58.38381,
+   "wd": "Q367615"
+  },
+  {
+   "name": "Buenos Aires Museum of Modern Art",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.6218,
+   "lng": -58.3705,
+   "wd": "Q1134582"
+  },
+  {
+   "name": "Japanese Gardens",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.57533,
+   "lng": -58.40939,
+   "wd": "Q604930"
+  },
+  {
+   "name": "Congressional Plaza",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.60967,
+   "lng": -58.39017,
+   "wd": "Q2093879"
+  },
+  {
+   "name": "El Faro Towers",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.61231,
+   "lng": -58.35944,
+   "wd": "Q526622"
+  },
+  {
+   "name": "San Martín Palace",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.59389,
+   "lng": -58.37833,
+   "wd": "Q1570430"
+  },
+  {
+   "name": "Quinta presidencial de Olivos",
+   "cat": "관광",
+   "area": "Vicente López Partido",
+   "lat": -34.51494,
+   "lng": -58.48289,
+   "wd": "Q168757"
+  },
+  {
+   "name": "미제레레 광장",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.60972,
+   "lng": -58.40744,
+   "aliases": [
+    "plaza Miserere",
+    "온세 광장"
+   ],
+   "wd": "Q1064141"
+  },
+  {
+   "name": "YPF tower",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.60544,
+   "lng": -58.36244,
+   "wd": "Q2444549"
+  },
+  {
+   "name": "Plaza Italia, Buenos Aires",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.58137,
+   "lng": -58.42097,
+   "wd": "Q2532668"
+  },
+  {
+   "name": "Palace of Running Waters",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.60056,
+   "lng": -58.395,
+   "wd": "Q3361112"
+  },
+  {
+   "name": "Argentine Air Force Square",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.59239,
+   "lng": -58.37407,
+   "wd": "Q6079544"
+  },
+  {
+   "name": "Al Ahmad Mosque",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.6278,
+   "lng": -58.4003,
+   "wd": "Q17622351"
+  },
+  {
+   "name": "Buenos Aires Zoo",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.58097,
+   "lng": -58.42,
+   "wd": "Q134617498"
+  },
+  {
+   "name": "Sarmiento Historic Museum",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.56083,
+   "lng": -58.45455,
+   "wd": "Q576857"
+  },
+  {
+   "name": "Abasto of Buenos Aires",
+   "cat": "쇼핑",
+   "area": "부에노스아이레스",
+   "lat": -34.60361,
+   "lng": -58.41083,
+   "wd": "Q831232"
+  },
+  {
+   "name": "AMALITA Collection",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.59962,
+   "lng": -58.36496,
+   "wd": "Q1108956"
+  },
+  {
+   "name": "Lezama Park",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.62667,
+   "lng": -58.36944,
+   "wd": "Q1133613"
+  },
+  {
+   "name": "Hotel Castelar",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.60896,
+   "lng": -58.38278,
+   "wd": "Q1370163"
+  },
+  {
+   "name": "Cathedral of the Most Holy Trinity, Buenos Aires",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.62507,
+   "lng": -58.37001,
+   "wd": "Q4411449"
+  },
+  {
+   "name": "National Museum of Immigration",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.58489,
+   "lng": -58.37275,
+   "wd": "Q9005010"
+  },
+  {
+   "name": "Teatro Opera",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.60383,
+   "lng": -58.37886,
+   "wd": "Q937079"
+  },
+  {
+   "name": "Buenos Aires Lawn Tennis Club",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.56201,
+   "lng": -58.43132,
+   "wd": "Q1001850"
+  },
+  {
+   "name": "Galerías Pacífico",
+   "cat": "쇼핑",
+   "area": "부에노스아이레스",
+   "lat": -34.59917,
+   "lng": -58.37472,
+   "wd": "Q1087747"
+  },
+  {
+   "name": "Parque Centenario",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.60639,
+   "lng": -58.43556,
+   "wd": "Q1134587"
+  },
+  {
+   "name": "Plaza de la República",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.6037,
+   "lng": -58.3815,
+   "wd": "Q3390424"
+  },
+  {
+   "name": "Our Lady of Mercy Church",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.60539,
+   "lng": -58.37206,
+   "wd": "Q5722074"
+  },
+  {
+   "name": "Museum of Spanish Art Enrique Larreta",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.5614,
+   "lng": -58.4556,
+   "wd": "Q6940536"
+  },
+  {
+   "name": "Buenos Aires Central Post Office",
+   "cat": "관광",
+   "area": "San Nicolás, Buenos Aires",
+   "lat": -34.60333,
+   "lng": -58.36944,
+   "wd": "Q3360763"
+  },
+  {
+   "name": "Torre Espacial",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.67287,
+   "lng": -58.44959,
+   "wd": "Q385090"
+  },
+  {
+   "name": "plaza Lavalle",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.6021,
+   "lng": -58.3846,
+   "wd": "Q544331"
+  },
+  {
+   "name": "Palacio Paz",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.59513,
+   "lng": -58.37794,
+   "wd": "Q1668230"
+  },
+  {
+   "name": "plaza Dorrego",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.62056,
+   "lng": -58.37167,
+   "wd": "Q3392154"
+  },
+  {
+   "name": "Teatro Maipo",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.6028,
+   "lng": -58.37797,
+   "wd": "Q3516763"
+  },
+  {
+   "name": "Museo de Arte Contemporáneo Buenos Aires",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.62201,
+   "lng": -58.37019,
+   "wd": "Q6033856"
+  },
+  {
+   "name": "Ministry of Public Works Building",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.61194,
+   "lng": -58.38139,
+   "wd": "Q6553413"
+  },
+  {
+   "name": "Alsina Bridge",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.65811,
+   "lng": -58.41655,
+   "wd": "Q6553429"
+  },
+  {
+   "name": "Santo Domingo convent",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.61306,
+   "lng": -58.37167,
+   "wd": "Q7420525"
+  },
+  {
+   "name": "Plaza Francia, Buenos Aires",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.58494,
+   "lng": -58.39345,
+   "wd": "Q9060878"
+  },
+  {
+   "name": "Saint Ignatius of Loyola Church, Buenos Aires",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.6105,
+   "lng": -58.3739,
+   "wd": "Q10927950"
+  },
+  {
+   "name": "At-Tauhid Mosque",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.6255,
+   "lng": -58.48158,
+   "wd": "Q24938358"
+  },
+  {
+   "name": "Illuminated Block",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.61056,
+   "lng": -58.37444,
+   "wd": "Q263127"
+  },
+  {
+   "name": "San Nicolás de Bari Basilica, Buenos Aires",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.59584,
+   "lng": -58.38654,
+   "wd": "Q386600"
+  },
+  {
+   "name": "Teatro Avenida",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.60944,
+   "lng": -58.38389,
+   "wd": "Q545741"
+  },
+  {
+   "name": "Libertador Building",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.60972,
+   "lng": -58.36778,
+   "wd": "Q831064"
+  },
+  {
+   "name": "Museo Mitre",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.60408,
+   "lng": -58.37397,
+   "wd": "Q1290362"
+  },
+  {
+   "name": "Palais de Glace",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.58572,
+   "lng": -58.38936,
+   "wd": "Q1571142"
+  },
+  {
+   "name": "Museum of Hispanic American Art Isaac Fernández Blanco",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.59088,
+   "lng": -58.38008,
+   "wd": "Q1954289"
+  },
+  {
+   "name": "El Rosedal De Palermo",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.57063,
+   "lng": -58.41729,
+   "wd": "Q3050234"
+  },
+  {
+   "name": "Monument to Christopher Columbus",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.60883,
+   "lng": -58.36966,
+   "wd": "Q6022999"
+  },
+  {
+   "name": "Museo del Cine Pablo Ducrós Hicken",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.62963,
+   "lng": -58.35715,
+   "wd": "Q6034410"
+  },
+  {
+   "name": "Memory Park",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.54111,
+   "lng": -58.43694,
+   "wd": "Q6815684"
+  },
+  {
+   "name": "Museum of Foreign Debt",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.60017,
+   "lng": -58.39863,
+   "wd": "Q6940866"
+  },
+  {
+   "name": "Basílica Santa Rosa de Lima",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.61447,
+   "lng": -58.3977,
+   "wd": "Q8243750"
+  },
+  {
+   "name": "Juan B. Ambrosetti Museum of Ethnography",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.6113,
+   "lng": -58.3713,
+   "wd": "Q9046820"
+  },
+  {
+   "name": "Basílica de San Carlos Borromeo y María Auxiliadora",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.61465,
+   "lng": -58.42293,
+   "wd": "Q10858404"
+  },
+  {
+   "name": "Fundación Proa",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.64,
+   "lng": -58.36194,
+   "wd": "Q16570011"
+  },
+  {
+   "name": "Parque Olímpico de la Juventud",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.6759,
+   "lng": -58.4425,
+   "wd": "Q20869938"
+  },
+  {
+   "name": "Our Lady of Narek Cathedral, Buenos Aires",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.5896,
+   "lng": -58.41489,
+   "wd": "Q27925080"
+  },
+  {
+   "name": "Coliseum Theatre of Buenos Aires",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.59656,
+   "lng": -58.38328,
+   "wd": "Q185504"
+  },
+  {
+   "name": "Buenos Aires Eco-Park",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.58097,
+   "lng": -58.42,
+   "wd": "Q220023"
+  },
+  {
+   "name": "Sarmiento Palace",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.59778,
+   "lng": -58.39083,
+   "wd": "Q830985"
+  },
+  {
+   "name": "Esteban de Luca's House",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.61945,
+   "lng": -58.37142,
+   "wd": "Q1046365"
+  },
+  {
+   "name": "Fernández Anchorena Palace",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.58944,
+   "lng": -58.38583,
+   "wd": "Q2046771"
+  },
+  {
+   "name": "Plaza Colón",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.60806,
+   "lng": -58.36861,
+   "wd": "Q2053957"
+  },
+  {
+   "name": "Patio Bullrich",
+   "cat": "쇼핑",
+   "area": "부에노스아이레스",
+   "lat": -34.58861,
+   "lng": -58.38389,
+   "wd": "Q2056947"
+  },
+  {
+   "name": "Municipal Palace of Buenos Aires",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.60806,
+   "lng": -58.37389,
+   "wd": "Q2132531"
+  },
+  {
+   "name": "SAFICO building",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.60321,
+   "lng": -58.37322,
+   "wd": "Q2204768"
+  },
+  {
+   "name": "Renoir Towers",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.61028,
+   "lng": -58.36111,
+   "wd": "Q3532484"
+  },
+  {
+   "name": "National School of Buenos Aires",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.61101,
+   "lng": -58.37392,
+   "wd": "Q5142861"
+  },
+  {
+   "name": "Eduardo Sívori Museum of Plastic Arts",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.5696,
+   "lng": -58.4171,
+   "wd": "Q5340780"
+  },
+  {
+   "name": "Ernesto de la Cárcova Museum of Reproductions and Comparative Sculpture",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.61944,
+   "lng": -58.35722,
+   "wd": "Q5394286"
+  },
+  {
+   "name": "Plaza Intendente Alvear",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.58583,
+   "lng": -58.39094,
+   "wd": "Q5691559"
+  },
+  {
+   "name": "Basílica del Espíritu Santo",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.58941,
+   "lng": -58.41724,
+   "wd": "Q5722096"
+  },
+  {
+   "name": "La Inmobiliaria",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.60961,
+   "lng": -58.38667,
+   "wd": "Q5818170"
+  },
+  {
+   "name": "Pereda Palace",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.59175,
+   "lng": -58.38345,
+   "wd": "Q137209615"
+  },
+  {
+   "name": "Palacio Alcorta",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.57692,
+   "lng": -58.40285,
+   "wd": "Q6057551"
+  },
+  {
+   "name": "Haedo Palace",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.59614,
+   "lng": -58.37676,
+   "wd": "Q6057682"
+  },
+  {
+   "name": "Plaza Canadá (Buenos Aires)",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.59,
+   "lng": -58.37194,
+   "wd": "Q6079457"
+  },
+  {
+   "name": "Nicolás Avellaneda Bridge",
+   "cat": "관광",
+   "area": "부에노스아이레스",
+   "lat": -34.638,
+   "lng": -58.35564,
+   "wd": "Q6091228"
+  }
+ ]
+}

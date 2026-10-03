@@ -1,0 +1,278 @@
+{
+ "source": "Wikidata (CC0)",
+ "builtAt": "2026-10-03",
+ "picks": [
+  {
+   "name": "Our Lady of Mount Carmel Cathedral (Chalan Kanoa)",
+   "cat": "관광",
+   "area": "사이판섬",
+   "lat": 15.15111,
+   "lng": 145.70194,
+   "wd": "Q15043774"
+  },
+  {
+   "name": "Sugar King Park",
+   "cat": "관광",
+   "area": "Garapan",
+   "lat": 15.20201,
+   "lng": 145.72075,
+   "wd": "Q11587497"
+  },
+  {
+   "name": "Saipan Katori Shrine",
+   "cat": "관광",
+   "area": "",
+   "lat": 15.20194,
+   "lng": 145.72194,
+   "wd": "Q11488000"
+  },
+  {
+   "name": "Saipan Botanical Garden",
+   "cat": "관광",
+   "area": "북마리아나 제도",
+   "lat": 15.17258,
+   "lng": 145.74839,
+   "wd": "Q27728668"
+  },
+  {
+   "name": "Kristo Rai Church",
+   "cat": "관광",
+   "area": "Garapan",
+   "lat": 15.20296,
+   "lng": 145.71772,
+   "wd": "Q24302348"
+  },
+  {
+   "name": "Japanese Lighthouse",
+   "cat": "관광",
+   "area": "사이판섬",
+   "lat": 15.21172,
+   "lng": 145.73164,
+   "wd": "Q15229363"
+  },
+  {
+   "name": "Santa Remedios Church",
+   "cat": "관광",
+   "area": "사이판섬",
+   "lat": 15.2421,
+   "lng": 145.75518,
+   "wd": "Q24302217"
+  },
+  {
+   "name": "Japanese 20mm Cannon Blockhouse",
+   "cat": "관광",
+   "area": "사이판섬",
+   "lat": 15.1114,
+   "lng": 145.702,
+   "wd": "Q19840253"
+  },
+  {
+   "name": "Hachiman Shrine",
+   "cat": "관광",
+   "area": "사이판섬",
+   "lat": 15.18,
+   "lng": 145.761,
+   "wd": "Q19867376"
+  },
+  {
+   "name": "NMI Museum of History and Culture",
+   "cat": "관광",
+   "area": "사이판섬",
+   "lat": 15.20211,
+   "lng": 145.71953,
+   "wd": "Q86752824"
+  },
+  {
+   "name": "Catholic Belltower",
+   "cat": "관광",
+   "area": "Garapan",
+   "lat": 15.2014,
+   "lng": 145.715,
+   "wd": "Q19864507"
+  },
+  {
+   "name": "Pau Pau Beach",
+   "cat": "관광",
+   "area": "북마리아나 제도",
+   "lat": 15.25214,
+   "lng": 145.77579,
+   "wd": "Q27728204"
+  },
+  {
+   "name": "Opyan",
+   "cat": "관광",
+   "area": "북마리아나 제도",
+   "lat": 15.10588,
+   "lng": 145.73851,
+   "wd": "Q27728215"
+  },
+  {
+   "name": "Unai Makpe",
+   "cat": "관광",
+   "area": "북마리아나 제도",
+   "lat": 15.27073,
+   "lng": 145.79051,
+   "wd": "Q27728236"
+  },
+  {
+   "name": "Lighthouse Reef Trochus Sanctuary",
+   "cat": "관광",
+   "area": "북마리아나 제도",
+   "lat": 15.19529,
+   "lng": 145.70832,
+   "wd": "Q27728246"
+  },
+  {
+   "name": "Unai Laolao",
+   "cat": "관광",
+   "area": "북마리아나 제도",
+   "lat": 15.15972,
+   "lng": 145.75111,
+   "wd": "Q27728251"
+  },
+  {
+   "name": "Unai Laolao Kattan",
+   "cat": "관광",
+   "area": "북마리아나 제도",
+   "lat": 15.17472,
+   "lng": 145.78596,
+   "wd": "Q27728254"
+  },
+  {
+   "name": "Unai I Hasngot",
+   "cat": "관광",
+   "area": "북마리아나 제도",
+   "lat": 15.20989,
+   "lng": 145.77854,
+   "wd": "Q27728252"
+  },
+  {
+   "name": "Unai Chalan Kiya",
+   "cat": "관광",
+   "area": "북마리아나 제도",
+   "lat": 15.16139,
+   "lng": 145.70417,
+   "wd": "Q27728262"
+  },
+  {
+   "name": "Unai Halaihai",
+   "cat": "관광",
+   "area": "북마리아나 제도",
+   "lat": 15.18418,
+   "lng": 145.78105,
+   "wd": "Q27728276"
+  },
+  {
+   "name": "Borrow Pits",
+   "cat": "관광",
+   "area": "북마리아나 제도",
+   "lat": 15.25728,
+   "lng": 145.79662,
+   "wd": "Q27728287"
+  },
+  {
+   "name": "Unai Dikike Matuis",
+   "cat": "관광",
+   "area": "북마리아나 제도",
+   "lat": 15.26249,
+   "lng": 145.78372,
+   "wd": "Q27728299"
+  },
+  {
+   "name": "Unai Dandan",
+   "cat": "관광",
+   "area": "북마리아나 제도",
+   "lat": 15.13569,
+   "lng": 145.74191,
+   "wd": "Q27728302"
+  },
+  {
+   "name": "Memorial Park Amphitheater",
+   "cat": "관광",
+   "area": "북마리아나 제도",
+   "lat": 15.21646,
+   "lng": 145.72008,
+   "wd": "Q27728306"
+  },
+  {
+   "name": "Unai Baput",
+   "cat": "관광",
+   "area": "북마리아나 제도",
+   "lat": 15.16167,
+   "lng": 145.76083,
+   "wd": "Q27728316"
+  },
+  {
+   "name": "Unai Achugao",
+   "cat": "관광",
+   "area": "북마리아나 제도",
+   "lat": 15.24527,
+   "lng": 145.76315,
+   "wd": "Q27728343"
+  },
+  {
+   "name": "Court of Honor and Flag Circle",
+   "cat": "관광",
+   "area": "북마리아나 제도",
+   "lat": 15.21668,
+   "lng": 145.72179,
+   "wd": "Q27728657"
+  },
+  {
+   "name": "Airport Tower",
+   "cat": "관광",
+   "area": "북마리아나 제도",
+   "lat": 15.12345,
+   "lng": 145.7287,
+   "wd": "Q27728675"
+  },
+  {
+   "name": "Unai Tanapag",
+   "cat": "관광",
+   "area": "북마리아나 제도",
+   "lat": 15.23611,
+   "lng": 145.74528,
+   "wd": "Q27728926"
+  },
+  {
+   "name": "Landing Beaches; Aslito/Isely Field; & Marpi Point, Saipan Island",
+   "cat": "관광",
+   "area": "사이판섬",
+   "lat": 15.11639,
+   "lng": 145.72806,
+   "wd": "Q6484589"
+  },
+  {
+   "name": "Unai Lagua Japanese Defense Pillbox",
+   "cat": "관광",
+   "area": "사이판섬",
+   "lat": 15.2722,
+   "lng": 145.826,
+   "wd": "Q19840970"
+  },
+  {
+   "name": "Airport Fire Station",
+   "cat": "관광",
+   "area": "사이판섬",
+   "lat": 15.12414,
+   "lng": 145.73041,
+   "wd": "Q27728674"
+  },
+  {
+   "name": "American Saipan Memorial",
+   "cat": "관광",
+   "area": "사이판섬",
+   "lat": 15.21806,
+   "lng": 145.71987,
+   "wd": "Q111628761"
+  },
+  {
+   "name": "Civic Center Park",
+   "cat": "관광",
+   "area": "Saipan Municipality",
+   "lat": 15.16111,
+   "lng": 145.70444,
+   "wd": "Q27728307"
+  }
+ ]
+}
