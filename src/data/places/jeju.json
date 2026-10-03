@@ -412,12 +412,15 @@
    "wd": "Q24000544"
   },
   {
-   "name": "Dragon Pool Temple",
+   "name": "용연사",
    "cat": "관광",
    "area": "",
    "lat": 33.51559,
    "lng": 126.51528,
-   "wd": "Q5305250"
+   "wd": "Q5305250",
+   "aliases": [
+    "Dragon Pool Temple"
+   ]
   },
   {
    "name": "존자암지",

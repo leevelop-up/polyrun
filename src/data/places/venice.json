@@ -182,12 +182,15 @@
    "wd": "Q756807"
   },
   {
-   "name": "San Zaccaria",
+   "name": "산 차카리아 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43472,
    "lng": 12.34333,
-   "wd": "Q794876"
+   "wd": "Q794876",
+   "aliases": [
+    "San Zaccaria"
+   ]
   },
   {
    "name": "카 레초니코",
@@ -223,12 +226,15 @@
    "wd": "Q907964"
   },
   {
-   "name": "Santa Maria dei Miracoli, Venice",
+   "name": "산타 마리아 데이 미라콜리 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43943,
    "lng": 12.3392,
-   "wd": "Q533680"
+   "wd": "Q533680",
+   "aliases": [
+    "Santa Maria dei Miracoli, Venice"
+   ]
   },
   {
    "name": "페기 구겐하임 컬렉션",
@@ -242,20 +248,26 @@
    "wd": "Q1049033"
   },
   {
-   "name": "ponte della Costituzione",
+   "name": "코스티투치오네 다리",
    "cat": "관광",
    "area": "카나레조",
    "lat": 45.43889,
    "lng": 12.31944,
-   "wd": "Q52501"
+   "wd": "Q52501",
+   "aliases": [
+    "ponte della Costituzione"
+   ]
   },
   {
-   "name": "Fondaco dei Turchi",
+   "name": "폰다코 데이 투르키",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.442,
    "lng": 12.32868,
-   "wd": "Q182708"
+   "wd": "Q182708",
+   "aliases": [
+    "Fondaco dei Turchi"
+   ]
   },
   {
    "name": "시계탑",
@@ -269,12 +281,15 @@
    "wd": "Q966625"
   },
   {
-   "name": "Ca' da Mosto",
+   "name": "카 다 모스토",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43965,
    "lng": 12.33584,
-   "wd": "Q1052167"
+   "wd": "Q1052167",
+   "aliases": [
+    "Ca' da Mosto"
+   ]
   },
   {
    "name": "코레르 박물관",
@@ -299,44 +314,59 @@
    "wd": "Q1259067"
   },
   {
-   "name": "Madonna dell'Orto",
+   "name": "마돈나 델로르토 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.44634,
    "lng": 12.33247,
-   "wd": "Q861436"
+   "wd": "Q861436",
+   "aliases": [
+    "Madonna dell'Orto"
+   ]
   },
   {
-   "name": "San Giacomo di Rialto",
+   "name": "산 자코모 디 리알토 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43847,
    "lng": 12.33547,
-   "wd": "Q922677"
+   "wd": "Q922677",
+   "aliases": [
+    "San Giacomo di Rialto"
+   ]
   },
   {
-   "name": "San Pietro di Castello",
+   "name": "산 피에트로 디 카스텔로 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43458,
    "lng": 12.35972,
-   "wd": "Q945981"
+   "wd": "Q945981",
+   "aliases": [
+    "San Pietro di Castello"
+   ]
   },
   {
-   "name": "San Francesco della Vigna",
+   "name": "산 프란체스코 델라 비냐 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.4381,
    "lng": 12.3486,
-   "wd": "Q946542"
+   "wd": "Q946542",
+   "aliases": [
+    "San Francesco della Vigna"
+   ]
   },
   {
-   "name": "San Salvador",
+   "name": "산 살바도르 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.4366,
    "lng": 12.3365,
-   "wd": "Q1028202"
+   "wd": "Q1028202",
+   "aliases": [
+    "San Salvador"
+   ]
   },
   {
    "name": "카 벤드라민 칼레르지",
@@ -350,44 +380,59 @@
    "wd": "Q1265593"
   },
   {
-   "name": "Statue of Bartolomeo Colleoni",
+   "name": "콜레오니 기마상",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.4392,
    "lng": 12.3414,
-   "wd": "Q473237"
+   "wd": "Q473237",
+   "aliases": [
+    "Statue of Bartolomeo Colleoni"
+   ]
   },
   {
-   "name": "Santa Maria degli Scalzi",
+   "name": "스칼치 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.44128,
    "lng": 12.32221,
-   "wd": "Q748689"
+   "wd": "Q748689",
+   "aliases": [
+    "Santa Maria degli Scalzi"
+   ]
   },
   {
-   "name": "Santo Stefano, Venice",
+   "name": "산토 스테파노 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43373,
    "lng": 12.33087,
-   "wd": "Q974832"
+   "wd": "Q974832",
+   "aliases": [
+    "Santo Stefano, Venice"
+   ]
   },
   {
-   "name": "San Moisè",
+   "name": "산 모이세 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43308,
    "lng": 12.33595,
-   "wd": "Q1068131"
+   "wd": "Q1068131",
+   "aliases": [
+    "San Moisè"
+   ]
   },
   {
-   "name": "Scuola Grande di San Rocco",
+   "name": "스쿠올라 그란데 디 산 로코",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43657,
    "lng": 12.32531,
-   "wd": "Q1270723"
+   "wd": "Q1270723",
+   "aliases": [
+    "Scuola Grande di San Rocco"
+   ]
   },
   {
    "name": "푼타 델라 도가나",
@@ -401,100 +446,136 @@
    "wd": "Q2931413"
   },
   {
-   "name": "Ponte degli Scalzi",
+   "name": "스칼치 다리",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.44104,
    "lng": 12.32278,
-   "wd": "Q52508"
+   "wd": "Q52508",
+   "aliases": [
+    "Ponte degli Scalzi"
+   ]
   },
   {
-   "name": "Gesuati",
+   "name": "제수아티 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.42944,
    "lng": 12.32722,
-   "wd": "Q1093909"
+   "wd": "Q1093909",
+   "aliases": [
+    "Gesuati"
+   ]
   },
   {
-   "name": "San Giorgio dei Greci",
+   "name": "산 조르조 데이 그레치 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.4354,
    "lng": 12.3448,
-   "wd": "Q1784082"
+   "wd": "Q1784082",
+   "aliases": [
+    "San Giorgio dei Greci"
+   ]
   },
   {
-   "name": "Santa Maria Formosa",
+   "name": "산타 마리아 포르모사 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43702,
    "lng": 12.34101,
-   "wd": "Q1813687"
+   "wd": "Q1813687",
+   "aliases": [
+    "Santa Maria Formosa"
+   ]
   },
   {
-   "name": "Santa Maria Zobenigo",
+   "name": "산타 마리아 초베니고 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43259,
    "lng": 12.3328,
-   "wd": "Q220811"
+   "wd": "Q220811",
+   "aliases": [
+    "Santa Maria Zobenigo"
+   ]
   },
   {
-   "name": "San Giovanni in Bragora",
+   "name": "산 조반니 인 브라고라 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.4344,
    "lng": 12.347,
-   "wd": "Q521260"
+   "wd": "Q521260",
+   "aliases": [
+    "San Giovanni in Bragora"
+   ]
   },
   {
-   "name": "San Sebastiano",
+   "name": "산 세바스티아노 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.432,
    "lng": 12.32,
-   "wd": "Q588559"
+   "wd": "Q588559",
+   "aliases": [
+    "San Sebastiano"
+   ]
   },
   {
-   "name": "Palazzo Cavalli-Franchetti",
+   "name": "카발리 프란케티 궁전",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43172,
    "lng": 12.32961,
-   "wd": "Q934025"
+   "wd": "Q934025",
+   "aliases": [
+    "Palazzo Cavalli-Franchetti"
+   ]
   },
   {
-   "name": "Ponte delle Guglie",
+   "name": "굴리에 다리",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.44361,
    "lng": 12.32556,
-   "wd": "Q1268698"
+   "wd": "Q1268698",
+   "aliases": [
+    "Ponte delle Guglie"
+   ]
   },
   {
-   "name": "Palazzo Contarini del Bovolo",
+   "name": "콘타리니 델 보볼로 궁전",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43481,
    "lng": 12.33453,
-   "wd": "Q1585745"
+   "wd": "Q1585745",
+   "aliases": [
+    "Palazzo Contarini del Bovolo"
+   ]
   },
   {
-   "name": "Santa Maria della Pietà",
+   "name": "피에타 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.4342,
    "lng": 12.34497,
-   "wd": "Q1559661"
+   "wd": "Q1559661",
+   "aliases": [
+    "Santa Maria della Pietà"
+   ]
   },
   {
-   "name": "Piraeus Lion",
+   "name": "피레우스 사자상",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43478,
    "lng": 12.34982,
-   "wd": "Q2568227"
+   "wd": "Q2568227",
+   "aliases": [
+    "Piraeus Lion"
+   ]
   },
   {
    "name": "팔라초 바르바로",
@@ -519,12 +600,15 @@
    "wd": "Q2717404"
   },
   {
-   "name": "Palazzo Dario",
+   "name": "다리오 궁전",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43084,
    "lng": 12.33223,
-   "wd": "Q52629"
+   "wd": "Q52629",
+   "aliases": [
+    "Palazzo Dario"
+   ]
   },
   {
    "name": "산폴로 광장",
@@ -538,164 +622,224 @@
    "wd": "Q744776"
   },
   {
-   "name": "Palazzo Grimani di San Luca",
+   "name": "그리마니 디 산 루카 궁전",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43596,
    "lng": 12.33281,
-   "wd": "Q922371"
+   "wd": "Q922371",
+   "aliases": [
+    "Palazzo Grimani di San Luca"
+   ]
   },
   {
-   "name": "Chiesa di San Pantalon",
+   "name": "산 판탈론 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43566,
    "lng": 12.32469,
-   "wd": "Q1093901"
+   "wd": "Q1093901",
+   "aliases": [
+    "Chiesa di San Pantalon"
+   ]
   },
   {
-   "name": "Palazzo Labia",
+   "name": "라비아 궁전",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.44323,
    "lng": 12.32528,
-   "wd": "Q1273374"
+   "wd": "Q1273374",
+   "aliases": [
+    "Palazzo Labia"
+   ]
   },
   {
-   "name": "San Nicolò dei Mendicoli",
+   "name": "산 니콜로 데이 멘디코리 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.4325,
    "lng": 12.3159,
-   "wd": "Q2483408"
+   "wd": "Q2483408",
+   "aliases": [
+    "San Nicolò dei Mendicoli"
+   ]
   },
   {
-   "name": "Ponte delle Tette",
+   "name": "테테 다리",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43885,
    "lng": 12.33095,
-   "wd": "Q2717392"
+   "wd": "Q2717392",
+   "aliases": [
+    "Ponte delle Tette"
+   ]
   },
   {
-   "name": "Santi Apostoli",
+   "name": "산티 아포스톨리 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.4405,
    "lng": 12.33663,
-   "wd": "Q2717786"
+   "wd": "Q2717786",
+   "aliases": [
+    "Santi Apostoli"
+   ]
   },
   {
-   "name": "Church of Saint Roch",
+   "name": "산 로코 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43697,
    "lng": 12.32526,
-   "wd": "Q5418235"
+   "wd": "Q5418235",
+   "aliases": [
+    "Church of Saint Roch"
+   ]
   },
   {
-   "name": "Scuola Grande di San Marco",
+   "name": "스쿠올라 그란데 디 산 마르코",
    "cat": "관광",
    "area": "Venezia-Murano-Burano",
    "lat": 45.43971,
    "lng": 12.34148,
-   "wd": "Q1273362"
+   "wd": "Q1273362",
+   "aliases": [
+    "Scuola Grande di San Marco"
+   ]
   },
   {
-   "name": "Le Zitelle",
+   "name": "레 치텔레 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.4267,
    "lng": 12.3391,
-   "wd": "Q753370"
+   "wd": "Q753370",
+   "aliases": [
+    "Le Zitelle"
+   ]
   },
   {
-   "name": "San Giovanni Grisostomo, Venice",
+   "name": "산 조반니 크리소스토모 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43914,
    "lng": 12.33714,
-   "wd": "Q915746"
+   "wd": "Q915746",
+   "aliases": [
+    "San Giovanni Grisostomo, Venice"
+   ]
   },
   {
-   "name": "Palazzo dei Camerlenghi",
+   "name": "카메를렌기 궁전",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43834,
    "lng": 12.33582,
-   "wd": "Q963326"
+   "wd": "Q963326",
+   "aliases": [
+    "Palazzo dei Camerlenghi"
+   ]
   },
   {
-   "name": "San Giacomo dell'Orio",
+   "name": "산 자코모 델로리오 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.44012,
    "lng": 12.32744,
-   "wd": "Q1150698"
+   "wd": "Q1150698",
+   "aliases": [
+    "San Giacomo dell'Orio"
+   ]
   },
   {
-   "name": "Ponte della Paglia",
+   "name": "파글리아 다리",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43359,
    "lng": 12.34104,
-   "wd": "Q1268692"
+   "wd": "Q1268692",
+   "aliases": [
+    "Ponte della Paglia"
+   ]
   },
   {
-   "name": "San Michele in Isola",
+   "name": "산 미켈레 섬 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.4487,
    "lng": 12.3469,
-   "wd": "Q1449262"
+   "wd": "Q1449262",
+   "aliases": [
+    "San Michele in Isola"
+   ]
   },
   {
-   "name": "Tolentini",
+   "name": "톨렌티니 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.4374,
    "lng": 12.3221,
-   "wd": "Q2219891"
+   "wd": "Q2219891",
+   "aliases": [
+    "Tolentini"
+   ]
   },
   {
-   "name": "Palazzo Pisani Moretta",
+   "name": "피사니 모레타 궁전",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43601,
    "lng": 12.32925,
-   "wd": "Q3372473"
+   "wd": "Q3372473",
+   "aliases": [
+    "Palazzo Pisani Moretta"
+   ]
   },
   {
-   "name": "San Simeone Piccolo",
+   "name": "산 시메오네 피콜로 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.4402,
    "lng": 12.3224,
-   "wd": "Q185910"
+   "wd": "Q185910",
+   "aliases": [
+    "San Simeone Piccolo"
+   ]
   },
   {
-   "name": "Teatro San Cassiano",
+   "name": "산 카시아노 극장",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43851,
    "lng": 12.33037,
-   "wd": "Q246429"
+   "wd": "Q246429",
+   "aliases": [
+    "Teatro San Cassiano"
+   ]
   },
   {
-   "name": "Palazzo Corner Spinelli",
+   "name": "코르네르 스피넬리 궁전",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43556,
    "lng": 12.33069,
-   "wd": "Q538610"
+   "wd": "Q538610",
+   "aliases": [
+    "Palazzo Corner Spinelli"
+   ]
   },
   {
-   "name": "San Geremia",
+   "name": "산 제레미아 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.44265,
    "lng": 12.32533,
-   "wd": "Q1040043"
+   "wd": "Q1040043",
+   "aliases": [
+    "San Geremia"
+   ]
   },
   {
    "name": "산폴로 교회",
@@ -709,124 +853,147 @@
    "wd": "Q1281097"
   },
   {
-   "name": "San Samuele",
+   "name": "산 사무엘레 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43361,
    "lng": 12.32829,
-   "wd": "Q1895574"
+   "wd": "Q1895574",
+   "aliases": [
+    "San Samuele"
+   ]
   },
   {
-   "name": "San Giobbe",
+   "name": "산 조베 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.44503,
    "lng": 12.32032,
-   "wd": "Q2717507"
+   "wd": "Q2717507",
+   "aliases": [
+    "San Giobbe"
+   ]
   },
   {
-   "name": "Palazzo Corner",
+   "name": "코르네르 궁전",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43167,
    "lng": 12.33167,
-   "wd": "Q2932205"
+   "wd": "Q2932205",
+   "aliases": [
+    "Palazzo Corner"
+   ]
   },
   {
-   "name": "Teatro Malibran",
+   "name": "말리브란 극장",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43899,
    "lng": 12.33816,
-   "wd": "Q3982047"
+   "wd": "Q3982047",
+   "aliases": [
+    "Teatro Malibran"
+   ]
   },
   {
-   "name": "Teatro San Benedetto",
-   "cat": "관광",
-   "area": "베네치아",
-   "lat": 45.43525,
-   "lng": 12.33312,
-   "wd": "Q523565"
-  },
-  {
-   "name": "Palazzo Dolfin Manin",
+   "name": "돌핀 마닌 궁전",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.4371,
    "lng": 12.3356,
-   "wd": "Q786974"
+   "wd": "Q786974",
+   "aliases": [
+    "Palazzo Dolfin Manin"
+   ]
   },
   {
-   "name": "Teatro San Angelo",
-   "cat": "관광",
-   "area": "베네치아",
-   "lat": 45.43559,
-   "lng": 12.33035,
-   "wd": "Q1110282"
-  },
-  {
-   "name": "San Zulian",
+   "name": "산 줄리안 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.4358,
    "lng": 12.33862,
-   "wd": "Q1251035"
+   "wd": "Q1251035",
+   "aliases": [
+    "San Zulian"
+   ]
   },
   {
-   "name": "Angelo San Raffaele",
+   "name": "안젤로 라파엘레 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43251,
    "lng": 12.31899,
-   "wd": "Q1255964"
+   "wd": "Q1255964",
+   "aliases": [
+    "Angelo San Raffaele"
+   ]
   },
   {
-   "name": "San Stae",
+   "name": "산 스태 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.44144,
    "lng": 12.33078,
-   "wd": "Q2220127"
+   "wd": "Q2220127",
+   "aliases": [
+    "San Stae"
+   ]
   },
   {
-   "name": "La Maddalena",
+   "name": "막달레나 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.44299,
    "lng": 12.33111,
-   "wd": "Q2268642"
+   "wd": "Q2268642",
+   "aliases": [
+    "La Maddalena"
+   ]
   },
   {
-   "name": "Palazzo Barbarigo",
+   "name": "바르바리고 궁전",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.4418,
    "lng": 12.3316,
-   "wd": "Q2362239"
+   "wd": "Q2362239",
+   "aliases": [
+    "Palazzo Barbarigo"
+   ]
   },
   {
-   "name": "Church of Santa Maria e San Donato",
+   "name": "산타 마리아 에 산 도나토 성당(무라노)",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.45743,
    "lng": 12.3572,
-   "wd": "Q2545358"
+   "wd": "Q2545358",
+   "aliases": [
+    "Church of Santa Maria e San Donato"
+   ]
   },
   {
-   "name": "Santa Maria dei Carmini",
+   "name": "카르미니 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43349,
    "lng": 12.3222,
-   "wd": "Q2780025"
+   "wd": "Q2780025",
+   "aliases": [
+    "Santa Maria dei Carmini"
+   ]
   },
   {
-   "name": "Chiesa di San Simeone profeta",
+   "name": "산 시메오네 프로페타 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.44069,
    "lng": 12.32453,
-   "wd": "Q3585385"
+   "wd": "Q3585385",
+   "aliases": [
+    "Chiesa di San Simeone profeta"
+   ]
   },
   {
    "name": "유리박물관",
@@ -840,60 +1007,70 @@
    "wd": "Q3867986"
   },
   {
-   "name": "Palazzo Contarini Fasan",
+   "name": "콘타리니 파산 궁전",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43175,
    "lng": 12.33427,
-   "wd": "Q3889925"
+   "wd": "Q3889925",
+   "aliases": [
+    "Palazzo Contarini Fasan"
+   ]
   },
   {
-   "name": "Palazzo Barbaro Wolkoff",
+   "name": "바르바로 볼코프 궁전",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43085,
    "lng": 12.33242,
-   "wd": "Q15714249"
+   "wd": "Q15714249",
+   "aliases": [
+    "Palazzo Barbaro Wolkoff"
+   ]
   },
   {
-   "name": "San Vidal, Venice",
+   "name": "산 비달 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.4325,
    "lng": 12.32944,
-   "wd": "Q769514"
+   "wd": "Q769514",
+   "aliases": [
+    "San Vidal, Venice"
+   ]
   },
   {
-   "name": "Teatro San Samuele",
-   "cat": "관광",
-   "area": "베네치아",
-   "lat": 45.43294,
-   "lng": 12.32894,
-   "wd": "Q1057412"
-  },
-  {
-   "name": "San Trovaso",
+   "name": "산 트로바소 성당",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.4308,
    "lng": 12.326,
-   "wd": "Q1129555"
+   "wd": "Q1129555",
+   "aliases": [
+    "San Trovaso"
+   ]
   },
   {
-   "name": "Scuola di San Giorgio degli Schiavoni",
+   "name": "스쿠올라 디 산 조르조 데리 스키아보니",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.43639,
    "lng": 12.34611,
-   "wd": "Q1290662"
+   "wd": "Q1290662",
+   "aliases": [
+    "Scuola di San Giorgio degli Schiavoni"
+   ]
   },
   {
-   "name": "campo Santa Margherita",
+   "name": "산타 마르게리타 광장",
    "cat": "관광",
    "area": "베네치아",
    "lat": 45.4344,
    "lng": 12.32382,
-   "wd": "Q2248913"
+   "wd": "Q2248913",
+   "aliases": [
+    "campo Santa Margherita"
+   ]
   }
  ]
 }

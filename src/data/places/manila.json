@@ -14,12 +14,15 @@
    "wd": "Q942688"
   },
   {
-   "name": "Manila Cathedral",
+   "name": "마닐라 대성당",
    "cat": "관광",
    "area": "인트라무로스",
    "lat": 14.59147,
    "lng": 120.97356,
-   "wd": "Q773443"
+   "wd": "Q773443",
+   "aliases": [
+    "Manila Cathedral"
+   ]
   },
   {
    "name": "리잘 공원",
@@ -33,12 +36,15 @@
    "wd": "Q2306339"
   },
   {
-   "name": "Masjid Al-Dahab",
+   "name": "황금 모스크",
    "cat": "관광",
    "area": "마닐라",
    "lat": 14.59569,
    "lng": 120.98514,
-   "wd": "Q1417648"
+   "wd": "Q1417648",
+   "aliases": [
+    "Masjid Al-Dahab"
+   ]
   },
   {
    "name": "SM 몰 오브 아시아",
@@ -52,52 +58,59 @@
    "wd": "Q1435577"
   },
   {
-   "name": "Fort Santiago",
+   "name": "산티아고 요새",
    "cat": "관광",
    "area": "인트라무로스",
    "lat": 14.595,
    "lng": 120.96944,
-   "wd": "Q478181"
+   "wd": "Q478181",
+   "aliases": [
+    "Fort Santiago"
+   ]
   },
   {
-   "name": "Quezon Memorial Circle",
+   "name": "케손 기념 서클",
    "cat": "관광",
    "area": "케손시티",
    "lat": 14.65139,
    "lng": 121.04917,
-   "wd": "Q3543369"
+   "wd": "Q3543369",
+   "aliases": [
+    "Quezon Memorial Circle"
+   ]
   },
   {
-   "name": "The Gramercy Residences",
-   "cat": "관광",
-   "area": "마카티",
-   "lat": 14.56528,
-   "lng": 121.02833,
-   "wd": "Q1144554"
-  },
-  {
-   "name": "Manila Ocean Park",
+   "name": "마닐라 오션파크",
    "cat": "관광",
    "area": "마닐라",
    "lat": 14.57931,
    "lng": 120.97249,
-   "wd": "Q28980"
+   "wd": "Q28980",
+   "aliases": [
+    "Manila Ocean Park"
+   ]
   },
   {
-   "name": "Rizal Monument",
+   "name": "리살 기념비",
    "cat": "관광",
    "area": "",
    "lat": 14.58167,
    "lng": 120.97669,
-   "wd": "Q7339077"
+   "wd": "Q7339077",
+   "aliases": [
+    "Rizal Monument"
+   ]
   },
   {
-   "name": "Manila Philippines Temple",
+   "name": "마닐라 필리핀 성전",
    "cat": "관광",
    "area": "케손시티",
    "lat": 14.60136,
    "lng": 121.06982,
-   "wd": "Q3235452"
+   "wd": "Q3235452",
+   "aliases": [
+    "Manila Philippines Temple"
+   ]
   },
   {
    "name": "에스엠 메가몰",
@@ -111,468 +124,587 @@
    "wd": "Q465454"
   },
   {
-   "name": "Manila Metropolitan Theatre",
+   "name": "마닐라 메트로폴리탄 극장",
    "cat": "관광",
    "area": "",
    "lat": 14.594,
    "lng": 120.9805,
-   "wd": "Q1639613"
+   "wd": "Q1639613",
+   "aliases": [
+    "Manila Metropolitan Theatre"
+   ]
   },
   {
-   "name": "Manila Zoological and Botanical Garden",
+   "name": "마닐라 동식물원",
    "cat": "관광",
    "area": "",
    "lat": 14.56472,
    "lng": 120.98861,
-   "wd": "Q2307982"
+   "wd": "Q2307982",
+   "aliases": [
+    "Manila Zoological and Botanical Garden"
+   ]
   },
   {
-   "name": "Plaza San Lorenzo Ruiz",
+   "name": "산로렌소 루이스 광장",
    "cat": "관광",
    "area": "Binondo",
    "lat": 14.60027,
    "lng": 120.97386,
-   "wd": "Q13906691"
+   "wd": "Q13906691",
+   "aliases": [
+    "Plaza San Lorenzo Ruiz"
+   ]
   },
   {
-   "name": "Ayala Museum",
+   "name": "아얄라 박물관",
    "cat": "관광",
    "area": "마카티",
    "lat": 14.5536,
    "lng": 121.023,
-   "wd": "Q2110963"
+   "wd": "Q2110963",
+   "aliases": [
+    "Ayala Museum"
+   ]
   },
   {
-   "name": "Petron Megaplaza",
-   "cat": "관광",
-   "area": "마카티",
-   "lat": 14.56168,
-   "lng": 121.02572,
-   "wd": "Q3038594"
-  },
-  {
-   "name": "National Museum of Fine Arts",
+   "name": "국립 미술관",
    "cat": "관광",
    "area": "",
    "lat": 14.5869,
    "lng": 120.9813,
-   "wd": "Q123815605"
+   "wd": "Q123815605",
+   "aliases": [
+    "National Museum of Fine Arts"
+   ]
   },
   {
-   "name": "Caloocan Cathedral",
+   "name": "칼로오칸 대성당",
    "cat": "관광",
    "area": "칼로오칸",
    "lat": 14.65167,
    "lng": 120.97283,
-   "wd": "Q5023169"
+   "wd": "Q5023169",
+   "aliases": [
+    "Caloocan Cathedral"
+   ]
   },
   {
-   "name": "SM City North EDSA",
+   "name": "SM 시티 노스 에드사",
    "cat": "쇼핑",
    "area": "케손시티",
    "lat": 14.65703,
    "lng": 121.03048,
-   "wd": "Q7391478"
+   "wd": "Q7391478",
+   "aliases": [
+    "SM City North EDSA"
+   ]
   },
   {
-   "name": "Iglesia ni Cristo Central Temple",
+   "name": "이글레시아 니 크리스토 중앙성전",
    "cat": "관광",
    "area": "케손시티",
    "lat": 14.6634,
    "lng": 121.0654,
-   "wd": "Q20874814"
+   "wd": "Q20874814",
+   "aliases": [
+    "Iglesia ni Cristo Central Temple"
+   ]
   },
   {
-   "name": "Christ's Commission Fellowship",
-   "cat": "관광",
-   "area": "메트로 마닐라",
-   "lat": 14.58903,
-   "lng": 121.07905,
-   "wd": "Q5108641"
-  },
-  {
-   "name": "Ateneo Art Gallery",
+   "name": "아테네오 아트 갤러리",
    "cat": "관광",
    "area": "아테네오 대학교 마닐라",
    "lat": 14.64,
    "lng": 121.07722,
-   "wd": "Q2110553"
+   "wd": "Q2110553",
+   "aliases": [
+    "Ateneo Art Gallery"
+   ]
   },
   {
-   "name": "Parañaque Cathedral",
+   "name": "파라냐케 대성당",
    "cat": "관광",
    "area": "",
    "lat": 14.5002,
    "lng": 120.992,
-   "wd": "Q2385428"
+   "wd": "Q2385428",
+   "aliases": [
+    "Parañaque Cathedral"
+   ]
   },
   {
-   "name": "Plaza Rajah Sulayman",
+   "name": "라자 술라이만 광장",
    "cat": "관광",
    "area": "",
    "lat": 14.56879,
    "lng": 120.98374,
-   "wd": "Q13453623"
+   "wd": "Q13453623",
+   "aliases": [
+    "Plaza Rajah Sulayman"
+   ]
   },
   {
-   "name": "National Museum of Natural History",
+   "name": "국립 자연사박물관",
    "cat": "관광",
    "area": "",
    "lat": 14.58331,
    "lng": 120.98219,
-   "wd": "Q28451570"
+   "wd": "Q28451570",
+   "aliases": [
+    "National Museum of Natural History"
+   ]
   },
   {
-   "name": "Manila Bay Beach",
+   "name": "마닐라만 해변",
    "cat": "관광",
    "area": "마닐라",
    "lat": 14.57478,
    "lng": 120.97928,
-   "wd": "Q99519364"
+   "wd": "Q99519364",
+   "aliases": [
+    "Manila Bay Beach"
+   ]
   },
   {
-   "name": "Manila Central Post Office",
+   "name": "마닐라 중앙우체국",
    "cat": "관광",
    "area": "마닐라",
    "lat": 14.5955,
    "lng": 120.9791,
-   "wd": "Q1997093"
+   "wd": "Q1997093",
+   "aliases": [
+    "Manila Central Post Office"
+   ]
   },
   {
-   "name": "Puente Colgante",
+   "name": "푸엔테 콜간테",
    "cat": "관광",
    "area": "마닐라",
    "lat": 14.59556,
    "lng": 120.98194,
-   "wd": "Q2207397"
+   "wd": "Q2207397",
+   "aliases": [
+    "Puente Colgante"
+   ]
   },
   {
-   "name": "Baclaran Mosque",
+   "name": "바클라란 모스크",
    "cat": "관광",
    "area": "마닐라",
    "lat": 14.5323,
    "lng": 120.992,
-   "wd": "Q4839897"
+   "wd": "Q4839897",
+   "aliases": [
+    "Baclaran Mosque"
+   ]
   },
   {
-   "name": "Jones Bridge",
+   "name": "존스 다리",
    "cat": "관광",
    "area": "마닐라",
    "lat": 14.59583,
    "lng": 120.97731,
-   "wd": "Q6275142"
+   "wd": "Q6275142",
+   "aliases": [
+    "Jones Bridge"
+   ]
   },
   {
-   "name": "San Ignacio Church",
+   "name": "산 이그나시오 성당 유적",
    "cat": "관광",
    "area": "마닐라",
    "lat": 14.5898,
    "lng": 120.973,
-   "wd": "Q18708321"
+   "wd": "Q18708321",
+   "aliases": [
+    "San Ignacio Church"
+   ]
   },
   {
-   "name": "People Power Monument",
+   "name": "피플파워 기념비",
    "cat": "관광",
    "area": "케손시티",
    "lat": 14.6,
    "lng": 121.06,
-   "wd": "Q2913846"
+   "wd": "Q2913846",
+   "aliases": [
+    "People Power Monument"
+   ]
   },
   {
-   "name": "Immaculate Conception Cathedral of Cubao",
+   "name": "쿠바오 무염시태 대성당",
    "cat": "관광",
    "area": "케손시티",
    "lat": 14.6219,
    "lng": 121.0431,
-   "wd": "Q5192143"
+   "wd": "Q5192143",
+   "aliases": [
+    "Immaculate Conception Cathedral of Cubao"
+   ]
   },
   {
-   "name": "Novaliches Cathedral",
+   "name": "노발리체스 대성당",
    "cat": "관광",
    "area": "케손시티",
    "lat": 14.69741,
    "lng": 121.06724,
-   "wd": "Q7064422"
+   "wd": "Q7064422",
+   "aliases": [
+    "Novaliches Cathedral"
+   ]
   },
   {
-   "name": "Bantayog ng mga Bayani",
+   "name": "영웅 기념관(반타요그 응 마가 바야니)",
    "cat": "관광",
    "area": "케손시티",
    "lat": 14.64417,
    "lng": 121.03917,
-   "wd": "Q25221518"
+   "wd": "Q25221518",
+   "aliases": [
+    "Bantayog ng mga Bayani"
+   ]
   },
   {
-   "name": "Pasig Cathedral",
+   "name": "파시그 대성당",
    "cat": "관광",
    "area": "파시그",
    "lat": 14.5604,
    "lng": 121.07739,
-   "wd": "Q7142122"
+   "wd": "Q7142122",
+   "aliases": [
+    "Pasig Cathedral"
+   ]
   },
   {
-   "name": "St. Francis Square",
+   "name": "성 프란치스코 광장",
    "cat": "관광",
    "area": "브라티슬라바",
    "lat": 14.5981,
    "lng": 120.983,
-   "wd": "Q7587996"
+   "wd": "Q7587996",
+   "aliases": [
+    "St. Francis Square"
+   ]
   },
   {
-   "name": "Manila Film Center",
+   "name": "마닐라 영화센터",
    "cat": "관광",
    "area": "파사이",
    "lat": 14.55056,
    "lng": 120.98194,
-   "wd": "Q12124512"
+   "wd": "Q12124512",
+   "aliases": [
+    "Manila Film Center"
+   ]
   },
   {
-   "name": "Our Lady of Montserrat Abbey",
+   "name": "몬세라트 성모 수도원",
    "cat": "관광",
    "area": "San Miguel",
    "lat": 14.59911,
    "lng": 120.99295,
-   "wd": "Q14830133"
+   "wd": "Q14830133",
+   "aliases": [
+    "Our Lady of Montserrat Abbey"
+   ]
   },
   {
-   "name": "Carriedo Fountain",
+   "name": "카리에도 분수",
    "cat": "관광",
    "area": "Santa Cruz",
    "lat": 14.59991,
    "lng": 120.98035,
-   "wd": "Q18344016"
+   "wd": "Q18344016",
+   "aliases": [
+    "Carriedo Fountain"
+   ]
   },
   {
-   "name": "Casa Manila",
+   "name": "카사 마닐라",
    "cat": "관광",
    "area": "인트라무로스",
    "lat": 14.58973,
    "lng": 120.97515,
-   "wd": "Q2110598"
+   "wd": "Q2110598",
+   "aliases": [
+    "Casa Manila"
+   ]
   },
   {
-   "name": "Philamlife Tower",
-   "cat": "관광",
-   "area": "마카티",
-   "lat": 14.55733,
-   "lng": 121.02197,
-   "wd": "Q3327393"
-  },
-  {
-   "name": "National Museum of Anthropology",
+   "name": "국립 인류학박물관",
    "cat": "관광",
    "area": "",
    "lat": 14.58528,
    "lng": 120.98083,
-   "wd": "Q3330472"
+   "wd": "Q3330472",
+   "aliases": [
+    "National Museum of Anthropology"
+   ]
   },
   {
-   "name": "Fort San Antonio Abad",
+   "name": "산안토니오 아바드 요새",
    "cat": "관광",
    "area": "",
    "lat": 14.56264,
    "lng": 120.98683,
-   "wd": "Q5471974"
+   "wd": "Q5471974",
+   "aliases": [
+    "Fort San Antonio Abad"
+   ]
   },
   {
-   "name": "Mehan Garden",
+   "name": "메한 가든",
    "cat": "관광",
    "area": "",
    "lat": 14.592,
    "lng": 120.981,
-   "wd": "Q6809213"
+   "wd": "Q6809213",
+   "aliases": [
+    "Mehan Garden"
+   ]
   },
   {
-   "name": "Metropolitan Museum of Manila",
+   "name": "마닐라 메트로폴리탄 미술관",
    "cat": "관광",
    "area": "",
    "lat": 14.56241,
    "lng": 120.98648,
-   "wd": "Q6825145"
+   "wd": "Q6825145",
+   "aliases": [
+    "Metropolitan Museum of Manila"
+   ]
   },
   {
-   "name": "Plaza Miranda",
+   "name": "미란다 광장",
    "cat": "관광",
    "area": "",
    "lat": 14.59819,
    "lng": 120.98359,
-   "wd": "Q7203623"
+   "wd": "Q7203623",
+   "aliases": [
+    "Plaza Miranda"
+   ]
   },
   {
-   "name": "Plaza de Roma",
+   "name": "로마 광장",
    "cat": "관광",
    "area": "인트라무로스",
    "lat": 14.59212,
    "lng": 120.97311,
-   "wd": "Q7203681"
+   "wd": "Q7203681",
+   "aliases": [
+    "Plaza de Roma"
+   ]
   },
   {
-   "name": "ABS-CBN Broadcasting Center",
-   "cat": "관광",
-   "area": "",
-   "lat": 14.6396,
-   "lng": 121.0365,
-   "wd": "Q19650241"
-  },
-  {
-   "name": "Plaza Moriones",
+   "name": "모리오네스 광장",
    "cat": "관광",
    "area": "인트라무로스",
    "lat": 14.59331,
    "lng": 120.97125,
-   "wd": "Q89995646"
+   "wd": "Q89995646",
+   "aliases": [
+    "Plaza Moriones"
+   ]
   },
   {
-   "name": "Liwasang Bonifacio",
+   "name": "보니파시오 광장",
    "cat": "관광",
    "area": "",
    "lat": 14.59444,
    "lng": 120.97889,
-   "wd": "Q25038193"
+   "wd": "Q25038193",
+   "aliases": [
+    "Liwasang Bonifacio"
+   ]
   },
   {
-   "name": "National Planetarium",
+   "name": "국립 천문관",
    "cat": "관광",
    "area": "",
    "lat": 14.5839,
    "lng": 120.9782,
-   "wd": "Q28451799"
+   "wd": "Q28451799",
+   "aliases": [
+    "National Planetarium"
+   ]
   },
   {
-   "name": "Plaza de España",
+   "name": "에스파냐 광장",
    "cat": "관광",
    "area": "마닐라",
    "lat": 14.59333,
    "lng": 120.97444,
-   "wd": "Q25221977"
+   "wd": "Q25221977",
+   "aliases": [
+    "Plaza de España"
+   ]
   },
   {
-   "name": "Chapel of the Most Blessed Sacrament",
+   "name": "성체 예배당",
    "cat": "관광",
    "area": "마닐라",
    "lat": 14.56428,
    "lng": 120.99379,
-   "wd": "Q5073116"
+   "wd": "Q5073116",
+   "aliases": [
+    "Chapel of the Most Blessed Sacrament"
+   ]
   },
   {
-   "name": "Pasig River Light",
+   "name": "파시그 강 등대",
    "cat": "관광",
    "area": "마닐라",
    "lat": 14.5965,
    "lng": 120.96072,
-   "wd": "Q7142127"
+   "wd": "Q7142127",
+   "aliases": [
+    "Pasig River Light"
+   ]
   },
   {
-   "name": "Mabini Bridge",
+   "name": "마비니 다리",
    "cat": "관광",
    "area": "마닐라",
    "lat": 14.59583,
    "lng": 121.00139,
-   "wd": "Q18618972"
+   "wd": "Q18618972",
+   "aliases": [
+    "Mabini Bridge"
+   ]
   },
   {
-   "name": "Bonifacio Monument",
+   "name": "보니파시오 기념비",
    "cat": "관광",
    "area": "칼로오칸",
    "lat": 14.65712,
    "lng": 120.98397,
-   "wd": "Q28407956"
+   "wd": "Q28407956",
+   "aliases": [
+    "Bonifacio Monument"
+   ]
   },
   {
-   "name": "New Frontier Theater",
+   "name": "뉴 프론티어 극장",
    "cat": "관광",
    "area": "케손시티",
    "lat": 14.62222,
    "lng": 121.05389,
-   "wd": "Q23808197"
+   "wd": "Q23808197",
+   "aliases": [
+    "New Frontier Theater"
+   ]
   },
   {
-   "name": "One Corporate Centre",
-   "cat": "관광",
-   "area": "파시그",
-   "lat": 14.58355,
-   "lng": 121.06361,
-   "wd": "Q3014797"
-  },
-  {
-   "name": "Paco Park",
+   "name": "파코 공원",
    "cat": "관광",
    "area": "Paco",
    "lat": 14.58132,
    "lng": 120.9888,
-   "wd": "Q7123089"
+   "wd": "Q7123089",
+   "aliases": [
+    "Paco Park"
+   ]
   },
   {
-   "name": "Plaza Dilao",
+   "name": "딜라오 광장",
    "cat": "관광",
    "area": "Paco",
    "lat": 14.5808,
    "lng": 121,
-   "wd": "Q16898481"
+   "wd": "Q16898481",
+   "aliases": [
+    "Plaza Dilao"
+   ]
   },
   {
-   "name": "Manila Grand Opera House",
+   "name": "마닐라 그랜드 오페라하우스",
    "cat": "관광",
    "area": "Santa Cruz",
    "lat": 14.60548,
    "lng": 120.98156,
-   "wd": "Q5647868"
+   "wd": "Q5647868",
+   "aliases": [
+    "Manila Grand Opera House"
+   ]
   },
   {
-   "name": "Glorietta",
+   "name": "글로리에타",
    "cat": "쇼핑",
    "area": "마카티",
    "lat": 14.55111,
    "lng": 121.02528,
-   "wd": "Q5571513"
+   "wd": "Q5571513",
+   "aliases": [
+    "Glorietta"
+   ]
   },
   {
-   "name": "National Shrine of Our Lady of Fatima",
+   "name": "파티마 성모 성지",
    "cat": "관광",
    "area": "발렌수엘라",
    "lat": 14.6825,
    "lng": 120.98056,
-   "wd": "Q6978430"
+   "wd": "Q6978430",
+   "aliases": [
+    "National Shrine of Our Lady of Fatima"
+   ]
   },
   {
-   "name": "Rizal Shrine",
+   "name": "리살 성지",
    "cat": "관광",
    "area": "인트라무로스",
    "lat": 14.59444,
    "lng": 120.96972,
-   "wd": "Q7339081"
+   "wd": "Q7339081",
+   "aliases": [
+    "Rizal Shrine"
+   ]
   },
   {
-   "name": "Robinsons Place Manila",
+   "name": "로빈슨 플레이스 마닐라",
    "cat": "쇼핑",
    "area": "",
    "lat": 14.57639,
    "lng": 120.98389,
-   "wd": "Q7353133"
+   "wd": "Q7353133",
+   "aliases": [
+    "Robinsons Place Manila"
+   ]
   },
   {
-   "name": "Plaza de Armas",
+   "name": "아르마스 광장",
    "cat": "관광",
    "area": "인트라무로스",
    "lat": 14.59451,
    "lng": 120.97011,
-   "wd": "Q14146227"
+   "wd": "Q14146227",
+   "aliases": [
+    "Plaza de Armas"
+   ]
   },
   {
-   "name": "Arroceros Forest Park",
+   "name": "아로세로스 숲 공원",
    "cat": "관광",
    "area": "",
    "lat": 14.5942,
    "lng": 120.982,
-   "wd": "Q20312079"
+   "wd": "Q20312079",
+   "aliases": [
+    "Arroceros Forest Park"
+   ]
   },
   {
-   "name": "Star City, Manila",
+   "name": "스타 시티",
    "cat": "관광",
    "area": "",
    "lat": 14.556,
    "lng": 120.986,
-   "wd": "Q7600665"
+   "wd": "Q7600665",
+   "aliases": [
+    "Star City, Manila"
+   ]
   },
   {
    "name": "트라이노마",
@@ -586,236 +718,246 @@
    "wd": "Q11279444"
   },
   {
-   "name": "Baluarte de San Diego",
+   "name": "산디에고 보루",
    "cat": "관광",
    "area": "마닐라",
    "lat": 14.5854,
    "lng": 120.976,
-   "wd": "Q18708349"
+   "wd": "Q18708349",
+   "aliases": [
+    "Baluarte de San Diego"
+   ]
   },
   {
-   "name": "Quezon Bridge",
+   "name": "케손 다리",
    "cat": "관광",
    "area": "마닐라",
    "lat": 14.5955,
    "lng": 120.98208,
-   "wd": "Q25247436"
+   "wd": "Q25247436",
+   "aliases": [
+    "Quezon Bridge"
+   ]
   },
   {
-   "name": "Binondo–Intramuros Bridge",
+   "name": "비논도-인트라무로스 다리",
    "cat": "관광",
    "area": "마닐라",
    "lat": 14.59527,
    "lng": 120.97481,
-   "wd": "Q39055142"
+   "wd": "Q39055142",
+   "aliases": [
+    "Binondo–Intramuros Bridge"
+   ]
   },
   {
-   "name": "Puente de España",
+   "name": "에스파냐 다리",
    "cat": "관광",
    "area": "마닐라",
    "lat": 14.59611,
    "lng": 120.97789,
-   "wd": "Q7258510"
+   "wd": "Q7258510",
+   "aliases": [
+    "Puente de España"
+   ]
   },
   {
-   "name": "Tiendesitas",
+   "name": "티엔데시타스",
    "cat": "관광",
    "area": "마닐라",
    "lat": 14.58583,
    "lng": 121.07806,
-   "wd": "Q7801044"
+   "wd": "Q7801044",
+   "aliases": [
+    "Tiendesitas"
+   ]
   },
   {
-   "name": "Capitol Theatre",
+   "name": "캐피톨 극장",
    "cat": "관광",
    "area": "마닐라",
    "lat": 14.5972,
    "lng": 120.9777,
-   "wd": "Q17150767"
+   "wd": "Q17150767",
+   "aliases": [
+    "Capitol Theatre"
+   ]
   },
   {
-   "name": "Ali Mall",
+   "name": "알리 몰",
    "cat": "쇼핑",
    "area": "케손시티",
    "lat": 14.61946,
    "lng": 121.05683,
-   "wd": "Q4724989"
+   "wd": "Q4724989",
+   "aliases": [
+    "Ali Mall"
+   ]
   },
   {
-   "name": "Gateway Mall",
+   "name": "게이트웨이 몰",
    "cat": "쇼핑",
    "area": "케손시티",
    "lat": 14.62191,
    "lng": 121.05299,
-   "wd": "Q5527257"
+   "wd": "Q5527257",
+   "aliases": [
+    "Gateway Mall"
+   ]
   },
   {
-   "name": "Quezon Memorial Shrine",
+   "name": "케손 기념 성지",
    "cat": "관광",
    "area": "케손시티",
    "lat": 14.65081,
    "lng": 121.04819,
-   "wd": "Q28401967"
+   "wd": "Q28401967",
+   "aliases": [
+    "Quezon Memorial Shrine"
+   ]
   },
   {
-   "name": "Lopez Museum",
+   "name": "로페스 박물관",
    "cat": "관광",
    "area": "파시그",
    "lat": 14.58243,
    "lng": 121.06279,
-   "wd": "Q2110576"
+   "wd": "Q2110576",
+   "aliases": [
+    "Lopez Museum"
+   ]
   },
   {
-   "name": "UnionBank Plaza",
-   "cat": "관광",
-   "area": "파시그",
-   "lat": 14.5871,
-   "lng": 121.063,
-   "wd": "Q3549980"
-  },
-  {
-   "name": "SM Aura",
+   "name": "SM 아우라",
    "cat": "쇼핑",
    "area": "타기그",
    "lat": 14.5462,
    "lng": 121.054,
-   "wd": "Q7391442"
+   "wd": "Q7391442",
+   "aliases": [
+    "SM Aura"
+   ]
   },
   {
-   "name": "Felix Y. Manalo National Historical Landmark",
+   "name": "펠릭스 Y. 마날로 국가역사기념물",
    "cat": "관광",
    "area": "타기그",
    "lat": 14.5336,
    "lng": 121.07945,
-   "wd": "Q34128512"
+   "wd": "Q34128512",
+   "aliases": [
+    "Felix Y. Manalo National Historical Landmark"
+   ]
   },
   {
-   "name": "Venice Grand Canal Mall",
+   "name": "베니스 그랜드 캐널 몰",
    "cat": "쇼핑",
    "area": "타기그",
    "lat": 14.5339,
    "lng": 121.0513,
-   "wd": "Q52789653"
+   "wd": "Q52789653",
+   "aliases": [
+    "Venice Grand Canal Mall"
+   ]
   },
   {
-   "name": "Philippine Army Museum",
+   "name": "필리핀 육군 박물관",
    "cat": "관광",
    "area": "타기그",
    "lat": 14.5333,
    "lng": 121.0451,
-   "wd": "Q60767754"
+   "wd": "Q60767754",
+   "aliases": [
+    "Philippine Army Museum"
+   ]
   },
   {
-   "name": "Wack Wack Golf and Country Club",
-   "cat": "쇼핑",
-   "area": "만달루용",
-   "lat": 14.59167,
-   "lng": 121.05,
-   "wd": "Q7958796"
-  },
-  {
-   "name": "Shrine of St. Therese, Doctor of the Church",
+   "name": "성녀 데레사 성지",
    "cat": "관광",
    "area": "파사이",
    "lat": 14.5213,
    "lng": 121.016,
-   "wd": "Q7731563"
+   "wd": "Q7731563",
+   "aliases": [
+    "Shrine of St. Therese, Doctor of the Church"
+   ]
   },
   {
-   "name": "Museo El Deposito",
+   "name": "엘 데포시토 박물관",
    "cat": "관광",
    "area": "산후안",
    "lat": 14.60421,
    "lng": 121.03176,
-   "wd": "Q85787139"
+   "wd": "Q85787139",
+   "aliases": [
+    "Museo El Deposito"
+   ]
   },
   {
-   "name": "UST Museum of Arts and Sciences",
+   "name": "산토토마스대학 예술과학박물관",
    "cat": "관광",
    "area": "산토 토마스 대학교",
    "lat": 14.61019,
    "lng": 120.98928,
-   "wd": "Q7875794"
+   "wd": "Q7875794",
+   "aliases": [
+    "UST Museum of Arts and Sciences"
+   ]
   },
   {
-   "name": "The Mind Museum",
+   "name": "마인드 뮤지엄",
    "cat": "관광",
    "area": "Fort Bonifacio",
    "lat": 14.5523,
    "lng": 121.04567,
-   "wd": "Q7751515"
+   "wd": "Q7751515",
+   "aliases": [
+    "The Mind Museum"
+   ]
   },
   {
-   "name": "Plaza Lacson",
+   "name": "락손 광장",
    "cat": "관광",
    "area": "Santa Cruz",
    "lat": 14.59875,
    "lng": 120.98064,
-   "wd": "Q16898609"
+   "wd": "Q16898609",
+   "aliases": [
+    "Plaza Lacson"
+   ]
   },
   {
-   "name": "Don Roman Santos Building",
-   "cat": "관광",
-   "area": "Santa Cruz",
-   "lat": 14.59869,
-   "lng": 120.98016,
-   "wd": "Q17155908"
-  },
-  {
-   "name": "Plaza Moraga",
+   "name": "모라가 광장",
    "cat": "관광",
    "area": "Binondo",
    "lat": 14.5968,
    "lng": 120.977,
-   "wd": "Q18388981"
+   "wd": "Q18388981",
+   "aliases": [
+    "Plaza Moraga"
+   ]
   },
   {
-   "name": "Lucky Chinatown",
+   "name": "럭키 차이나타운",
    "cat": "쇼핑",
    "area": "Binondo",
    "lat": 14.60356,
    "lng": 120.97358,
-   "wd": "Q22080435"
+   "wd": "Q22080435",
+   "aliases": [
+    "Lucky Chinatown"
+   ]
   },
   {
-   "name": "Plaza Cervantes",
+   "name": "세르반테스 광장",
    "cat": "관광",
    "area": "Binondo",
    "lat": 14.59697,
    "lng": 120.97589,
-   "wd": "Q90406179"
-  },
-  {
-   "name": "The Stratford Residences",
-   "cat": "관광",
-   "area": "마카티",
-   "lat": 14.5665,
-   "lng": 121.02723,
-   "wd": "Q630070"
-  },
-  {
-   "name": "LKG Tower",
-   "cat": "관광",
-   "area": "마카티",
-   "lat": 14.5595,
-   "lng": 121.01778,
-   "wd": "Q1839160"
-  },
-  {
-   "name": "The World Centre",
-   "cat": "관광",
-   "area": "마카티",
-   "lat": 14.56167,
-   "lng": 121.02111,
-   "wd": "Q2145812"
-  },
-  {
-   "name": "Exportbank Plaza",
-   "cat": "관광",
-   "area": "마카티",
-   "lat": 14.55969,
-   "lng": 121.01138,
-   "wd": "Q2219115"
+   "wd": "Q90406179",
+   "aliases": [
+    "Plaza Cervantes"
+   ]
   }
  ]
 }

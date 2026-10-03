@@ -3,380 +3,510 @@
  "builtAt": "2026-10-03",
  "picks": [
   {
-   "name": "Wat Phra Sing",
+   "name": "왓 프라싱",
    "cat": "관광",
    "area": "Phra Sing",
    "lat": 18.78875,
    "lng": 98.98121,
-   "wd": "Q1657130"
+   "wd": "Q1657130",
+   "aliases": [
+    "Wat Phra Sing"
+   ]
   },
   {
-   "name": "Chiang Mai Zoo",
+   "name": "치앙마이 동물원",
    "cat": "관광",
    "area": "치앙마이주",
    "lat": 18.809,
    "lng": 98.947,
-   "wd": "Q3034913"
+   "wd": "Q3034913",
+   "aliases": [
+    "Chiang Mai Zoo"
+   ]
   },
   {
-   "name": "Doi Suthep-Pui National Park",
+   "name": "도이수텝-뿌이 국립공원",
    "cat": "관광",
    "area": "치앙마이주",
    "lat": 18.80944,
    "lng": 98.91597,
-   "wd": "Q843034"
+   "wd": "Q843034",
+   "aliases": [
+    "Doi Suthep-Pui National Park"
+   ]
   },
   {
-   "name": "Ban Ho Mosque",
+   "name": "반호 모스크",
    "cat": "관광",
    "area": "Chang Khlan",
    "lat": 18.78669,
    "lng": 99.00125,
-   "wd": "Q4022414"
+   "wd": "Q4022414",
+   "aliases": [
+    "Ban Ho Mosque"
+   ]
   },
   {
-   "name": "Attaqwa Mosque",
+   "name": "앗타끄와 모스크",
    "cat": "관광",
    "area": "치앙마이",
    "lat": 18.79203,
    "lng": 99.00704,
-   "wd": "Q4818120"
+   "wd": "Q4818120",
+   "aliases": [
+    "Attaqwa Mosque"
+   ]
   },
   {
-   "name": "Wiang Kum Kam",
+   "name": "위앙꿈깜 유적",
    "cat": "관광",
    "area": "Tha Wang Tan",
    "lat": 18.75409,
    "lng": 98.99556,
-   "wd": "Q1537210"
+   "wd": "Q1537210",
+   "aliases": [
+    "Wiang Kum Kam"
+   ]
   },
   {
-   "name": "Chiang Mai Night Safari",
+   "name": "치앙마이 나이트 사파리",
    "cat": "관광",
    "area": "치앙마이주",
    "lat": 18.74222,
    "lng": 98.91722,
-   "wd": "Q4036104"
+   "wd": "Q4036104",
+   "aliases": [
+    "Chiang Mai Night Safari"
+   ]
   },
   {
-   "name": "Sacred Heart Cathedral",
+   "name": "치앙마이 성심 대성당",
    "cat": "관광",
    "area": "치앙마이",
    "lat": 18.77514,
    "lng": 99.00311,
-   "wd": "Q19896645"
+   "wd": "Q19896645",
+   "aliases": [
+    "Sacred Heart Cathedral"
+   ]
   },
   {
-   "name": "Chiang Mai National Museum",
+   "name": "치앙마이 국립박물관",
    "cat": "관광",
    "area": "Chang Phueak",
    "lat": 18.81153,
    "lng": 98.97625,
-   "wd": "Q1642767"
+   "wd": "Q1642767",
+   "aliases": [
+    "Chiang Mai National Museum"
+   ]
   },
   {
-   "name": "Wat Chang Kham",
+   "name": "왓 창캄",
    "cat": "관광",
    "area": "치앙마이",
    "lat": 18.74807,
    "lng": 99.00195,
-   "wd": "Q17637232"
+   "wd": "Q17637232",
+   "aliases": [
+    "Wat Chang Kham"
+   ]
   },
   {
-   "name": "Three Kings Monument, Chiang Mai",
+   "name": "삼왕 동상",
    "cat": "관광",
    "area": "치앙마이",
    "lat": 18.79022,
    "lng": 98.98736,
-   "wd": "Q13017454"
+   "wd": "Q13017454",
+   "aliases": [
+    "Three Kings Monument, Chiang Mai"
+   ]
   },
   {
-   "name": "Wat I Kang",
+   "name": "왓 이깡",
    "cat": "관광",
    "area": "Tha Wang Tan",
    "lat": 18.7499,
    "lng": 98.99941,
-   "wd": "Q17637241"
+   "wd": "Q17637241",
+   "aliases": [
+    "Wat I Kang"
+   ]
   },
   {
-   "name": "Tribal Museum",
+   "name": "고산족 박물관",
    "cat": "관광",
    "area": "",
    "lat": 18.82141,
    "lng": 98.97475,
-   "wd": "Q7840310"
+   "wd": "Q7840310",
+   "aliases": [
+    "Tribal Museum"
+   ]
   },
   {
-   "name": "Warorot Market",
+   "name": "와로롯 시장",
    "cat": "쇼핑",
    "area": "",
    "lat": 18.79022,
    "lng": 99.00066,
-   "wd": "Q20558642"
+   "wd": "Q20558642",
+   "aliases": [
+    "Warorot Market"
+   ]
   },
   {
-   "name": "Chiang Mai Night Bazaar",
+   "name": "치앙마이 나이트 바자",
    "cat": "쇼핑",
    "area": "치앙마이",
    "lat": 18.7859,
    "lng": 99.0007,
-   "wd": "Q5095199"
+   "wd": "Q5095199",
+   "aliases": [
+    "Chiang Mai Night Bazaar"
+   ]
   },
   {
-   "name": "Wat Phan Lao",
+   "name": "왓 판라오",
    "cat": "관광",
    "area": "Tha Wang Tan",
    "lat": 18.75119,
    "lng": 99.00359,
-   "wd": "Q17637165"
+   "wd": "Q17637165",
+   "aliases": [
+    "Wat Phan Lao"
+   ]
   },
   {
-   "name": "Wat Pupia",
+   "name": "왓 뿌삐아",
    "cat": "관광",
    "area": "Tha Wang Tan",
    "lat": 18.74971,
    "lng": 98.99775,
-   "wd": "Q17637179"
+   "wd": "Q17637179",
+   "aliases": [
+    "Wat Pupia"
+   ]
   },
   {
-   "name": "CentralPlaza Chiang Mai Airport",
+   "name": "센트럴플라자 치앙마이 에어포트",
    "cat": "쇼핑",
    "area": "",
    "lat": 18.76924,
    "lng": 98.97572,
-   "wd": "Q5060208"
+   "wd": "Q5060208",
+   "aliases": [
+    "CentralPlaza Chiang Mai Airport"
+   ]
   },
   {
-   "name": "Phra Chao Kao Tue",
+   "name": "프라 짜오 까오 뜨",
    "cat": "관광",
    "area": "Suthep",
    "lat": 18.7882,
    "lng": 98.96754,
-   "wd": "Q13017948"
+   "wd": "Q13017948",
+   "aliases": [
+    "Phra Chao Kao Tue"
+   ]
   },
   {
-   "name": "Wat Nanchang",
+   "name": "왓 난창",
    "cat": "관광",
    "area": "Tha Wang Tan",
    "lat": 18.75119,
    "lng": 98.99888,
-   "wd": "Q17637151"
+   "wd": "Q17637151",
+   "aliases": [
+    "Wat Nanchang"
+   ]
   },
   {
-   "name": "Wat Phra Chao Ong Dam",
+   "name": "왓 프라짜오 옹담",
    "cat": "관광",
    "area": "Tha Wang Tan",
    "lat": 18.75199,
    "lng": 98.99764,
-   "wd": "Q17637158"
+   "wd": "Q17637158",
+   "aliases": [
+    "Wat Phra Chao Ong Dam"
+   ]
   },
   {
-   "name": "Wat Phaya Mangrai",
+   "name": "왓 파야망라이",
    "cat": "관광",
    "area": "Tha Wang Tan",
    "lat": 18.75238,
    "lng": 98.99736,
-   "wd": "Q17637171"
+   "wd": "Q17637171",
+   "aliases": [
+    "Wat Phaya Mangrai"
+   ]
   },
   {
-   "name": "Wat That Noi",
+   "name": "왓 탓노이",
    "cat": "관광",
    "area": "Tha Wang Tan",
    "lat": 18.74807,
    "lng": 99.00093,
-   "wd": "Q17637186"
+   "wd": "Q17637186",
+   "aliases": [
+    "Wat That Noi"
+   ]
   },
   {
-   "name": "Wat Phra That Khao",
+   "name": "왓 프라탓 카오",
    "cat": "관광",
    "area": "Tha Wang Tan",
    "lat": 18.75095,
    "lng": 98.99674,
-   "wd": "Q17637195"
+   "wd": "Q17637195",
+   "aliases": [
+    "Wat Phra That Khao"
+   ]
   },
   {
-   "name": "Her Majesty The Queen's 60th Birthday Anniversary Doi Suthep Botanical Garden",
+   "name": "도이수텝 식물원",
    "cat": "관광",
    "area": "Nong Khwai",
    "lat": 18.7405,
    "lng": 98.9118,
-   "wd": "Q108572037"
+   "wd": "Q108572037",
+   "aliases": [
+    "Her Majesty The Queen's 60th Birthday Anniversary Doi Suthep Botanical Garden"
+   ]
   },
   {
-   "name": "Temple of St. Vladimir",
+   "name": "성 블라디미르 성당",
    "cat": "관광",
    "area": "",
    "lat": 18.7735,
    "lng": 98.9973,
-   "wd": "Q64571414"
+   "wd": "Q64571414",
+   "aliases": [
+    "Temple of St. Vladimir"
+   ]
   },
   {
-   "name": "Chiang Mai Philatelic Museum",
+   "name": "치앙마이 우표박물관",
    "cat": "관광",
    "area": "",
    "lat": 18.78915,
    "lng": 99.00209,
-   "wd": "Q131443158"
+   "wd": "Q131443158",
+   "aliases": [
+    "Chiang Mai Philatelic Museum"
+   ]
   },
   {
-   "name": "Chiang Mai City Art & Cultural Center",
+   "name": "치앙마이 시립 예술문화센터",
    "cat": "관광",
    "area": "치앙마이",
    "lat": 18.79025,
    "lng": 98.98692,
-   "wd": "Q18808485"
+   "wd": "Q18808485",
+   "aliases": [
+    "Chiang Mai City Art & Cultural Center"
+   ]
   },
   {
-   "name": "Chinese temple, Loi Kroh Road, Chiang Mai",
+   "name": "로이크로 로드 중국 사원",
    "cat": "관광",
    "area": "치앙마이",
    "lat": 18.78356,
    "lng": 99.00143,
-   "wd": "Q20725135"
+   "wd": "Q20725135",
+   "aliases": [
+    "Chinese temple, Loi Kroh Road, Chiang Mai"
+   ]
   },
   {
-   "name": "Nam Tok Pha Lat",
+   "name": "파랏 폭포",
    "cat": "관광",
    "area": "치앙마이주",
    "lat": 18.80056,
    "lng": 98.94194,
-   "wd": "Q34676332"
+   "wd": "Q34676332",
+   "aliases": [
+    "Nam Tok Pha Lat"
+   ]
   },
   {
-   "name": "Mae Sa Waterfall",
+   "name": "매사 폭포",
    "cat": "관광",
    "area": "치앙마이주",
    "lat": 18.88582,
    "lng": 98.9887,
-   "wd": "Q34843468"
+   "wd": "Q34843468",
+   "aliases": [
+    "Mae Sa Waterfall"
+   ]
   },
   {
-   "name": "Nam Tok Huai Kaeo",
+   "name": "후아이깨우 폭포",
    "cat": "관광",
    "area": "치앙마이주",
    "lat": 18.81167,
    "lng": 98.94389,
-   "wd": "Q34846090"
+   "wd": "Q34846090",
+   "aliases": [
+    "Nam Tok Huai Kaeo"
+   ]
   },
   {
-   "name": "statue of Queen Victoria",
+   "name": "빅토리아 여왕 동상",
    "cat": "관광",
    "area": "치앙마이",
    "lat": 18.77334,
    "lng": 99.00485,
-   "wd": "Q124250184"
+   "wd": "Q124250184",
+   "aliases": [
+    "statue of Queen Victoria"
+   ]
   },
   {
-   "name": "Huay Kaew Waterfall",
-   "cat": "관광",
-   "area": "치앙마이주",
-   "lat": 18.81202,
-   "lng": 98.94456,
-   "wd": "Q141445952"
-  },
-  {
-   "name": "Wat Ku Din Khao",
+   "name": "왓 꾸딘카오",
    "cat": "관광",
    "area": "Suthep",
    "lat": 18.80732,
    "lng": 98.94558,
-   "wd": "Q13020633"
+   "wd": "Q13020633",
+   "aliases": [
+    "Wat Ku Din Khao"
+   ]
   },
   {
-   "name": "Buak Hard Public Park",
+   "name": "부악핫 공원",
    "cat": "관광",
    "area": "Phra Sing",
    "lat": 18.7821,
    "lng": 98.97931,
-   "wd": "Q16255674"
+   "wd": "Q16255674",
+   "aliases": [
+    "Buak Hard Public Park"
+   ]
   },
   {
-   "name": "Royal Park Rajapruek",
+   "name": "로열 파크 랏차프륵",
    "cat": "관광",
    "area": "Mae Hia",
    "lat": 18.74778,
    "lng": 98.92528,
-   "wd": "Q16434564"
+   "wd": "Q16434564",
+   "aliases": [
+    "Royal Park Rajapruek"
+   ]
   },
   {
-   "name": "Phra Sapphanyu Chao Det Mueang",
+   "name": "프라 삽파뉴 짜오 뎃 므앙",
    "cat": "관광",
    "area": "Si Phum",
    "lat": 18.79634,
    "lng": 98.98878,
-   "wd": "Q140934429"
+   "wd": "Q140934429",
+   "aliases": [
+    "Phra Sapphanyu Chao Det Mueang"
+   ]
   },
   {
-   "name": "Octagonal Ubosot, Wat Chiang Yeun",
+   "name": "왓 치앙유언 팔각 우보솟",
    "cat": "관광",
    "area": "Si Phum",
    "lat": 18.79604,
    "lng": 98.98968,
-   "wd": "Q140934452"
+   "wd": "Q140934452",
+   "aliases": [
+    "Octagonal Ubosot, Wat Chiang Yeun"
+   ]
   },
   {
-   "name": "Phra Chao Khaeng Khom",
+   "name": "프라 짜오 캥컴",
    "cat": "관광",
    "area": "Phra Sing",
    "lat": 18.78824,
    "lng": 98.98392,
-   "wd": "Q140937034"
+   "wd": "Q140937034",
+   "aliases": [
+    "Phra Chao Khaeng Khom"
+   ]
   },
   {
-   "name": "Promenada Resort Mall",
+   "name": "프로메나다 리조트 몰",
    "cat": "쇼핑",
    "area": "Tha Sala",
    "lat": 18.76611,
    "lng": 99.03722,
-   "wd": "Q13017260"
+   "wd": "Q13017260",
+   "aliases": [
+    "Promenada Resort Mall"
+   ]
   },
   {
-   "name": "Mengrai Anuson bridge",
+   "name": "멩라이 아누손 다리",
    "cat": "관광",
    "area": "Nong Hoi",
    "lat": 18.76618,
    "lng": 99.00333,
-   "wd": "Q13022460"
+   "wd": "Q13022460",
+   "aliases": [
+    "Mengrai Anuson bridge"
+   ]
   },
   {
-   "name": "Chan Som bridge",
+   "name": "짠솜 다리",
    "cat": "관광",
    "area": "",
    "lat": 18.79146,
    "lng": 99.00164,
-   "wd": "Q13022437"
+   "wd": "Q13022437",
+   "aliases": [
+    "Chan Som bridge"
+   ]
   },
   {
-   "name": "Nawarat Bridge",
+   "name": "나와랏 다리",
    "cat": "관광",
    "area": "",
    "lat": 18.78764,
    "lng": 99.00452,
-   "wd": "Q13022440"
+   "wd": "Q13022440",
+   "aliases": [
+    "Nawarat Bridge"
+   ]
   },
   {
-   "name": "Lanna Folklife Museum",
+   "name": "란나 민속박물관",
    "cat": "관광",
    "area": "",
    "lat": 18.79022,
    "lng": 98.98844,
-   "wd": "Q109237442"
+   "wd": "Q109237442",
+   "aliases": [
+    "Lanna Folklife Museum"
+   ]
   },
   {
-   "name": "Wat Pa Pao, Mueang Chiang Mai",
+   "name": "왓 빠빠오",
    "cat": "관광",
    "area": "",
    "lat": 18.79608,
    "lng": 98.98968,
-   "wd": "Q131606002"
+   "wd": "Q131606002",
+   "aliases": [
+    "Wat Pa Pao, Mueang Chiang Mai"
+   ]
   },
   {
-   "name": "Wat Yang Guang",
+   "name": "왓 양꽝",
    "cat": "관광",
    "area": "",
    "lat": 18.77633,
    "lng": 98.98891,
-   "wd": "Q139024589"
+   "wd": "Q139024589",
+   "aliases": [
+    "Wat Yang Guang"
+   ]
   }
  ]
 }

@@ -80,12 +80,15 @@
    "wd": "Q9004920"
   },
   {
-   "name": "Minato Bridge",
+   "name": "미나토 대교",
    "cat": "관광",
    "area": "스미노에구",
    "lat": 34.64407,
    "lng": 135.43763,
-   "wd": "Q3397064"
+   "wd": "Q3397064",
+   "aliases": [
+    "Minato Bridge"
+   ]
   },
   {
    "name": "오사카 시립 과학관",
@@ -110,76 +113,103 @@
    "wd": "Q5191476"
   },
   {
-   "name": "Konohana Bridge",
+   "name": "고노하나 대교",
    "cat": "관광",
    "area": "고노하나구",
    "lat": 34.66639,
    "lng": 135.41306,
-   "wd": "Q3362657"
+   "wd": "Q3362657",
+   "aliases": [
+    "Konohana Bridge"
+   ]
   },
   {
-   "name": "Ōsaka Tenmangū",
+   "name": "오사카 덴만구",
    "cat": "관광",
    "area": "Tenjinbashi",
    "lat": 34.69602,
    "lng": 135.51262,
-   "wd": "Q385793"
+   "wd": "Q385793",
+   "aliases": [
+    "Ōsaka Tenmangū"
+   ]
   },
   {
-   "name": "Amagasaki Castle",
+   "name": "아마가사키성",
    "cat": "관광",
    "area": "아마가사키시",
    "lat": 34.71438,
    "lng": 135.42056,
-   "wd": "Q11464946"
+   "wd": "Q11464946",
+   "aliases": [
+    "Amagasaki Castle"
+   ]
   },
   {
-   "name": "Hōkoku Shrine",
+   "name": "호코쿠 신사",
    "cat": "관광",
    "area": "Ōsaka-jō",
    "lat": 34.68417,
    "lng": 135.52694,
-   "wd": "Q704855"
+   "wd": "Q704855",
+   "aliases": [
+    "Hōkoku Shrine"
+   ]
   },
   {
-   "name": "Dainenbutsu-ji Temple",
+   "name": "다이넨부쓰지",
    "cat": "관광",
    "area": "Hirano-uemachi",
    "lat": 34.62725,
    "lng": 135.5505,
-   "wd": "Q1157628"
+   "wd": "Q1157628",
+   "aliases": [
+    "Dainenbutsu-ji Temple"
+   ]
   },
   {
-   "name": "Grand Cathedral of the Virgin Mary of Osaka",
+   "name": "오사카 성모 대성당",
    "cat": "관광",
    "area": "Tamatsukuri",
    "lat": 34.67867,
    "lng": 135.52692,
-   "wd": "Q11439944"
+   "wd": "Q11439944",
+   "aliases": [
+    "Grand Cathedral of the Virgin Mary of Osaka"
+   ]
   },
   {
-   "name": "Taiyū-ji Temple",
+   "name": "다이유지",
    "cat": "관광",
    "area": "",
    "lat": 34.70181,
    "lng": 135.50408,
-   "wd": "Q11444501"
+   "wd": "Q11444501",
+   "aliases": [
+    "Taiyū-ji Temple"
+   ]
   },
   {
-   "name": "Myōkoku-ji Temple",
+   "name": "묘코쿠지",
    "cat": "관광",
    "area": "사카이시",
    "lat": 34.5812,
    "lng": 135.48138,
-   "wd": "Q3331932"
+   "wd": "Q3331932",
+   "aliases": [
+    "Myōkoku-ji Temple"
+   ]
   },
   {
-   "name": "Shōren-ji Temple",
+   "name": "쇼렌지",
    "cat": "관광",
    "area": "덴노지구",
    "lat": 34.66417,
    "lng": 135.51139,
-   "wd": "Q42162826"
+   "wd": "Q42162826",
+   "aliases": [
+    "Shōren-ji Temple"
+   ]
   },
   {
    "name": "이카스리 신사",
@@ -193,12 +223,15 @@
    "wd": "Q11425667"
   },
   {
-   "name": "Ikukunitama Shrine",
+   "name": "이쿠쿠니타마 신사",
    "cat": "관광",
    "area": "셋쓰국",
    "lat": 34.66511,
    "lng": 135.51299,
-   "wd": "Q11574477"
+   "wd": "Q11574477",
+   "aliases": [
+    "Ikukunitama Shrine"
+   ]
   },
   {
    "name": "오사카 비즈니스 파크",
@@ -223,116 +256,158 @@
    "wd": "Q133959805"
   },
   {
-   "name": "Kokubunji Temple",
+   "name": "고쿠분지",
    "cat": "관광",
    "area": "",
    "lat": 34.71037,
    "lng": 135.51442,
-   "wd": "Q11420516"
+   "wd": "Q11420516",
+   "aliases": [
+    "Kokubunji Temple"
+   ]
   },
   {
-   "name": "Yuki Museum of Art",
+   "name": "유키 미술관",
    "cat": "관광",
    "area": "",
    "lat": 34.6875,
    "lng": 135.50225,
-   "wd": "Q11563573"
+   "wd": "Q11563573",
+   "aliases": [
+    "Yuki Museum of Art"
+   ]
   },
   {
-   "name": "Namba-yasaka Shrine",
+   "name": "난바야사카 신사",
    "cat": "관광",
    "area": "오사카시",
    "lat": 34.66122,
    "lng": 135.49669,
-   "wd": "Q11659527"
+   "wd": "Q11659527",
+   "aliases": [
+    "Namba-yasaka Shrine"
+   ]
   },
   {
-   "name": "Taihei-ji Temple",
+   "name": "다이헤이지",
    "cat": "관광",
    "area": "덴노지구",
    "lat": 34.65925,
    "lng": 135.51369,
-   "wd": "Q11443941"
+   "wd": "Q11443941",
+   "aliases": [
+    "Taihei-ji Temple"
+   ]
   },
   {
-   "name": "Jōkō-ji Temple",
+   "name": "조코지",
    "cat": "관광",
    "area": "야오시",
    "lat": 34.6303,
    "lng": 135.5981,
-   "wd": "Q25248064"
+   "wd": "Q25248064",
+   "aliases": [
+    "Jōkō-ji Temple"
+   ]
   },
   {
-   "name": "Hōraku-ji Temple",
+   "name": "호라쿠지",
    "cat": "관광",
    "area": "히가시스미요시구",
    "lat": 34.62643,
    "lng": 135.52296,
-   "wd": "Q11555228"
+   "wd": "Q11555228",
+   "aliases": [
+    "Hōraku-ji Temple"
+   ]
   },
   {
-   "name": "Senkō-ji Temple",
+   "name": "센코지",
    "cat": "관광",
    "area": "히라노구",
    "lat": 34.6234,
    "lng": 135.5553,
-   "wd": "Q22119156"
+   "wd": "Q22119156",
+   "aliases": [
+    "Senkō-ji Temple"
+   ]
   },
   {
-   "name": "Namba Shrine",
+   "name": "난바 신사",
    "cat": "관광",
    "area": "셋쓰국",
    "lat": 34.67897,
    "lng": 135.49956,
-   "wd": "Q11659562"
+   "wd": "Q11659562",
+   "aliases": [
+    "Namba Shrine"
+   ]
   },
   {
-   "name": "Hōon'-in Temple",
+   "name": "호온인",
    "cat": "관광",
    "area": "주오구",
    "lat": 34.66714,
    "lng": 135.51361,
-   "wd": "Q11428052"
+   "wd": "Q11428052",
+   "aliases": [
+    "Hōon'-in Temple"
+   ]
   },
   {
-   "name": "Yumemai Bridge",
+   "name": "유메마이 대교",
    "cat": "관광",
    "area": "고노하나구",
    "lat": 34.65883,
    "lng": 135.39958,
-   "wd": "Q11431665"
+   "wd": "Q11431665",
+   "aliases": [
+    "Yumemai Bridge"
+   ]
   },
   {
-   "name": "Umeda Arts Theater",
+   "name": "우메다 예술극장",
    "cat": "관광",
    "area": "기타구",
    "lat": 34.7086,
    "lng": 135.499,
-   "wd": "Q7881463"
+   "wd": "Q7881463",
+   "aliases": [
+    "Umeda Arts Theater"
+   ]
   },
   {
-   "name": "Fujita Art Museum",
+   "name": "후지타 미술관",
    "cat": "관광",
    "area": "Amijimachō",
    "lat": 34.69498,
    "lng": 135.52512,
-   "wd": "Q3329563"
+   "wd": "Q3329563",
+   "aliases": [
+    "Fujita Art Museum"
+   ]
   },
   {
-   "name": "Osaka International Peace Center",
+   "name": "오사카 국제평화센터",
    "cat": "관광",
    "area": "Ōsaka-jō",
    "lat": 34.68167,
    "lng": 135.53,
-   "wd": "Q7105564"
+   "wd": "Q7105564",
+   "aliases": [
+    "Osaka International Peace Center"
+   ]
   },
   {
-   "name": "Shōen-ji Temple",
+   "name": "쇼엔지",
    "cat": "관광",
    "area": "Matsumushidori",
    "lat": 34.63542,
    "lng": 135.50328,
-   "wd": "Q11545402"
+   "wd": "Q11545402",
+   "aliases": [
+    "Shōen-ji Temple"
+   ]
   },
   {
    "name": "핫토리료쿠치",
@@ -357,12 +432,15 @@
    "wd": "Q7403230"
   },
   {
-   "name": "Liberty Osaka",
+   "name": "리버티 오사카",
    "cat": "관광",
    "area": "나니와구",
    "lat": 34.65444,
    "lng": 135.48667,
-   "wd": "Q6541903"
+   "wd": "Q6541903",
+   "aliases": [
+    "Liberty Osaka"
+   ]
   },
   {
    "name": "오사카 나카노시마 미술관",
@@ -409,28 +487,37 @@
    "wd": "Q11152771"
   },
   {
-   "name": "Nagai Botanical Garden",
+   "name": "나가이 식물원",
    "cat": "관광",
    "area": "Nagai Kōen",
    "lat": 34.61056,
    "lng": 135.52167,
-   "wd": "Q6149771"
+   "wd": "Q6149771",
+   "aliases": [
+    "Nagai Botanical Garden"
+   ]
   },
   {
-   "name": "Osaka Museum of Natural History",
+   "name": "오사카 시립자연사박물관",
    "cat": "관광",
    "area": "Nagai Kōen",
    "lat": 34.61036,
    "lng": 135.52261,
-   "wd": "Q11440688"
+   "wd": "Q11440688",
+   "aliases": [
+    "Osaka Museum of Natural History"
+   ]
   },
   {
-   "name": "Isshin-ji Temple",
+   "name": "잇신지",
    "cat": "관광",
    "area": "Ōsaka",
    "lat": 34.65306,
    "lng": 135.51083,
-   "wd": "Q3155710"
+   "wd": "Q3155710",
+   "aliases": [
+    "Isshin-ji Temple"
+   ]
   },
   {
    "name": "스미요시 공원",
@@ -444,36 +531,37 @@
    "wd": "Q7637168"
   },
   {
-   "name": "null²",
-   "cat": "관광",
-   "area": "Yumeshima-naka",
-   "lat": 34.6477,
-   "lng": 135.3832,
-   "wd": "Q134286794"
-  },
-  {
-   "name": "Imamiya Ebisu Shrine",
+   "name": "이마미야 에비스 신사",
    "cat": "관광",
    "area": "",
    "lat": 34.65533,
    "lng": 135.50247,
-   "wd": "Q11376859"
+   "wd": "Q11376859",
+   "aliases": [
+    "Imamiya Ebisu Shrine"
+   ]
   },
   {
-   "name": "Kawaguchi Christ Church Cathedral",
+   "name": "가와구치 그리스도 교회",
    "cat": "관광",
    "area": "오사카시",
    "lat": 34.68217,
    "lng": 135.48214,
-   "wd": "Q10272491"
+   "wd": "Q10272491",
+   "aliases": [
+    "Kawaguchi Christ Church Cathedral"
+   ]
   },
   {
-   "name": "Abeno Shrine",
+   "name": "아베노 신사",
    "cat": "관광",
    "area": "오사카시",
    "lat": 34.6283,
    "lng": 135.5,
-   "wd": "Q11657965"
+   "wd": "Q11657965",
+   "aliases": [
+    "Abeno Shrine"
+   ]
   },
   {
    "name": "오릭스 극장",
@@ -498,44 +586,59 @@
    "wd": "Q5359319"
   },
   {
-   "name": "Kyōbashi",
+   "name": "교바시",
    "cat": "관광",
    "area": "미야코지마구",
    "lat": 34.69078,
    "lng": 135.52244,
-   "wd": "Q1112927"
+   "wd": "Q1112927",
+   "aliases": [
+    "Kyōbashi"
+   ]
   },
   {
-   "name": "Sankō Shrine",
+   "name": "산코 신사",
    "cat": "관광",
    "area": "덴노지구",
    "lat": 34.67306,
    "lng": 135.52944,
-   "wd": "Q3472342"
+   "wd": "Q3472342",
+   "aliases": [
+    "Sankō Shrine"
+   ]
   },
   {
-   "name": "Taiseishōgun-ji Temple",
+   "name": "다이쇼군지",
    "cat": "관광",
    "area": "야오시",
    "lat": 34.6134,
    "lng": 135.588,
-   "wd": "Q11438521"
+   "wd": "Q11438521",
+   "aliases": [
+    "Taiseishōgun-ji Temple"
+   ]
   },
   {
-   "name": "Chitose bridge",
+   "name": "지토세 다리",
    "cat": "관광",
    "area": "다이쇼구",
    "lat": 34.6463,
    "lng": 135.459,
-   "wd": "Q11405665"
+   "wd": "Q11405665",
+   "aliases": [
+    "Chitose bridge"
+   ]
   },
   {
-   "name": "Kishibe Shrine",
+   "name": "기시베 신사",
    "cat": "관광",
    "area": "스이타시",
    "lat": 34.78381,
    "lng": 135.53106,
-   "wd": "Q11413133"
+   "wd": "Q11413133",
+   "aliases": [
+    "Kishibe Shrine"
+   ]
   },
   {
    "name": "나카노시마 공원",
@@ -549,12 +652,15 @@
    "wd": "Q6960289"
   },
   {
-   "name": "Kakuman-ji Temple",
+   "name": "가쿠만지",
    "cat": "관광",
    "area": "기타구",
    "lat": 34.71072,
    "lng": 135.51633,
-   "wd": "Q11676050"
+   "wd": "Q11676050",
+   "aliases": [
+    "Kakuman-ji Temple"
+   ]
   },
   {
    "name": "오에교",
@@ -568,12 +674,15 @@
    "wd": "Q11261549"
   },
   {
-   "name": "Samuhara Shrine",
+   "name": "사무하라 신사",
    "cat": "관광",
    "area": "이타지보리",
    "lat": 34.67894,
    "lng": 135.49097,
-   "wd": "Q11305182"
+   "wd": "Q11305182",
+   "aliases": [
+    "Samuhara Shrine"
+   ]
   },
   {
    "name": "스미요시 행궁",
@@ -587,20 +696,26 @@
    "wd": "Q11381878"
   },
   {
-   "name": "Sukunahikona Shrine",
+   "name": "스쿠나히코나 신사",
    "cat": "관광",
    "area": "Doshōmachi",
    "lat": 34.68861,
    "lng": 135.50597,
-   "wd": "Q11464751"
+   "wd": "Q11464751",
+   "aliases": [
+    "Sukunahikona Shrine"
+   ]
   },
   {
-   "name": "Tsuyu‑no‑Tenjinsha",
+   "name": "쓰유노텐 신사",
    "cat": "관광",
    "area": "Sonezaki",
    "lat": 34.69931,
    "lng": 135.50083,
-   "wd": "Q11660942"
+   "wd": "Q11660942",
+   "aliases": [
+    "Tsuyu‑no‑Tenjinsha"
+   ]
   },
   {
    "name": "나가이 공원",
@@ -614,20 +729,26 @@
    "wd": "Q5359309"
   },
   {
-   "name": "Tamatsukuri Inari Shrine",
+   "name": "다마쓰쿠리 이나리 신사",
    "cat": "관광",
    "area": "Tamatsukuri",
    "lat": 34.6781,
    "lng": 135.53,
-   "wd": "Q3514709"
+   "wd": "Q3514709",
+   "aliases": [
+    "Tamatsukuri Inari Shrine"
+   ]
   },
   {
-   "name": "Senpukan",
+   "name": "센푸칸",
    "cat": "관광",
    "area": "Tenmabashi",
    "lat": 34.69806,
    "lng": 135.52139,
-   "wd": "Q7450922"
+   "wd": "Q7450922",
+   "aliases": [
+    "Senpukan"
+   ]
   },
   {
    "name": "산토리 뮤지엄",
@@ -641,28 +762,37 @@
    "wd": "Q11249107"
   },
   {
-   "name": "Kyoikuto",
+   "name": "교육탑",
    "cat": "관광",
    "area": "Ōsaka-jō",
    "lat": 34.68292,
    "lng": 135.52319,
-   "wd": "Q11499410"
+   "wd": "Q11499410",
+   "aliases": [
+    "Kyoikuto"
+   ]
   },
   {
-   "name": "Amagasaki Cultural Center",
+   "name": "아마가사키 문화센터",
    "cat": "관광",
    "area": "아마가사키시",
    "lat": 34.72111,
    "lng": 135.42028,
-   "wd": "Q11464999"
+   "wd": "Q11464999",
+   "aliases": [
+    "Amagasaki Cultural Center"
+   ]
   },
   {
-   "name": "Tano Site",
+   "name": "다노 유적",
    "cat": "관광",
    "area": "아마가사키시",
    "lat": 34.76986,
    "lng": 135.4405,
-   "wd": "Q11577246"
+   "wd": "Q11577246",
+   "aliases": [
+    "Tano Site"
+   ]
   },
   {
    "name": "히고교",
@@ -676,12 +806,15 @@
    "wd": "Q11288739"
   },
   {
-   "name": "Shiba Ryotaro Memorial Museum",
+   "name": "시바 료타로 기념관",
    "cat": "관광",
    "area": "히가시오사카시",
    "lat": 34.6605,
    "lng": 135.58567,
-   "wd": "Q11412294"
+   "wd": "Q11412294",
+   "aliases": [
+    "Shiba Ryotaro Memorial Museum"
+   ]
   }
  ]
 }

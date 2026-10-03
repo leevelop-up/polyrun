@@ -91,12 +91,15 @@
    "wd": "Q1370924"
   },
   {
-   "name": "Shrine Auditorium and Expo Hall",
+   "name": "슈라인 오디토리엄",
    "cat": "관광",
    "area": "로스앤젤레스",
    "lat": 34.02333,
    "lng": -118.28167,
-   "wd": "Q731437"
+   "wd": "Q731437",
+   "aliases": [
+    "Shrine Auditorium and Expo Hall"
+   ]
   },
   {
    "name": "천사들의 모후 대성당",
@@ -110,12 +113,15 @@
    "wd": "Q1631067"
   },
   {
-   "name": "Dorothy Chandler Pavilion",
+   "name": "도로시 챈들러 파빌리온",
    "cat": "관광",
    "area": "캘리포니아주",
    "lat": 34.05639,
    "lng": -118.24861,
-   "wd": "Q1250287"
+   "wd": "Q1250287",
+   "aliases": [
+    "Dorothy Chandler Pavilion"
+   ]
   },
   {
    "name": "엘카피탠 극장",
@@ -140,68 +146,92 @@
    "wd": "Q677561"
   },
   {
-   "name": "Natural History Museum of Los Angeles County",
+   "name": "LA 카운티 자연사박물관",
    "cat": "관광",
    "area": "Exposition Park",
    "lat": 34.01699,
    "lng": -118.28878,
-   "wd": "Q2502709"
+   "wd": "Q2502709",
+   "aliases": [
+    "Natural History Museum of Los Angeles County"
+   ]
   },
   {
-   "name": "Watts Towers",
+   "name": "와츠 타워",
    "cat": "관광",
    "area": "로스앤젤레스",
    "lat": 33.93874,
    "lng": -118.24105,
-   "wd": "Q445256"
+   "wd": "Q445256",
+   "aliases": [
+    "Watts Towers"
+   ]
   },
   {
-   "name": "Grauman's Egyptian Theatre",
+   "name": "이집션 극장",
    "cat": "관광",
    "area": "로스앤젤레스",
    "lat": 34.10099,
    "lng": -118.33658,
-   "wd": "Q750733"
+   "wd": "Q750733",
+   "aliases": [
+    "Grauman's Egyptian Theatre"
+   ]
   },
   {
-   "name": "Hollywood Pantages Theatre",
+   "name": "할리우드 판타지스 극장",
    "cat": "관광",
    "area": "로스앤젤레스",
    "lat": 34.1019,
    "lng": -118.326,
-   "wd": "Q1584748"
+   "wd": "Q1584748",
+   "aliases": [
+    "Hollywood Pantages Theatre"
+   ]
   },
   {
-   "name": "Hollyhock House",
+   "name": "홀리호크 하우스",
    "cat": "관광",
    "area": "로스앤젤레스",
    "lat": 34.09996,
    "lng": -118.29431,
-   "wd": "Q2144588"
+   "wd": "Q2144588",
+   "aliases": [
+    "Hollyhock House"
+   ]
   },
   {
-   "name": "Academy Museum of Motion Pictures",
+   "name": "아카데미 영화박물관",
    "cat": "관광",
    "area": "로스앤젤레스",
    "lat": 34.06333,
    "lng": -118.36083,
-   "wd": "Q6941059"
+   "wd": "Q6941059",
+   "aliases": [
+    "Academy Museum of Motion Pictures"
+   ]
   },
   {
-   "name": "Museum of Tolerance",
+   "name": "관용 박물관",
    "cat": "관광",
    "area": "캘리포니아주",
    "lat": 34.05364,
    "lng": -118.40168,
-   "wd": "Q318594"
+   "wd": "Q318594",
+   "aliases": [
+    "Museum of Tolerance"
+   ]
   },
   {
-   "name": "Ovation Hollywood",
+   "name": "오베이션 할리우드",
    "cat": "쇼핑",
    "area": "캘리포니아주",
    "lat": 34.1024,
    "lng": -118.339,
-   "wd": "Q8253778"
+   "wd": "Q8253778",
+   "aliases": [
+    "Ovation Hollywood"
+   ]
   },
   {
    "name": "새뮤얼 골드윈 극장",
@@ -215,100 +245,103 @@
    "wd": "Q240970"
   },
   {
-   "name": "Angelus Temple",
+   "name": "앤젤러스 템플",
    "cat": "관광",
    "area": "로스앤젤레스",
    "lat": 34.07633,
    "lng": -118.26083,
-   "wd": "Q2463876"
+   "wd": "Q2463876",
+   "aliases": [
+    "Angelus Temple"
+   ]
   },
   {
-   "name": "Orpheum Theatre",
+   "name": "오르페움 극장",
    "cat": "관광",
    "area": "로스앤젤레스",
    "lat": 34.04268,
    "lng": -118.25534,
-   "wd": "Q2491086"
+   "wd": "Q2491086",
+   "aliases": [
+    "Orpheum Theatre"
+   ]
   },
   {
-   "name": "MacArthur Park",
+   "name": "맥아더 공원",
    "cat": "관광",
    "area": "로스앤젤레스",
    "lat": 34.05861,
    "lng": -118.2775,
-   "wd": "Q3080246"
+   "wd": "Q3080246",
+   "aliases": [
+    "MacArthur Park"
+   ]
   },
   {
-   "name": "Lucas Museum of Narrative Art",
+   "name": "루카스 내러티브 아트 박물관",
    "cat": "관광",
    "area": "로스앤젤레스",
    "lat": 34.01528,
    "lng": -118.29083,
-   "wd": "Q20711578"
+   "wd": "Q20711578",
+   "aliases": [
+    "Lucas Museum of Narrative Art"
+   ]
   },
   {
-   "name": "Los Angeles California Temple",
-   "cat": "관광",
-   "area": "캘리포니아주",
-   "lat": 34.0528,
-   "lng": -118.434,
-   "wd": "Q1870450"
-  },
-  {
-   "name": "Theme Building",
+   "name": "LAX 테마 빌딩",
    "cat": "관광",
    "area": "로스앤젤레스",
    "lat": 33.9441,
    "lng": -118.402,
-   "wd": "Q3523620"
+   "wd": "Q3523620",
+   "aliases": [
+    "Theme Building"
+   ]
   },
   {
-   "name": "12305 Fifth Helena Drive",
-   "cat": "관광",
-   "area": "로스앤젤레스",
-   "lat": 34.0535,
-   "lng": -118.4782,
-   "wd": "Q30624525"
-  },
-  {
-   "name": "Fashion Show Mall",
+   "name": "패션 쇼 몰",
    "cat": "쇼핑",
    "area": "네바다주",
    "lat": 36.1272,
    "lng": -115.172,
-   "wd": "Q2038334"
+   "wd": "Q2038334",
+   "aliases": [
+    "Fashion Show Mall"
+   ]
   },
   {
-   "name": "Saint Sophia Cathedral",
+   "name": "성 소피아 대성당",
    "cat": "관광",
    "area": "로스앤젤레스",
    "lat": 34.04583,
    "lng": -118.3,
-   "wd": "Q649758"
+   "wd": "Q649758",
+   "aliases": [
+    "Saint Sophia Cathedral"
+   ]
   },
   {
-   "name": "California Science Center",
+   "name": "캘리포니아 과학센터",
    "cat": "관광",
    "area": "로스앤젤레스",
    "lat": 34.01611,
    "lng": -118.28611,
-   "wd": "Q1067376"
+   "wd": "Q1067376",
+   "aliases": [
+    "California Science Center"
+   ]
   },
   {
-   "name": "Mark Taper Forum",
+   "name": "마크 테이퍼 포럼",
    "cat": "관광",
    "area": "로스앤젤레스",
    "lat": 34.05779,
    "lng": -118.24777,
-   "wd": "Q1900454"
-  },
-  {
-   "name": "Ernst & Young Plaza",
-   "cat": "관광",
-   "area": "로스앤젤레스",
-   "lat": 34.04917,
-   "lng": -118.26111,
-   "wd": "Q3499214"
+   "wd": "Q1900454",
+   "aliases": [
+    "Mark Taper Forum"
+   ]
   },
   {
    "name": "매직 캐슬",
@@ -333,20 +366,26 @@
    "wd": "Q1046270"
   },
   {
-   "name": "Hollywood Museum",
+   "name": "할리우드 박물관",
    "cat": "관광",
    "area": "",
    "lat": 34.10111,
    "lng": -118.33833,
-   "wd": "Q20714427"
+   "wd": "Q20714427",
+   "aliases": [
+    "Hollywood Museum"
+   ]
   },
   {
-   "name": "Adventuredome",
+   "name": "어드벤처돔",
    "cat": "관광",
    "area": "네바다주",
    "lat": 36.1378,
    "lng": -115.166,
-   "wd": "Q379978"
+   "wd": "Q379978",
+   "aliases": [
+    "Adventuredome"
+   ]
   },
   {
    "name": "보난자 기프트 숍",
@@ -360,84 +399,114 @@
    "wd": "Q1187529"
   },
   {
-   "name": "National Atomic Testing Museum",
+   "name": "국립 원자력 실험 박물관",
    "cat": "관광",
    "area": "네바다주",
    "lat": 36.1142,
    "lng": -115.149,
-   "wd": "Q4115185"
+   "wd": "Q4115185",
+   "aliases": [
+    "National Atomic Testing Museum"
+   ]
   },
   {
-   "name": "The Colosseum at Caesars Palace",
+   "name": "시저스 팰리스 콜로세움",
    "cat": "관광",
    "area": "라스베이거스",
    "lat": 36.1178,
    "lng": -115.175,
-   "wd": "Q868370"
+   "wd": "Q868370",
+   "aliases": [
+    "The Colosseum at Caesars Palace"
+   ]
   },
   {
-   "name": "The Crystals",
+   "name": "크리스털스 쇼핑몰",
    "cat": "쇼핑",
    "area": "라스베이거스",
    "lat": 36.1081,
    "lng": -115.174,
-   "wd": "Q1281026"
+   "wd": "Q1281026",
+   "aliases": [
+    "The Crystals"
+   ]
   },
   {
-   "name": "Miracle Mile Shops",
+   "name": "미라클 마일 숍스",
    "cat": "쇼핑",
    "area": "클라크군",
    "lat": 36.11,
    "lng": -115.17083,
-   "wd": "Q2134698"
+   "wd": "Q2134698",
+   "aliases": [
+    "Miracle Mile Shops"
+   ]
   },
   {
-   "name": "Eastern Columbia Building",
+   "name": "이스턴 컬럼비아 빌딩",
    "cat": "관광",
    "area": "로스앤젤레스",
    "lat": 34.04275,
    "lng": -118.25623,
-   "wd": "Q71842"
+   "wd": "Q71842",
+   "aliases": [
+    "Eastern Columbia Building"
+   ]
   },
   {
-   "name": "Holocaust Museum LA",
+   "name": "LA 홀로코스트 박물관",
    "cat": "관광",
    "area": "로스앤젤레스",
    "lat": 34.0639,
    "lng": -118.369,
-   "wd": "Q254118"
+   "wd": "Q254118",
+   "aliases": [
+    "Holocaust Museum LA"
+   ]
   },
   {
-   "name": "Japanese American National Museum",
+   "name": "일본계 미국인 국립박물관",
    "cat": "관광",
    "area": "로스앤젤레스",
    "lat": 34.0496,
    "lng": -118.239,
-   "wd": "Q1590419"
+   "wd": "Q1590419",
+   "aliases": [
+    "Japanese American National Museum"
+   ]
   },
   {
-   "name": "Cathedral of Saint Vibiana",
+   "name": "세인트 비비아나 대성당",
    "cat": "관광",
    "area": "로스앤젤레스",
    "lat": 34.0505,
    "lng": -118.244,
-   "wd": "Q5052376"
+   "wd": "Q5052376",
+   "aliases": [
+    "Cathedral of Saint Vibiana"
+   ]
   },
   {
-   "name": "Pershing Square",
+   "name": "퍼싱 광장",
    "cat": "관광",
    "area": "로스앤젤레스",
    "lat": 34.04833,
    "lng": -118.25278,
-   "wd": "Q7170179"
+   "wd": "Q7170179",
+   "aliases": [
+    "Pershing Square"
+   ]
   },
   {
-   "name": "First Congregational Church of Los Angeles",
+   "name": "LA 제일 회중교회",
    "cat": "관광",
    "area": "로스앤젤레스",
    "lat": 34.06439,
    "lng": -118.28483,
-   "wd": "Q22078014"
+   "wd": "Q22078014",
+   "aliases": [
+    "First Congregational Church of Los Angeles"
+   ]
   },
   {
    "name": "그랜드 올림픽 오디토리엄",
@@ -452,14 +521,6 @@
    "wd": "Q867163"
   },
   {
-   "name": "West Angeles Church of God in Christ",
-   "cat": "관광",
-   "area": "캘리포니아주",
-   "lat": 34.0232,
-   "lng": -118.334,
-   "wd": "Q14684252"
-  },
-  {
    "name": "퍼시픽 파크",
    "cat": "관광",
    "area": "샌타모니카",
@@ -471,148 +532,169 @@
    "wd": "Q2620204"
   },
   {
-   "name": "Riviera Country Club",
-   "cat": "쇼핑",
-   "area": "퍼시픽팰리세이즈",
-   "lat": 34.05,
-   "lng": -118.502,
-   "wd": "Q7338863"
-  },
-  {
-   "name": "Armenian Genocide Martyrs Monument",
+   "name": "아르메니아 집단학살 추모비",
    "cat": "관광",
    "area": "몬테벨로",
    "lat": 34.0284,
    "lng": -118.131,
-   "wd": "Q10886453"
+   "wd": "Q10886453",
+   "aliases": [
+    "Armenian Genocide Martyrs Monument"
+   ]
   },
   {
-   "name": "The Forum Shops at Caesars",
+   "name": "포럼 숍스 앳 시저스",
    "cat": "쇼핑",
    "area": "네바다주",
    "lat": 36.1189,
    "lng": -115.176,
-   "wd": "Q2382966"
+   "wd": "Q2382966",
+   "aliases": [
+    "The Forum Shops at Caesars"
+   ]
   },
   {
-   "name": "Carthay Circle Theatre",
-   "cat": "관광",
-   "area": "로스앤젤레스",
-   "lat": 34.0608,
-   "lng": -118.368,
-   "wd": "Q2940590"
-  },
-  {
-   "name": "Cinerama Dome",
+   "name": "시네라마 돔",
    "cat": "관광",
    "area": "로스앤젤레스",
    "lat": 34.0976,
    "lng": -118.328,
-   "wd": "Q2972810"
+   "wd": "Q2972810",
+   "aliases": [
+    "Cinerama Dome"
+   ]
   },
   {
-   "name": "Autry Museum of the American West",
+   "name": "오트리 미국 서부 박물관",
    "cat": "관광",
    "area": "로스앤젤레스",
    "lat": 34.1486,
    "lng": -118.282,
-   "wd": "Q4827110"
+   "wd": "Q4827110",
+   "aliases": [
+    "Autry Museum of the American West"
+   ]
   },
   {
-   "name": "Exposition Park",
+   "name": "엑스포지션 파크",
    "cat": "관광",
    "area": "로스앤젤레스",
    "lat": 34.0147,
    "lng": -118.287,
-   "wd": "Q5407079"
+   "wd": "Q5407079",
+   "aliases": [
+    "Exposition Park"
+   ]
   },
   {
-   "name": "First Presbyterian Church of Hollywood",
+   "name": "할리우드 제일 장로교회",
    "cat": "관광",
    "area": "로스앤젤레스",
    "lat": 34.10321,
    "lng": -118.32219,
-   "wd": "Q5453690"
+   "wd": "Q5453690",
+   "aliases": [
+    "First Presbyterian Church of Hollywood"
+   ]
   },
   {
-   "name": "New Beverly Cinema",
+   "name": "뉴 베벌리 시네마",
    "cat": "관광",
    "area": "로스앤젤레스",
    "lat": 34.0762,
    "lng": -118.346,
-   "wd": "Q7005534"
+   "wd": "Q7005534",
+   "aliases": [
+    "New Beverly Cinema"
+   ]
   },
   {
-   "name": "California African American Museum",
+   "name": "캘리포니아 아프리카계 미국인 박물관",
    "cat": "관광",
    "area": "캘리포니아주",
    "lat": 34.0158,
    "lng": -118.283,
-   "wd": "Q5020212"
+   "wd": "Q5020212",
+   "aliases": [
+    "California African American Museum"
+   ]
   },
   {
-   "name": "Descanso Gardens",
+   "name": "데스칸소 가든",
    "cat": "관광",
    "area": "캘리포니아주",
    "lat": 34.20028,
    "lng": -118.2125,
-   "wd": "Q5263676"
+   "wd": "Q5263676",
+   "aliases": [
+    "Descanso Gardens"
+   ]
   },
   {
-   "name": "Oldest McDonald's restaurant",
+   "name": "가장 오래된 맥도날드",
    "cat": "관광",
    "area": "캘리포니아주",
    "lat": 33.9471,
    "lng": -118.118,
-   "wd": "Q7085574"
+   "wd": "Q7085574",
+   "aliases": [
+    "Oldest McDonald's restaurant"
+   ]
   },
   {
-   "name": "Psychiatry: An Industry of Death Museum",
-   "cat": "관광",
-   "area": "캘리포니아주",
-   "lat": 34.0976,
-   "lng": -118.334,
-   "wd": "Q7256248"
-  },
-  {
-   "name": "Runyon Canyon Park",
+   "name": "러니언 캐니언 공원",
    "cat": "관광",
    "area": "캘리포니아주",
    "lat": 34.11,
    "lng": -118.35,
-   "wd": "Q7380156"
+   "wd": "Q7380156",
+   "aliases": [
+    "Runyon Canyon Park"
+   ]
   },
   {
-   "name": "Warner Bros. Water Tower",
+   "name": "워너 브라더스 급수탑",
    "cat": "관광",
    "area": "버뱅크",
    "lat": 34.15047,
    "lng": -118.33845,
-   "wd": "Q54958890"
+   "wd": "Q54958890",
+   "aliases": [
+    "Warner Bros. Water Tower"
+   ]
   },
   {
-   "name": "Santa Monica Civic Auditorium",
+   "name": "산타모니카 시빅 오디토리엄",
    "cat": "관광",
    "area": "샌타모니카",
    "lat": 34.0089,
    "lng": -118.489,
-   "wd": "Q954549"
+   "wd": "Q954549",
+   "aliases": [
+    "Santa Monica Civic Auditorium"
+   ]
   },
   {
-   "name": "Los Angeles State Historic Park",
+   "name": "LA 주립 역사공원",
    "cat": "관광",
    "area": "로스앤젤레스군",
    "lat": 34.0661,
    "lng": -118.234,
-   "wd": "Q6682346"
+   "wd": "Q6682346",
+   "aliases": [
+    "Los Angeles State Historic Park"
+   ]
   },
   {
-   "name": "Colorado Street Bridge",
+   "name": "콜로라도 스트리트 다리",
    "cat": "관광",
    "area": "패서디나",
    "lat": 34.14472,
    "lng": -118.16361,
-   "wd": "Q5148962"
+   "wd": "Q5148962",
+   "aliases": [
+    "Colorado Street Bridge"
+   ]
   }
  ]
 }

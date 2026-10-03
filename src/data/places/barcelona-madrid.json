@@ -25,12 +25,15 @@
    "wd": "Q11993457"
   },
   {
-   "name": "Cathedral of the Holy Cross and Saint Eulalia",
+   "name": "바르셀로나 대성당",
    "cat": "관광",
    "area": "Gothic Quarter",
    "lat": 41.38389,
    "lng": 2.17639,
-   "wd": "Q17155"
+   "wd": "Q17155",
+   "aliases": [
+    "Cathedral of the Holy Cross and Saint Eulalia"
+   ]
   },
   {
    "name": "카탈루냐 음악당",
@@ -79,20 +82,26 @@
    "wd": "Q176251"
   },
   {
-   "name": "Palau Güell",
+   "name": "구엘 저택",
    "cat": "관광",
    "area": "라발 / 바리 크시니스",
    "lat": 41.37882,
    "lng": 2.17439,
-   "wd": "Q597051"
+   "wd": "Q597051",
+   "aliases": [
+    "Palau Güell"
+   ]
   },
   {
-   "name": "Casa Vicens",
+   "name": "카사 비센스",
    "cat": "관광",
    "area": "Vila de Gràcia",
    "lat": 41.40349,
    "lng": 2.15064,
-   "wd": "Q746333"
+   "wd": "Q746333",
+   "aliases": [
+    "Casa Vicens"
+   ]
   },
   {
    "name": "국립 고고학 박물관",
@@ -139,20 +148,26 @@
    "wd": "Q867072"
   },
   {
-   "name": "Temple of Debod",
+   "name": "데보드 신전",
    "cat": "관광",
    "area": "마드리드",
    "lat": 40.42405,
    "lng": -3.71778,
-   "wd": "Q1140249"
+   "wd": "Q1140249",
+   "aliases": [
+    "Temple of Debod"
+   ]
   },
   {
-   "name": "Palace of Moncloa",
+   "name": "몽클로아 궁전",
    "cat": "관광",
    "area": "마드리드",
    "lat": 40.44361,
    "lng": -3.73694,
-   "wd": "Q1367970"
+   "wd": "Q1367970",
+   "aliases": [
+    "Palace of Moncloa"
+   ]
   },
   {
    "name": "왕립극장",
@@ -222,12 +237,15 @@
    "wd": "Q1067140"
   },
   {
-   "name": "Palace of Zarzuela",
+   "name": "사르수엘라 궁전",
    "cat": "관광",
    "area": "마드리드",
    "lat": 40.48278,
    "lng": -3.80143,
-   "wd": "Q604921"
+   "wd": "Q604921",
+   "aliases": [
+    "Palace of Zarzuela"
+   ]
   },
   {
    "name": "시우타데야 공원",
@@ -285,12 +303,15 @@
    "wd": "Q220013"
   },
   {
-   "name": "Columbus Monument",
+   "name": "콜럼버스 기념탑",
    "cat": "관광",
    "area": "Gothic Quarter",
    "lat": 41.3758,
    "lng": 2.17776,
-   "wd": "Q2288815"
+   "wd": "Q2288815",
+   "aliases": [
+    "Columbus Monument"
+   ]
   },
   {
    "name": "몬주이크 마법의 분수",
@@ -362,12 +383,15 @@
    "wd": "Q1046524"
   },
   {
-   "name": "Museu d'Història de Barcelona",
+   "name": "바르셀로나 역사박물관",
    "cat": "관광",
    "area": "Gothic Quarter",
    "lat": 41.3839,
    "lng": 2.17769,
-   "wd": "Q3571337"
+   "wd": "Q3571337",
+   "aliases": [
+    "Museu d'Història de Barcelona"
+   ]
   },
   {
    "name": "콜론 광장",
@@ -392,20 +416,26 @@
    "wd": "Q1423431"
   },
   {
-   "name": "Zoo Aquarium de Madrid",
+   "name": "마드리드 동물원 수족관",
    "cat": "관광",
    "area": "마드리드",
    "lat": 40.40861,
    "lng": -3.7625,
-   "wd": "Q1994806"
+   "wd": "Q1994806",
+   "aliases": [
+    "Zoo Aquarium de Madrid"
+   ]
   },
   {
-   "name": "Museum of the Americas",
+   "name": "아메리카 박물관",
    "cat": "관광",
    "area": "마드리드",
    "lat": 40.43813,
    "lng": -3.72207,
-   "wd": "Q2568412"
+   "wd": "Q2568412",
+   "aliases": [
+    "Museum of the Americas"
+   ]
   },
   {
    "name": "사그랏 코르",
@@ -419,44 +449,59 @@
    "wd": "Q1189293"
   },
   {
-   "name": "Church of Colònia Güell",
+   "name": "콜로니아 구엘 성당",
    "cat": "관광",
    "area": "Colònia Güell",
    "lat": 41.3638,
    "lng": 2.02785,
-   "wd": "Q2160663"
+   "wd": "Q2160663",
+   "aliases": [
+    "Church of Colònia Güell"
+   ]
   },
   {
-   "name": "Montjuïc Castle",
+   "name": "몬주익 성",
    "cat": "관광",
    "area": "몬주이크",
    "lat": 41.36342,
    "lng": 2.16617,
-   "wd": "Q2500125"
+   "wd": "Q2500125",
+   "aliases": [
+    "Montjuïc Castle"
+   ]
   },
   {
-   "name": "Convent of Las Descalzas Reales",
+   "name": "데스칼사스 레알레스 수도원",
    "cat": "관광",
    "area": "마드리드",
    "lat": 40.41827,
    "lng": -3.70619,
-   "wd": "Q2268271"
+   "wd": "Q2268271",
+   "aliases": [
+    "Convent of Las Descalzas Reales"
+   ]
   },
   {
-   "name": "Gate of Toledo",
+   "name": "톨레도 문",
    "cat": "관광",
    "area": "마드리드",
    "lat": 40.40671,
    "lng": -3.71162,
-   "wd": "Q2657591"
+   "wd": "Q2657591",
+   "aliases": [
+    "Gate of Toledo"
+   ]
   },
   {
-   "name": "plaça del Rei",
+   "name": "왕의 광장",
    "cat": "관광",
    "area": "Gothic Quarter",
    "lat": 41.38413,
    "lng": 2.17744,
-   "wd": "Q2067174"
+   "wd": "Q2067174",
+   "aliases": [
+    "plaça del Rei"
+   ]
   },
   {
    "name": "바르셀로나 모누멘탈 투우장",
@@ -470,20 +515,26 @@
    "wd": "Q337522"
   },
   {
-   "name": "Castle of the Three Dragons",
+   "name": "세 마리 용의 성",
    "cat": "관광",
    "area": "Sant Pere, Santa Caterina i la Ribera",
    "lat": 41.38807,
    "lng": 2.18339,
-   "wd": "Q1048705"
+   "wd": "Q1048705",
+   "aliases": [
+    "Castle of the Three Dragons"
+   ]
   },
   {
-   "name": "Parc del Laberint d'Horta",
+   "name": "오르타 미로 공원",
    "cat": "관광",
    "area": "Hort",
    "lat": 41.44028,
    "lng": 2.14556,
-   "wd": "Q1435468"
+   "wd": "Q1435468",
+   "aliases": [
+    "Parc del Laberint d'Horta"
+   ]
   },
   {
    "name": "마드리드 역사박물관",
@@ -541,140 +592,180 @@
    "wd": "Q2917041"
   },
   {
-   "name": "Teatro de la Zarzuela",
+   "name": "사르수엘라 극장",
    "cat": "관광",
    "area": "마드리드",
    "lat": 40.41719,
    "lng": -3.69678,
-   "wd": "Q3321632"
+   "wd": "Q3321632",
+   "aliases": [
+    "Teatro de la Zarzuela"
+   ]
   },
   {
-   "name": "Palacio de las Cortes",
+   "name": "스페인 하원 의사당",
    "cat": "관광",
    "area": "Cortes",
    "lat": 40.4164,
    "lng": -3.69654,
-   "wd": "Q9054619"
+   "wd": "Q9054619",
+   "aliases": [
+    "Palacio de las Cortes"
+   ]
   },
   {
-   "name": "Royal Academy of Exact, Physical and Natural Sciences",
-   "cat": "관광",
-   "area": "",
-   "lat": 40.42194,
-   "lng": -3.71278,
-   "wd": "Q427318"
-  },
-  {
-   "name": "Plaça Sant Jaume",
+   "name": "산 자우메 광장",
    "cat": "관광",
    "area": "Gothic Quarter",
    "lat": 41.3825,
    "lng": 2.17694,
-   "wd": "Q2082605"
+   "wd": "Q2082605",
+   "aliases": [
+    "Plaça Sant Jaume"
+   ]
   },
   {
-   "name": "CosmoCaixa Barcelona",
+   "name": "코스모카이샤 과학박물관",
    "cat": "관광",
    "area": "Sant Gervasi-la Bonanova",
    "lat": 41.41306,
    "lng": 2.13111,
-   "wd": "Q2625747"
+   "wd": "Q2625747",
+   "aliases": [
+    "CosmoCaixa Barcelona"
+   ]
   },
   {
-   "name": "Sant Feliu de Llobregat Cathedral",
+   "name": "산트 펠리우 데 요브레가트 대성당",
    "cat": "관광",
    "area": "Sant Feliu de Llobregat",
    "lat": 41.38089,
    "lng": 2.04633,
-   "wd": "Q2942382"
+   "wd": "Q2942382",
+   "aliases": [
+    "Sant Feliu de Llobregat Cathedral"
+   ]
   },
   {
-   "name": "Madrid Central Mosque",
+   "name": "마드리드 중앙 모스크",
    "cat": "관광",
    "area": "마드리드",
    "lat": 40.45681,
    "lng": -3.70083,
-   "wd": "Q183179"
+   "wd": "Q183179",
+   "aliases": [
+    "Madrid Central Mosque"
+   ]
   },
   {
-   "name": "Lázaro Galdiano Museum",
+   "name": "라사로 갈디아노 미술관",
    "cat": "관광",
    "area": "마드리드",
    "lat": 40.43691,
    "lng": -3.68585,
-   "wd": "Q386570"
+   "wd": "Q386570",
+   "aliases": [
+    "Lázaro Galdiano Museum"
+   ]
   },
   {
-   "name": "National Museum of Natural Sciences",
+   "name": "국립 자연과학박물관",
    "cat": "관광",
    "area": "마드리드",
    "lat": 40.44103,
    "lng": -3.69028,
-   "wd": "Q1966699"
+   "wd": "Q1966699",
+   "aliases": [
+    "National Museum of Natural Sciences"
+   ]
   },
   {
-   "name": "Crystal Palace",
+   "name": "수정궁(레티로 공원)",
    "cat": "관광",
    "area": "마드리드",
    "lat": 40.41356,
    "lng": -3.68206,
-   "wd": "Q2420025"
+   "wd": "Q2420025",
+   "aliases": [
+    "Crystal Palace"
+   ]
   },
   {
-   "name": "Royal Basilica of Saint Francis the Great",
+   "name": "산 프란시스코 엘 그란데 성당",
    "cat": "관광",
    "area": "마드리드",
    "lat": 40.41048,
    "lng": -3.71439,
-   "wd": "Q2473884"
+   "wd": "Q2473884",
+   "aliases": [
+    "Royal Basilica of Saint Francis the Great"
+   ]
   },
   {
-   "name": "Liria Palace",
+   "name": "리리아 궁전",
    "cat": "관광",
    "area": "마드리드",
    "lat": 40.4277,
    "lng": -3.7124,
-   "wd": "Q3288223"
+   "wd": "Q3288223",
+   "aliases": [
+    "Liria Palace"
+   ]
   },
   {
-   "name": "plaça de les Glòries Catalanes",
+   "name": "글로리에스 광장",
    "cat": "관광",
    "area": "Sant Martí",
    "lat": 41.40333,
    "lng": 2.18694,
-   "wd": "Q1426190"
+   "wd": "Q1426190",
+   "aliases": [
+    "plaça de les Glòries Catalanes"
+   ]
   },
   {
-   "name": "Font de Canaletes",
+   "name": "카날레테스 분수",
    "cat": "관광",
    "area": "라발 / 바리 크시니스",
    "lat": 41.38528,
    "lng": 2.17014,
-   "wd": "Q2723971"
+   "wd": "Q2723971",
+   "aliases": [
+    "Font de Canaletes"
+   ]
   },
   {
-   "name": "Buen Retiro Palace",
+   "name": "부엔 레티로 궁전",
    "cat": "관광",
    "area": "마드리드",
    "lat": 40.41367,
    "lng": -3.68169,
-   "wd": "Q962117"
+   "wd": "Q962117",
+   "aliases": [
+    "Buen Retiro Palace"
+   ]
   },
   {
-   "name": "Naval Museum of Madrid",
+   "name": "마드리드 해군박물관",
    "cat": "관광",
    "area": "마드리드",
    "lat": 40.41752,
    "lng": -3.6928,
-   "wd": "Q1815235"
+   "wd": "Q1815235",
+   "aliases": [
+    "Naval Museum of Madrid"
+   ]
   },
   {
-   "name": "Parque del Oeste",
+   "name": "서부 공원",
    "cat": "관광",
    "area": "마드리드",
    "lat": 40.42833,
    "lng": -3.72417,
-   "wd": "Q2369398"
+   "wd": "Q2369398",
+   "aliases": [
+    "Parque del Oeste"
+   ]
   },
   {
    "name": "비야 광장",
@@ -688,12 +779,15 @@
    "wd": "Q2711992"
   },
   {
-   "name": "Santa Cruz Palace",
+   "name": "산타 크루스 궁전",
    "cat": "관광",
    "area": "마드리드",
    "lat": 40.4147,
    "lng": -3.70603,
-   "wd": "Q2982559"
+   "wd": "Q2982559",
+   "aliases": [
+    "Santa Cruz Palace"
+   ]
   },
   {
    "name": "카야오 광장",
@@ -707,36 +801,48 @@
    "wd": "Q2099125"
   },
   {
-   "name": "Royal Convent of La Encarnación",
+   "name": "엔카르나시온 수도원",
    "cat": "관광",
    "area": "마드리드",
    "lat": 40.41992,
    "lng": -3.71149,
-   "wd": "Q205524"
+   "wd": "Q205524",
+   "aliases": [
+    "Royal Convent of La Encarnación"
+   ]
   },
   {
-   "name": "Parque de Atracciones de Madrid",
+   "name": "마드리드 놀이공원",
    "cat": "관광",
    "area": "마드리드",
    "lat": 40.41278,
    "lng": -3.75083,
-   "wd": "Q587612"
+   "wd": "Q587612",
+   "aliases": [
+    "Parque de Atracciones de Madrid"
+   ]
   },
   {
-   "name": "Cerralbo Museum",
+   "name": "세랄보 미술관",
    "cat": "관광",
    "area": "마드리드",
    "lat": 40.42368,
    "lng": -3.71458,
-   "wd": "Q976019"
+   "wd": "Q976019",
+   "aliases": [
+    "Cerralbo Museum"
+   ]
   },
   {
-   "name": "Juan Carlos I Park",
+   "name": "후안 카를로스 1세 공원",
    "cat": "관광",
    "area": "마드리드",
    "lat": 40.46011,
    "lng": -3.60605,
-   "wd": "Q1583169"
+   "wd": "Q1583169",
+   "aliases": [
+    "Juan Carlos I Park"
+   ]
   },
   {
    "name": "세고비아교",
@@ -750,28 +856,37 @@
    "wd": "Q2838423"
   },
   {
-   "name": "Royal Chapel of St. Anthony of La Florida",
+   "name": "산 안토니오 데 라 플로리다 성당",
    "cat": "관광",
    "area": "마드리드",
    "lat": 40.42536,
    "lng": -3.7256,
-   "wd": "Q3109752"
+   "wd": "Q3109752",
+   "aliases": [
+    "Royal Chapel of St. Anthony of La Florida"
+   ]
   },
   {
-   "name": "Statue of the Bear and the Strawberry Tree",
+   "name": "곰과 마드로뇨 나무 동상",
    "cat": "관광",
    "area": "Sol",
    "lat": 40.41698,
    "lng": -3.70246,
-   "wd": "Q3887613"
+   "wd": "Q3887613",
+   "aliases": [
+    "Statue of the Bear and the Strawberry Tree"
+   ]
   },
   {
-   "name": "Sant Sebastià",
+   "name": "산 세바스티아 해변",
    "cat": "관광",
    "area": "바르셀로네타",
    "lat": 41.37346,
    "lng": 2.18963,
-   "wd": "Q3331620"
+   "wd": "Q3331620",
+   "aliases": [
+    "Sant Sebastià"
+   ]
   },
   {
    "name": "구엘 별장",
@@ -796,36 +911,48 @@
    "wd": "Q1320197"
   },
   {
-   "name": "Fossar de les Moreres",
+   "name": "모레레스 묘지 광장",
    "cat": "관광",
    "area": "Sant Pere, Santa Caterina i la Ribera",
    "lat": 41.38368,
    "lng": 2.18243,
-   "wd": "Q2749521"
+   "wd": "Q2749521",
+   "aliases": [
+    "Fossar de les Moreres"
+   ]
   },
   {
-   "name": "El Capricho Park",
+   "name": "엘 카프리초 공원",
    "cat": "관광",
    "area": "마드리드",
    "lat": 40.45611,
    "lng": -3.59867,
-   "wd": "Q2054035"
+   "wd": "Q2054035",
+   "aliases": [
+    "El Capricho Park"
+   ]
   },
   {
-   "name": "St. Isidore's Collegiate Church",
+   "name": "산 이시드로 성당",
    "cat": "관광",
    "area": "마드리드",
    "lat": 40.41278,
    "lng": -3.70694,
-   "wd": "Q3682887"
+   "wd": "Q3682887",
+   "aliases": [
+    "St. Isidore's Collegiate Church"
+   ]
   },
   {
-   "name": "Pontifical Basilica of St. Michael",
+   "name": "산 미겔 성당",
    "cat": "관광",
    "area": "마드리드",
    "lat": 40.41441,
    "lng": -3.70969,
-   "wd": "Q4407295"
+   "wd": "Q4407295",
+   "aliases": [
+    "Pontifical Basilica of St. Michael"
+   ]
   }
  ]
 }

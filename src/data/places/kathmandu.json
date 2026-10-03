@@ -59,12 +59,15 @@
    "wd": "Q1001415"
   },
   {
-   "name": "Singha Durbar",
+   "name": "싱하 두르바르",
    "cat": "관광",
    "area": "카트만두",
    "lat": 27.69827,
    "lng": 85.32525,
-   "wd": "Q3457358"
+   "wd": "Q3457358",
+   "aliases": [
+    "Singha Durbar"
+   ]
   },
   {
    "name": "아산",
@@ -78,12 +81,15 @@
    "wd": "Q2913841"
   },
   {
-   "name": "Kathmandu Zoo",
+   "name": "카트만두 동물원",
    "cat": "관광",
    "area": "랄릿푸르",
    "lat": 27.67318,
    "lng": 85.31093,
-   "wd": "Q220043"
+   "wd": "Q220043",
+   "aliases": [
+    "Kathmandu Zoo"
+   ]
   },
   {
    "name": "인드라 초크",
@@ -97,324 +103,422 @@
    "wd": "Q2913856"
   },
   {
-   "name": "Guhyeshwari Temple",
+   "name": "구헤스와리 사원",
    "cat": "관광",
    "area": "Kathmandu District",
    "lat": 27.71111,
    "lng": 85.35333,
-   "wd": "Q5615319"
+   "wd": "Q5615319",
+   "aliases": [
+    "Guhyeshwari Temple"
+   ]
   },
   {
-   "name": "Kasthamandap",
+   "name": "카스타만다프",
    "cat": "관광",
    "area": "카트만두",
    "lat": 27.704,
    "lng": 85.30583,
-   "wd": "Q6374805"
+   "wd": "Q6374805",
+   "aliases": [
+    "Kasthamandap"
+   ]
   },
   {
-   "name": "Kumbheshwar Temple",
+   "name": "쿰베스와르 사원",
    "cat": "관광",
    "area": "랄릿푸르",
    "lat": 27.6767,
    "lng": 85.3258,
-   "wd": "Q18344056"
+   "wd": "Q18344056",
+   "aliases": [
+    "Kumbheshwar Temple"
+   ]
   },
   {
-   "name": "Assumption of the Blessed Virgin Mary Cathedral, Kathmandu",
+   "name": "카트만두 성모승천 대성당",
    "cat": "관광",
    "area": "카트만두",
    "lat": 27.67278,
    "lng": 85.30653,
-   "wd": "Q18416909"
+   "wd": "Q18416909",
+   "aliases": [
+    "Assumption of the Blessed Virgin Mary Cathedral, Kathmandu"
+   ]
   },
   {
-   "name": "Shahid Gate",
+   "name": "순교자의 문",
    "cat": "관광",
    "area": "카트만두",
    "lat": 27.69944,
    "lng": 85.315,
-   "wd": "Q7461663"
+   "wd": "Q7461663",
+   "aliases": [
+    "Shahid Gate"
+   ]
   },
   {
-   "name": "Pancha Kashmiri Takiya Masjid",
+   "name": "판차 카시미르 모스크",
    "cat": "관광",
    "area": "카트만두",
    "lat": 27.7087,
    "lng": 85.315,
-   "wd": "Q104830297"
+   "wd": "Q104830297",
+   "aliases": [
+    "Pancha Kashmiri Takiya Masjid"
+   ]
   },
   {
-   "name": "Ratna Park",
+   "name": "라트나 공원",
    "cat": "관광",
    "area": "카트만두",
    "lat": 27.705,
    "lng": 85.31472,
-   "wd": "Q7295836"
+   "wd": "Q7295836",
+   "aliases": [
+    "Ratna Park"
+   ]
   },
   {
-   "name": "Thapathali Durbar",
+   "name": "타파탈리 두르바르",
    "cat": "관광",
    "area": "카트만두",
    "lat": 27.69111,
    "lng": 85.31583,
-   "wd": "Q24906191"
+   "wd": "Q24906191",
+   "aliases": [
+    "Thapathali Durbar"
+   ]
   },
   {
-   "name": "Natural History Museum of Nepal",
+   "name": "네팔 자연사박물관",
    "cat": "관광",
    "area": "카트만두",
    "lat": 27.71451,
    "lng": 85.28794,
-   "wd": "Q6980524"
+   "wd": "Q6980524",
+   "aliases": [
+    "Natural History Museum of Nepal"
+   ]
   },
   {
-   "name": "Tundikhel",
+   "name": "툰디켈 광장",
    "cat": "관광",
    "area": "카트만두",
    "lat": 27.702,
    "lng": 85.3152,
-   "wd": "Q7852888"
+   "wd": "Q7852888",
+   "aliases": [
+    "Tundikhel"
+   ]
   },
   {
-   "name": "Ghanta Ghar",
+   "name": "간타 가르 시계탑",
    "cat": "관광",
    "area": "카트만두",
    "lat": 27.70747,
    "lng": 85.31471,
-   "wd": "Q11205395"
+   "wd": "Q11205395",
+   "aliases": [
+    "Ghanta Ghar"
+   ]
   },
   {
-   "name": "Krishna Mandir",
+   "name": "크리슈나 사원",
    "cat": "관광",
    "area": "파탄 더르바르 광장",
    "lat": 27.6736,
    "lng": 85.32492,
-   "wd": "Q13183200"
+   "wd": "Q13183200",
+   "aliases": [
+    "Krishna Mandir"
+   ]
   },
   {
-   "name": "Bagh Bhairab Temple",
+   "name": "바그 바이랍 사원",
    "cat": "관광",
    "area": "Kirtipur",
    "lat": 27.67944,
    "lng": 85.27646,
-   "wd": "Q19680989"
+   "wd": "Q19680989",
+   "aliases": [
+    "Bagh Bhairab Temple"
+   ]
   },
   {
-   "name": "Hiranya Varna Mahavihar",
+   "name": "황금 사원(히란야 바르나 마하비하르)",
    "cat": "관광",
    "area": "",
    "lat": 27.67523,
    "lng": 85.3246,
-   "wd": "Q5769439"
+   "wd": "Q5769439",
+   "aliases": [
+    "Hiranya Varna Mahavihar"
+   ]
   },
   {
-   "name": "Patan Museum",
+   "name": "파탄 박물관",
    "cat": "관광",
    "area": "",
    "lat": 27.67344,
    "lng": 85.32522,
-   "wd": "Q17013603"
+   "wd": "Q17013603",
+   "aliases": [
+    "Patan Museum"
+   ]
   },
   {
-   "name": "Taleju Temple",
+   "name": "탈레주 사원",
    "cat": "관광",
    "area": "카트만두",
    "lat": 27.70487,
    "lng": 85.30801,
-   "wd": "Q83776242"
+   "wd": "Q83776242",
+   "aliases": [
+    "Taleju Temple"
+   ]
   },
   {
-   "name": "Maitighar Mandala",
+   "name": "마이티가르 만달라",
    "cat": "관광",
    "area": "카트만두",
    "lat": 27.69444,
    "lng": 85.32027,
-   "wd": "Q3811730"
+   "wd": "Q3811730",
+   "aliases": [
+    "Maitighar Mandala"
+   ]
   },
   {
-   "name": "Sankata Temple",
+   "name": "상카타 사원",
    "cat": "관광",
    "area": "카트만두",
    "lat": 27.70238,
    "lng": 85.31215,
-   "wd": "Q15747268"
+   "wd": "Q15747268",
+   "aliases": [
+    "Sankata Temple"
+   ]
   },
   {
-   "name": "Jal Binayak Temple",
+   "name": "잘 비나약 사원",
    "cat": "관광",
    "area": "Kathmandu District",
    "lat": 27.65833,
    "lng": 85.29333,
-   "wd": "Q13181210"
+   "wd": "Q13181210",
+   "aliases": [
+    "Jal Binayak Temple"
+   ]
   },
   {
-   "name": "Karya Binayak Temple",
+   "name": "카르야 비나약 사원",
    "cat": "관광",
    "area": "Kathmandu District",
    "lat": 27.63187,
    "lng": 85.30237,
-   "wd": "Q21129901"
+   "wd": "Q21129901",
+   "aliases": [
+    "Karya Binayak Temple"
+   ]
   },
   {
-   "name": "Maru, Kathmandu",
+   "name": "마루 광장",
    "cat": "관광",
    "area": "",
    "lat": 27.70361,
    "lng": 85.30556,
-   "wd": "Q6777870"
+   "wd": "Q6777870",
+   "aliases": [
+    "Maru, Kathmandu"
+   ]
   },
   {
-   "name": "The Taragaon Museum",
+   "name": "타라가온 박물관",
    "cat": "관광",
    "area": "",
    "lat": 27.72042,
    "lng": 85.35622,
-   "wd": "Q111430610"
+   "wd": "Q111430610",
+   "aliases": [
+    "The Taragaon Museum"
+   ]
   },
   {
-   "name": "Babar Mahal",
+   "name": "바바르 마할",
    "cat": "관광",
    "area": "카트만두",
    "lat": 27.6928,
    "lng": 85.3222,
-   "wd": "Q19680881"
+   "wd": "Q19680881",
+   "aliases": [
+    "Babar Mahal"
+   ]
   },
   {
-   "name": "Children's Art Museum of Nepal",
+   "name": "네팔 어린이 미술관",
    "cat": "관광",
    "area": "카트만두",
    "lat": 27.71108,
    "lng": 85.32226,
-   "wd": "Q19839182"
+   "wd": "Q19839182",
+   "aliases": [
+    "Children's Art Museum of Nepal"
+   ]
   },
   {
-   "name": "Shree Durbar",
+   "name": "슈리 두르바르",
    "cat": "관광",
    "area": "카트만두",
    "lat": 27.67797,
    "lng": 85.31976,
-   "wd": "Q24931198"
+   "wd": "Q24931198",
+   "aliases": [
+    "Shree Durbar"
+   ]
   },
   {
-   "name": "Bhadrakali Temple",
+   "name": "바드라칼리 사원",
    "cat": "관광",
    "area": "카트만두",
    "lat": 27.6993,
    "lng": 85.3168,
-   "wd": "Q85746836"
+   "wd": "Q85746836",
+   "aliases": [
+    "Bhadrakali Temple"
+   ]
   },
   {
-   "name": "Kaathe Swyambhu",
+   "name": "카테 스와얌부",
    "cat": "관광",
    "area": "카트만두",
    "lat": 27.709,
    "lng": 85.309,
-   "wd": "Q98642739"
+   "wd": "Q98642739",
+   "aliases": [
+    "Kaathe Swyambhu"
+   ]
   },
   {
-   "name": "Tribhuvan Sadan",
+   "name": "트리부반 사단",
    "cat": "관광",
    "area": "카트만두",
    "lat": 27.71545,
    "lng": 85.31747,
-   "wd": "Q109941644"
+   "wd": "Q109941644",
+   "aliases": [
+    "Tribhuvan Sadan"
+   ]
   },
   {
-   "name": "Amitabha Monastery",
+   "name": "아미타바 사원",
    "cat": "관광",
    "area": "카트만두",
    "lat": 27.74405,
    "lng": 85.36839,
-   "wd": "Q4746919"
+   "wd": "Q4746919",
+   "aliases": [
+    "Amitabha Monastery"
+   ]
   },
   {
-   "name": "Mahendra Museum",
+   "name": "마헨드라 박물관",
    "cat": "관광",
    "area": "",
    "lat": 27.70436,
    "lng": 85.30721,
-   "wd": "Q16875694"
+   "wd": "Q16875694",
+   "aliases": [
+    "Mahendra Museum"
+   ]
   },
   {
-   "name": "Jhor waterfall",
+   "name": "조르 폭포",
    "cat": "관광",
    "area": "",
    "lat": 27.801,
    "lng": 85.3222,
-   "wd": "Q104880312"
+   "wd": "Q104880312",
+   "aliases": [
+    "Jhor waterfall"
+   ]
   },
   {
-   "name": "Gaddi Baithak",
+   "name": "가디 바이탁",
    "cat": "관광",
    "area": "카트만두",
    "lat": 27.70401,
    "lng": 85.30674,
-   "wd": "Q19671883"
+   "wd": "Q19671883",
+   "aliases": [
+    "Gaddi Baithak"
+   ]
   },
   {
-   "name": "Vidhyeshvari Vajra Yogini Temple",
+   "name": "비디예스와리 바즈라 요기니 사원",
    "cat": "관광",
    "area": "카트만두",
    "lat": 27.71394,
    "lng": 85.30089,
-   "wd": "Q25674861"
+   "wd": "Q25674861",
+   "aliases": [
+    "Vidhyeshvari Vajra Yogini Temple"
+   ]
   },
   {
-   "name": "Gokarneshwor Mahadev temple",
+   "name": "고카르네스와르 마하데브 사원",
    "cat": "관광",
    "area": "Gokarneshwor",
    "lat": 27.73944,
    "lng": 85.38778,
-   "wd": "Q1534467"
+   "wd": "Q1534467",
+   "aliases": [
+    "Gokarneshwor Mahadev temple"
+   ]
   },
   {
-   "name": "Nepal Olympic Museum",
+   "name": "네팔 올림픽 박물관",
    "cat": "관광",
    "area": "Dasarath Rangasala Stadium",
    "lat": 27.7056,
    "lng": 85.289,
-   "wd": "Q15961667"
+   "wd": "Q15961667",
+   "aliases": [
+    "Nepal Olympic Museum"
+   ]
   },
   {
-   "name": "Balkumari temple",
+   "name": "발쿠마리 사원",
    "cat": "관광",
    "area": "Lalitpur District",
    "lat": 27.6719,
    "lng": 85.3341,
-   "wd": "Q106554965"
+   "wd": "Q106554965",
+   "aliases": [
+    "Balkumari temple"
+   ]
   },
   {
-   "name": "Venkatesh Mandir, Kathmandu",
+   "name": "벤카테시 사원",
    "cat": "관광",
    "area": "",
    "lat": 27.70608,
    "lng": 85.34324,
-   "wd": "Q19595680"
+   "wd": "Q19595680",
+   "aliases": [
+    "Venkatesh Mandir, Kathmandu"
+   ]
   },
   {
-   "name": "ANFA Complex, Satdobato",
-   "cat": "관광",
-   "area": "",
-   "lat": 27.66212,
-   "lng": 85.32991,
-   "wd": "Q23043426"
-  },
-  {
-   "name": "Nautalle Durbar",
+   "name": "나우탈레 두르바르",
    "cat": "관광",
    "area": "",
    "lat": 27.70388,
    "lng": 85.30748,
-   "wd": "Q109659503"
-  },
-  {
-   "name": "Chyasal Stadium",
-   "cat": "관광",
-   "area": "",
-   "lat": 27.67757,
-   "lng": 85.33413,
-   "wd": "Q110517043"
+   "wd": "Q109659503",
+   "aliases": [
+    "Nautalle Durbar"
+   ]
   }
  ]
 }

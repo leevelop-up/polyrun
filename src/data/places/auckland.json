@@ -36,412 +36,521 @@
    "wd": "Q4819492"
   },
   {
-   "name": "Auckland Zoo",
+   "name": "오클랜드 동물원",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.86278,
    "lng": 174.72083,
-   "wd": "Q2665285"
+   "wd": "Q2665285",
+   "aliases": [
+    "Auckland Zoo"
+   ]
   },
   {
-   "name": "St Patrick's Cathedral",
+   "name": "세인트 패트릭 대성당",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.8465,
    "lng": 174.7635,
-   "wd": "Q73260"
+   "wd": "Q73260",
+   "aliases": [
+    "St Patrick's Cathedral"
+   ]
   },
   {
-   "name": "Kelly Tarlton's Sea Life Aquarium",
+   "name": "켈리 탈턴 시라이프 수족관",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.84583,
    "lng": 174.81722,
-   "wd": "Q28897"
+   "wd": "Q28897",
+   "aliases": [
+    "Kelly Tarlton's Sea Life Aquarium"
+   ]
   },
   {
-   "name": "Auckland Town Hall",
+   "name": "오클랜드 시청",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.85269,
    "lng": 174.76349,
-   "wd": "Q1391825"
+   "wd": "Q1391825",
+   "aliases": [
+    "Auckland Town Hall"
+   ]
   },
   {
-   "name": "Auckland Domain",
+   "name": "오클랜드 도메인",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.85916,
    "lng": 174.77581,
-   "wd": "Q4819519"
+   "wd": "Q4819519",
+   "aliases": [
+    "Auckland Domain"
+   ]
   },
   {
-   "name": "Museum of Transport and Technology",
+   "name": "교통기술박물관(MOTAT)",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.86742,
    "lng": 174.72719,
-   "wd": "Q1954764"
+   "wd": "Q1954764",
+   "aliases": [
+    "Museum of Transport and Technology"
+   ]
   },
   {
-   "name": "Aotea Square",
+   "name": "아오테아 광장",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.85222,
    "lng": 174.76306,
-   "wd": "Q2857988"
+   "wd": "Q2857988",
+   "aliases": [
+    "Aotea Square"
+   ]
   },
   {
-   "name": "University House",
+   "name": "유니버시티 하우스",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.84862,
    "lng": 174.76946,
-   "wd": "Q7085175"
+   "wd": "Q7085175",
+   "aliases": [
+    "University House"
+   ]
   },
   {
-   "name": "Maungawhau / Mount Eden",
+   "name": "마운트 이든",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.87817,
    "lng": 174.76453,
-   "wd": "Q19875408"
+   "wd": "Q19875408",
+   "aliases": [
+    "Maungawhau / Mount Eden"
+   ]
   },
   {
-   "name": "New Zealand Maritime Museum Hui Te Ananui a Tangaroa",
+   "name": "뉴질랜드 해양박물관",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.84217,
    "lng": 174.76374,
-   "wd": "Q7942457"
+   "wd": "Q7942457",
+   "aliases": [
+    "New Zealand Maritime Museum Hui Te Ananui a Tangaroa"
+   ]
   },
   {
-   "name": "Civic Theatre",
+   "name": "시빅 극장",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.8511,
    "lng": 174.764,
-   "wd": "Q4391509"
+   "wd": "Q4391509",
+   "aliases": [
+    "Civic Theatre"
+   ]
   },
   {
-   "name": "Auckland Baptist Tabernacle",
+   "name": "오클랜드 침례교 성막",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.85745,
    "lng": 174.76147,
-   "wd": "Q4819494"
+   "wd": "Q4819494",
+   "aliases": [
+    "Auckland Baptist Tabernacle"
+   ]
   },
   {
-   "name": "Auckland Ferry Terminal",
+   "name": "오클랜드 페리 터미널",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.843,
    "lng": 174.767,
-   "wd": "Q4819518"
+   "wd": "Q4819518",
+   "aliases": [
+    "Auckland Ferry Terminal"
+   ]
   },
   {
-   "name": "Colin Maiden Park",
-   "cat": "관광",
-   "area": "오클랜드 지방",
-   "lat": -36.8809,
-   "lng": 174.848,
-   "wd": "Q5145320"
-  },
-  {
-   "name": "Grafton Bridge",
+   "name": "그래프턴 다리",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.8598,
    "lng": 174.766,
-   "wd": "Q5592519"
+   "wd": "Q5592519",
+   "aliases": [
+    "Grafton Bridge"
+   ]
   },
   {
-   "name": "Le Roys Bush",
+   "name": "르로이스 부시",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.813,
    "lng": 174.732,
-   "wd": "Q6507625"
+   "wd": "Q6507625",
+   "aliases": [
+    "Le Roys Bush"
+   ]
   },
   {
-   "name": "St Mary's Cathedral Church",
+   "name": "세인트 메리 대성당",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.86004,
    "lng": 174.78332,
-   "wd": "Q7594248"
+   "wd": "Q7594248",
+   "aliases": [
+    "St Mary's Cathedral Church"
+   ]
   },
   {
-   "name": "Gus Fisher Gallery",
+   "name": "거스 피셔 갤러리",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.84698,
    "lng": 174.76951,
-   "wd": "Q15222331"
+   "wd": "Q15222331",
+   "aliases": [
+    "Gus Fisher Gallery"
+   ]
   },
   {
-   "name": "Te Uru Waitākere Contemporary Gallery",
+   "name": "테 우루 현대미술관",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.93836,
    "lng": 174.65518,
-   "wd": "Q28180758"
+   "wd": "Q28180758",
+   "aliases": [
+    "Te Uru Waitākere Contemporary Gallery"
+   ]
   },
   {
-   "name": "Artspace Aotearoa",
+   "name": "아트스페이스 아오테아로아",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.85782,
    "lng": 174.7579,
-   "wd": "Q65121970"
+   "wd": "Q65121970",
+   "aliases": [
+    "Artspace Aotearoa"
+   ]
   },
   {
-   "name": "Lloyd Elsmore Park",
+   "name": "로이드 엘스모어 공원",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.905,
    "lng": 174.901,
-   "wd": "Q120015931"
+   "wd": "Q120015931",
+   "aliases": [
+    "Lloyd Elsmore Park"
+   ]
   },
   {
-   "name": "Ponsonby Mosque",
+   "name": "폰손비 모스크",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.85263,
    "lng": 174.74377,
-   "wd": "Q132041529"
+   "wd": "Q132041529",
+   "aliases": [
+    "Ponsonby Mosque"
+   ]
   },
   {
-   "name": "Chelsea Sugar Refinery and Estate",
+   "name": "첼시 설탕공장",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.8212,
    "lng": 174.7233,
-   "wd": "Q1069147"
+   "wd": "Q1069147",
+   "aliases": [
+    "Chelsea Sugar Refinery and Estate"
+   ]
   },
   {
-   "name": "Albert Park",
+   "name": "앨버트 공원",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.8507,
    "lng": 174.7675,
-   "wd": "Q4710966"
+   "wd": "Q4710966",
+   "aliases": [
+    "Albert Park"
+   ]
   },
   {
-   "name": "Highwic",
+   "name": "하이윅 저택",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.8718,
    "lng": 174.775,
-   "wd": "Q5760046"
+   "wd": "Q5760046",
+   "aliases": [
+    "Highwic"
+   ]
   },
   {
-   "name": "Khartoum Place",
+   "name": "카툼 플레이스",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.8507,
    "lng": 174.766,
-   "wd": "Q6400776"
+   "wd": "Q6400776",
+   "aliases": [
+    "Khartoum Place"
+   ]
   },
   {
-   "name": "LynnMall",
+   "name": "린몰",
    "cat": "쇼핑",
    "area": "오클랜드 지방",
    "lat": -36.9077,
    "lng": 174.6851,
-   "wd": "Q6708902"
+   "wd": "Q6708902",
+   "aliases": [
+    "LynnMall"
+   ]
   },
   {
-   "name": "Newmarket Park",
+   "name": "뉴마켓 공원",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.8646,
    "lng": 174.783,
-   "wd": "Q7018567"
+   "wd": "Q7018567",
+   "aliases": [
+    "Newmarket Park"
+   ]
   },
   {
-   "name": "Parnell Rose Gardens",
+   "name": "파넬 장미정원",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.8507,
    "lng": 174.786,
-   "wd": "Q7139321"
+   "wd": "Q7139321",
+   "aliases": [
+    "Parnell Rose Gardens"
+   ]
   },
   {
-   "name": "Rangitoto Lighthouse",
+   "name": "랑기토토 등대",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.78186,
    "lng": 174.82245,
-   "wd": "Q7292864"
+   "wd": "Q7292864",
+   "aliases": [
+    "Rangitoto Lighthouse"
+   ]
   },
   {
-   "name": "Sylvia Park",
+   "name": "실비아 파크",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.91531,
    "lng": 174.84142,
-   "wd": "Q7660981"
+   "wd": "Q7660981",
+   "aliases": [
+    "Sylvia Park"
+   ]
   },
   {
-   "name": "Torpedo Bay Navy Museum",
+   "name": "토피도 베이 해군박물관",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.8287,
    "lng": 174.8093,
-   "wd": "Q7826736"
+   "wd": "Q7826736",
+   "aliases": [
+    "Torpedo Bay Navy Museum"
+   ]
   },
   {
-   "name": "Victoria Park",
+   "name": "빅토리아 공원",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.84694,
    "lng": 174.75448,
-   "wd": "Q7926902"
+   "wd": "Q7926902",
+   "aliases": [
+    "Victoria Park"
+   ]
   },
   {
-   "name": "Auckland Domain Wintergardens",
+   "name": "오클랜드 도메인 윈터가든",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.86025,
    "lng": 174.77409,
-   "wd": "Q14544954"
+   "wd": "Q14544954",
+   "aliases": [
+    "Auckland Domain Wintergardens"
+   ]
   },
   {
-   "name": "Pah Homestead",
+   "name": "파 홈스테드",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.9145,
    "lng": 174.763,
-   "wd": "Q16896320"
+   "wd": "Q16896320",
+   "aliases": [
+    "Pah Homestead"
+   ]
   },
   {
-   "name": "Whakamana Cannabis Museum",
-   "cat": "관광",
-   "area": "오클랜드 지방",
-   "lat": -36.85639,
-   "lng": 174.75833,
-   "wd": "Q22952163"
-  },
-  {
-   "name": "St Stephen's Chapel",
+   "name": "세인트 스티븐 예배당",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.85035,
    "lng": 174.78956,
-   "wd": "Q23073922"
+   "wd": "Q23073922",
+   "aliases": [
+    "St Stephen's Chapel"
+   ]
   },
   {
-   "name": "Ambury Regional Park",
+   "name": "앰버리 공원",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.948,
    "lng": 174.7662,
-   "wd": "Q25660322"
+   "wd": "Q25660322",
+   "aliases": [
+    "Ambury Regional Park"
+   ]
   },
   {
-   "name": "Bluestone Store",
+   "name": "블루스톤 스토어",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.8476,
    "lng": 174.76469,
-   "wd": "Q29015309"
+   "wd": "Q29015309",
+   "aliases": [
+    "Bluestone Store"
+   ]
   },
   {
-   "name": "Cheltenham Beach",
+   "name": "첼트넘 비치",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.82225,
    "lng": 174.80829,
-   "wd": "Q32158757"
+   "wd": "Q32158757",
+   "aliases": [
+    "Cheltenham Beach"
+   ]
   },
   {
-   "name": "Strand Arcade",
+   "name": "스트랜드 아케이드",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.84972,
    "lng": 174.76417,
-   "wd": "Q76908568"
+   "wd": "Q76908568",
+   "aliases": [
+    "Strand Arcade"
+   ]
   },
   {
-   "name": "Church of St John the Baptist",
+   "name": "세례자 요한 교회",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.85499,
    "lng": 174.78049,
-   "wd": "Q77975038"
+   "wd": "Q77975038",
+   "aliases": [
+    "Church of St John the Baptist"
+   ]
   },
   {
-   "name": "Our Lady of the Assumption Catholic Church",
+   "name": "성모승천 성당",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.92236,
    "lng": 174.78812,
-   "wd": "Q77975040"
+   "wd": "Q77975040",
+   "aliases": [
+    "Our Lady of the Assumption Catholic Church"
+   ]
   },
   {
-   "name": "St Benedict's Church",
+   "name": "세인트 베네딕트 성당",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.86111,
    "lng": 174.7606,
-   "wd": "Q79304032"
+   "wd": "Q79304032",
+   "aliases": [
+    "St Benedict's Church"
+   ]
   },
   {
-   "name": "Milne & Choyce",
-   "cat": "관광",
-   "area": "오클랜드 지방",
-   "lat": -36.84676,
-   "lng": 174.76553,
-   "wd": "Q79309797"
-  },
-  {
-   "name": "Onehunga Primary School (Former)",
-   "cat": "관광",
-   "area": "오클랜드 지방",
-   "lat": -36.91974,
-   "lng": 174.78336,
-   "wd": "Q79312471"
-  },
-  {
-   "name": "Oakley Creek waterfall",
+   "name": "오클리 크리크 폭포",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.88219,
    "lng": 174.70318,
-   "wd": "Q104845060"
+   "wd": "Q104845060",
+   "aliases": [
+    "Oakley Creek waterfall"
+   ]
   },
   {
-   "name": "Ngahue Reserve",
+   "name": "응가후에 보호구역",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.88166,
    "lng": 174.84244,
-   "wd": "Q113493092"
+   "wd": "Q113493092",
+   "aliases": [
+    "Ngahue Reserve"
+   ]
   },
   {
-   "name": "Charlotte Museum Te Whare Takatāpui-Wāhine o Aotearoa",
+   "name": "샬럿 박물관",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.85812,
    "lng": 174.75515,
-   "wd": "Q115684298"
+   "wd": "Q115684298",
+   "aliases": [
+    "Charlotte Museum Te Whare Takatāpui-Wāhine o Aotearoa"
+   ]
   },
   {
-   "name": "Bharatiya Mandir Hindu Temple",
+   "name": "바라티야 힌두 사원",
    "cat": "관광",
    "area": "오클랜드 지방",
    "lat": -36.88614,
    "lng": 174.74151,
-   "wd": "Q124342108"
+   "wd": "Q124342108",
+   "aliases": [
+    "Bharatiya Mandir Hindu Temple"
+   ]
   },
   {
-   "name": "The Powerstation",
+   "name": "더 파워스테이션",
    "cat": "관광",
    "area": "",
    "lat": -36.86624,
    "lng": 174.76118,
-   "wd": "Q116798042"
+   "wd": "Q116798042",
+   "aliases": [
+    "The Powerstation"
+   ]
   }
  ]
 }

@@ -286,12 +286,15 @@
    "wd": "Q1156823"
   },
   {
-   "name": "National Academy of Design",
+   "name": "국립 디자인 아카데미",
    "cat": "관광",
    "area": "맨해튼",
    "lat": 40.73769,
    "lng": -73.98675,
-   "wd": "Q502218"
+   "wd": "Q502218",
+   "aliases": [
+    "National Academy of Design"
+   ]
   },
   {
    "name": "클린턴 성",
@@ -360,12 +363,15 @@
    "wd": "Q18157"
   },
   {
-   "name": "Art Students League of New York",
+   "name": "아트 스튜던츠 리그",
    "cat": "관광",
    "area": "뉴욕",
    "lat": 40.76608,
    "lng": -73.98086,
-   "wd": "Q705737"
+   "wd": "Q705737",
+   "aliases": [
+    "Art Students League of New York"
+   ]
   },
   {
    "name": "노이에 갤러리",
@@ -415,12 +421,15 @@
    "wd": "Q1025105"
   },
   {
-   "name": "Fearless Girl",
+   "name": "두려움 없는 소녀상",
    "cat": "관광",
    "area": "",
    "lat": 40.7067,
    "lng": -74.0109,
-   "wd": "Q28916452"
+   "wd": "Q28916452",
+   "aliases": [
+    "Fearless Girl"
+   ]
   },
   {
    "name": "뉴욕 박물관",
@@ -480,12 +489,15 @@
    "wd": "Q895455"
   },
   {
-   "name": "New Amsterdam Theatre",
+   "name": "뉴 암스테르담 극장",
    "cat": "관광",
    "area": "맨해튼",
    "lat": 40.75611,
    "lng": -73.98778,
-   "wd": "Q2004827"
+   "wd": "Q2004827",
+   "aliases": [
+    "New Amsterdam Theatre"
+   ]
   },
   {
    "name": "브롱크스-화이트스톤교",
@@ -510,12 +522,15 @@
    "wd": "Q952270"
   },
   {
-   "name": "New York Hall of Science",
+   "name": "뉴욕 과학관",
    "cat": "관광",
    "area": "뉴욕주",
    "lat": 40.74745,
    "lng": -73.85163,
-   "wd": "Q2306200"
+   "wd": "Q2306200",
+   "aliases": [
+    "New York Hall of Science"
+   ]
   },
   {
    "name": "헤럴드 스퀘어",
@@ -529,20 +544,26 @@
    "wd": "Q109982"
   },
   {
-   "name": "Gershwin Theatre",
+   "name": "거슈윈 극장",
    "cat": "관광",
    "area": "맨해튼",
    "lat": 40.7625,
    "lng": -73.985,
-   "wd": "Q1515007"
+   "wd": "Q1515007",
+   "aliases": [
+    "Gershwin Theatre"
+   ]
   },
   {
-   "name": "Broadway Theatre",
+   "name": "브로드웨이 극장",
    "cat": "관광",
    "area": "맨해튼",
    "lat": 40.76333,
    "lng": -73.98333,
-   "wd": "Q2925870"
+   "wd": "Q2925870",
+   "aliases": [
+    "Broadway Theatre"
+   ]
   },
   {
    "name": "민스코프 극장",
@@ -556,28 +577,15 @@
    "wd": "Q3062716"
   },
   {
-   "name": "David Geffen Hall",
+   "name": "데이비드 게펜 홀",
    "cat": "관광",
    "area": "어퍼웨스트사이드",
    "lat": 40.77278,
    "lng": -73.98306,
-   "wd": "Q790654"
-  },
-  {
-   "name": "Roosevelt Island Bridge",
-   "cat": "관광",
-   "area": "뉴욕",
-   "lat": 40.76333,
-   "lng": -73.94556,
-   "wd": "Q282921"
-  },
-  {
-   "name": "Fort Amsterdam",
-   "cat": "관광",
-   "area": "뉴욕주",
-   "lat": 40.704,
-   "lng": -74.0137,
-   "wd": "Q633264"
+   "wd": "Q790654",
+   "aliases": [
+    "David Geffen Hall"
+   ]
   },
   {
    "name": "사우스스트리트시포트",
@@ -591,36 +599,48 @@
    "wd": "Q223000"
   },
   {
-   "name": "Belasco Theatre",
+   "name": "벨라스코 극장",
    "cat": "관광",
    "area": "맨해튼",
    "lat": 40.75665,
    "lng": -73.98379,
-   "wd": "Q815278"
+   "wd": "Q815278",
+   "aliases": [
+    "Belasco Theatre"
+   ]
   },
   {
-   "name": "St. Paul's Chapel",
+   "name": "세인트 폴 성당",
    "cat": "관광",
    "area": "맨해튼",
    "lat": 40.7113,
    "lng": -74.00921,
-   "wd": "Q1325500"
+   "wd": "Q1325500",
+   "aliases": [
+    "St. Paul's Chapel"
+   ]
   },
   {
-   "name": "Rucker Park",
+   "name": "러커 파크",
    "cat": "관광",
    "area": "맨해튼",
    "lat": 40.82956,
    "lng": -73.93646,
-   "wd": "Q2004591"
+   "wd": "Q2004591",
+   "aliases": [
+    "Rucker Park"
+   ]
   },
   {
-   "name": "Ed Sullivan Theater",
+   "name": "에드 설리번 극장",
    "cat": "관광",
    "area": "맨해튼",
    "lat": 40.76375,
    "lng": -73.98278,
-   "wd": "Q3268242"
+   "wd": "Q3268242",
+   "aliases": [
+    "Ed Sullivan Theater"
+   ]
   },
   {
    "name": "팰리스 극장",
@@ -634,12 +654,15 @@
    "wd": "Q3360756"
   },
   {
-   "name": "Chicago The Musical Ambassador Theater",
+   "name": "앰배서더 극장",
    "cat": "관광",
    "area": "맨해튼",
    "lat": 40.76111,
    "lng": -73.985,
-   "wd": "Q4741073"
+   "wd": "Q4741073",
+   "aliases": [
+    "Chicago The Musical Ambassador Theater"
+   ]
   },
   {
    "name": "리버티 파크",
@@ -667,20 +690,26 @@
    "wd": "Q188031"
   },
   {
-   "name": "African Burial Ground National Monument",
+   "name": "아프리카인 묘지 국립기념물",
    "cat": "관광",
    "area": "맨해튼",
    "lat": 40.7146,
    "lng": -74.00447,
-   "wd": "Q383996"
+   "wd": "Q383996",
+   "aliases": [
+    "African Burial Ground National Monument"
+   ]
   },
   {
-   "name": "Hayden Planetarium",
+   "name": "헤이든 천문관",
    "cat": "관광",
    "area": "맨해튼",
    "lat": 40.7815,
    "lng": -73.9732,
-   "wd": "Q665475"
+   "wd": "Q665475",
+   "aliases": [
+    "Hayden Planetarium"
+   ]
   },
   {
    "name": "뉴욕 역사 협회",
@@ -718,20 +747,26 @@
    "wd": "Q1310674"
   },
   {
-   "name": "Majestic Theatre",
+   "name": "마제스틱 극장",
    "cat": "관광",
    "area": "맨해튼",
    "lat": 40.75833,
    "lng": -73.98806,
-   "wd": "Q1393081"
+   "wd": "Q1393081",
+   "aliases": [
+    "Majestic Theatre"
+   ]
   },
   {
-   "name": "Shubert Theatre",
+   "name": "슈버트 극장",
    "cat": "관광",
    "area": "맨해튼",
    "lat": 40.75806,
    "lng": -73.98722,
-   "wd": "Q1797756"
+   "wd": "Q1797756",
+   "aliases": [
+    "Shubert Theatre"
+   ]
   }
  ]
 }

@@ -26,12 +26,15 @@
    "wd": "Q496701"
   },
   {
-   "name": "Tower Infinity",
+   "name": "타워 인피니티",
    "cat": "관광",
    "area": "인천광역시",
    "lat": 37.53297,
    "lng": 126.6341,
-   "wd": "Q15076316"
+   "wd": "Q15076316",
+   "aliases": [
+    "Tower Infinity"
+   ]
   },
   {
    "name": "답동성당",
@@ -633,12 +636,15 @@
    "wd": "Q55730744"
   },
   {
-   "name": "National Museum of World Writing Systems",
+   "name": "국립세계문자박물관",
    "cat": "관광",
    "area": "",
    "lat": 37.3947,
    "lng": 126.638,
-   "wd": "Q127273742"
+   "wd": "Q127273742",
+   "aliases": [
+    "National Museum of World Writing Systems"
+   ]
   }
  ]
 }

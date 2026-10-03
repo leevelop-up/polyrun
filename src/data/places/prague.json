@@ -157,12 +157,15 @@
    "wd": "Q1488700"
   },
   {
-   "name": "St. George's Basilica",
+   "name": "성 이르지 성당",
    "cat": "관광",
    "area": "흐라드차니",
    "lat": 50.09111,
    "lng": 14.40222,
-   "wd": "Q1437065"
+   "wd": "Q1437065",
+   "aliases": [
+    "St. George's Basilica"
+   ]
   },
   {
    "name": "프라하 동물원",
@@ -176,12 +179,15 @@
    "wd": "Q220086"
   },
   {
-   "name": "St. Nicholas Church",
+   "name": "성 미쿨라시 성당",
    "cat": "관광",
    "area": "말라스트라나",
    "lat": 50.08778,
    "lng": 14.40361,
-   "wd": "Q2420392"
+   "wd": "Q2420392",
+   "aliases": [
+    "St. Nicholas Church"
+   ]
   },
   {
    "name": "발트슈타인궁",
@@ -206,20 +212,26 @@
    "wd": "Q603573"
   },
   {
-   "name": "Estates Theatre",
+   "name": "에스테이트 극장",
    "cat": "관광",
    "area": "스타레메스토",
    "lat": 50.08611,
    "lng": 14.42389,
-   "wd": "Q521155"
+   "wd": "Q521155",
+   "aliases": [
+    "Estates Theatre"
+   ]
   },
   {
-   "name": "Ss. Cyril and Methodius Cathedral",
+   "name": "성 키릴·메토디우스 대성당",
    "cat": "관광",
    "area": "노베메스토",
    "lat": 50.0759,
    "lng": 14.417,
-   "wd": "Q956163"
+   "wd": "Q956163",
+   "aliases": [
+    "Ss. Cyril and Methodius Cathedral"
+   ]
   },
   {
    "name": "구 시청사",
@@ -244,28 +256,37 @@
    "wd": "Q2595999"
   },
   {
-   "name": "Basilica of St Peter and St Paul",
+   "name": "성 베드로·바오로 대성당(비셰흐라드)",
    "cat": "관광",
    "area": "Vyšehrad",
    "lat": 50.06438,
    "lng": 14.41784,
-   "wd": "Q2916171"
+   "wd": "Q2916171",
+   "aliases": [
+    "Basilica of St Peter and St Paul"
+   ]
   },
   {
-   "name": "Břevnov Monastery",
+   "name": "브르제브노프 수도원",
    "cat": "관광",
    "area": "Břevnov",
    "lat": 50.08444,
    "lng": 14.35694,
-   "wd": "Q959499"
+   "wd": "Q959499",
+   "aliases": [
+    "Břevnov Monastery"
+   ]
   },
   {
-   "name": "Kinsky Palace",
+   "name": "킨스키 궁전",
    "cat": "관광",
    "area": "스타레메스토",
    "lat": 50.08806,
    "lng": 14.42167,
-   "wd": "Q27017"
+   "wd": "Q27017",
+   "aliases": [
+    "Kinsky Palace"
+   ]
   },
   {
    "name": "페트르진 타워",
@@ -279,12 +300,15 @@
    "wd": "Q12256"
   },
   {
-   "name": "Municipal House",
+   "name": "시민회관",
    "cat": "관광",
    "area": "스타레메스토",
    "lat": 50.08762,
    "lng": 14.42824,
-   "wd": "Q2334312"
+   "wd": "Q2334312",
+   "aliases": [
+    "Municipal House"
+   ]
   },
   {
    "name": "스탈린 기념비",
@@ -298,20 +322,26 @@
    "wd": "Q1706629"
   },
   {
-   "name": "Basilika of St. Ludmila",
+   "name": "성 루드밀라 성당",
    "cat": "관광",
    "area": "프라하-비노흐라디",
    "lat": 50.07528,
    "lng": 14.43722,
-   "wd": "Q632057"
+   "wd": "Q632057",
+   "aliases": [
+    "Basilika of St. Ludmila"
+   ]
   },
   {
-   "name": "State Opera Prague",
+   "name": "프라하 국립 오페라",
    "cat": "관광",
    "area": "프라하-비노흐라디",
    "lat": 50.08028,
    "lng": 14.43278,
-   "wd": "Q1886083"
+   "wd": "Q1886083",
+   "aliases": [
+    "State Opera Prague"
+   ]
   },
   {
    "name": "앤 여왕의 여름 궁전",
@@ -336,12 +366,15 @@
    "wd": "Q1064659"
   },
   {
-   "name": "Emmaus Monastery",
+   "name": "엠마우스 수도원",
    "cat": "관광",
    "area": "노베메스토",
    "lat": 50.07222,
    "lng": 14.4175,
-   "wd": "Q1000684"
+   "wd": "Q1000684",
+   "aliases": [
+    "Emmaus Monastery"
+   ]
   },
   {
    "name": "공산주의 희생자 기념비",
@@ -366,20 +399,26 @@
    "wd": "Q1503199"
   },
   {
-   "name": "Troja Palace",
+   "name": "트로야 성",
    "cat": "관광",
    "area": "Praha-Troja",
    "lat": 50.11642,
    "lng": 14.41288,
-   "wd": "Q80843"
+   "wd": "Q80843",
+   "aliases": [
+    "Troja Palace"
+   ]
   },
   {
-   "name": "Church of the Most Sacred Heart of Our Lord",
+   "name": "예수 성심 성당",
    "cat": "관광",
    "area": "프라하-비노흐라디",
    "lat": 50.07803,
    "lng": 14.45075,
-   "wd": "Q1164329"
+   "wd": "Q1164329",
+   "aliases": [
+    "Church of the Most Sacred Heart of Our Lord"
+   ]
   },
   {
    "name": "체르닌스키궁",
@@ -426,12 +465,15 @@
    "wd": "Q606406"
   },
   {
-   "name": "Charles Square",
+   "name": "카를 광장",
    "cat": "관광",
    "area": "노베메스토",
    "lat": 50.07583,
    "lng": 14.42083,
-   "wd": "Q1514053"
+   "wd": "Q1514053",
+   "aliases": [
+    "Charles Square"
+   ]
   },
   {
    "name": "검은 성모의 집",
@@ -456,36 +498,48 @@
    "wd": "Q4306202"
   },
   {
-   "name": "statue of Franz Kafka",
+   "name": "프란츠 카프카 두상",
    "cat": "관광",
    "area": "스타레메스토",
    "lat": 50.09011,
    "lng": 14.42072,
-   "wd": "Q943385"
+   "wd": "Q943385",
+   "aliases": [
+    "statue of Franz Kafka"
+   ]
   },
   {
-   "name": "Jan Hus Memorial",
+   "name": "얀 후스 기념비",
    "cat": "관광",
    "area": "스타레메스토",
    "lat": 50.08778,
    "lng": 14.42111,
-   "wd": "Q3499497"
+   "wd": "Q3499497",
+   "aliases": [
+    "Jan Hus Memorial"
+   ]
   },
   {
-   "name": "Letohrádek Hvězda",
+   "name": "별 여름 별궁(흐베즈다)",
    "cat": "관광",
    "area": "Liboc",
    "lat": 50.0834,
    "lng": 14.3263,
-   "wd": "Q3175128"
+   "wd": "Q3175128",
+   "aliases": [
+    "Letohrádek Hvězda"
+   ]
   },
   {
-   "name": "Jewish Museum in Prague",
+   "name": "프라하 유대인 박물관",
    "cat": "관광",
    "area": "요세포프",
    "lat": 50.09029,
    "lng": 14.4211,
-   "wd": "Q707850"
+   "wd": "Q707850",
+   "aliases": [
+    "Jewish Museum in Prague"
+   ]
   },
   {
    "name": "국립기술박물관 (프라하)",
@@ -499,12 +553,15 @@
    "wd": "Q96482839"
   },
   {
-   "name": "All Saints Church",
+   "name": "모든 성인 성당",
    "cat": "관광",
    "area": "프라하",
    "lat": 50.09074,
    "lng": 14.4023,
-   "wd": "Q2301984"
+   "wd": "Q2301984",
+   "aliases": [
+    "All Saints Church"
+   ]
   },
   {
    "name": "비트코프 국립 기념관",
@@ -518,12 +575,15 @@
    "wd": "Q3333173"
   },
   {
-   "name": "Church of St. James the Greater",
+   "name": "성 야고보 성당",
    "cat": "관광",
    "area": "스타레메스토",
    "lat": 50.08837,
    "lng": 14.42465,
-   "wd": "Q970834"
+   "wd": "Q970834",
+   "aliases": [
+    "Church of St. James the Greater"
+   ]
   },
   {
    "name": "공화국 광장",
@@ -537,12 +597,15 @@
    "wd": "Q1411047"
   },
   {
-   "name": "convent of St Agnes of Bohemia",
+   "name": "성 아네슈카 수도원",
    "cat": "관광",
    "area": "프라하",
    "lat": 50.09249,
    "lng": 14.42486,
-   "wd": "Q394832"
+   "wd": "Q394832",
+   "aliases": [
+    "convent of St Agnes of Bohemia"
+   ]
   },
   {
    "name": "성 기구 박물관",
@@ -567,84 +630,114 @@
    "wd": "Q225293"
   },
   {
-   "name": "Vinohrady Theatre",
+   "name": "비노흐라디 극장",
    "cat": "관광",
    "area": "프라하-비노흐라디",
    "lat": 50.07611,
    "lng": 14.43694,
-   "wd": "Q478043"
+   "wd": "Q478043",
+   "aliases": [
+    "Vinohrady Theatre"
+   ]
   },
   {
-   "name": "Bedřich Smetana Museum",
+   "name": "스메타나 박물관",
    "cat": "관광",
    "area": "스타레메스토",
    "lat": 50.08542,
    "lng": 14.41297,
-   "wd": "Q813969"
+   "wd": "Q813969",
+   "aliases": [
+    "Bedřich Smetana Museum"
+   ]
   },
   {
-   "name": "Church of St. Martin in the Wall",
+   "name": "성벽의 성 마르틴 성당",
    "cat": "관광",
    "area": "스타레메스토",
    "lat": 50.08306,
    "lng": 14.42,
-   "wd": "Q1329223"
+   "wd": "Q1329223",
+   "aliases": [
+    "Church of St. Martin in the Wall"
+   ]
   },
   {
-   "name": "Palác Lucerna",
+   "name": "루체르나 궁전",
    "cat": "쇼핑",
    "area": "노베메스토",
    "lat": 50.08113,
    "lng": 14.42582,
-   "wd": "Q3272106"
+   "wd": "Q3272106",
+   "aliases": [
+    "Palác Lucerna"
+   ]
   },
   {
-   "name": "Statue of St. Wenceslaus",
+   "name": "성 바츨라프 기마상",
    "cat": "관광",
    "area": "노베메스토",
    "lat": 50.07978,
    "lng": 14.42973,
-   "wd": "Q3497632"
+   "wd": "Q3497632",
+   "aliases": [
+    "Statue of St. Wenceslaus"
+   ]
   },
   {
-   "name": "St Thomas' Church",
+   "name": "성 토마스 성당",
    "cat": "관광",
    "area": "프라하",
    "lat": 50.0886,
    "lng": 14.4058,
-   "wd": "Q3498498"
+   "wd": "Q3498498",
+   "aliases": [
+    "St Thomas' Church"
+   ]
   },
   {
-   "name": "Svatopluk Čech Bridge",
+   "name": "스바토플루크 체흐 다리",
    "cat": "관광",
    "area": "프라하",
    "lat": 50.09302,
    "lng": 14.41706,
-   "wd": "Q3566417"
+   "wd": "Q3566417",
+   "aliases": [
+    "Svatopluk Čech Bridge"
+   ]
   },
   {
-   "name": "Schwarzenberg Palace",
+   "name": "슈바르첸베르크 궁전",
    "cat": "관광",
    "area": "흐라드차니",
    "lat": 50.08889,
    "lng": 14.39694,
-   "wd": "Q898695"
+   "wd": "Q898695",
+   "aliases": [
+    "Schwarzenberg Palace"
+   ]
   },
   {
-   "name": "Antonín Dvořák Museum",
+   "name": "드보르자크 박물관",
    "cat": "관광",
    "area": "노베메스토",
    "lat": 50.07367,
    "lng": 14.42698,
-   "wd": "Q608318"
+   "wd": "Q608318",
+   "aliases": [
+    "Antonín Dvořák Museum"
+   ]
   },
   {
-   "name": "Thun Palace",
+   "name": "툰 궁전",
    "cat": "관광",
    "area": "말라스트라나",
    "lat": 50.0892,
    "lng": 14.4039,
-   "wd": "Q12058930"
+   "wd": "Q12058930",
+   "aliases": [
+    "Thun Palace"
+   ]
   },
   {
    "name": "공산주의 박물관",
@@ -658,36 +751,37 @@
    "wd": "Q2571867"
   },
   {
-   "name": "Hotel International Prague",
-   "cat": "관광",
-   "area": "Dejvice",
-   "lat": 50.10919,
-   "lng": 14.39331,
-   "wd": "Q1874734"
-  },
-  {
-   "name": "Museum of Decorative Arts in Prague",
+   "name": "프라하 장식미술관",
    "cat": "관광",
    "area": "프라하",
    "lat": 50.08981,
    "lng": 14.41628,
-   "wd": "Q1349747"
+   "wd": "Q1349747",
+   "aliases": [
+    "Museum of Decorative Arts in Prague"
+   ]
   },
   {
-   "name": "Hunger Wall",
+   "name": "굶주림의 벽",
    "cat": "관광",
    "area": "흐라드차니",
    "lat": 50.083,
    "lng": 14.395,
-   "wd": "Q1054763"
+   "wd": "Q1054763",
+   "aliases": [
+    "Hunger Wall"
+   ]
   },
   {
-   "name": "Lobkowicz Palace",
+   "name": "롭코비츠 궁전",
    "cat": "관광",
    "area": "흐라드차니",
    "lat": 50.09161,
    "lng": 14.40485,
-   "wd": "Q2047086"
+   "wd": "Q2047086",
+   "aliases": [
+    "Lobkowicz Palace"
+   ]
   },
   {
    "name": "구시가지 다리탑",
@@ -701,12 +795,15 @@
    "wd": "Q445762"
   },
   {
-   "name": "Clam-Gallas Palace",
+   "name": "클람 갈라스 궁전",
    "cat": "관광",
    "area": "스타레메스토",
    "lat": 50.08655,
    "lng": 14.41814,
-   "wd": "Q946439"
+   "wd": "Q946439",
+   "aliases": [
+    "Clam-Gallas Palace"
+   ]
   },
   {
    "name": "호텔 파리 프라하",
@@ -720,20 +817,26 @@
    "wd": "Q12020416"
   },
   {
-   "name": "St. Clement's Cathedral, Prague",
+   "name": "성 클레멘트 대성당",
    "cat": "관광",
    "area": "스타레메스토",
    "lat": 50.0861,
    "lng": 14.415,
-   "wd": "Q13222298"
+   "wd": "Q13222298",
+   "aliases": [
+    "St. Clement's Cathedral, Prague"
+   ]
   },
   {
-   "name": "Jewish Ceremonial Hall",
+   "name": "유대인 의식의 집",
    "cat": "관광",
    "area": "요세포프",
    "lat": 50.09003,
    "lng": 14.41702,
-   "wd": "Q474468"
+   "wd": "Q474468",
+   "aliases": [
+    "Jewish Ceremonial Hall"
+   ]
   },
   {
    "name": "말라스트라나 다리탑",
@@ -758,68 +861,70 @@
    "wd": "Q3500624"
   },
   {
-   "name": "Barrandov Bridge",
-   "cat": "관광",
-   "area": "Hlubočepy",
-   "lat": 50.03861,
-   "lng": 14.40722,
-   "wd": "Q4041206"
-  },
-  {
-   "name": "Church of the Nativity of the Virgin Mary",
+   "name": "성모 탄생 성당(로레타)",
    "cat": "관광",
    "area": "Prague 10",
    "lat": 50.05278,
    "lng": 14.4875,
-   "wd": "Q45058"
+   "wd": "Q45058",
+   "aliases": [
+    "Church of the Nativity of the Virgin Mary"
+   ]
   },
   {
-   "name": "Stromovka",
+   "name": "스트로모프카 공원",
    "cat": "관광",
    "area": "",
    "lat": 50.1064,
    "lng": 14.4194,
-   "wd": "Q3500538"
+   "wd": "Q3500538",
+   "aliases": [
+    "Stromovka"
+   ]
   },
   {
-   "name": "St. Longin's Rotunda",
+   "name": "성 롱긴 로툰다",
    "cat": "관광",
    "area": "프라하",
    "lat": 50.07657,
    "lng": 14.42563,
-   "wd": "Q455168"
+   "wd": "Q455168",
+   "aliases": [
+    "St. Longin's Rotunda"
+   ]
   },
   {
-   "name": "Church of St. Gall",
+   "name": "성 하벨 성당",
    "cat": "관광",
    "area": "프라하",
    "lat": 50.0857,
    "lng": 14.4224,
-   "wd": "Q1174210"
+   "wd": "Q1174210",
+   "aliases": [
+    "Church of St. Gall"
+   ]
   },
   {
-   "name": "Provisional Theatre",
-   "cat": "관광",
-   "area": "프라하",
-   "lat": 50.08068,
-   "lng": 14.41358,
-   "wd": "Q1763605"
-  },
-  {
-   "name": "Chapel of the Holy Cross",
+   "name": "성 십자가 예배당",
    "cat": "관광",
    "area": "프라하",
    "lat": 50.09,
    "lng": 14.3994,
-   "wd": "Q3487047"
+   "wd": "Q3487047",
+   "aliases": [
+    "Chapel of the Holy Cross"
+   ]
   },
   {
-   "name": "Church of Saint Ignatius of Loyola in Prague",
+   "name": "성 이그나티우스 성당",
    "cat": "관광",
    "area": "프라하",
    "lat": 50.0756,
    "lng": 14.421,
-   "wd": "Q12030736"
+   "wd": "Q12030736",
+   "aliases": [
+    "Church of Saint Ignatius of Loyola in Prague"
+   ]
   },
   {
    "name": "토스칸스키궁",
@@ -833,20 +938,26 @@
    "wd": "Q836468"
   },
   {
-   "name": "Sternberg Palace",
+   "name": "슈테른베르크 궁전",
    "cat": "관광",
    "area": "흐라드차니",
    "lat": 50.09027,
    "lng": 14.39657,
-   "wd": "Q1291597"
+   "wd": "Q1291597",
+   "aliases": [
+    "Sternberg Palace"
+   ]
   },
   {
-   "name": "Judith Bridge",
+   "name": "유디트 다리",
    "cat": "관광",
    "area": "스타레메스토",
    "lat": 50.08639,
    "lng": 14.41194,
-   "wd": "Q897419"
+   "wd": "Q897419",
+   "aliases": [
+    "Judith Bridge"
+   ]
   },
   {
    "name": "무하 박물관",
@@ -860,76 +971,81 @@
    "wd": "Q959038"
   },
   {
-   "name": "St. Salvator Church",
+   "name": "성 살바토르 성당",
    "cat": "관광",
    "area": "스타레메스토",
    "lat": 50.08611,
    "lng": 14.41444,
-   "wd": "Q1425881"
+   "wd": "Q1425881",
+   "aliases": [
+    "St. Salvator Church"
+   ]
   },
   {
-   "name": "Malé náměstí",
+   "name": "말레 광장",
    "cat": "관광",
    "area": "스타레메스토",
    "lat": 50.08696,
    "lng": 14.41933,
-   "wd": "Q3509534"
+   "wd": "Q3509534",
+   "aliases": [
+    "Malé náměstí"
+   ]
   },
   {
-   "name": "Cathedral of Saint Lawrence",
+   "name": "성 바브르지네츠 대성당",
    "cat": "관광",
    "area": "말라스트라나",
    "lat": 50.08306,
    "lng": 14.39611,
-   "wd": "Q739366"
+   "wd": "Q739366",
+   "aliases": [
+    "Cathedral of Saint Lawrence"
+   ]
   },
   {
-   "name": "Church of Our Lady beneath the Chain",
+   "name": "쇠사슬 아래 성모 성당",
    "cat": "관광",
    "area": "말라스트라나",
    "lat": 50.08667,
    "lng": 14.40667,
-   "wd": "Q1506384"
+   "wd": "Q1506384",
+   "aliases": [
+    "Church of Our Lady beneath the Chain"
+   ]
   },
   {
-   "name": "Straka Academy",
-   "cat": "관광",
-   "area": "말라스트라나",
-   "lat": 50.09199,
-   "lng": 14.41192,
-   "wd": "Q12056506"
-  },
-  {
-   "name": "Libeň Bridge",
-   "cat": "관광",
-   "area": "Holešovice (Praha 7)",
-   "lat": 50.10333,
-   "lng": 14.46,
-   "wd": "Q11785801"
-  },
-  {
-   "name": "Church of St John Nepomucene of the Rock in Prague",
+   "name": "바위 위의 성 요한 네포무크 성당",
    "cat": "관광",
    "area": "프라하",
    "lat": 50.0723,
    "lng": 14.41856,
-   "wd": "Q455175"
+   "wd": "Q455175",
+   "aliases": [
+    "Church of St John Nepomucene of the Rock in Prague"
+   ]
   },
   {
-   "name": "Rotunda of the Finding of the Holy Cross",
+   "name": "성 십자가 로툰다",
    "cat": "관광",
    "area": "프라하",
    "lat": 50.08283,
    "lng": 14.41474,
-   "wd": "Q11735222"
+   "wd": "Q11735222",
+   "aliases": [
+    "Rotunda of the Finding of the Holy Cross"
+   ]
   },
   {
-   "name": "Smíchov Synagogue",
+   "name": "스미호프 시나고그",
    "cat": "관광",
    "area": "스미호프",
    "lat": 50.07178,
    "lng": 14.40298,
-   "wd": "Q3490873"
+   "wd": "Q3490873",
+   "aliases": [
+    "Smíchov Synagogue"
+   ]
   }
  ]
 }

@@ -93,60 +93,81 @@
    "wd": "Q713275"
   },
   {
-   "name": "Sonohyan-utaki",
+   "name": "소노향 우타키 석문",
    "cat": "관광",
    "area": "나하시",
    "lat": 26.21807,
    "lng": 127.71735,
-   "wd": "Q1053962"
+   "wd": "Q1053962",
+   "aliases": [
+    "Sonohyan-utaki"
+   ]
   },
   {
-   "name": "Shikina-en",
+   "name": "시키나엔",
    "cat": "관광",
    "area": "나하시",
    "lat": 26.20417,
    "lng": 127.71528,
-   "wd": "Q3133545"
+   "wd": "Q3133545",
+   "aliases": [
+    "Shikina-en"
+   ]
   },
   {
-   "name": "Mount Yae",
+   "name": "야에다케",
    "cat": "관광",
    "area": "나고시",
    "lat": 26.6355,
    "lng": 127.92836,
-   "wd": "Q4521260"
+   "wd": "Q4521260",
+   "aliases": [
+    "Mount Yae"
+   ]
   },
   {
-   "name": "Himeyuri Peace Museum",
+   "name": "히메유리 평화기념자료관",
    "cat": "관광",
    "area": "이토만시",
    "lat": 26.09635,
    "lng": 127.69033,
-   "wd": "Q1619050"
+   "wd": "Q1619050",
+   "aliases": [
+    "Himeyuri Peace Museum"
+   ]
   },
   {
-   "name": "Cornerstone of Peace",
+   "name": "평화의 초석",
    "cat": "관광",
    "area": "이토만시",
    "lat": 26.09519,
    "lng": 127.72503,
-   "wd": "Q22245432"
+   "wd": "Q22245432",
+   "aliases": [
+    "Cornerstone of Peace"
+   ]
   },
   {
-   "name": "Naminoue Shrine",
+   "name": "나미노우에 신궁",
    "cat": "관광",
    "area": "나하시",
    "lat": 26.22064,
    "lng": 127.67135,
-   "wd": "Q704636"
+   "wd": "Q704636",
+   "aliases": [
+    "Naminoue Shrine"
+   ]
   },
   {
-   "name": "Okinawa Prefectural Peace Memorial Museum",
+   "name": "오키나와현 평화기념자료관",
    "cat": "관광",
    "area": "이토만시",
    "lat": 26.09645,
    "lng": 127.72539,
-   "wd": "Q4555530"
+   "wd": "Q4555530",
+   "aliases": [
+    "Okinawa Prefectural Peace Memorial Museum"
+   ]
   },
   {
    "name": "후쿠슈엔",
@@ -160,76 +181,103 @@
    "wd": "Q5507745"
   },
   {
-   "name": "Urasoe yōdore",
+   "name": "우라소에 요도레",
    "cat": "관광",
    "area": "우라소에시",
    "lat": 26.24753,
    "lng": 127.73172,
-   "wd": "Q2037226"
+   "wd": "Q2037226",
+   "aliases": [
+    "Urasoe yōdore"
+   ]
   },
   {
-   "name": "Urasoe Art Museum",
+   "name": "우라소에 미술관",
    "cat": "관광",
    "area": "우라소에시",
    "lat": 26.24992,
    "lng": 127.71947,
-   "wd": "Q11558303"
+   "wd": "Q11558303",
+   "aliases": [
+    "Urasoe Art Museum"
+   ]
   },
   {
-   "name": "Shiseibyō",
+   "name": "시세이뵤(공자묘)",
    "cat": "관광",
    "area": "Kumemura",
    "lat": 26.21917,
    "lng": 127.67194,
-   "wd": "Q1101111"
+   "wd": "Q1101111",
+   "aliases": [
+    "Shiseibyō"
+   ]
   },
   {
-   "name": "Naha City Museum of History",
+   "name": "나하 시립역사박물관",
    "cat": "관광",
    "area": "Kumoji",
    "lat": 26.21378,
    "lng": 127.67925,
-   "wd": "Q22952141"
+   "wd": "Q22952141",
+   "aliases": [
+    "Naha City Museum of History"
+   ]
   },
   {
-   "name": "Gokoku-ji Temple",
+   "name": "고코쿠지",
    "cat": "관광",
    "area": "나하시",
    "lat": 26.21311,
    "lng": 127.67894,
-   "wd": "Q3109955"
+   "wd": "Q3109955",
+   "aliases": [
+    "Gokoku-ji Temple"
+   ]
   },
   {
-   "name": "Okinawa Shrine",
+   "name": "오키나와 신사",
    "cat": "관광",
    "area": "나하시",
    "lat": 26.21739,
    "lng": 127.73093,
-   "wd": "Q11139392"
+   "wd": "Q11139392",
+   "aliases": [
+    "Okinawa Shrine"
+   ]
   },
   {
-   "name": "Urasoe Castle",
+   "name": "우라소에성",
    "cat": "관광",
    "area": "우라소에시",
    "lat": 26.24662,
    "lng": 127.73232,
-   "wd": "Q2968342"
+   "wd": "Q2968342",
+   "aliases": [
+    "Urasoe Castle"
+   ]
   },
   {
-   "name": "Himeyuri Cenotaph",
+   "name": "히메유리의 탑",
    "cat": "관광",
    "area": "이토만시",
    "lat": 26.09635,
    "lng": 127.69034,
-   "wd": "Q1619055"
+   "wd": "Q1619055",
+   "aliases": [
+    "Himeyuri Cenotaph"
+   ]
   },
   {
-   "name": "Tsushima-maru Memorial Museum",
+   "name": "쓰시마마루 기념관",
    "cat": "관광",
    "area": "나하시",
    "lat": 26.22011,
    "lng": 127.67281,
-   "wd": "Q11458206"
+   "wd": "Q11458206",
+   "aliases": [
+    "Tsushima-maru Memorial Museum"
+   ]
   },
   {
    "name": "해군사령부호",
@@ -243,76 +291,103 @@
    "wd": "Q11559258"
   },
   {
-   "name": "Enkaku-ji",
+   "name": "엔카쿠지",
    "cat": "관광",
    "area": "나하시",
    "lat": 26.21833,
    "lng": 127.71944,
-   "wd": "Q10927533"
+   "wd": "Q10927533",
+   "aliases": [
+    "Enkaku-ji"
+   ]
   },
   {
-   "name": "Sakima Art Museum",
+   "name": "사키마 미술관",
    "cat": "관광",
    "area": "기노완시",
    "lat": 26.27803,
    "lng": 127.77497,
-   "wd": "Q11383094"
+   "wd": "Q11383094",
+   "aliases": [
+    "Sakima Art Museum"
+   ]
   },
   {
-   "name": "Sashiki Castle",
+   "name": "사시키성",
    "cat": "관광",
    "area": "난조시",
    "lat": 26.16244,
    "lng": 127.78953,
-   "wd": "Q11383189"
+   "wd": "Q11383189",
+   "aliases": [
+    "Sashiki Castle"
+   ]
   },
   {
-   "name": "Tamagusuku Castle",
+   "name": "다마구스쿠성",
    "cat": "관광",
    "area": "난조시",
    "lat": 26.144,
    "lng": 127.78081,
-   "wd": "Q11572469"
+   "wd": "Q11572469",
+   "aliases": [
+    "Tamagusuku Castle"
+   ]
   },
   {
-   "name": "Ōzato Castle",
+   "name": "오자토성",
    "cat": "관광",
    "area": "난조시",
    "lat": 26.1407,
    "lng": 127.769,
-   "wd": "Q15622697"
+   "wd": "Q15622697",
+   "aliases": [
+    "Ōzato Castle"
+   ]
   },
   {
-   "name": "Ryukyu University Museum (Fūjukan)",
+   "name": "류큐대학 박물관 후주칸",
    "cat": "관광",
    "area": "니시하라정",
    "lat": 26.25026,
    "lng": 127.76466,
-   "wd": "Q22111842"
+   "wd": "Q22111842",
+   "aliases": [
+    "Ryukyu University Museum (Fūjukan)"
+   ]
   },
   {
-   "name": "Ireibaru Site",
+   "name": "이레이바루 유적",
    "cat": "관광",
    "area": "자탄정",
    "lat": 26.32417,
    "lng": 127.75861,
-   "wd": "Q65248639"
+   "wd": "Q65248639",
+   "aliases": [
+    "Ireibaru Site"
+   ]
   },
   {
-   "name": "Chatan Castle",
+   "name": "자탄성",
    "cat": "관광",
    "area": "자탄정",
    "lat": 26.30947,
    "lng": 127.76698,
-   "wd": "Q109363823"
+   "wd": "Q109363823",
+   "aliases": [
+    "Chatan Castle"
+   ]
   },
   {
-   "name": "Sueyoshi-gū",
+   "name": "스에요시구",
    "cat": "관광",
    "area": "Shuri Sueyoshichō",
    "lat": 26.23017,
    "lng": 127.71406,
-   "wd": "Q11519653"
+   "wd": "Q11519653",
+   "aliases": [
+    "Sueyoshi-gū"
+   ]
   },
   {
    "name": "국영 오키나와 기념공원",
@@ -337,92 +412,125 @@
    "wd": "Q133878783"
   },
   {
-   "name": "Ameku-gū",
+   "name": "아메쿠구",
    "cat": "관광",
    "area": "나하시",
    "lat": 26.22833,
    "lng": 127.68263,
-   "wd": "Q11442211"
+   "wd": "Q11442211",
+   "aliases": [
+    "Ameku-gū"
+   ]
   },
   {
-   "name": "Oki-no-gū",
+   "name": "오키노구",
    "cat": "관광",
    "area": "나하시",
    "lat": 26.20278,
    "lng": 127.67708,
-   "wd": "Q11552497"
+   "wd": "Q11552497",
+   "aliases": [
+    "Oki-no-gū"
+   ]
   },
   {
-   "name": "Shikina-gū",
+   "name": "시키나구",
    "cat": "관광",
    "area": "나하시",
    "lat": 26.21021,
    "lng": 127.71344,
-   "wd": "Q11632260"
+   "wd": "Q11632260",
+   "aliases": [
+    "Shikina-gū"
+   ]
   },
   {
-   "name": "Heiwa-dōri",
+   "name": "헤이와 거리",
    "cat": "쇼핑",
    "area": "나하시",
    "lat": 26.21544,
    "lng": 127.68864,
-   "wd": "Q5701168"
+   "wd": "Q5701168",
+   "aliases": [
+    "Heiwa-dōri"
+   ]
   },
   {
-   "name": "Ōyama Shell Mound",
+   "name": "오야마 패총",
    "cat": "관광",
    "area": "기노완시",
    "lat": 26.2737,
    "lng": 127.74505,
-   "wd": "Q128031614"
+   "wd": "Q128031614",
+   "aliases": [
+    "Ōyama Shell Mound"
+   ]
   },
   {
-   "name": "Oroku-baka Tomb",
+   "name": "오로쿠 묘",
    "cat": "관광",
    "area": "기노완시",
    "lat": 26.26003,
    "lng": 127.73792,
-   "wd": "Q135206383"
+   "wd": "Q135206383",
+   "aliases": [
+    "Oroku-baka Tomb"
+   ]
   },
   {
-   "name": "Gushikawa Castle",
+   "name": "구시카와성",
    "cat": "관광",
    "area": "이토만시",
    "lat": 26.08028,
    "lng": 127.66444,
-   "wd": "Q11393737"
+   "wd": "Q11393737",
+   "aliases": [
+    "Gushikawa Castle"
+   ]
   },
   {
-   "name": "Itokazu Castle",
+   "name": "이토카즈성",
    "cat": "관광",
    "area": "난조시",
    "lat": 26.15139,
    "lng": 127.7625,
-   "wd": "Q30926453"
+   "wd": "Q30926453",
+   "aliases": [
+    "Itokazu Castle"
+   ]
   },
   {
-   "name": "Kakinohana Castle",
+   "name": "가키노하나성",
    "cat": "관광",
    "area": "난조시",
    "lat": 26.14817,
    "lng": 127.7928,
-   "wd": "Q30926474"
+   "wd": "Q30926474",
+   "aliases": [
+    "Kakinohana Castle"
+   ]
   },
   {
-   "name": "Tomori Stone Lion",
+   "name": "도모리 시사",
    "cat": "관광",
    "area": "야에세정",
    "lat": 26.13367,
    "lng": 127.72414,
-   "wd": "Q38266950"
+   "wd": "Q38266950",
+   "aliases": [
+    "Tomori Stone Lion"
+   ]
   },
   {
-   "name": "Nakamura House",
+   "name": "나카무라 가옥",
    "cat": "관광",
    "area": "기타나카구스쿠촌",
    "lat": 26.29,
    "lng": 127.80068,
-   "wd": "Q11365521"
+   "wd": "Q11365521",
+   "aliases": [
+    "Nakamura House"
+   ]
   },
   {
    "name": "미하마 타운 리조트 아메리칸 빌리지",
@@ -436,28 +544,37 @@
    "wd": "Q11609171"
   },
   {
-   "name": "Chatan Museum",
+   "name": "자탄 박물관",
    "cat": "관광",
    "area": "자탄정",
    "lat": 26.32358,
    "lng": 127.75904,
-   "wd": "Q132151557"
+   "wd": "Q132151557",
+   "aliases": [
+    "Chatan Museum"
+   ]
   },
   {
-   "name": "Asato Hachimangū",
+   "name": "아사토 하치만구",
    "cat": "관광",
    "area": "Asato",
    "lat": 26.22111,
    "lng": 127.69494,
-   "wd": "Q11451643"
+   "wd": "Q11451643",
+   "aliases": [
+    "Asato Hachimangū"
+   ]
   },
   {
-   "name": "Futenma-gū",
+   "name": "후텐마구",
    "cat": "관광",
    "area": "Futenma",
    "lat": 26.29292,
    "lng": 127.77722,
-   "wd": "Q11514556"
+   "wd": "Q11514556",
+   "aliases": [
+    "Futenma-gū"
+   ]
   },
   {
    "name": "DMM 카리유시 수족관",
@@ -471,20 +588,26 @@
    "wd": "Q56347666"
   },
   {
-   "name": "Kōri Bridge",
+   "name": "고리 대교",
    "cat": "관광",
    "area": "오키나와현",
    "lat": 26.68706,
    "lng": 128.01756,
-   "wd": "Q24834962"
+   "wd": "Q24834962",
+   "aliases": [
+    "Kōri Bridge"
+   ]
   },
   {
-   "name": "Omoro Botanical Garden",
+   "name": "오모로 식물원",
    "cat": "관광",
    "area": "모토부정",
    "lat": 26.69106,
    "lng": 127.87753,
-   "wd": "Q7090650"
+   "wd": "Q7090650",
+   "aliases": [
+    "Omoro Botanical Garden"
+   ]
   }
  ]
 }

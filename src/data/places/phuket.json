@@ -3,204 +3,279 @@
  "builtAt": "2026-10-03",
  "picks": [
   {
-   "name": "Hat Kata",
+   "name": "까따 비치",
    "cat": "관광",
    "area": "Karon",
    "lat": 7.82038,
    "lng": 98.29787,
-   "wd": "Q14220372"
+   "wd": "Q14220372",
+   "aliases": [
+    "Hat Kata"
+   ]
   },
   {
-   "name": "HMS Stoic",
+   "name": "HMS 스토익 난파선",
    "cat": "관광",
    "area": "",
    "lat": 7.9,
    "lng": 98.45,
-   "wd": "Q1337006"
+   "wd": "Q1337006",
+   "aliases": [
+    "HMS Stoic"
+   ]
   },
   {
-   "name": "Jui Tui Shrine",
+   "name": "쭈이뚜이 사당",
    "cat": "관광",
    "area": "Talat Nuea",
    "lat": 7.88304,
    "lng": 98.38329,
-   "wd": "Q6631981"
+   "wd": "Q6631981",
+   "aliases": [
+    "Jui Tui Shrine"
+   ]
   },
   {
-   "name": "Rawai",
+   "name": "라와이",
    "cat": "관광",
    "area": "Rawai",
    "lat": 7.77257,
    "lng": 98.32276,
-   "wd": "Q14217890"
+   "wd": "Q14217890",
+   "aliases": [
+    "Rawai"
+   ]
   },
   {
-   "name": "Holy Trinity Church",
+   "name": "성 삼위일체 성당",
    "cat": "관광",
    "area": "탈랑군",
    "lat": 8.0412,
    "lng": 98.3454,
-   "wd": "Q48948294"
+   "wd": "Q48948294",
+   "aliases": [
+    "Holy Trinity Church"
+   ]
   },
   {
-   "name": "Kata Noi beach",
+   "name": "까따노이 비치",
    "cat": "관광",
    "area": "푸껫주",
    "lat": 7.80639,
    "lng": 98.29889,
-   "wd": "Q13424403"
+   "wd": "Q13424403",
+   "aliases": [
+    "Kata Noi beach"
+   ]
   },
   {
-   "name": "Sang Tham Shrine",
+   "name": "쌍탐 사당",
    "cat": "관광",
    "area": "",
    "lat": 7.8839,
    "lng": 98.38789,
-   "wd": "Q97323619"
+   "wd": "Q97323619",
+   "aliases": [
+    "Sang Tham Shrine"
+   ]
   },
   {
-   "name": "Bang Thao beach",
+   "name": "방따오 비치",
    "cat": "관광",
    "area": "푸껫주",
    "lat": 8.00811,
    "lng": 98.29223,
-   "wd": "Q16306319"
+   "wd": "Q16306319",
+   "aliases": [
+    "Bang Thao beach"
+   ]
   },
   {
-   "name": "Phuket Thai Hua Museum",
+   "name": "푸껫 타이화 박물관",
    "cat": "관광",
    "area": "푸껫주",
    "lat": 7.88553,
    "lng": 98.38685,
-   "wd": "Q64555724"
+   "wd": "Q64555724",
+   "aliases": [
+    "Phuket Thai Hua Museum"
+   ]
   },
   {
-   "name": "Laem Sing",
+   "name": "램씽 비치",
    "cat": "관광",
    "area": "Kamala",
    "lat": 7.96831,
    "lng": 98.27953,
-   "wd": "Q1800122"
+   "wd": "Q1800122",
+   "aliases": [
+    "Laem Sing"
+   ]
   },
   {
-   "name": "Thalang National Museum",
+   "name": "탈랑 국립박물관",
    "cat": "관광",
    "area": "Si Sunthon",
    "lat": 7.981,
    "lng": 98.36678,
-   "wd": "Q13018175"
+   "wd": "Q13018175",
+   "aliases": [
+    "Thalang National Museum"
+   ]
   },
   {
-   "name": "Ya Nui",
+   "name": "야누이 비치",
    "cat": "관광",
    "area": "Rawai",
    "lat": 7.76795,
    "lng": 98.30634,
-   "wd": "Q14928184"
+   "wd": "Q14928184",
+   "aliases": [
+    "Ya Nui"
+   ]
   },
   {
-   "name": "Kanchanaphisek Lighthouse",
+   "name": "깐짜나피섹 등대",
    "cat": "관광",
    "area": "Rawai",
    "lat": 7.76194,
    "lng": 98.30552,
-   "wd": "Q16307767"
+   "wd": "Q16307767",
+   "aliases": [
+    "Kanchanaphisek Lighthouse"
+   ]
   },
   {
-   "name": "Wat Si Sunthon",
+   "name": "왓 시순톤",
    "cat": "관광",
    "area": "Si Sunthon",
    "lat": 7.98997,
    "lng": 98.35483,
-   "wd": "Q56561800"
+   "wd": "Q56561800",
+   "aliases": [
+    "Wat Si Sunthon"
+   ]
   },
   {
-   "name": "Put Cho shrine",
+   "name": "뿟쪼 사당",
    "cat": "관광",
    "area": "Talat Nuea",
    "lat": 7.88357,
    "lng": 98.38329,
-   "wd": "Q56561898"
+   "wd": "Q56561898",
+   "aliases": [
+    "Put Cho shrine"
+   ]
   },
   {
-   "name": "Phuket Seashell Museum",
+   "name": "푸껫 조개박물관",
    "cat": "관광",
    "area": "",
    "lat": 7.78288,
    "lng": 98.32864,
-   "wd": "Q16678462"
+   "wd": "Q16678462",
+   "aliases": [
+    "Phuket Seashell Museum"
+   ]
   },
   {
-   "name": "Nai Thon and Nai Yang",
+   "name": "나이톤·나이양 비치",
    "cat": "관광",
    "area": "푸껫주",
    "lat": 8.06044,
    "lng": 98.2775,
-   "wd": "Q14226243"
+   "wd": "Q14226243",
+   "aliases": [
+    "Nai Thon and Nai Yang"
+   ]
   },
   {
-   "name": "Nam Tok Bang Pae",
+   "name": "방패 폭포",
    "cat": "관광",
    "area": "푸껫주",
    "lat": 8.03944,
    "lng": 98.38917,
-   "wd": "Q34845732"
+   "wd": "Q34845732",
+   "aliases": [
+    "Nam Tok Bang Pae"
+   ]
   },
   {
-   "name": "Nam Tok Kathu",
+   "name": "까투 폭포",
    "cat": "관광",
    "area": "푸껫주",
    "lat": 7.93072,
    "lng": 98.32589,
-   "wd": "Q34846391"
+   "wd": "Q34846391",
+   "aliases": [
+    "Nam Tok Kathu"
+   ]
   },
   {
-   "name": "Peranakannitat Museum",
+   "name": "페라나칸니탓 박물관",
    "cat": "관광",
    "area": "푸껫주",
    "lat": 7.88373,
    "lng": 98.39073,
-   "wd": "Q109654140"
+   "wd": "Q109654140",
+   "aliases": [
+    "Peranakannitat Museum"
+   ]
   },
   {
-   "name": "Banana beach",
+   "name": "바나나 비치",
    "cat": "관광",
    "area": "푸껫주",
    "lat": 8.04191,
    "lng": 98.27636,
-   "wd": "Q110518315"
+   "wd": "Q110518315",
+   "aliases": [
+    "Banana beach"
+   ]
   },
   {
-   "name": "Kathu shrine",
+   "name": "까투 사당",
    "cat": "관광",
    "area": "Kathu",
    "lat": 7.91642,
    "lng": 98.34508,
-   "wd": "Q13021409"
+   "wd": "Q13021409",
+   "aliases": [
+    "Kathu shrine"
+   ]
   },
   {
-   "name": "Karon Noi Beach",
+   "name": "까론노이 비치",
    "cat": "관광",
    "area": "Karon",
    "lat": 7.86494,
    "lng": 98.28247,
-   "wd": "Q49321479"
+   "wd": "Q49321479",
+   "aliases": [
+    "Karon Noi Beach"
+   ]
   },
   {
-   "name": "Pansea Beach",
+   "name": "판시 비치",
    "cat": "관광",
    "area": "Choeng Thale",
    "lat": 7.98233,
    "lng": 98.27653,
-   "wd": "Q49322446"
+   "wd": "Q49322446",
+   "aliases": [
+    "Pansea Beach"
+   ]
   },
   {
-   "name": "Sire beach",
+   "name": "시레 비치",
    "cat": "관광",
    "area": "Ratsada",
    "lat": 7.87443,
    "lng": 98.42566,
-   "wd": "Q49324781"
+   "wd": "Q49324781",
+   "aliases": [
+    "Sire beach"
+   ]
   }
  ]
 }

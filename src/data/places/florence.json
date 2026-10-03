@@ -203,12 +203,15 @@
    "wd": "Q913058"
   },
   {
-   "name": "Pazzi Chapel",
+   "name": "파치 예배당",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.76738,
    "lng": 11.26282,
-   "wd": "Q600355"
+   "wd": "Q600355",
+   "aliases": [
+    "Pazzi Chapel"
+   ]
   },
   {
    "name": "조토의 종탑",
@@ -233,12 +236,15 @@
    "wd": "Q1519975"
   },
   {
-   "name": "Palazzo Rucellai",
+   "name": "루첼라이 궁전",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.77128,
    "lng": 11.2496,
-   "wd": "Q923702"
+   "wd": "Q923702",
+   "aliases": [
+    "Palazzo Rucellai"
+   ]
   },
   {
    "name": "산타 마리아 델 카르미네 성당",
@@ -263,12 +269,15 @@
    "wd": "Q637237"
   },
   {
-   "name": "Brancacci Chapel",
+   "name": "브란카치 예배당",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.76845,
    "lng": 11.24403,
-   "wd": "Q1996075"
+   "wd": "Q1996075",
+   "aliases": [
+    "Brancacci Chapel"
+   ]
   },
   {
    "name": "두오모 오페라 박물관",
@@ -304,12 +313,15 @@
    "wd": "Q13453137"
   },
   {
-   "name": "Museo Galileo",
+   "name": "갈릴레오 박물관",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.76768,
    "lng": 11.25602,
-   "wd": "Q1668196"
+   "wd": "Q1668196",
+   "aliases": [
+    "Museo Galileo"
+   ]
   },
   {
    "name": "카사 부오나로티",
@@ -400,20 +412,26 @@
    "wd": "Q281532"
   },
   {
-   "name": "Sassetti Chapel",
+   "name": "사세티 예배당",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.77028,
    "lng": 11.25083,
-   "wd": "Q526637"
+   "wd": "Q526637",
+   "aliases": [
+    "Sassetti Chapel"
+   ]
   },
   {
-   "name": "New Sacristy",
+   "name": "메디치 신성구실",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.77516,
    "lng": 11.25381,
-   "wd": "Q660876"
+   "wd": "Q660876",
+   "aliases": [
+    "New Sacristy"
+   ]
   },
   {
    "name": "팔라티나 미술관",
@@ -427,20 +445,26 @@
    "wd": "Q866498"
   },
   {
-   "name": "Villa La Petraia",
+   "name": "페트라이아 별장",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.81898,
    "lng": 11.23527,
-   "wd": "Q958758"
+   "wd": "Q958758",
+   "aliases": [
+    "Villa La Petraia"
+   ]
   },
   {
-   "name": "Teatro della Pergola",
+   "name": "페르골라 극장",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.77328,
    "lng": 11.26108,
-   "wd": "Q1261970"
+   "wd": "Q1261970",
+   "aliases": [
+    "Teatro della Pergola"
+   ]
   },
   {
    "name": "안티노리 궁전",
@@ -465,12 +489,15 @@
    "wd": "Q72786"
   },
   {
-   "name": "Museo Horne",
+   "name": "호르네 미술관",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.76752,
    "lng": 11.25941,
-   "wd": "Q531218"
+   "wd": "Q531218",
+   "aliases": [
+    "Museo Horne"
+   ]
   },
   {
    "name": "우구치오니궁",
@@ -484,12 +511,15 @@
    "wd": "Q534158"
   },
   {
-   "name": "Sagrestia Vecchia",
+   "name": "구 성구실",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.77471,
    "lng": 11.25365,
-   "wd": "Q578805"
+   "wd": "Q578805",
+   "aliases": [
+    "Sagrestia Vecchia"
+   ]
   },
   {
    "name": "산 살비",
@@ -503,12 +533,15 @@
    "wd": "Q692591"
   },
   {
-   "name": "San Gaetano",
+   "name": "산 가에타노 성당",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.77246,
    "lng": 11.25179,
-   "wd": "Q764060"
+   "wd": "Q764060",
+   "aliases": [
+    "San Gaetano"
+   ]
   },
   {
    "name": "포르테차 다 바소",
@@ -522,36 +555,48 @@
    "wd": "Q913295"
   },
   {
-   "name": "San Frediano in Cestello",
+   "name": "산 프레디아노 인 체스텔로 성당",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.76999,
    "lng": 11.24397,
-   "wd": "Q1071192"
+   "wd": "Q1071192",
+   "aliases": [
+    "San Frediano in Cestello"
+   ]
   },
   {
-   "name": "English Cemetery, Florence",
+   "name": "피렌체 영국인 묘지",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.77752,
    "lng": 11.26816,
-   "wd": "Q1092134"
+   "wd": "Q1092134",
+   "aliases": [
+    "English Cemetery, Florence"
+   ]
   },
   {
-   "name": "Accademia delle Arti del Disegno",
+   "name": "피렌체 디자인 아카데미",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.77691,
    "lng": 11.25848,
-   "wd": "Q1760178"
+   "wd": "Q1760178",
+   "aliases": [
+    "Accademia delle Arti del Disegno"
+   ]
   },
   {
-   "name": "Botanical Garden of Florence",
+   "name": "피렌체 식물원",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.77941,
    "lng": 11.26174,
-   "wd": "Q1875558"
+   "wd": "Q1875558",
+   "aliases": [
+    "Botanical Garden of Florence"
+   ]
   },
   {
    "name": "산티 아포스톨리 교회",
@@ -609,20 +654,26 @@
    "wd": "Q3672358"
   },
   {
-   "name": "Fiesole Cathedral",
+   "name": "피에솔레 대성당",
    "cat": "관광",
    "area": "피에솔레",
    "lat": 43.80722,
    "lng": 11.2925,
-   "wd": "Q965018"
+   "wd": "Q965018",
+   "aliases": [
+    "Fiesole Cathedral"
+   ]
   },
   {
-   "name": "Santa Felicita",
+   "name": "산타 펠리치타 성당",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.76683,
    "lng": 11.25264,
-   "wd": "Q1069665"
+   "wd": "Q1069665",
+   "aliases": [
+    "Santa Felicita"
+   ]
   },
   {
    "name": "산티 시모네 에 주다",
@@ -647,36 +698,48 @@
    "wd": "Q1784984"
   },
   {
-   "name": "Università di Firenze Museo Zoologico \"La Specola\"",
+   "name": "라 스페콜라 동물학 박물관",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.76463,
    "lng": 11.24713,
-   "wd": "Q1799158"
+   "wd": "Q1799158",
+   "aliases": [
+    "Università di Firenze Museo Zoologico \"La Specola\""
+   ]
   },
   {
-   "name": "Ponte alle Grazie",
+   "name": "그라치에 다리",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.76621,
    "lng": 11.25873,
-   "wd": "Q2517000"
+   "wd": "Q2517000",
+   "aliases": [
+    "Ponte alle Grazie"
+   ]
   },
   {
-   "name": "Officina di Santa Maria Novella",
+   "name": "산타 마리아 노벨라 약국",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.77434,
    "lng": 11.24788,
-   "wd": "Q2517185"
+   "wd": "Q2517185",
+   "aliases": [
+    "Officina di Santa Maria Novella"
+   ]
   },
   {
-   "name": "Ponte Amerigo Vespucci",
+   "name": "아메리고 베스푸치 다리",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.77197,
    "lng": 11.24247,
-   "wd": "Q3397701"
+   "wd": "Q3397701",
+   "aliases": [
+    "Ponte Amerigo Vespucci"
+   ]
   },
   {
    "name": "산타 마리아 마조레",
@@ -723,12 +786,15 @@
    "wd": "Q866192"
   },
   {
-   "name": "Palazzo Bartolini Salimbeni",
+   "name": "바르톨리니 살림베니 궁전",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.77019,
    "lng": 11.25169,
-   "wd": "Q896608"
+   "wd": "Q896608",
+   "aliases": [
+    "Palazzo Bartolini Salimbeni"
+   ]
   },
   {
    "name": "피렌체 자연사 박물관",
@@ -764,12 +830,15 @@
    "wd": "Q1092486"
   },
   {
-   "name": "San Felice church",
+   "name": "산 펠리체 성당",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.76517,
    "lng": 11.24766,
-   "wd": "Q3585333"
+   "wd": "Q3585333",
+   "aliases": [
+    "San Felice church"
+   ]
   },
   {
    "name": "앗시쿠라치오니 제네랄리궁",
@@ -805,12 +874,15 @@
    "wd": "Q25060814"
   },
   {
-   "name": "Palace of Bianca Cappello",
+   "name": "비앙카 카펠로 궁전",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.7668,
    "lng": 11.2489,
-   "wd": "Q604163"
+   "wd": "Q604163",
+   "aliases": [
+    "Palace of Bianca Cappello"
+   ]
   },
   {
    "name": "알베르티탑",
@@ -824,12 +896,15 @@
    "wd": "Q649367"
   },
   {
-   "name": "Palazzo di Parte Guelfa",
+   "name": "겔프당 궁전",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.76954,
    "lng": 11.25368,
-   "wd": "Q822020"
+   "wd": "Q822020",
+   "aliases": [
+    "Palazzo di Parte Guelfa"
+   ]
   },
   {
    "name": "산타 크로체 광장",
@@ -843,12 +918,15 @@
    "wd": "Q1017385"
   },
   {
-   "name": "Russian Church",
+   "name": "러시아 정교회 성당",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.78385,
    "lng": 11.25495,
-   "wd": "Q1072826"
+   "wd": "Q1072826",
+   "aliases": [
+    "Russian Church"
+   ]
   },
   {
    "name": "곤디 궁전",
@@ -873,28 +951,37 @@
    "wd": "Q1090690"
   },
   {
-   "name": "Casino Mediceo di San Marco",
+   "name": "산 마르코 메디치 저택",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.77911,
    "lng": 11.25866,
-   "wd": "Q2941087"
+   "wd": "Q2941087",
+   "aliases": [
+    "Casino Mediceo di San Marco"
+   ]
   },
   {
-   "name": "Complex of San Firenze",
+   "name": "산 피렌체 복합건물",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.7696,
    "lng": 11.2581,
-   "wd": "Q2990427"
+   "wd": "Q2990427",
+   "aliases": [
+    "Complex of San Firenze"
+   ]
   },
   {
-   "name": "San Giovannino dei Cavalieri",
+   "name": "산 조반니노 데이 카발리에리 성당",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.78009,
    "lng": 11.2588,
-   "wd": "Q3670567"
+   "wd": "Q3670567",
+   "aliases": [
+    "San Giovannino dei Cavalieri"
+   ]
   },
   {
    "name": "산 살바토레 알 베스코보",
@@ -908,60 +995,70 @@
    "wd": "Q3671987"
   },
   {
-   "name": "Brunelleschi's dome",
+   "name": "브루넬레스키의 돔",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.7727,
    "lng": 11.25582,
-   "wd": "Q3699556"
+   "wd": "Q3699556",
+   "aliases": [
+    "Brunelleschi's dome"
+   ]
   },
   {
-   "name": "Palazzo Pazzi",
+   "name": "파치 궁전",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.77127,
    "lng": 11.25836,
-   "wd": "Q3890636"
+   "wd": "Q3890636",
+   "aliases": [
+    "Palazzo Pazzi"
+   ]
   },
   {
-   "name": "Salvatore Ferragamo Museum",
+   "name": "살바토레 페라가모 박물관",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.77004,
    "lng": 11.25092,
-   "wd": "Q7406653"
+   "wd": "Q7406653",
+   "aliases": [
+    "Salvatore Ferragamo Museum"
+   ]
   },
   {
-   "name": "Boboli obelisk",
+   "name": "보볼리 오벨리스크",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.7641,
    "lng": 11.2509,
-   "wd": "Q22936182"
+   "wd": "Q22936182",
+   "aliases": [
+    "Boboli obelisk"
+   ]
   },
   {
-   "name": "Badia Fiesolana",
+   "name": "바디아 피에솔라나",
    "cat": "관광",
    "area": "피에솔레",
    "lat": 43.80308,
    "lng": 11.28308,
-   "wd": "Q3632776"
+   "wd": "Q3632776",
+   "aliases": [
+    "Badia Fiesolana"
+   ]
   },
   {
-   "name": "Saint George",
-   "cat": "관광",
-   "area": "",
-   "lat": 43.7708,
-   "lng": 11.2549,
-   "wd": "Q3947208"
-  },
-  {
-   "name": "Palazzo dello Strozzino",
+   "name": "스트로치노 궁전",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.77084,
    "lng": 11.25257,
-   "wd": "Q514448"
+   "wd": "Q514448",
+   "aliases": [
+    "Palazzo dello Strozzino"
+   ]
   },
   {
    "name": "산 로렌초 광장",
@@ -975,20 +1072,26 @@
    "wd": "Q978994"
   },
   {
-   "name": "Peruzzi Chapel",
+   "name": "페루치 예배당",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.76806,
    "lng": 11.2634,
-   "wd": "Q1133664"
+   "wd": "Q1133664",
+   "aliases": [
+    "Peruzzi Chapel"
+   ]
   },
   {
-   "name": "Palazzo Corsini",
+   "name": "코르시니 궁전",
    "cat": "관광",
    "area": "피렌체",
    "lat": 43.77078,
    "lng": 11.24922,
-   "wd": "Q1228199"
+   "wd": "Q1228199",
+   "aliases": [
+    "Palazzo Corsini"
+   ]
   }
  ]
 }

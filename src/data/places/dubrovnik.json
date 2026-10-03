@@ -47,12 +47,15 @@
    "wd": "Q2986276"
   },
   {
-   "name": "Franciscan Church and Monastery",
+   "name": "프란치스코회 수도원",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.6418,
    "lng": 18.1078,
-   "wd": "Q3509032"
+   "wd": "Q3509032",
+   "aliases": [
+    "Franciscan Church and Monastery"
+   ]
   },
   {
    "name": "성 구세주 교회",
@@ -66,28 +69,37 @@
    "wd": "Q3434033"
   },
   {
-   "name": "Franjo Tuđman Bridge",
+   "name": "프라뇨 투지만 다리",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.66806,
    "lng": 18.07917,
-   "wd": "Q1442774"
+   "wd": "Q1442774",
+   "aliases": [
+    "Franjo Tuđman Bridge"
+   ]
   },
   {
-   "name": "St Blaise's Church",
+   "name": "성 블라호 성당",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.64056,
    "lng": 18.11028,
-   "wd": "Q2986286"
+   "wd": "Q2986286",
+   "aliases": [
+    "St Blaise's Church"
+   ]
   },
   {
-   "name": "Onofrio fountain",
+   "name": "오노프리오 분수",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.64153,
    "lng": 18.10722,
-   "wd": "Q2624621"
+   "wd": "Q2624621",
+   "aliases": [
+    "Onofrio fountain"
+   ]
   },
   {
    "name": "두브로브니크 종탑",
@@ -101,316 +113,411 @@
    "wd": "Q3509014"
   },
   {
-   "name": "Saint Ignatius Church",
+   "name": "성 이그나티우스 성당",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.6395,
    "lng": 18.10936,
-   "wd": "Q682758"
+   "wd": "Q682758",
+   "aliases": [
+    "Saint Ignatius Church"
+   ]
   },
   {
-   "name": "Bokar Fortress",
+   "name": "보카르 요새",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.64092,
    "lng": 18.10613,
-   "wd": "Q3508984"
+   "wd": "Q3508984",
+   "aliases": [
+    "Bokar Fortress"
+   ]
   },
   {
-   "name": "Pile Gate, Dubrovnik",
+   "name": "필레 문",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.64174,
    "lng": 18.10685,
-   "wd": "Q3509061"
+   "wd": "Q3509061",
+   "aliases": [
+    "Pile Gate, Dubrovnik"
+   ]
   },
   {
-   "name": "Ploče Gate, Dubrovnik",
+   "name": "플로체 문",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.642,
    "lng": 18.11274,
-   "wd": "Q3509567"
+   "wd": "Q3509567",
+   "aliases": [
+    "Ploče Gate, Dubrovnik"
+   ]
   },
   {
-   "name": "Lazzarettos of Dubrovnik",
+   "name": "두브로브니크 검역소",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.64172,
    "lng": 18.11319,
-   "wd": "Q12635361"
+   "wd": "Q12635361",
+   "aliases": [
+    "Lazzarettos of Dubrovnik"
+   ]
   },
   {
-   "name": "Mala Onofrijeva česma",
+   "name": "작은 오노프리오 분수",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.64102,
    "lng": 18.11051,
-   "wd": "Q3443120"
+   "wd": "Q3443120",
+   "aliases": [
+    "Mala Onofrijeva česma"
+   ]
   },
   {
-   "name": "Dominican Church and Monastery in Dubrovnik",
+   "name": "도미니코회 수도원",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.64158,
    "lng": 18.11144,
-   "wd": "Q3509039"
+   "wd": "Q3509039",
+   "aliases": [
+    "Dominican Church and Monastery in Dubrovnik"
+   ]
   },
   {
-   "name": "Holy Annunciation Orthodox church",
+   "name": "성모영보 정교회",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.6409,
    "lng": 18.10886,
-   "wd": "Q5884916"
+   "wd": "Q5884916",
+   "aliases": [
+    "Holy Annunciation Orthodox church"
+   ]
   },
   {
-   "name": "Banje Beach",
+   "name": "반예 비치",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.64139,
    "lng": 18.11583,
-   "wd": "Q11908072"
+   "wd": "Q11908072",
+   "aliases": [
+    "Banje Beach"
+   ]
   },
   {
-   "name": "Diocesan Classical Gymnasium \"Ruđer Bošković\" in Dubrovnik",
-   "cat": "관광",
-   "area": "두브로브니크",
-   "lat": 42.63929,
-   "lng": 18.10928,
-   "wd": "Q5278780"
-  },
-  {
-   "name": "Petka",
+   "name": "페트카 숲",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.65104,
    "lng": 18.0681,
-   "wd": "Q11941348"
+   "wd": "Q11941348",
+   "aliases": [
+    "Petka"
+   ]
   },
   {
-   "name": "Maritime Museum",
+   "name": "해양박물관",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.6398,
    "lng": 18.1122,
-   "wd": "Q12640048"
+   "wd": "Q12640048",
+   "aliases": [
+    "Maritime Museum"
+   ]
   },
   {
-   "name": "Fort Imperial",
+   "name": "임페리얼 요새",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.65,
    "lng": 18.11056,
-   "wd": "Q12644250"
+   "wd": "Q12644250",
+   "aliases": [
+    "Fort Imperial"
+   ]
   },
   {
-   "name": "Danče Beach",
+   "name": "단체 비치",
    "cat": "관광",
    "area": "두브로브니크네레트바주",
    "lat": 42.64061,
    "lng": 18.10079,
-   "wd": "Q3465043"
+   "wd": "Q3465043",
+   "aliases": [
+    "Danče Beach"
+   ]
   },
   {
-   "name": "Porporela",
+   "name": "포르포렐라 방파제",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.63978,
    "lng": 18.11253,
-   "wd": "Q16111759"
+   "wd": "Q16111759",
+   "aliases": [
+    "Porporela"
+   ]
   },
   {
-   "name": "House of Marin Držić",
+   "name": "마린 드르지치 생가",
    "cat": "관광",
    "area": "",
    "lat": 42.64079,
    "lng": 18.10804,
-   "wd": "Q16111789"
+   "wd": "Q16111789",
+   "aliases": [
+    "House of Marin Držić"
+   ]
   },
   {
-   "name": "Betina špilja",
+   "name": "베티나 동굴",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.6395,
    "lng": 18.12295,
-   "wd": "Q2900110"
+   "wd": "Q2900110",
+   "aliases": [
+    "Betina špilja"
+   ]
   },
   {
-   "name": "Gradac, Dubrovnik",
+   "name": "그라다츠 공원",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.64142,
    "lng": 18.10263,
-   "wd": "Q11924577"
+   "wd": "Q11924577",
+   "aliases": [
+    "Gradac, Dubrovnik"
+   ]
   },
   {
-   "name": "St. Jakov Beach",
+   "name": "성 야코브 비치",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.63514,
    "lng": 18.13065,
-   "wd": "Q11950588"
+   "wd": "Q11950588",
+   "aliases": [
+    "St. Jakov Beach"
+   ]
   },
   {
-   "name": "Bellevue Beach",
+   "name": "벨뷰 비치",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.64639,
    "lng": 18.09222,
-   "wd": "Q12639823"
+   "wd": "Q12639823",
+   "aliases": [
+    "Bellevue Beach"
+   ]
   },
   {
-   "name": "City Guard Building",
-   "cat": "관광",
-   "area": "두브로브니크",
-   "lat": 42.64087,
-   "lng": 18.11064,
-   "wd": "Q12806677"
-  },
-  {
-   "name": "Skočibuha palace",
+   "name": "스코치부하 궁전",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.63946,
    "lng": 18.11094,
-   "wd": "Q16116693"
+   "wd": "Q16116693",
+   "aliases": [
+    "Skočibuha palace"
+   ]
   },
   {
-   "name": "Cross on Srđ",
+   "name": "스르지 산 십자가",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.64878,
    "lng": 18.11217,
-   "wd": "Q17147057"
+   "wd": "Q17147057",
+   "aliases": [
+    "Cross on Srđ"
+   ]
   },
   {
-   "name": "Archaeological Museum",
+   "name": "고고학박물관",
    "cat": "관광",
    "area": "",
    "lat": 42.64201,
    "lng": 18.11225,
-   "wd": "Q12627206"
+   "wd": "Q12627206",
+   "aliases": [
+    "Archaeological Museum"
+   ]
   },
   {
-   "name": "Museum of Croatian War of Independence, Dubrovnik",
+   "name": "크로아티아 독립전쟁 박물관",
    "cat": "관광",
    "area": "",
    "lat": 42.64977,
    "lng": 18.11068,
-   "wd": "Q12637458"
+   "wd": "Q12637458",
+   "aliases": [
+    "Museum of Croatian War of Independence, Dubrovnik"
+   ]
   },
   {
-   "name": "St. Mary church and monastery at Danče",
+   "name": "단체 성모 성당과 수도원",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.64107,
    "lng": 18.10159,
-   "wd": "Q12629302"
+   "wd": "Q12629302",
+   "aliases": [
+    "St. Mary church and monastery at Danče"
+   ]
   },
   {
-   "name": "Marin Držić Theatre",
+   "name": "마린 드르지치 극장",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.64061,
    "lng": 18.11094,
-   "wd": "Q12631749"
+   "wd": "Q12631749",
+   "aliases": [
+    "Marin Držić Theatre"
+   ]
   },
   {
-   "name": "Cava Beach",
+   "name": "카바 비치",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.66403,
    "lng": 18.06174,
-   "wd": "Q12639826"
+   "wd": "Q12639826",
+   "aliases": [
+    "Cava Beach"
+   ]
   },
   {
-   "name": "Buža Beach",
+   "name": "부자 비치",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.63889,
    "lng": 18.10861,
-   "wd": "Q12639825"
+   "wd": "Q12639825",
+   "aliases": [
+    "Buža Beach"
+   ]
   },
   {
-   "name": "Tri brata Beach",
+   "name": "트리 브라타 비치",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.68332,
    "lng": 18.05217,
-   "wd": "Q12639834"
+   "wd": "Q12639834",
+   "aliases": [
+    "Tri brata Beach"
+   ]
   },
   {
-   "name": "Lokrum Beaches",
+   "name": "로크룸 섬 해변",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.62691,
    "lng": 18.11908,
-   "wd": "Q12639835"
+   "wd": "Q12639835",
+   "aliases": [
+    "Lokrum Beaches"
+   ]
   },
   {
-   "name": "President Beach",
+   "name": "프레지던트 비치",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.66225,
    "lng": 18.05796,
-   "wd": "Q12639833"
+   "wd": "Q12639833",
+   "aliases": [
+    "President Beach"
+   ]
   },
   {
-   "name": "Natural History Museum (Dubrovnik)",
+   "name": "자연사박물관",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.63964,
    "lng": 18.10964,
-   "wd": "Q15547215"
+   "wd": "Q15547215",
+   "aliases": [
+    "Natural History Museum (Dubrovnik)"
+   ]
   },
   {
-   "name": "Luka Gruž",
+   "name": "그루즈 항구",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.65861,
    "lng": 18.08583,
-   "wd": "Q16111419"
+   "wd": "Q16111419",
+   "aliases": [
+    "Luka Gruž"
+   ]
   },
   {
-   "name": "Copacabana Beach",
+   "name": "코파카바나 비치",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.66389,
    "lng": 18.06444,
-   "wd": "Q17463883"
+   "wd": "Q17463883",
+   "aliases": [
+    "Copacabana Beach"
+   ]
   },
   {
-   "name": "Luža Square, Dubrovnik",
+   "name": "루자 광장",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.64091,
    "lng": 18.1104,
-   "wd": "Q18325392"
+   "wd": "Q18325392",
+   "aliases": [
+    "Luža Square, Dubrovnik"
+   ]
   },
   {
-   "name": "Gundulićs",
+   "name": "군둘리치 광장",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.6403,
    "lng": 18.10999,
-   "wd": "Q18585224"
+   "wd": "Q18585224",
+   "aliases": [
+    "Gundulićs"
+   ]
   },
   {
-   "name": "Grebeni Lighthouse",
+   "name": "그레베니 등대",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.65167,
    "lng": 18.04778,
-   "wd": "Q28376013"
+   "wd": "Q28376013",
+   "aliases": [
+    "Grebeni Lighthouse"
+   ]
   },
   {
-   "name": "Daksa Lighthouse",
+   "name": "닥사 등대",
    "cat": "관광",
    "area": "두브로브니크",
    "lat": 42.67028,
    "lng": 18.05556,
-   "wd": "Q55620536"
+   "wd": "Q55620536",
+   "aliases": [
+    "Daksa Lighthouse"
+   ]
   }
  ]
 }

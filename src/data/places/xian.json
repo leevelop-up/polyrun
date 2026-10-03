@@ -116,12 +116,15 @@
    "wd": "Q1151087"
   },
   {
-   "name": "Drum Tower of Xi'an",
+   "name": "시안 고루",
    "cat": "관광",
    "area": "시안시",
    "lat": 34.26179,
    "lng": 108.93893,
-   "wd": "Q2742315"
+   "wd": "Q2742315",
+   "aliases": [
+    "Drum Tower of Xi'an"
+   ]
   },
   {
    "name": "양릉",
@@ -148,12 +151,15 @@
    "wd": "Q1151210"
   },
   {
-   "name": "St. Francis Cathedral of Xi'an",
+   "name": "시안 성프란치스코 대성당",
    "cat": "관광",
    "area": "시안시",
    "lat": 34.25795,
    "lng": 108.92913,
-   "wd": "Q2942334"
+   "wd": "Q2942334",
+   "aliases": [
+    "St. Francis Cathedral of Xi'an"
+   ]
   },
   {
    "name": "화청지",
@@ -169,12 +175,15 @@
    "wd": "Q4133842"
   },
   {
-   "name": "Jiangzhai site",
+   "name": "장자이 유적",
    "cat": "관광",
    "area": "시안시",
    "lat": 34.38071,
    "lng": 109.20785,
-   "wd": "Q1688891"
+   "wd": "Q1688891",
+   "aliases": [
+    "Jiangzhai site"
+   ]
   },
   {
    "name": "장릉",
@@ -200,36 +209,48 @@
    "wd": "Q5370929"
   },
   {
-   "name": "Wolong Temple",
+   "name": "와룡사",
    "cat": "관광",
    "area": "베이린 구 (시안 시)",
    "lat": 34.25606,
    "lng": 108.95021,
-   "wd": "Q8030399"
+   "wd": "Q8030399",
+   "aliases": [
+    "Wolong Temple"
+   ]
   },
   {
-   "name": "Guangren Temple",
+   "name": "광인사",
    "cat": "관광",
    "area": "롄후구",
    "lat": 34.27642,
    "lng": 108.92109,
-   "wd": "Q11061833"
+   "wd": "Q11061833",
+   "aliases": [
+    "Guangren Temple"
+   ]
   },
   {
-   "name": "Daxingshan Temple",
+   "name": "대흥선사",
    "cat": "관광",
    "area": "옌타구",
    "lat": 34.22847,
    "lng": 108.93875,
-   "wd": "Q4155168"
+   "wd": "Q4155168",
+   "aliases": [
+    "Daxingshan Temple"
+   ]
   },
   {
-   "name": "Qinglong Temple",
+   "name": "청룡사",
    "cat": "관광",
    "area": "옌타구",
    "lat": 34.23385,
    "lng": 108.98461,
-   "wd": "Q10565990"
+   "wd": "Q10565990",
+   "aliases": [
+    "Qinglong Temple"
+   ]
   },
   {
    "name": "천복사",
@@ -245,20 +266,26 @@
    "wd": "Q836192"
   },
   {
-   "name": "Tang Paradise",
+   "name": "대당부용원",
    "cat": "관광",
    "area": "옌타구",
    "lat": 34.2149,
    "lng": 108.9691,
-   "wd": "Q7682722"
+   "wd": "Q7682722",
+   "aliases": [
+    "Tang Paradise"
+   ]
   },
   {
-   "name": "Xianyang Palace",
+   "name": "함양궁",
    "cat": "관광",
    "area": "Yaodian Subdistrict",
    "lat": 34.41582,
    "lng": 108.86256,
-   "wd": "Q139718789"
+   "wd": "Q139718789",
+   "aliases": [
+    "Xianyang Palace"
+   ]
   },
   {
    "name": "태극궁",
@@ -272,55 +299,71 @@
    "wd": "Q10038732"
   },
   {
-   "name": "Tang West Market Museum",
+   "name": "대당서시박물관",
    "cat": "관광",
    "area": "",
    "lat": 34.24706,
    "lng": 108.90835,
-   "wd": "Q15919802"
+   "wd": "Q15919802",
+   "aliases": [
+    "Tang West Market Museum"
+   ]
   },
   {
-   "name": "Xi'an Museum",
+   "name": "시안 박물관",
    "cat": "관광",
    "area": "",
    "lat": 34.239,
    "lng": 108.936,
    "wd": "Q15928831",
    "aliases": [
+    "Xi'an Museum",
     "西安博物院"
    ]
   },
   {
-   "name": "Daxuexixiang Mosque",
+   "name": "대학습항 모스크",
    "cat": "관광",
    "area": "시안시",
    "lat": 34.26372,
    "lng": 108.93111,
-   "wd": "Q1179018"
+   "wd": "Q1179018",
+   "aliases": [
+    "Daxuexixiang Mosque"
+   ]
   },
   {
-   "name": "Jianguomen (Xi'an)",
+   "name": "젠궈먼",
    "cat": "관광",
    "area": "베이린 구 (시안 시)",
    "lat": 34.25373,
    "lng": 108.96228,
-   "wd": "Q11065242"
+   "wd": "Q11065242",
+   "aliases": [
+    "Jianguomen (Xi'an)"
+   ]
   },
   {
-   "name": "Xianyang",
+   "name": "셴양",
    "cat": "관광",
    "area": "웨이청구",
    "lat": 34.41389,
    "lng": 108.85778,
-   "wd": "Q2360265"
+   "wd": "Q2360265",
+   "aliases": [
+    "Xianyang"
+   ]
   },
   {
-   "name": "Xian Banpo Museum",
+   "name": "반포 박물관",
    "cat": "관광",
    "area": "바차오구",
    "lat": 34.2732,
    "lng": 109.051,
-   "wd": "Q8044016"
+   "wd": "Q8044016",
+   "aliases": [
+    "Xian Banpo Museum"
+   ]
   },
   {
    "name": "능연각",
@@ -334,36 +377,48 @@
    "wd": "Q3267631"
   },
   {
-   "name": "Tomb of An Jia",
+   "name": "안가 묘",
    "cat": "관광",
    "area": "",
    "lat": 34.306,
    "lng": 108.952,
-   "wd": "Q55816434"
+   "wd": "Q55816434",
+   "aliases": [
+    "Tomb of An Jia"
+   ]
   },
   {
-   "name": "Temple of the Eight Immortals (Ba Xian An)",
+   "name": "팔선암",
    "cat": "관광",
    "area": "산시성",
    "lat": 34.26655,
    "lng": 108.97508,
-   "wd": "Q15929741"
+   "wd": "Q15929741",
+   "aliases": [
+    "Temple of the Eight Immortals (Ba Xian An)"
+   ]
   },
   {
-   "name": "Tomb of Li Dan",
+   "name": "이단 묘",
    "cat": "관광",
    "area": "",
    "lat": 34.33333,
    "lng": 108.91667,
-   "wd": "Q112131870"
+   "wd": "Q112131870",
+   "aliases": [
+    "Tomb of Li Dan"
+   ]
   },
   {
-   "name": "Tomb of Li Shou",
+   "name": "이수 묘",
    "cat": "관광",
    "area": "",
    "lat": 34.33333,
    "lng": 108.91667,
-   "wd": "Q112300373"
+   "wd": "Q112300373",
+   "aliases": [
+    "Tomb of Li Shou"
+   ]
   },
   {
    "name": "안릉",
@@ -377,242 +432,314 @@
    ]
   },
   {
-   "name": "Shaanxi Province Art Museum",
+   "name": "산시성 미술관",
    "cat": "관광",
    "area": "시안시",
    "lat": 34.23277,
    "lng": 108.93963,
-   "wd": "Q124884559"
+   "wd": "Q124884559",
+   "aliases": [
+    "Shaanxi Province Art Museum"
+   ]
   },
   {
-   "name": "Jianzhang Palace",
+   "name": "건장궁",
    "cat": "관광",
    "area": "웨이양구",
    "lat": 34.30863,
    "lng": 108.83348,
-   "wd": "Q10289897"
+   "wd": "Q10289897",
+   "aliases": [
+    "Jianzhang Palace"
+   ]
   },
   {
-   "name": "Zhongshanmen",
+   "name": "중산먼",
    "cat": "관광",
    "area": "신청구",
    "lat": 34.26579,
    "lng": 108.96649,
-   "wd": "Q10875393"
+   "wd": "Q10875393",
+   "aliases": [
+    "Zhongshanmen"
+   ]
   },
   {
-   "name": "Chaoyangmen",
+   "name": "차오양먼",
    "cat": "관광",
    "area": "신청구",
    "lat": 34.27158,
    "lng": 108.96656,
-   "wd": "Q11092690"
+   "wd": "Q11092690",
+   "aliases": [
+    "Chaoyangmen"
+   ]
   },
   {
-   "name": "Revolution Park",
+   "name": "혁명 공원",
    "cat": "관광",
    "area": "신청구",
    "lat": 34.27297,
    "lng": 108.95431,
-   "wd": "Q15907766"
+   "wd": "Q15907766",
+   "aliases": [
+    "Revolution Park"
+   ]
   },
   {
-   "name": "Hepingmen",
+   "name": "허핑먼",
    "cat": "관광",
    "area": "베이린 구 (시안 시)",
    "lat": 34.25358,
    "lng": 108.95865,
-   "wd": "Q10921549"
+   "wd": "Q10921549",
+   "aliases": [
+    "Hepingmen"
+   ]
   },
   {
-   "name": "Zhuquemen",
+   "name": "주췌먼",
    "cat": "관광",
    "area": "베이린 구 (시안 시)",
    "lat": 34.2534,
    "lng": 108.9345,
-   "wd": "Q11094917"
+   "wd": "Q11094917",
+   "aliases": [
+    "Zhuquemen"
+   ]
   },
   {
-   "name": "Yongningmen",
+   "name": "융닝먼(남문)",
    "cat": "관광",
    "area": "베이린 구 (시안 시)",
    "lat": 34.25314,
    "lng": 108.94235,
    "wd": "Q11131546",
    "aliases": [
+    "Yongningmen",
     "永寧門"
    ]
   },
   {
-   "name": "Changlemen",
+   "name": "창러먼(동문)",
    "cat": "관광",
    "area": "베이린 구 (시안 시)",
    "lat": 34.26088,
    "lng": 108.96689,
-   "wd": "Q15899428"
+   "wd": "Q15899428",
+   "aliases": [
+    "Changlemen"
+   ]
   },
   {
-   "name": "Wenchangmen",
+   "name": "원창먼",
    "cat": "관광",
    "area": "베이린 구 (시안 시)",
    "lat": 34.25343,
    "lng": 108.94932,
    "wd": "Q17025363",
    "aliases": [
+    "Wenchangmen",
     "文昌門"
    ]
   },
   {
-   "name": "Hanguangmen",
+   "name": "한광먼",
    "cat": "관광",
    "area": "롄후구",
    "lat": 34.25339,
    "lng": 108.92768,
-   "wd": "Q10918514"
+   "wd": "Q10918514",
+   "aliases": [
+    "Hanguangmen"
+   ]
   },
   {
-   "name": "Andingmen",
+   "name": "안딩먼(서문)",
    "cat": "관광",
    "area": "롄후구",
    "lat": 34.26097,
    "lng": 108.92041,
-   "wd": "Q10946594"
+   "wd": "Q10946594",
+   "aliases": [
+    "Andingmen"
+   ]
   },
   {
-   "name": "Anyuanmen",
+   "name": "안위안먼(북문)",
    "cat": "관광",
    "area": "롄후구",
    "lat": 34.27778,
    "lng": 108.94259,
-   "wd": "Q10947232"
+   "wd": "Q10947232",
+   "aliases": [
+    "Anyuanmen"
+   ]
   },
   {
-   "name": "Shangwumen",
+   "name": "상우먼",
    "cat": "관광",
    "area": "롄후구",
    "lat": 34.27727,
    "lng": 108.92847,
-   "wd": "Q11039582"
+   "wd": "Q11039582",
+   "aliases": [
+    "Shangwumen"
+   ]
   },
   {
-   "name": "Xi'an Art Museum",
+   "name": "시안 미술관",
    "cat": "관광",
    "area": "옌타구",
    "lat": 34.21267,
    "lng": 108.95883,
-   "wd": "Q15920108"
+   "wd": "Q15920108",
+   "aliases": [
+    "Xi'an Art Museum"
+   ]
   },
   {
-   "name": "Yuxiangmen",
+   "name": "위샹먼",
    "cat": "관광",
    "area": "롄후구",
    "lat": 34.2712,
    "lng": 108.92075,
-   "wd": "Q17026078"
+   "wd": "Q17026078",
+   "aliases": [
+    "Yuxiangmen"
+   ]
   },
   {
-   "name": "Xiaopiyuan Mosque",
+   "name": "샤오피위안 모스크",
    "cat": "관광",
    "area": "롄후구",
    "lat": 34.26701,
    "lng": 108.93683,
-   "wd": "Q18111551"
+   "wd": "Q18111551",
+   "aliases": [
+    "Xiaopiyuan Mosque"
+   ]
   },
   {
-   "name": "Tang Dynasty Palace",
+   "name": "당 궁전",
    "cat": "관광",
    "area": "시안시",
    "lat": 34.23635,
    "lng": 108.94639,
-   "wd": "Q60178869"
+   "wd": "Q60178869",
+   "aliases": [
+    "Tang Dynasty Palace"
+   ]
   },
   {
-   "name": "Shangqinmen",
+   "name": "상친먼",
    "cat": "관광",
    "area": "신청구",
    "lat": 34.27769,
    "lng": 108.9623,
-   "wd": "Q11039287"
+   "wd": "Q11039287",
+   "aliases": [
+    "Shangqinmen"
+   ]
   },
   {
-   "name": "Shangdemen",
+   "name": "상더먼",
    "cat": "관광",
    "area": "신청구",
    "lat": 34.27763,
    "lng": 108.95589,
-   "wd": "Q11039452"
+   "wd": "Q11039452",
+   "aliases": [
+    "Shangdemen"
+   ]
   },
   {
-   "name": "Xingning Mausoleum",
+   "name": "흥녕릉",
    "cat": "관광",
    "area": "웨이청구",
    "lat": 34.4226,
    "lng": 108.88731,
-   "wd": "Q24839003"
+   "wd": "Q24839003",
+   "aliases": [
+    "Xingning Mausoleum"
+   ]
   },
   {
-   "name": "Bell Tower Hotel",
-   "cat": "관광",
-   "area": "베이린 구 (시안 시)",
-   "lat": 34.26006,
-   "lng": 108.94174,
-   "wd": "Q4883283"
-  },
-  {
-   "name": "Wumumen",
+   "name": "우무먼",
    "cat": "관광",
    "area": "롄후구",
    "lat": 34.25341,
    "lng": 108.93144,
-   "wd": "Q10901521"
+   "wd": "Q10901521",
+   "aliases": [
+    "Wumumen"
+   ]
   },
   {
-   "name": "Shangjianmen",
+   "name": "상젠먼",
    "cat": "관광",
    "area": "Jiefangmen Subdistrict",
    "lat": 34.27768,
    "lng": 108.96057,
-   "wd": "Q11039259"
+   "wd": "Q11039259",
+   "aliases": [
+    "Shangjianmen"
+   ]
   },
   {
-   "name": "Jiefangmen",
+   "name": "제팡먼",
    "cat": "관광",
    "area": "Jiefangmen Subdistrict",
    "lat": 34.27765,
    "lng": 108.95814,
-   "wd": "Q15900163"
+   "wd": "Q15900163",
+   "aliases": [
+    "Jiefangmen"
+   ]
   },
   {
-   "name": "Yuhuazhai Site",
+   "name": "위화자이 유적",
    "cat": "관광",
    "area": "옌타구",
    "lat": 34.24141,
    "lng": 108.85225,
-   "wd": "Q112341919"
+   "wd": "Q112341919",
+   "aliases": [
+    "Yuhuazhai Site"
+   ]
   },
   {
-   "name": "Qin Xianyang Palace Site Museum",
+   "name": "진 함양궁 유적박물관",
    "cat": "관광",
    "area": "Yaodian Subdistrict",
    "lat": 34.4134,
    "lng": 108.85744,
-   "wd": "Q117287055"
+   "wd": "Q117287055",
+   "aliases": [
+    "Qin Xianyang Palace Site Museum"
+   ]
   },
   {
-   "name": "Xi'an Beilin Museum",
+   "name": "시안 비림박물관",
    "cat": "관광",
    "area": "",
    "lat": 34.255,
    "lng": 108.94833,
-   "wd": "Q10519071"
+   "wd": "Q10519071",
+   "aliases": [
+    "Xi'an Beilin Museum"
+   ]
   },
   {
-   "name": "Xianyang Hanyang Mausoleum Museum",
+   "name": "한양릉 박물관",
    "cat": "관광",
    "area": "",
    "lat": 34.44347,
    "lng": 108.94465,
-   "wd": "Q17499041"
+   "wd": "Q17499041",
+   "aliases": [
+    "Xianyang Hanyang Mausoleum Museum"
+   ]
   }
  ]
 }

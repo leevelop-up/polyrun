@@ -104,20 +104,26 @@
    "wd": "Q1321392"
   },
   {
-   "name": "Cooks' Cottage",
+   "name": "쿡스 코티지",
    "cat": "관광",
    "area": "East Melbourne",
    "lat": -37.8145,
    "lng": 144.979,
-   "wd": "Q1129647"
+   "wd": "Q1129647",
+   "aliases": [
+    "Cooks' Cottage"
+   ]
   },
   {
-   "name": "Australian Centre for Contemporary Art",
+   "name": "오스트레일리아 현대미술센터",
    "cat": "관광",
    "area": "빅토리아주",
    "lat": -37.8265,
    "lng": 144.967,
-   "wd": "Q781373"
+   "wd": "Q781373",
+   "aliases": [
+    "Australian Centre for Contemporary Art"
+   ]
   },
   {
    "name": "퀸 빅토리아 마켓",
@@ -131,68 +137,81 @@
    "wd": "Q860621"
   },
   {
-   "name": "Immigration Museum",
+   "name": "이민 박물관",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.81925,
    "lng": 144.96046,
-   "wd": "Q2694295"
+   "wd": "Q2694295",
+   "aliases": [
+    "Immigration Museum"
+   ]
   },
   {
-   "name": "Melbourne Athenaeum",
+   "name": "멜버른 아테네움",
    "cat": "관광",
    "area": "멜버른",
    "lat": -37.81504,
    "lng": 144.96736,
-   "wd": "Q12122406"
+   "wd": "Q12122406",
+   "aliases": [
+    "Melbourne Athenaeum"
+   ]
   },
   {
-   "name": "Jewish Holocaust Museum and Research Centre",
+   "name": "유대인 홀로코스트 박물관",
    "cat": "관광",
    "area": "빅토리아주",
    "lat": -37.8833,
    "lng": 145.001,
-   "wd": "Q833945"
+   "wd": "Q833945",
+   "aliases": [
+    "Jewish Holocaust Museum and Research Centre"
+   ]
   },
   {
-   "name": "Our Lady of Victories Basilica",
+   "name": "승리의 성모 대성전",
    "cat": "관광",
    "area": "빅토리아주",
    "lat": -37.8338,
    "lng": 145.057,
-   "wd": "Q2886921"
+   "wd": "Q2886921",
+   "aliases": [
+    "Our Lady of Victories Basilica"
+   ]
   },
   {
-   "name": "Luna Park",
+   "name": "루나 파크",
    "cat": "관광",
    "area": "City of Port Phillip",
    "lat": -37.868,
    "lng": 144.976,
-   "wd": "Q2750308"
+   "wd": "Q2750308",
+   "aliases": [
+    "Luna Park"
+   ]
   },
   {
-   "name": "Old Melbourne Gaol",
+   "name": "올드 멜버른 감옥",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.80806,
    "lng": 144.96528,
-   "wd": "Q2018436"
+   "wd": "Q2018436",
+   "aliases": [
+    "Old Melbourne Gaol"
+   ]
   },
   {
-   "name": "Museums Victoria",
-   "cat": "관광",
-   "area": "멜버른",
-   "lat": -37.80333,
-   "lng": 144.97167,
-   "wd": "Q500890"
-  },
-  {
-   "name": "West Gate Bridge",
+   "name": "웨스트게이트 브리지",
    "cat": "관광",
    "area": "빅토리아주",
    "lat": -37.8297,
    "lng": 144.898,
-   "wd": "Q2564257"
+   "wd": "Q2564257",
+   "aliases": [
+    "West Gate Bridge"
+   ]
   },
   {
    "name": "오스트레일리아 이슬람 박물관",
@@ -206,636 +225,785 @@
    "wd": "Q16251084"
   },
   {
-   "name": "Scienceworks",
+   "name": "사이언스웍스",
    "cat": "관광",
    "area": "City of Hobsons Bay",
    "lat": -37.8316,
    "lng": 144.894,
-   "wd": "Q7433721"
+   "wd": "Q7433721",
+   "aliases": [
+    "Scienceworks"
+   ]
   },
   {
-   "name": "Ian Potter Centre",
+   "name": "이안 포터 센터",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.8178,
    "lng": 144.969,
-   "wd": "Q4350417"
+   "wd": "Q4350417",
+   "aliases": [
+    "Ian Potter Centre"
+   ]
   },
   {
-   "name": "Princes Bridge",
+   "name": "프린세스 브리지",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.8192,
    "lng": 144.9682,
-   "wd": "Q7244436"
+   "wd": "Q7244436",
+   "aliases": [
+    "Princes Bridge"
+   ]
   },
   {
-   "name": "Regent Theatre",
+   "name": "리전트 극장",
    "cat": "관광",
    "area": "멜버른",
    "lat": -37.8155,
    "lng": 144.967,
-   "wd": "Q7308110"
+   "wd": "Q7308110",
+   "aliases": [
+    "Regent Theatre"
+   ]
   },
   {
-   "name": "Grainger Museum",
+   "name": "그레인저 박물관",
    "cat": "관광",
    "area": "빅토리아주",
    "lat": -37.7975,
    "lng": 144.958,
-   "wd": "Q5593518"
+   "wd": "Q5593518",
+   "aliases": [
+    "Grainger Museum"
+   ]
   },
   {
-   "name": "Albanian Mosque, Carlton North",
+   "name": "알바니아 모스크",
    "cat": "관광",
    "area": "빅토리아주",
    "lat": -37.78667,
    "lng": 144.97056,
-   "wd": "Q98429966"
+   "wd": "Q98429966",
+   "aliases": [
+    "Albanian Mosque, Carlton North"
+   ]
   },
   {
-   "name": "Albert Park and Lake",
+   "name": "앨버트 파크와 호수",
    "cat": "관광",
    "area": "City of Port Phillip",
    "lat": -37.846,
    "lng": 144.97,
-   "wd": "Q4710971"
+   "wd": "Q4710971",
+   "aliases": [
+    "Albert Park and Lake"
+   ]
   },
   {
-   "name": "Bolte Bridge",
+   "name": "볼트 브리지",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.8195,
    "lng": 144.932,
-   "wd": "Q2747785"
+   "wd": "Q2747785",
+   "aliases": [
+    "Bolte Bridge"
+   ]
   },
   {
-   "name": "Fitzroy Gardens",
+   "name": "피츠로이 가든",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.8126,
    "lng": 144.98,
-   "wd": "Q3444049"
+   "wd": "Q3444049",
+   "aliases": [
+    "Fitzroy Gardens"
+   ]
   },
   {
-   "name": "ACMI",
+   "name": "호주 영상박물관(ACMI)",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.8176,
    "lng": 144.969,
-   "wd": "Q4823962"
+   "wd": "Q4823962",
+   "aliases": [
+    "ACMI"
+   ]
   },
   {
-   "name": "Flagstaff Gardens",
+   "name": "플래그스태프 가든",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.8105,
    "lng": 144.954,
-   "wd": "Q5457014"
+   "wd": "Q5457014",
+   "aliases": [
+    "Flagstaff Gardens"
+   ]
   },
   {
-   "name": "Princess Theatre",
+   "name": "프린세스 극장",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.81072,
    "lng": 144.97235,
-   "wd": "Q7244850"
+   "wd": "Q7244850",
+   "aliases": [
+    "Princess Theatre"
+   ]
   },
   {
-   "name": "Royal Botanic Gardens Melbourne",
+   "name": "멜버른 왕립식물원",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.83036,
    "lng": 144.97961,
-   "wd": "Q7373836"
+   "wd": "Q7373836",
+   "aliases": [
+    "Royal Botanic Gardens Melbourne"
+   ]
   },
   {
-   "name": "Hellenic Museum",
+   "name": "헬레닉 박물관",
    "cat": "관광",
    "area": "멜버른",
    "lat": -37.8122,
    "lng": 144.957,
-   "wd": "Q15961629"
+   "wd": "Q15961629",
+   "aliases": [
+    "Hellenic Museum"
+   ]
   },
   {
-   "name": "Premier Tower",
-   "cat": "관광",
-   "area": "멜버른",
-   "lat": -37.81732,
-   "lng": 144.95369,
-   "wd": "Q20020491"
-  },
-  {
-   "name": "Sts. Peter and Paul Cathedral, Melbourne",
+   "name": "성 베드로·바오로 대성당",
    "cat": "관광",
    "area": "멜버른",
    "lat": -37.79639,
    "lng": 144.94424,
-   "wd": "Q28519117"
+   "wd": "Q28519117",
+   "aliases": [
+    "Sts. Peter and Paul Cathedral, Melbourne"
+   ]
   },
   {
-   "name": "National Theatre",
+   "name": "내셔널 시어터",
    "cat": "관광",
    "area": "멜버른",
    "lat": -37.8669,
    "lng": 144.981,
-   "wd": "Q6978920"
+   "wd": "Q6978920",
+   "aliases": [
+    "National Theatre"
+   ]
   },
   {
-   "name": "Palais Theatre",
+   "name": "팔레 극장",
    "cat": "관광",
    "area": "멜버른",
    "lat": -37.8676,
    "lng": 144.976,
-   "wd": "Q7126602"
+   "wd": "Q7126602",
+   "aliases": [
+    "Palais Theatre"
+   ]
   },
   {
-   "name": "Telstra Corporate Centre",
-   "cat": "관광",
-   "area": "빅토리아주",
-   "lat": -37.8099,
-   "lng": 144.97,
-   "wd": "Q3487191"
-  },
-  {
-   "name": "Museum of Chinese Australian History",
+   "name": "중국계 호주인 역사박물관",
    "cat": "관광",
    "area": "빅토리아주",
    "lat": -37.8106,
    "lng": 144.969,
-   "wd": "Q5100547"
+   "wd": "Q5100547",
+   "aliases": [
+    "Museum of Chinese Australian History"
+   ]
   },
   {
-   "name": "Coop's Shot Tower",
+   "name": "쿱스 샷 타워",
    "cat": "관광",
    "area": "빅토리아주",
    "lat": -37.8103,
    "lng": 144.963,
-   "wd": "Q5167700"
+   "wd": "Q5167700",
+   "aliases": [
+    "Coop's Shot Tower"
+   ]
   },
   {
-   "name": "Preston Mosque",
+   "name": "프레스턴 모스크",
    "cat": "관광",
    "area": "빅토리아주",
    "lat": -37.73905,
    "lng": 144.99315,
-   "wd": "Q7241944"
+   "wd": "Q7241944",
+   "aliases": [
+    "Preston Mosque"
+   ]
   },
   {
-   "name": "Newport Railway Museum",
+   "name": "뉴포트 철도박물관",
    "cat": "관광",
    "area": "빅토리아주",
    "lat": -37.85611,
    "lng": 144.88667,
-   "wd": "Q16926902"
+   "wd": "Q16926902",
+   "aliases": [
+    "Newport Railway Museum"
+   ]
   },
   {
-   "name": "Fawkner Park",
+   "name": "포크너 공원",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.841,
    "lng": 144.982,
-   "wd": "Q1837660"
+   "wd": "Q1837660",
+   "aliases": [
+    "Fawkner Park"
+   ]
   },
   {
-   "name": "Melbourne Town Hall",
+   "name": "멜버른 시청",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.81515,
    "lng": 144.96678,
-   "wd": "Q2091322"
+   "wd": "Q2091322",
+   "aliases": [
+    "Melbourne Town Hall"
+   ]
   },
   {
-   "name": "Batman Park",
+   "name": "배트맨 공원",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.8218,
    "lng": 144.957,
-   "wd": "Q2191993"
+   "wd": "Q2191993",
+   "aliases": [
+    "Batman Park"
+   ]
   },
   {
-   "name": "Seafarers Bridge",
+   "name": "시페어러스 브리지",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.82357,
    "lng": 144.95192,
-   "wd": "Q7440336"
+   "wd": "Q7440336",
+   "aliases": [
+    "Seafarers Bridge"
+   ]
   },
   {
-   "name": "Treasury Gardens",
+   "name": "트레저리 가든",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.8142,
    "lng": 144.976,
-   "wd": "Q7836802"
+   "wd": "Q7836802",
+   "aliases": [
+    "Treasury Gardens"
+   ]
   },
   {
-   "name": "Waverley Park",
+   "name": "웨이벌리 공원",
    "cat": "관광",
    "area": "Mulgrave",
    "lat": -37.87792,
    "lng": 145.06931,
-   "wd": "Q7975430"
+   "wd": "Q7975430",
+   "aliases": [
+    "Waverley Park"
+   ]
   },
   {
-   "name": "Planetshakers Church",
-   "cat": "관광",
-   "area": "멜버른",
-   "lat": -37.82933,
-   "lng": 144.95532,
-   "wd": "Q55976407"
-  },
-  {
-   "name": "Council House 2",
-   "cat": "관광",
-   "area": "빅토리아주",
-   "lat": -37.8142,
-   "lng": 144.967,
-   "wd": "Q2866891"
-  },
-  {
-   "name": "Ian Potter Museum of Art",
+   "name": "이안 포터 미술관",
    "cat": "관광",
    "area": "빅토리아주",
    "lat": -37.7975,
    "lng": 144.964,
-   "wd": "Q5982619"
+   "wd": "Q5982619",
+   "aliases": [
+    "Ian Potter Museum of Art"
+   ]
   },
   {
-   "name": "St Mary Star of the Sea, West Melbourne",
+   "name": "바다의 별 성모 성당",
    "cat": "관광",
    "area": "빅토리아주",
    "lat": -37.8061,
    "lng": 144.953,
-   "wd": "Q7594604"
+   "wd": "Q7594604",
+   "aliases": [
+    "St Mary Star of the Sea, West Melbourne"
+   ]
   },
   {
-   "name": "Victoria Bridge",
+   "name": "빅토리아 다리",
    "cat": "관광",
    "area": "빅토리아주",
    "lat": -37.8122,
    "lng": 145.015,
-   "wd": "Q7926604"
+   "wd": "Q7926604",
+   "aliases": [
+    "Victoria Bridge"
+   ]
   },
   {
-   "name": "Victorian Artists Society",
+   "name": "빅토리아 예술가협회",
    "cat": "관광",
    "area": "빅토리아주",
    "lat": -37.80932,
    "lng": 144.97631,
-   "wd": "Q7927185"
+   "wd": "Q7927185",
+   "aliases": [
+    "Victorian Artists Society"
+   ]
   },
   {
-   "name": "Sacred Heart Church St Kilda",
+   "name": "세인트킬다 성심 성당",
    "cat": "관광",
    "area": "빅토리아주",
    "lat": -37.86269,
    "lng": 144.97989,
-   "wd": "Q12067842"
+   "wd": "Q12067842",
+   "aliases": [
+    "Sacred Heart Church St Kilda"
+   ]
   },
   {
-   "name": "Pioneer Women's Memorial Garden",
+   "name": "개척 여성 기념정원",
    "cat": "관광",
    "area": "빅토리아주",
    "lat": -37.82512,
    "lng": 144.97608,
-   "wd": "Q25183819"
+   "wd": "Q25183819",
+   "aliases": [
+    "Pioneer Women's Memorial Garden"
+   ]
   },
   {
-   "name": "East Melbourne Lutheran church",
+   "name": "이스트 멜버른 루터 교회",
    "cat": "관광",
    "area": "빅토리아주",
    "lat": -37.81097,
    "lng": 144.97578,
-   "wd": "Q56752446"
+   "wd": "Q56752446",
+   "aliases": [
+    "East Melbourne Lutheran church"
+   ]
   },
   {
-   "name": "St Kilda Beach",
+   "name": "세인트킬다 비치",
    "cat": "관광",
    "area": "St Kilda",
    "lat": -37.86784,
    "lng": 144.97397,
-   "wd": "Q7593902"
+   "wd": "Q7593902",
+   "aliases": [
+    "St Kilda Beach"
+   ]
   },
   {
-   "name": "Sandridge Bridge",
+   "name": "샌드리지 브리지",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.8202,
    "lng": 144.963,
-   "wd": "Q2221176"
+   "wd": "Q2221176",
+   "aliases": [
+    "Sandridge Bridge"
+   ]
   },
   {
-   "name": "Block Arcade",
+   "name": "블록 아케이드",
    "cat": "쇼핑",
    "area": "City of Melbourne",
    "lat": -37.81583,
    "lng": 144.96444,
-   "wd": "Q2429342"
+   "wd": "Q2429342",
+   "aliases": [
+    "Block Arcade"
+   ]
   },
   {
-   "name": "State Theatre",
+   "name": "스테이트 시어터",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.82135,
    "lng": 144.9686,
-   "wd": "Q3527609"
+   "wd": "Q3527609",
+   "aliases": [
+    "State Theatre"
+   ]
   },
   {
-   "name": "Old Treasury Building",
+   "name": "올드 트레저리 빌딩",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.8132,
    "lng": 144.974,
-   "wd": "Q7085326"
+   "wd": "Q7085326",
+   "aliases": [
+    "Old Treasury Building"
+   ]
   },
   {
-   "name": "Yarra Park",
+   "name": "야라 공원",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.818,
    "lng": 144.985,
-   "wd": "Q8049504"
+   "wd": "Q8049504",
+   "aliases": [
+    "Yarra Park"
+   ]
   },
   {
-   "name": "Federal Hotel, Melbourne",
-   "cat": "관광",
-   "area": "멜버른",
-   "lat": -37.8183,
-   "lng": 144.9567,
-   "wd": "Q17004143"
-  },
-  {
-   "name": "St Michael's Uniting Church",
+   "name": "세인트 마이클 연합교회",
    "cat": "관광",
    "area": "멜버른",
    "lat": -37.8143,
    "lng": 144.969,
-   "wd": "Q7594834"
+   "wd": "Q7594834",
+   "aliases": [
+    "St Michael's Uniting Church"
+   ]
   },
   {
-   "name": "140 William Street",
-   "cat": "관광",
-   "area": "빅토리아주",
-   "lat": -37.8158,
-   "lng": 144.9586,
-   "wd": "Q4549612"
-  },
-  {
-   "name": "Princes Park",
+   "name": "프린세스 공원",
    "cat": "관광",
    "area": "빅토리아주",
    "lat": -37.7837,
    "lng": 144.962,
-   "wd": "Q4810325"
+   "wd": "Q4810325",
+   "aliases": [
+    "Princes Park"
+   ]
   },
   {
-   "name": "Centre for Contemporary Photography",
+   "name": "현대사진센터",
    "cat": "관광",
    "area": "빅토리아주",
    "lat": -37.7972,
    "lng": 144.982,
-   "wd": "Q5062389"
+   "wd": "Q5062389",
+   "aliases": [
+    "Centre for Contemporary Photography"
+   ]
   },
   {
-   "name": "Dights Falls",
+   "name": "다이츠 폭포",
    "cat": "관광",
    "area": "빅토리아주",
    "lat": -37.79722,
    "lng": 145.00083,
-   "wd": "Q5275695"
+   "wd": "Q5275695",
+   "aliases": [
+    "Dights Falls"
+   ]
   },
   {
-   "name": "Hoddle Bridge",
+   "name": "호들 다리",
    "cat": "관광",
    "area": "빅토리아주",
    "lat": -37.8303,
    "lng": 144.988,
-   "wd": "Q5875976"
+   "wd": "Q5875976",
+   "aliases": [
+    "Hoddle Bridge"
+   ]
   },
   {
-   "name": "Lyon Housemuseum",
+   "name": "라이언 하우스뮤지엄",
    "cat": "관광",
    "area": "빅토리아주",
    "lat": -37.80875,
    "lng": 145.04878,
-   "wd": "Q6709635"
+   "wd": "Q6709635",
+   "aliases": [
+    "Lyon Housemuseum"
+   ]
   },
   {
-   "name": "Royal Arcade",
+   "name": "로열 아케이드",
    "cat": "쇼핑",
    "area": "빅토리아주",
    "lat": -37.8145,
    "lng": 144.964,
-   "wd": "Q7373672"
+   "wd": "Q7373672",
+   "aliases": [
+    "Royal Arcade"
+   ]
   },
   {
-   "name": "St Ignatius' Church of Richmond",
+   "name": "세인트 이그나티우스 성당",
    "cat": "관광",
    "area": "빅토리아주",
    "lat": -37.82183,
    "lng": 144.99803,
-   "wd": "Q7593391"
+   "wd": "Q7593391",
+   "aliases": [
+    "St Ignatius' Church of Richmond"
+   ]
   },
   {
-   "name": "Stonington mansion",
+   "name": "스토닝턴 저택",
    "cat": "관광",
    "area": "빅토리아주",
    "lat": -37.8489,
    "lng": 145.032,
-   "wd": "Q7619466"
+   "wd": "Q7619466",
+   "aliases": [
+    "Stonington mansion"
+   ]
   },
   {
-   "name": "Yarra Bend Park",
+   "name": "야라 벤드 공원",
    "cat": "관광",
    "area": "빅토리아주",
    "lat": -37.79541,
    "lng": 145.01198,
-   "wd": "Q8049498"
+   "wd": "Q8049498",
+   "aliases": [
+    "Yarra Bend Park"
+   ]
   },
   {
-   "name": "Malvern Presbyterian Church, Melbourne",
+   "name": "맬번 장로교회",
    "cat": "관광",
    "area": "빅토리아주",
    "lat": -37.8626,
    "lng": 145.031,
-   "wd": "Q18163304"
+   "wd": "Q18163304",
+   "aliases": [
+    "Malvern Presbyterian Church, Melbourne"
+   ]
   },
   {
-   "name": "Australasian Catholic Assurance Building",
-   "cat": "관광",
-   "area": "빅토리아주",
-   "lat": -37.8157,
-   "lng": 144.9613,
-   "wd": "Q28943087"
-  },
-  {
-   "name": "Koorie Heritage Trust",
+   "name": "쿠리 헤리티지 트러스트",
    "cat": "관광",
    "area": "빅토리아주",
    "lat": -37.8183,
    "lng": 144.9691,
-   "wd": "Q53700558"
+   "wd": "Q53700558",
+   "aliases": [
+    "Koorie Heritage Trust"
+   ]
   },
   {
-   "name": "Royal Botanic Gardens Victoria",
+   "name": "빅토리아 왕립식물원",
    "cat": "관광",
    "area": "빅토리아주",
    "lat": -37.8334,
    "lng": 144.98033,
-   "wd": "Q101433843"
+   "wd": "Q101433843",
+   "aliases": [
+    "Royal Botanic Gardens Victoria"
+   ]
   },
   {
-   "name": "National Communication Museum",
+   "name": "국립 통신박물관",
    "cat": "관광",
    "area": "빅토리아주",
    "lat": -37.8225,
    "lng": 145.03644,
-   "wd": "Q131749517"
+   "wd": "Q131749517",
+   "aliases": [
+    "National Communication Museum"
+   ]
   },
   {
-   "name": "Greythorn Park",
+   "name": "그레이손 공원",
    "cat": "관광",
    "area": "Balwyn North",
    "lat": -37.798,
    "lng": 145.094,
-   "wd": "Q18165658"
+   "wd": "Q18165658",
+   "aliases": [
+    "Greythorn Park"
+   ]
   },
   {
-   "name": "Macleay Park",
+   "name": "매클레이 공원",
    "cat": "관광",
    "area": "Balwyn North",
    "lat": -37.8016,
    "lng": 145.075,
-   "wd": "Q18165995"
+   "wd": "Q18165995",
+   "aliases": [
+    "Macleay Park"
+   ]
   },
   {
-   "name": "Bali Memorial",
+   "name": "발리 테러 추모비",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.8025,
    "lng": 144.963,
-   "wd": "Q2480133"
+   "wd": "Q2480133",
+   "aliases": [
+    "Bali Memorial"
+   ]
   },
   {
-   "name": "Birrarung Marr",
+   "name": "비라룽 마",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.8183,
    "lng": 144.973,
-   "wd": "Q2904546"
+   "wd": "Q2904546",
+   "aliases": [
+    "Birrarung Marr"
+   ]
   },
   {
-   "name": "City Square",
+   "name": "시티 스퀘어",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.816,
    "lng": 144.967,
-   "wd": "Q5123429"
+   "wd": "Q5123429",
+   "aliases": [
+    "City Square"
+   ]
   },
   {
-   "name": "Forum Theatre",
+   "name": "포럼 극장",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.81639,
    "lng": 144.96944,
-   "wd": "Q5473086"
+   "wd": "Q5473086",
+   "aliases": [
+    "Forum Theatre"
+   ]
   },
   {
-   "name": "Hamer Hall",
+   "name": "해머 홀",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.8203,
    "lng": 144.968,
-   "wd": "Q5644501"
+   "wd": "Q5644501",
+   "aliases": [
+    "Hamer Hall"
+   ]
   },
   {
-   "name": "Her Majesty's Theatre",
+   "name": "허 머제스티스 극장",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.81096,
    "lng": 144.96964,
-   "wd": "Q5732319"
+   "wd": "Q5732319",
+   "aliases": [
+    "Her Majesty's Theatre"
+   ]
   },
   {
-   "name": "La Mama Theatre",
+   "name": "라 마마 극장",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.79912,
    "lng": 144.96766,
-   "wd": "Q6463660"
+   "wd": "Q6463660",
+   "aliases": [
+    "La Mama Theatre"
+   ]
   },
   {
-   "name": "Morell Bridge",
+   "name": "모렐 다리",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.8277,
    "lng": 144.985,
-   "wd": "Q6911332"
+   "wd": "Q6911332",
+   "aliases": [
+    "Morell Bridge"
+   ]
   },
   {
-   "name": "Queens Bridge",
+   "name": "퀸스 브리지",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.82046,
    "lng": 144.96138,
-   "wd": "Q7270731"
+   "wd": "Q7270731",
+   "aliases": [
+    "Queens Bridge"
+   ]
   },
   {
-   "name": "Scots' Church, Melbourne",
+   "name": "스코츠 교회",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.8145,
    "lng": 144.96847,
-   "wd": "Q7435772"
+   "wd": "Q7435772",
+   "aliases": [
+    "Scots' Church, Melbourne"
+   ]
   },
   {
-   "name": "South Surrey Park",
+   "name": "사우스 서리 공원",
    "cat": "관광",
    "area": "City of Boroondara",
    "lat": -37.8327,
    "lng": 145.094,
-   "wd": "Q7568594"
+   "wd": "Q7568594",
+   "aliases": [
+    "South Surrey Park"
+   ]
   },
   {
-   "name": "Wesley Church, Melbourne",
+   "name": "웨슬리 교회",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.8103,
    "lng": 144.968,
-   "wd": "Q10910263"
+   "wd": "Q10910263",
+   "aliases": [
+    "Wesley Church, Melbourne"
+   ]
   },
   {
-   "name": "Melbourne Recital Centre",
+   "name": "멜버른 리사이틀 센터",
    "cat": "관광",
    "area": "City of Melbourne",
    "lat": -37.8241,
    "lng": 144.968,
-   "wd": "Q10931280"
+   "wd": "Q10931280",
+   "aliases": [
+    "Melbourne Recital Centre"
+   ]
   },
   {
-   "name": "Royal Australasian College of Surgeons",
-   "cat": "관광",
-   "area": "City of Melbourne",
-   "lat": -37.80865,
-   "lng": 144.97234,
-   "wd": "Q15995438"
-  },
-  {
-   "name": "Kanes Bridge",
+   "name": "케인스 브리지",
    "cat": "관광",
    "area": "City of Boroondara",
    "lat": -37.80014,
    "lng": 145.01014,
-   "wd": "Q33190821"
+   "wd": "Q33190821",
+   "aliases": [
+    "Kanes Bridge"
+   ]
   },
   {
-   "name": "Royal Park",
+   "name": "로열 파크",
    "cat": "관광",
    "area": "Parkville",
    "lat": -37.7902,
    "lng": 144.951,
-   "wd": "Q7374687"
+   "wd": "Q7374687",
+   "aliases": [
+    "Royal Park"
+   ]
   }
  ]
 }

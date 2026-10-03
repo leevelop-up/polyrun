@@ -3,276 +3,345 @@
  "builtAt": "2026-10-03",
  "picks": [
   {
-   "name": "Our Lady of Mount Carmel Cathedral (Chalan Kanoa)",
+   "name": "카르멜 산의 성모 대성당",
    "cat": "관광",
    "area": "사이판섬",
    "lat": 15.15111,
    "lng": 145.70194,
-   "wd": "Q15043774"
+   "wd": "Q15043774",
+   "aliases": [
+    "Our Lady of Mount Carmel Cathedral (Chalan Kanoa)"
+   ]
   },
   {
-   "name": "Sugar King Park",
+   "name": "슈가킹 공원",
    "cat": "관광",
    "area": "Garapan",
    "lat": 15.20201,
    "lng": 145.72075,
-   "wd": "Q11587497"
+   "wd": "Q11587497",
+   "aliases": [
+    "Sugar King Park"
+   ]
   },
   {
-   "name": "Saipan Katori Shrine",
+   "name": "사이판 가토리 신사",
    "cat": "관광",
    "area": "",
    "lat": 15.20194,
    "lng": 145.72194,
-   "wd": "Q11488000"
+   "wd": "Q11488000",
+   "aliases": [
+    "Saipan Katori Shrine"
+   ]
   },
   {
-   "name": "Saipan Botanical Garden",
+   "name": "사이판 식물원",
    "cat": "관광",
    "area": "북마리아나 제도",
    "lat": 15.17258,
    "lng": 145.74839,
-   "wd": "Q27728668"
+   "wd": "Q27728668",
+   "aliases": [
+    "Saipan Botanical Garden"
+   ]
   },
   {
-   "name": "Kristo Rai Church",
+   "name": "크리스토 라이 성당",
    "cat": "관광",
    "area": "Garapan",
    "lat": 15.20296,
    "lng": 145.71772,
-   "wd": "Q24302348"
+   "wd": "Q24302348",
+   "aliases": [
+    "Kristo Rai Church"
+   ]
   },
   {
-   "name": "Japanese Lighthouse",
+   "name": "일본 등대",
    "cat": "관광",
    "area": "사이판섬",
    "lat": 15.21172,
    "lng": 145.73164,
-   "wd": "Q15229363"
+   "wd": "Q15229363",
+   "aliases": [
+    "Japanese Lighthouse"
+   ]
   },
   {
-   "name": "Santa Remedios Church",
+   "name": "산타 레메디오스 성당",
    "cat": "관광",
    "area": "사이판섬",
    "lat": 15.2421,
    "lng": 145.75518,
-   "wd": "Q24302217"
+   "wd": "Q24302217",
+   "aliases": [
+    "Santa Remedios Church"
+   ]
   },
   {
-   "name": "Japanese 20mm Cannon Blockhouse",
+   "name": "일본군 20mm 포 토치카",
    "cat": "관광",
    "area": "사이판섬",
    "lat": 15.1114,
    "lng": 145.702,
-   "wd": "Q19840253"
+   "wd": "Q19840253",
+   "aliases": [
+    "Japanese 20mm Cannon Blockhouse"
+   ]
   },
   {
-   "name": "Hachiman Shrine",
+   "name": "하치만 신사",
    "cat": "관광",
    "area": "사이판섬",
    "lat": 15.18,
    "lng": 145.761,
-   "wd": "Q19867376"
+   "wd": "Q19867376",
+   "aliases": [
+    "Hachiman Shrine"
+   ]
   },
   {
-   "name": "NMI Museum of History and Culture",
+   "name": "북마리아나 역사문화박물관",
    "cat": "관광",
    "area": "사이판섬",
    "lat": 15.20211,
    "lng": 145.71953,
-   "wd": "Q86752824"
+   "wd": "Q86752824",
+   "aliases": [
+    "NMI Museum of History and Culture"
+   ]
   },
   {
-   "name": "Catholic Belltower",
+   "name": "가톨릭 종탑",
    "cat": "관광",
    "area": "Garapan",
    "lat": 15.2014,
    "lng": 145.715,
-   "wd": "Q19864507"
+   "wd": "Q19864507",
+   "aliases": [
+    "Catholic Belltower"
+   ]
   },
   {
-   "name": "Pau Pau Beach",
+   "name": "파우파우 비치",
    "cat": "관광",
    "area": "북마리아나 제도",
    "lat": 15.25214,
    "lng": 145.77579,
-   "wd": "Q27728204"
+   "wd": "Q27728204",
+   "aliases": [
+    "Pau Pau Beach"
+   ]
   },
   {
-   "name": "Opyan",
+   "name": "오피안 비치",
    "cat": "관광",
    "area": "북마리아나 제도",
    "lat": 15.10588,
    "lng": 145.73851,
-   "wd": "Q27728215"
+   "wd": "Q27728215",
+   "aliases": [
+    "Opyan"
+   ]
   },
   {
-   "name": "Unai Makpe",
+   "name": "우나이 막페 비치",
    "cat": "관광",
    "area": "북마리아나 제도",
    "lat": 15.27073,
    "lng": 145.79051,
-   "wd": "Q27728236"
+   "wd": "Q27728236",
+   "aliases": [
+    "Unai Makpe"
+   ]
   },
   {
-   "name": "Lighthouse Reef Trochus Sanctuary",
+   "name": "라이트하우스 리프 보호구역",
    "cat": "관광",
    "area": "북마리아나 제도",
    "lat": 15.19529,
    "lng": 145.70832,
-   "wd": "Q27728246"
+   "wd": "Q27728246",
+   "aliases": [
+    "Lighthouse Reef Trochus Sanctuary"
+   ]
   },
   {
-   "name": "Unai Laolao",
+   "name": "라오라오 비치",
    "cat": "관광",
    "area": "북마리아나 제도",
    "lat": 15.15972,
    "lng": 145.75111,
-   "wd": "Q27728251"
+   "wd": "Q27728251",
+   "aliases": [
+    "Unai Laolao"
+   ]
   },
   {
-   "name": "Unai Laolao Kattan",
+   "name": "라오라오 카탄 비치",
    "cat": "관광",
    "area": "북마리아나 제도",
    "lat": 15.17472,
    "lng": 145.78596,
-   "wd": "Q27728254"
+   "wd": "Q27728254",
+   "aliases": [
+    "Unai Laolao Kattan"
+   ]
   },
   {
-   "name": "Unai I Hasngot",
+   "name": "우나이 이 하스곳 비치",
    "cat": "관광",
    "area": "북마리아나 제도",
    "lat": 15.20989,
    "lng": 145.77854,
-   "wd": "Q27728252"
+   "wd": "Q27728252",
+   "aliases": [
+    "Unai I Hasngot"
+   ]
   },
   {
-   "name": "Unai Chalan Kiya",
+   "name": "찰란 키야 비치",
    "cat": "관광",
    "area": "북마리아나 제도",
    "lat": 15.16139,
    "lng": 145.70417,
-   "wd": "Q27728262"
+   "wd": "Q27728262",
+   "aliases": [
+    "Unai Chalan Kiya"
+   ]
   },
   {
-   "name": "Unai Halaihai",
+   "name": "할라이하이 비치",
    "cat": "관광",
    "area": "북마리아나 제도",
    "lat": 15.18418,
    "lng": 145.78105,
-   "wd": "Q27728276"
+   "wd": "Q27728276",
+   "aliases": [
+    "Unai Halaihai"
+   ]
   },
   {
-   "name": "Borrow Pits",
-   "cat": "관광",
-   "area": "북마리아나 제도",
-   "lat": 15.25728,
-   "lng": 145.79662,
-   "wd": "Q27728287"
-  },
-  {
-   "name": "Unai Dikike Matuis",
+   "name": "디키케 마투이스 비치",
    "cat": "관광",
    "area": "북마리아나 제도",
    "lat": 15.26249,
    "lng": 145.78372,
-   "wd": "Q27728299"
+   "wd": "Q27728299",
+   "aliases": [
+    "Unai Dikike Matuis"
+   ]
   },
   {
-   "name": "Unai Dandan",
+   "name": "단단 비치",
    "cat": "관광",
    "area": "북마리아나 제도",
    "lat": 15.13569,
    "lng": 145.74191,
-   "wd": "Q27728302"
+   "wd": "Q27728302",
+   "aliases": [
+    "Unai Dandan"
+   ]
   },
   {
-   "name": "Memorial Park Amphitheater",
+   "name": "메모리얼 파크 원형극장",
    "cat": "관광",
    "area": "북마리아나 제도",
    "lat": 15.21646,
    "lng": 145.72008,
-   "wd": "Q27728306"
+   "wd": "Q27728306",
+   "aliases": [
+    "Memorial Park Amphitheater"
+   ]
   },
   {
-   "name": "Unai Baput",
+   "name": "바풋 비치",
    "cat": "관광",
    "area": "북마리아나 제도",
    "lat": 15.16167,
    "lng": 145.76083,
-   "wd": "Q27728316"
+   "wd": "Q27728316",
+   "aliases": [
+    "Unai Baput"
+   ]
   },
   {
-   "name": "Unai Achugao",
+   "name": "아추가오 비치",
    "cat": "관광",
    "area": "북마리아나 제도",
    "lat": 15.24527,
    "lng": 145.76315,
-   "wd": "Q27728343"
+   "wd": "Q27728343",
+   "aliases": [
+    "Unai Achugao"
+   ]
   },
   {
-   "name": "Court of Honor and Flag Circle",
+   "name": "명예의 정원과 국기 광장",
    "cat": "관광",
    "area": "북마리아나 제도",
    "lat": 15.21668,
    "lng": 145.72179,
-   "wd": "Q27728657"
+   "wd": "Q27728657",
+   "aliases": [
+    "Court of Honor and Flag Circle"
+   ]
   },
   {
-   "name": "Airport Tower",
-   "cat": "관광",
-   "area": "북마리아나 제도",
-   "lat": 15.12345,
-   "lng": 145.7287,
-   "wd": "Q27728675"
-  },
-  {
-   "name": "Unai Tanapag",
+   "name": "타나팍 비치",
    "cat": "관광",
    "area": "북마리아나 제도",
    "lat": 15.23611,
    "lng": 145.74528,
-   "wd": "Q27728926"
+   "wd": "Q27728926",
+   "aliases": [
+    "Unai Tanapag"
+   ]
   },
   {
-   "name": "Landing Beaches; Aslito/Isely Field; & Marpi Point, Saipan Island",
+   "name": "사이판 상륙 해변과 마르피 포인트",
    "cat": "관광",
    "area": "사이판섬",
    "lat": 15.11639,
    "lng": 145.72806,
-   "wd": "Q6484589"
+   "wd": "Q6484589",
+   "aliases": [
+    "Landing Beaches; Aslito/Isely Field; & Marpi Point, Saipan Island"
+   ]
   },
   {
-   "name": "Unai Lagua Japanese Defense Pillbox",
+   "name": "라구아 일본군 토치카",
    "cat": "관광",
    "area": "사이판섬",
    "lat": 15.2722,
    "lng": 145.826,
-   "wd": "Q19840970"
+   "wd": "Q19840970",
+   "aliases": [
+    "Unai Lagua Japanese Defense Pillbox"
+   ]
   },
   {
-   "name": "Airport Fire Station",
-   "cat": "관광",
-   "area": "사이판섬",
-   "lat": 15.12414,
-   "lng": 145.73041,
-   "wd": "Q27728674"
-  },
-  {
-   "name": "American Saipan Memorial",
+   "name": "아메리칸 메모리얼",
    "cat": "관광",
    "area": "사이판섬",
    "lat": 15.21806,
    "lng": 145.71987,
-   "wd": "Q111628761"
+   "wd": "Q111628761",
+   "aliases": [
+    "American Saipan Memorial"
+   ]
   },
   {
-   "name": "Civic Center Park",
+   "name": "시빅 센터 공원",
    "cat": "관광",
    "area": "Saipan Municipality",
    "lat": 15.16111,
    "lng": 145.70444,
-   "wd": "Q27728307"
+   "wd": "Q27728307",
+   "aliases": [
+    "Civic Center Park"
+   ]
   }
  ]
 }

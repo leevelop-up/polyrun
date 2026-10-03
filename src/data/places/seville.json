@@ -48,28 +48,37 @@
    "wd": "Q956018"
   },
   {
-   "name": "Puente del Alamillo",
+   "name": "알라미요 다리",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.41333,
    "lng": -5.99028,
-   "wd": "Q1353494"
+   "wd": "Q1353494",
+   "aliases": [
+    "Puente del Alamillo"
+   ]
   },
   {
-   "name": "Plaza de toros de la Maestranza",
+   "name": "마에스트란사 투우장",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.38596,
    "lng": -5.99841,
-   "wd": "Q2274061"
+   "wd": "Q2274061",
+   "aliases": [
+    "Plaza de toros de la Maestranza"
+   ]
   },
   {
-   "name": "Casa de Pilatos",
+   "name": "필라토스의 집",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.39027,
    "lng": -5.98699,
-   "wd": "Q1046529"
+   "wd": "Q1046529",
+   "aliases": [
+    "Casa de Pilatos"
+   ]
   },
   {
    "name": "세비야 미술관",
@@ -116,148 +125,202 @@
    "wd": "Q2627907"
   },
   {
-   "name": "Royal Tobacco Factory of Seville",
+   "name": "왕립 담배공장",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.38069,
    "lng": -5.99083,
-   "wd": "Q2542555"
+   "wd": "Q2542555",
+   "aliases": [
+    "Royal Tobacco Factory of Seville"
+   ]
   },
   {
-   "name": "Isla Mágica",
+   "name": "이슬라 마히카",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.40833,
    "lng": -6.00028,
-   "wd": "Q2961111"
+   "wd": "Q2961111",
+   "aliases": [
+    "Isla Mágica"
+   ]
   },
   {
-   "name": "Hotel Alfonso XIII y Jardines",
+   "name": "알폰소 13세 호텔과 정원",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.38153,
    "lng": -5.99276,
-   "wd": "Q1108879"
+   "wd": "Q1108879",
+   "aliases": [
+    "Hotel Alfonso XIII y Jardines"
+   ]
   },
   {
-   "name": "Isabel II Bridge",
+   "name": "이사벨 2세 다리(트리아나 다리)",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.38633,
    "lng": -6.00237,
-   "wd": "Q1862973"
+   "wd": "Q1862973",
+   "aliases": [
+    "Isabel II Bridge"
+   ]
   },
   {
-   "name": "Teatro de la Maestranza",
+   "name": "마에스트란사 극장",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.3838,
    "lng": -5.99713,
-   "wd": "Q3527707"
+   "wd": "Q3527707",
+   "aliases": [
+    "Teatro de la Maestranza"
+   ]
   },
   {
-   "name": "Palacio de las Dueñas",
+   "name": "두에냐스 궁전",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.39472,
    "lng": -5.98917,
-   "wd": "Q7126325"
+   "wd": "Q7126325",
+   "aliases": [
+    "Palacio de las Dueñas"
+   ]
   },
   {
-   "name": "Archeological Museum of Seville",
+   "name": "세비야 고고학박물관",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.37094,
    "lng": -5.98709,
-   "wd": "Q637061"
+   "wd": "Q637061",
+   "aliases": [
+    "Archeological Museum of Seville"
+   ]
   },
   {
-   "name": "plaza de América",
+   "name": "아메리카 광장",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.3716,
    "lng": -5.98739,
-   "wd": "Q2429567"
+   "wd": "Q2429567",
+   "aliases": [
+    "plaza de América"
+   ]
   },
   {
-   "name": "Lope de Vega Theatre",
+   "name": "로페 데 베가 극장",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.37856,
    "lng": -5.9909,
-   "wd": "Q2635919"
+   "wd": "Q2635919",
+   "aliases": [
+    "Lope de Vega Theatre"
+   ]
   },
   {
-   "name": "Church of St Mary Magdalene and chapel of Nuestra Señora de Montserrat",
+   "name": "막달라 마리아 성당",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.39055,
    "lng": -5.99841,
-   "wd": "Q7419759"
+   "wd": "Q7419759",
+   "aliases": [
+    "Church of St Mary Magdalene and chapel of Nuestra Señora de Montserrat"
+   ]
   },
   {
-   "name": "Antiguo Monasterio de la Cartuja de Santa María de las Cuevas",
+   "name": "카르투하 수도원",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.39781,
    "lng": -6.00765,
-   "wd": "Q97641872"
+   "wd": "Q97641872",
+   "aliases": [
+    "Antiguo Monasterio de la Cartuja de Santa María de las Cuevas"
+   ]
   },
   {
-   "name": "Puerta de la Macarena (Seville)",
+   "name": "마카레나 문",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.40279,
    "lng": -5.98923,
-   "wd": "Q621729"
+   "wd": "Q621729",
+   "aliases": [
+    "Puerta de la Macarena (Seville)"
+   ]
   },
   {
-   "name": "Archbishop's Palace",
+   "name": "대주교 궁전",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.3869,
    "lng": -5.99187,
-   "wd": "Q3360949"
+   "wd": "Q3360949",
+   "aliases": [
+    "Archbishop's Palace"
+   ]
   },
   {
-   "name": "Iglesia de San Luis de los Franceses",
+   "name": "산 루이스 데 로스 프란세세스 성당",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.39838,
    "lng": -5.98831,
-   "wd": "Q3582357"
+   "wd": "Q3582357",
+   "aliases": [
+    "Iglesia de San Luis de los Franceses"
+   ]
   },
   {
-   "name": "Plaza Nueva",
+   "name": "누에바 광장",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.38847,
    "lng": -5.99558,
-   "wd": "Q5518485"
+   "wd": "Q5518485",
+   "aliases": [
+    "Plaza Nueva"
+   ]
   },
   {
-   "name": "Iglesia del Divino Salvador",
+   "name": "엘 살바도르 성당",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.38998,
    "lng": -5.9926,
-   "wd": "Q5912858"
+   "wd": "Q5912858",
+   "aliases": [
+    "Iglesia del Divino Salvador"
+   ]
   },
   {
-   "name": "Royal Academy of Fine Arts of Saint Isabel of Hungary",
+   "name": "산타 이사벨 왕립 미술아카데미",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.3877,
    "lng": -5.99106,
-   "wd": "Q670077"
+   "wd": "Q670077",
+   "aliases": [
+    "Royal Academy of Fine Arts of Saint Isabel of Hungary"
+   ]
   },
   {
-   "name": "Puente de la Barqueta",
+   "name": "바르케타 다리",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.40437,
    "lng": -5.99739,
-   "wd": "Q781458"
+   "wd": "Q781458",
+   "aliases": [
+    "Puente de la Barqueta"
+   ]
   },
   {
    "name": "오스피탈 데 라 카리다드",
@@ -271,564 +334,653 @@
    "wd": "Q858907"
   },
   {
-   "name": "Palacio de la Condesa de Lebrija",
+   "name": "레브리하 백작부인 궁전",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.39213,
    "lng": -5.99382,
-   "wd": "Q1064212"
+   "wd": "Q1064212",
+   "aliases": [
+    "Palacio de la Condesa de Lebrija"
+   ]
   },
   {
-   "name": "Costurero de la Reina",
+   "name": "여왕의 재봉소",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.37604,
    "lng": -5.99152,
-   "wd": "Q1108656"
+   "wd": "Q1108656",
+   "aliases": [
+    "Costurero de la Reina"
+   ]
   },
   {
-   "name": "Alamillo Park",
+   "name": "알라미요 공원",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.4173,
    "lng": -5.99723,
-   "wd": "Q3364180"
+   "wd": "Q3364180",
+   "aliases": [
+    "Alamillo Park"
+   ]
   },
   {
-   "name": "Puente del Centenario",
-   "cat": "관광",
-   "area": "세비야",
-   "lat": 37.34918,
-   "lng": -5.99316,
-   "wd": "Q3397432"
-  },
-  {
-   "name": "Puente de San Telmo",
+   "name": "산 텔모 다리",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.38074,
    "lng": -5.99637,
-   "wd": "Q2162366"
+   "wd": "Q2162366",
+   "aliases": [
+    "Puente de San Telmo"
+   ]
   },
   {
-   "name": "Paseo de Catalina de Ribera y Jardines de Murillo",
+   "name": "무리요 정원",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.38346,
    "lng": -5.98791,
-   "wd": "Q3162660"
+   "wd": "Q3162660",
+   "aliases": [
+    "Paseo de Catalina de Ribera y Jardines de Murillo"
+   ]
   },
   {
-   "name": "Las Delicias Gardens",
+   "name": "델리시아스 정원",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.37091,
    "lng": -5.98992,
-   "wd": "Q3162679"
+   "wd": "Q3162679",
+   "aliases": [
+    "Las Delicias Gardens"
+   ]
   },
   {
-   "name": "Torre Triana",
+   "name": "트리아나 타워",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.39372,
    "lng": -6.01165,
-   "wd": "Q3532450"
+   "wd": "Q3532450",
+   "aliases": [
+    "Torre Triana"
+   ]
   },
   {
-   "name": "Iglesia de Santa Catalina",
+   "name": "산타 카탈리나 성당",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.39312,
    "lng": -5.98819,
-   "wd": "Q3896782"
+   "wd": "Q3896782",
+   "aliases": [
+    "Iglesia de Santa Catalina"
+   ]
   },
   {
-   "name": "Plaza de la Encarnación",
+   "name": "엔카르나시온 광장(메트로폴 파라솔)",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.39293,
    "lng": -5.99189,
-   "wd": "Q3906567"
+   "wd": "Q3906567",
+   "aliases": [
+    "Plaza de la Encarnación"
+   ]
   },
   {
-   "name": "Seville Royal Shipyard",
+   "name": "세비야 왕립 조선소",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.38466,
    "lng": -5.99546,
-   "wd": "Q5710444"
+   "wd": "Q5710444",
+   "aliases": [
+    "Seville Royal Shipyard"
+   ]
   },
   {
-   "name": "Science Museum, Seville",
+   "name": "세비야 과학박물관",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.37769,
    "lng": -5.9912,
-   "wd": "Q7433493"
+   "wd": "Q7433493",
+   "aliases": [
+    "Science Museum, Seville"
+   ]
   },
   {
-   "name": "Palacio y jardines de la Buhaira",
+   "name": "부아이라 궁전과 정원",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.38238,
    "lng": -5.97888,
-   "wd": "Q97688649"
+   "wd": "Q97688649",
+   "aliases": [
+    "Palacio y jardines de la Buhaira"
+   ]
   },
   {
-   "name": "Puente de los Remedios",
-   "cat": "관광",
-   "area": "세비야",
-   "lat": 37.37524,
-   "lng": -5.99288,
-   "wd": "Q726579"
-  },
-  {
-   "name": "Puente del Cristo de la Expiración",
-   "cat": "관광",
-   "area": "세비야",
-   "lat": 37.39032,
-   "lng": -6.00653,
-   "wd": "Q2304317"
-  },
-  {
-   "name": "Plaza de San Francisco",
+   "name": "산 프란시스코 광장",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.38853,
    "lng": -5.99399,
-   "wd": "Q2917864"
+   "wd": "Q2917864",
+   "aliases": [
+    "Plaza de San Francisco"
+   ]
   },
   {
-   "name": "Plaza del Triunfo",
+   "name": "트리운포 광장",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.38503,
    "lng": -5.99237,
-   "wd": "Q3906571"
+   "wd": "Q3906571",
+   "aliases": [
+    "Plaza del Triunfo"
+   ]
   },
   {
-   "name": "Casa de las Sirenas",
+   "name": "사이렌의 집",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.39915,
    "lng": -5.99444,
-   "wd": "Q5755241"
+   "wd": "Q5755241",
+   "aliases": [
+    "Casa de las Sirenas"
+   ]
   },
   {
-   "name": "Castle of San Jorge",
+   "name": "산 호르헤 성(종교재판 박물관)",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.38561,
    "lng": -6.00356,
-   "wd": "Q5757560"
+   "wd": "Q5757560",
+   "aliases": [
+    "Castle of San Jorge"
+   ]
   },
   {
-   "name": "Museum of Arts and Traditions of Sevilla",
+   "name": "세비야 민속박물관",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.37218,
    "lng": -5.98786,
-   "wd": "Q6940778"
+   "wd": "Q6940778",
+   "aliases": [
+    "Museum of Arts and Traditions of Sevilla"
+   ]
   },
   {
-   "name": "Centro Andaluz de Arte Contemporáneo (Sevilla)",
+   "name": "안달루시아 현대미술센터",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.39804,
    "lng": -6.00772,
-   "wd": "Q8343569"
+   "wd": "Q8343569",
+   "aliases": [
+    "Centro Andaluz de Arte Contemporáneo (Sevilla)"
+   ]
   },
   {
-   "name": "Pabellón Real para la Exposición Iberoamericana de 1929",
+   "name": "1929년 박람회 왕실관",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.37194,
    "lng": -5.98635,
-   "wd": "Q9053904"
+   "wd": "Q9053904",
+   "aliases": [
+    "Pabellón Real para la Exposición Iberoamericana de 1929"
+   ]
   },
   {
-   "name": "Columbus Monument",
+   "name": "콜럼버스 기념비",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.38343,
    "lng": -5.98784,
-   "wd": "Q24024931"
+   "wd": "Q24024931",
+   "aliases": [
+    "Columbus Monument"
+   ]
   },
   {
-   "name": "Real Casa de la Moneda",
+   "name": "왕립 조폐국",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.38297,
    "lng": -5.99466,
-   "wd": "Q97641885"
+   "wd": "Q97641885",
+   "aliases": [
+    "Real Casa de la Moneda"
+   ]
   },
   {
-   "name": "FIBES Conference and Exhibition Centre",
-   "cat": "관광",
-   "area": "세비야",
-   "lat": 37.40444,
-   "lng": -5.9325,
-   "wd": "Q6057931"
-  },
-  {
-   "name": "Torre Blanca",
+   "name": "토레 블랑카",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.40276,
    "lng": -5.98792,
-   "wd": "Q6150055"
+   "wd": "Q6150055",
+   "aliases": [
+    "Torre Blanca"
+   ]
   },
   {
-   "name": "Monastery of San Isidoro del Campo",
+   "name": "산 이시도로 델 캄포 수도원",
    "cat": "관광",
    "area": "Santiponce",
    "lat": 37.43376,
    "lng": -6.03661,
-   "wd": "Q778571"
+   "wd": "Q778571",
+   "aliases": [
+    "Monastery of San Isidoro del Campo"
+   ]
   },
   {
-   "name": "Queen Sofia Bridge",
-   "cat": "관광",
-   "area": "세비야",
-   "lat": 37.3723,
-   "lng": -6.02261,
-   "wd": "Q283164"
-  },
-  {
-   "name": "Pasarela de La Cartuja",
-   "cat": "관광",
-   "area": "세비야",
-   "lat": 37.39651,
-   "lng": -6.00487,
-   "wd": "Q2532720"
-  },
-  {
-   "name": "Puente de San Juan de Aznalfarache",
-   "cat": "관광",
-   "area": "세비야",
-   "lat": 37.3681,
-   "lng": -6.0225,
-   "wd": "Q3397140"
-  },
-  {
-   "name": "Puente de las Delicias",
-   "cat": "관광",
-   "area": "세비야",
-   "lat": 37.3678,
-   "lng": -5.99249,
-   "wd": "Q3397332"
-  },
-  {
-   "name": "Tower Schindler",
+   "name": "신들러 타워",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.3933,
    "lng": -6.00714,
-   "wd": "Q3533183"
+   "wd": "Q3533183",
+   "aliases": [
+    "Tower Schindler"
+   ]
   },
   {
-   "name": "Chapel of San José",
+   "name": "산 호세 예배당",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.39004,
    "lng": -5.99478,
-   "wd": "Q3895852"
+   "wd": "Q3895852",
+   "aliases": [
+    "Chapel of San José"
+   ]
   },
   {
-   "name": "Iglesia de Santa María la Blanca",
+   "name": "산타 마리아 라 블랑카 성당",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.38648,
    "lng": -5.98723,
-   "wd": "Q5555137"
+   "wd": "Q5555137",
+   "aliases": [
+    "Iglesia de Santa María la Blanca"
+   ]
   },
   {
-   "name": "Ciudad Deportiva José Ramón Cisneros Palacios",
-   "cat": "관광",
-   "area": "세비야",
-   "lat": 37.3528,
-   "lng": -5.94778,
-   "wd": "Q5770608"
-  },
-  {
-   "name": "Tomb of Christopher Columbus (Seville)",
+   "name": "콜럼버스의 묘",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.38548,
    "lng": -5.99272,
-   "wd": "Q6153784"
+   "wd": "Q6153784",
+   "aliases": [
+    "Tomb of Christopher Columbus (Seville)"
+   ]
   },
   {
-   "name": "Pabellón Domecq en la Exposición Iberoamericana de 1929",
+   "name": "1929년 박람회 도메크관",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.37373,
    "lng": -5.9857,
-   "wd": "Q9053901"
+   "wd": "Q9053901",
+   "aliases": [
+    "Pabellón Domecq en la Exposición Iberoamericana de 1929"
+   ]
   },
   {
-   "name": "Pabellón de México para la Exposición Iberoamericana de 1929",
+   "name": "1929년 박람회 멕시코관",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.36971,
    "lng": -5.98715,
-   "wd": "Q9053913"
+   "wd": "Q9053913",
+   "aliases": [
+    "Pabellón de México para la Exposición Iberoamericana de 1929"
+   ]
   },
   {
-   "name": "Real Audiencia de Sevilla",
+   "name": "세비야 왕립 법원",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.38901,
    "lng": -5.99372,
-   "wd": "Q9067020"
+   "wd": "Q9067020",
+   "aliases": [
+    "Real Audiencia de Sevilla"
+   ]
   },
   {
-   "name": "Plaza de la Alfalfa",
+   "name": "알팔파 광장",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.39041,
    "lng": -5.99076,
-   "wd": "Q11699802"
+   "wd": "Q11699802",
+   "aliases": [
+    "Plaza de la Alfalfa"
+   ]
   },
   {
-   "name": "Antiguo Matadero de Sevilla",
+   "name": "옛 세비야 도축장",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.37517,
    "lng": -5.96372,
-   "wd": "Q16486066"
+   "wd": "Q16486066",
+   "aliases": [
+    "Antiguo Matadero de Sevilla"
+   ]
   },
   {
-   "name": "Puerta de Córdoba",
+   "name": "코르도바 문",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.4002,
    "lng": -5.98521,
-   "wd": "Q19951231"
+   "wd": "Q19951231",
+   "aliases": [
+    "Puerta de Córdoba"
+   ]
   },
   {
-   "name": "Acuario de Sevilla",
+   "name": "세비야 수족관",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.3705,
    "lng": -5.99108,
-   "wd": "Q20746709"
+   "wd": "Q20746709",
+   "aliases": [
+    "Acuario de Sevilla"
+   ]
   },
   {
-   "name": "Palacio del Marqués de la Algaba",
+   "name": "알가바 후작 궁전",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.39951,
    "lng": -5.9907,
-   "wd": "Q97645169"
+   "wd": "Q97645169",
+   "aliases": [
+    "Palacio del Marqués de la Algaba"
+   ]
   },
   {
-   "name": "Peru Pavilion, Seville",
+   "name": "페루관",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.37769,
    "lng": -5.9912,
-   "wd": "Q75527160"
+   "wd": "Q75527160",
+   "aliases": [
+    "Peru Pavilion, Seville"
+   ]
   },
   {
-   "name": "Iglesia del Convento de San Buenaventura",
+   "name": "산 부에나벤투라 수도원 성당",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.38905,
    "lng": -5.99738,
-   "wd": "Q5910018"
+   "wd": "Q5910018",
+   "aliases": [
+    "Iglesia del Convento de San Buenaventura"
+   ]
   },
   {
-   "name": "Iglesia de San Ildefonso (Sevilla)",
+   "name": "산 일데폰소 성당",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.39037,
    "lng": -5.98844,
-   "wd": "Q5910286"
+   "wd": "Q5910286",
+   "aliases": [
+    "Iglesia de San Ildefonso (Sevilla)"
+   ]
   },
   {
-   "name": "Iglesia de San Lorenzo, Sevilla",
+   "name": "산 로렌소 성당",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.39739,
    "lng": -5.99681,
-   "wd": "Q5910645"
+   "wd": "Q5910645",
+   "aliases": [
+    "Iglesia de San Lorenzo, Sevilla"
+   ]
   },
   {
-   "name": "Iglesia de San Pedro (Sevilla)",
+   "name": "산 페드로 성당",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.39273,
    "lng": -5.99,
-   "wd": "Q5911120"
+   "wd": "Q5911120",
+   "aliases": [
+    "Iglesia de San Pedro (Sevilla)"
+   ]
   },
   {
-   "name": "Iglesia de Santa Cruz",
+   "name": "산타 크루스 성당",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.38669,
    "lng": -5.98946,
-   "wd": "Q5911552"
+   "wd": "Q5911552",
+   "aliases": [
+    "Iglesia de Santa Cruz"
+   ]
   },
   {
-   "name": "Monumento a La Raza, Sevilla",
+   "name": "라 라사 기념비",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.37871,
    "lng": -5.98893,
-   "wd": "Q6023052"
+   "wd": "Q6023052",
+   "aliases": [
+    "Monumento a La Raza, Sevilla"
+   ]
   },
   {
-   "name": "Plaza del Salvador",
+   "name": "살바도르 광장",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.38996,
    "lng": -5.99326,
-   "wd": "Q6080462"
+   "wd": "Q6080462",
+   "aliases": [
+    "Plaza del Salvador"
+   ]
   },
   {
-   "name": "Postigo del Aceite",
+   "name": "아세이테 문",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.38524,
    "lng": -5.99496,
-   "wd": "Q6083476"
+   "wd": "Q6083476",
+   "aliases": [
+    "Postigo del Aceite"
+   ]
   },
   {
-   "name": "Puerta Real",
+   "name": "레알 문",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.3933,
    "lng": -6.00152,
-   "wd": "Q6091734"
+   "wd": "Q6091734",
+   "aliases": [
+    "Puerta Real"
+   ]
   },
   {
-   "name": "Torre de Abdelazis",
+   "name": "압델아시스 탑",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.38402,
    "lng": -5.99356,
-   "wd": "Q6149996"
+   "wd": "Q6149996",
+   "aliases": [
+    "Torre de Abdelazis"
+   ]
   },
   {
-   "name": "Parque Amate",
+   "name": "아마테 공원",
    "cat": "관광",
    "area": "세비야주",
    "lat": 37.38247,
    "lng": -5.94682,
-   "wd": "Q5644172"
+   "wd": "Q5644172",
+   "aliases": [
+    "Parque Amate"
+   ]
   },
   {
-   "name": "Puente de Alfonso XIII",
-   "cat": "관광",
-   "area": "세비야",
-   "lat": 37.3692,
-   "lng": -5.99256,
-   "wd": "Q282619"
-  },
-  {
-   "name": "Gloriette of Covadonga",
+   "name": "코바동가 정자",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.37421,
    "lng": -5.98613,
-   "wd": "Q2877169"
+   "wd": "Q2877169",
+   "aliases": [
+    "Gloriette of Covadonga"
+   ]
   },
   {
-   "name": "Museo Histórico Militar de Sevilla",
+   "name": "세비야 군사역사박물관",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.37831,
    "lng": -5.98709,
-   "wd": "Q2880514"
+   "wd": "Q2880514",
+   "aliases": [
+    "Museo Histórico Militar de Sevilla"
+   ]
   },
   {
-   "name": "The sailors chapel",
+   "name": "선원 예배당",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.384,
    "lng": -6.00102,
-   "wd": "Q2957394"
+   "wd": "Q2957394",
+   "aliases": [
+    "The sailors chapel"
+   ]
   },
   {
-   "name": "Monastery of San Leandro of Seville",
+   "name": "산 레안드로 수도원",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.3906,
    "lng": -5.98827,
-   "wd": "Q3001641"
+   "wd": "Q3001641",
+   "aliases": [
+    "Monastery of San Leandro of Seville"
+   ]
   },
   {
-   "name": "Rey Juan Carlos I bridge",
-   "cat": "관광",
-   "area": "세비야",
-   "lat": 37.3714,
-   "lng": -6.0225,
-   "wd": "Q3396708"
-  },
-  {
-   "name": "Iglesia de la Señora Santa Ana",
+   "name": "산타 아나 성당",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.38283,
    "lng": -6.00048,
-   "wd": "Q3584901"
+   "wd": "Q3584901",
+   "aliases": [
+    "Iglesia de la Señora Santa Ana"
+   ]
   },
   {
-   "name": "Antiquarium (Sevilla)",
+   "name": "안티쿠아리움",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.39325,
    "lng": -5.99188,
-   "wd": "Q5697381"
+   "wd": "Q5697381",
+   "aliases": [
+    "Antiquarium (Sevilla)"
+   ]
   },
   {
-   "name": "Auditorio Rocío Jurado",
+   "name": "로시오 후라도 강당",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.40039,
    "lng": -6.0035,
-   "wd": "Q5711434"
+   "wd": "Q5711434",
+   "aliases": [
+    "Auditorio Rocío Jurado"
+   ]
   },
   {
-   "name": "Torre de los perdigones",
+   "name": "산탄 탑(토레 데 로스 페르디고네스)",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.40376,
    "lng": -5.99299,
-   "wd": "Q6150604"
+   "wd": "Q6150604",
+   "aliases": [
+    "Torre de los perdigones"
+   ]
   },
   {
-   "name": "Glorieta de los Hermanos Álvarez Quintero",
+   "name": "알바레스 킨테로 형제 정자",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.37345,
    "lng": -5.98674,
-   "wd": "Q8964300"
+   "wd": "Q8964300",
+   "aliases": [
+    "Glorieta de los Hermanos Álvarez Quintero"
+   ]
   },
   {
-   "name": "Statue of Aníbal González, Seville",
+   "name": "아니발 곤살레스 동상",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.37676,
    "lng": -5.98776,
-   "wd": "Q8964308"
+   "wd": "Q8964308",
+   "aliases": [
+    "Statue of Aníbal González, Seville"
+   ]
   },
   {
-   "name": "Pabellón de Portugal en la Exposición Iberoamericana de 1929",
+   "name": "1929년 박람회 포르투갈관",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.37954,
    "lng": -5.98839,
-   "wd": "Q9053916"
+   "wd": "Q9053916",
+   "aliases": [
+    "Pabellón de Portugal en la Exposición Iberoamericana de 1929"
+   ]
   },
   {
-   "name": "Pabellón de Colombia para la Exposición Iberoamericana de 1929",
+   "name": "1929년 박람회 콜롬비아관",
    "cat": "관광",
    "area": "세비야",
    "lat": 37.36975,
    "lng": -5.98869,
-   "wd": "Q12198131"
+   "wd": "Q12198131",
+   "aliases": [
+    "Pabellón de Colombia para la Exposición Iberoamericana de 1929"
+   ]
   }
  ]
 }

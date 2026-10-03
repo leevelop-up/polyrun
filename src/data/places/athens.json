@@ -194,12 +194,15 @@
    "wd": "Q1125096"
   },
   {
-   "name": "Athena Promachos",
+   "name": "아테나 프로마코스 상",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.9718,
    "lng": 23.7257,
-   "wd": "Q755221"
+   "wd": "Q755221",
+   "aliases": [
+    "Athena Promachos"
+   ]
   },
   {
    "name": "성모 희보 대성당",
@@ -268,12 +271,15 @@
    "wd": "Q646284"
   },
   {
-   "name": "Stoa Poikile",
+   "name": "스토아 포이킬레",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.9763,
    "lng": 23.723,
-   "wd": "Q936234"
+   "wd": "Q936234",
+   "aliases": [
+    "Stoa Poikile"
+   ]
   },
   {
    "name": "오모니아 광장",
@@ -300,12 +306,15 @@
    "wd": "Q7084890"
   },
   {
-   "name": "Museum of Cycladic Art",
+   "name": "키클라데스 미술관",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.9757,
    "lng": 23.74227,
-   "wd": "Q1230253"
+   "wd": "Q1230253",
+   "aliases": [
+    "Museum of Cycladic Art"
+   ]
   },
   {
    "name": "하드리아누스의 개선문",
@@ -319,68 +328,92 @@
    "wd": "Q1567576"
   },
   {
-   "name": "Propylaea of Athens",
+   "name": "아크로폴리스 프로필라이아",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.97169,
    "lng": 23.72511,
-   "wd": "Q3407649"
+   "wd": "Q3407649",
+   "aliases": [
+    "Propylaea of Athens"
+   ]
   },
   {
-   "name": "Tzistarakis Mosque",
+   "name": "치스타라키스 모스크",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.97595,
    "lng": 23.72592,
-   "wd": "Q15958739"
+   "wd": "Q15958739",
+   "aliases": [
+    "Tzistarakis Mosque"
+   ]
   },
   {
-   "name": "Hekatompedon temple",
+   "name": "헤카톰페돈 신전",
    "cat": "관광",
    "area": "아테네",
    "lat": 37.9715,
    "lng": 23.7267,
-   "wd": "Q1035075"
+   "wd": "Q1035075",
+   "aliases": [
+    "Hekatompedon temple"
+   ]
   },
   {
-   "name": "National Historical Museum",
+   "name": "국립 역사박물관",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.9775,
    "lng": 23.73278,
-   "wd": "Q822101"
+   "wd": "Q822101",
+   "aliases": [
+    "National Historical Museum"
+   ]
   },
   {
-   "name": "Byzantine and Christian Museum",
+   "name": "비잔틴·기독교 박물관",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.97507,
    "lng": 23.74452,
-   "wd": "Q1018775"
+   "wd": "Q1018775",
+   "aliases": [
+    "Byzantine and Christian Museum"
+   ]
   },
   {
-   "name": "Presidential Mansion",
+   "name": "대통령 관저",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.97262,
    "lng": 23.74083,
-   "wd": "Q2629065"
+   "wd": "Q2629065",
+   "aliases": [
+    "Presidential Mansion"
+   ]
   },
   {
-   "name": "Numismatic Museum of Athens",
+   "name": "아테네 화폐박물관",
    "cat": "관광",
    "area": "Panepistimiou Street",
    "lat": 37.9778,
    "lng": 23.7354,
-   "wd": "Q658339"
+   "wd": "Q658339",
+   "aliases": [
+    "Numismatic Museum of Athens"
+   ]
   },
   {
-   "name": "Brauroneion",
+   "name": "브라우로니온",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.97147,
    "lng": 23.72538,
-   "wd": "Q902329"
+   "wd": "Q902329",
+   "aliases": [
+    "Brauroneion"
+   ]
   },
   {
    "name": "국립미술관",
@@ -394,68 +427,81 @@
    "wd": "Q1167467"
   },
   {
-   "name": "Roman Agora of Athens",
+   "name": "로마 아고라",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.97417,
    "lng": 23.72611,
-   "wd": "Q1435551"
+   "wd": "Q1435551",
+   "aliases": [
+    "Roman Agora of Athens"
+   ]
   },
   {
-   "name": "Athens Tower 1",
-   "cat": "관광",
-   "area": "Athens Municipality",
-   "lat": 37.98459,
-   "lng": 23.76087,
-   "wd": "Q2614287"
-  },
-  {
-   "name": "Church of the Holy Apostles",
+   "name": "성 사도 교회",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.97408,
    "lng": 23.72392,
-   "wd": "Q2615369"
+   "wd": "Q2615369",
+   "aliases": [
+    "Church of the Holy Apostles"
+   ]
   },
   {
-   "name": "Fethiye Mosque, Athens",
+   "name": "페티예 모스크",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.97449,
    "lng": 23.72655,
-   "wd": "Q5445954"
+   "wd": "Q5445954",
+   "aliases": [
+    "Fethiye Mosque, Athens"
+   ]
   },
   {
-   "name": "First Cemetery of Athens",
+   "name": "아테네 제1묘지",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.96316,
    "lng": 23.73787,
-   "wd": "Q1362125"
+   "wd": "Q1362125",
+   "aliases": [
+    "First Cemetery of Athens"
+   ]
   },
   {
-   "name": "Cathedral Basilica of St. Dionysius the Areopagite",
+   "name": "성 디오니시오스 대성당",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.9791,
    "lng": 23.73461,
-   "wd": "Q1628075"
+   "wd": "Q1628075",
+   "aliases": [
+    "Cathedral Basilica of St. Dionysius the Areopagite"
+   ]
   },
   {
-   "name": "Church of Panaghia Kapnikarea",
+   "name": "카프니카레아 교회",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.97637,
    "lng": 23.7286,
-   "wd": "Q1728667"
+   "wd": "Q1728667",
+   "aliases": [
+    "Church of Panaghia Kapnikarea"
+   ]
   },
   {
-   "name": "Stoa of Eumenes",
+   "name": "에우메네스 스토아",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.97056,
    "lng": 23.72611,
-   "wd": "Q1905296"
+   "wd": "Q1905296",
+   "aliases": [
+    "Stoa of Eumenes"
+   ]
   },
   {
    "name": "케라메이코스 고고학 박물관",
@@ -469,12 +515,15 @@
    "wd": "Q2574469"
   },
   {
-   "name": "Cynosarges",
+   "name": "키노사르게스",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.96658,
    "lng": 23.73271,
-   "wd": "Q940907"
+   "wd": "Q940907",
+   "aliases": [
+    "Cynosarges"
+   ]
   },
   {
    "name": "엘레우시니온",
@@ -499,36 +548,48 @@
    "wd": "Q3250992"
   },
   {
-   "name": "Older Parthenon",
+   "name": "옛 파르테논",
    "cat": "관광",
    "area": "아테네",
    "lat": 37.97154,
    "lng": 23.72671,
-   "wd": "Q17051553"
+   "wd": "Q17051553",
+   "aliases": [
+    "Older Parthenon"
+   ]
   },
   {
-   "name": "Chalkotheke",
+   "name": "칼코테케",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.97134,
    "lng": 23.72577,
-   "wd": "Q668598"
+   "wd": "Q668598",
+   "aliases": [
+    "Chalkotheke"
+   ]
   },
   {
-   "name": "Odeon of Agrippa",
+   "name": "아그리파 오데온",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.97514,
    "lng": 23.72317,
-   "wd": "Q745797"
+   "wd": "Q745797",
+   "aliases": [
+    "Odeon of Agrippa"
+   ]
   },
   {
-   "name": "Dipylon",
+   "name": "디필론 문",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.9786,
    "lng": 23.719,
-   "wd": "Q3708916"
+   "wd": "Q3708916",
+   "aliases": [
+    "Dipylon"
+   ]
   },
   {
    "name": "판드로세온",
@@ -542,124 +603,158 @@
    "wd": "Q2204137"
   },
   {
-   "name": "Ellinikon Metropolitan Park",
+   "name": "엘리니콘 메트로폴리탄 파크",
    "cat": "관광",
    "area": "Elliniko-Argyroupoli Municipality",
    "lat": 37.8866,
    "lng": 23.74148,
-   "wd": "Q12881012"
+   "wd": "Q12881012",
+   "aliases": [
+    "Ellinikon Metropolitan Park"
+   ]
   },
   {
-   "name": "Agios Eleftherios Church, Athens",
+   "name": "성 엘레프테리오스 교회",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.97506,
    "lng": 23.72999,
-   "wd": "Q2790568"
+   "wd": "Q2790568",
+   "aliases": [
+    "Agios Eleftherios Church, Athens"
+   ]
   },
   {
-   "name": "Athens Mosque",
+   "name": "아테네 모스크",
    "cat": "관광",
    "area": "아테네",
    "lat": 37.98639,
    "lng": 23.7,
-   "wd": "Q28465243"
+   "wd": "Q28465243",
+   "aliases": [
+    "Athens Mosque"
+   ]
   },
   {
-   "name": "Arrephorion",
+   "name": "아레포리온",
    "cat": "관광",
    "area": "아티키주",
    "lat": 37.9722,
    "lng": 23.726,
-   "wd": "Q699480"
+   "wd": "Q699480",
+   "aliases": [
+    "Arrephorion"
+   ]
   },
   {
-   "name": "Pedion tou Areos",
+   "name": "아레오스 공원",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.99284,
    "lng": 23.73651,
-   "wd": "Q932606"
+   "wd": "Q932606",
+   "aliases": [
+    "Pedion tou Areos"
+   ]
   },
   {
-   "name": "Asclepieion of Athens",
+   "name": "아스클레피온",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.97078,
    "lng": 23.72681,
-   "wd": "Q2278514"
+   "wd": "Q2278514",
+   "aliases": [
+    "Asclepieion of Athens"
+   ]
   },
   {
-   "name": "Museum of the Ancient Agora",
+   "name": "고대 아고라 박물관",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.975,
    "lng": 23.72417,
-   "wd": "Q2383284"
+   "wd": "Q2383284",
+   "aliases": [
+    "Museum of the Ancient Agora"
+   ]
   },
   {
-   "name": "Temple of Apollo Patroos",
+   "name": "아폴론 파트로오스 신전",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.97556,
    "lng": 23.72222,
-   "wd": "Q3142437"
+   "wd": "Q3142437",
+   "aliases": [
+    "Temple of Apollo Patroos"
+   ]
   },
   {
-   "name": "Kotzia Square",
+   "name": "코치아 광장",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.98167,
    "lng": 23.72778,
-   "wd": "Q3389927"
+   "wd": "Q3389927",
+   "aliases": [
+    "Kotzia Square"
+   ]
   },
   {
-   "name": "Monument of the Eponymous Heroes",
+   "name": "명조 영웅 기념비",
    "cat": "관광",
    "area": "아테네",
    "lat": 37.97506,
    "lng": 23.72236,
-   "wd": "Q2094507"
+   "wd": "Q2094507",
+   "aliases": [
+    "Monument of the Eponymous Heroes"
+   ]
   },
   {
-   "name": "Temple of Aphrodite Urania",
+   "name": "아프로디테 우라니아 신전",
    "cat": "관광",
    "area": "아테네",
    "lat": 37.97611,
    "lng": 23.72167,
-   "wd": "Q2118071"
+   "wd": "Q2118071",
+   "aliases": [
+    "Temple of Aphrodite Urania"
+   ]
   },
   {
-   "name": "Odeon of Pericles",
+   "name": "페리클레스 오데온",
    "cat": "관광",
    "area": "아테네",
    "lat": 37.97056,
    "lng": 23.72861,
-   "wd": "Q2704249"
+   "wd": "Q2704249",
+   "aliases": [
+    "Odeon of Pericles"
+   ]
   },
   {
-   "name": "Frankish Tower",
-   "cat": "관광",
-   "area": "아테네",
-   "lat": 37.97156,
-   "lng": 23.72508,
-   "wd": "Q12885865"
-  },
-  {
-   "name": "Altar of the Twelve Gods",
+   "name": "12신의 제단",
    "cat": "관광",
    "area": "아테네",
    "lat": 37.9758,
    "lng": 23.7228,
-   "wd": "Q2872376"
+   "wd": "Q2872376",
+   "aliases": [
+    "Altar of the Twelve Gods"
+   ]
   },
   {
-   "name": "Aglaureion",
+   "name": "아글라우레이온",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.97167,
    "lng": 23.72861,
-   "wd": "Q394211"
+   "wd": "Q394211",
+   "aliases": [
+    "Aglaureion"
+   ]
   },
   {
    "name": "그리스 국립극장",
@@ -673,84 +768,103 @@
    "wd": "Q583039"
   },
   {
-   "name": "Maximos Mansion",
+   "name": "막시모스 저택",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.97344,
    "lng": 23.74063,
-   "wd": "Q1141322"
+   "wd": "Q1141322",
+   "aliases": [
+    "Maximos Mansion"
+   ]
   },
   {
-   "name": "Agii Theodori",
+   "name": "아이이 테오도리 교회",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.97938,
    "lng": 23.73008,
-   "wd": "Q4505190"
+   "wd": "Q4505190",
+   "aliases": [
+    "Agii Theodori"
+   ]
   },
   {
-   "name": "Sanctuary of Zeus Polieus",
+   "name": "제우스 폴리에우스 성역",
    "cat": "관광",
    "area": "아테네",
    "lat": 37.9718,
    "lng": 23.7273,
-   "wd": "Q1595395"
+   "wd": "Q1595395",
+   "aliases": [
+    "Sanctuary of Zeus Polieus"
+   ]
   },
   {
-   "name": "Pompeion",
+   "name": "폼페이온",
    "cat": "관광",
    "area": "아테네",
    "lat": 37.97819,
    "lng": 23.71888,
-   "wd": "Q2372311"
+   "wd": "Q2372311",
+   "aliases": [
+    "Pompeion"
+   ]
   },
   {
-   "name": "Strategeion",
+   "name": "스트라테게이온",
    "cat": "관광",
    "area": "아테네",
    "lat": 37.9747,
    "lng": 23.7216,
-   "wd": "Q3082673"
+   "wd": "Q3082673",
+   "aliases": [
+    "Strategeion"
+   ]
   },
   {
-   "name": "Gate of Athena Archegetis",
+   "name": "아테나 아르케게티스 문",
    "cat": "관광",
    "area": "아테네",
    "lat": 37.9746,
    "lng": 23.7255,
-   "wd": "Q5527012"
+   "wd": "Q5527012",
+   "aliases": [
+    "Gate of Athena Archegetis"
+   ]
   },
   {
-   "name": "Holy Trinity Church",
+   "name": "성 삼위일체 교회",
    "cat": "관광",
    "area": "피레아스",
    "lat": 37.94429,
    "lng": 23.64525,
-   "wd": "Q17624278"
+   "wd": "Q17624278",
+   "aliases": [
+    "Holy Trinity Church"
+   ]
   },
   {
-   "name": "Temple of Ares",
+   "name": "아레스 신전",
    "cat": "관광",
    "area": "아티키주",
    "lat": 37.97553,
    "lng": 23.72278,
-   "wd": "Q2405583"
+   "wd": "Q2405583",
+   "aliases": [
+    "Temple of Ares"
+   ]
   },
   {
-   "name": "German Archaeological Institute at Athens",
-   "cat": "관광",
-   "area": "Athens Municipality",
-   "lat": 37.98247,
-   "lng": 23.7321,
-   "wd": "Q833782"
-  },
-  {
-   "name": "Temple of Rome and Augustus",
+   "name": "로마와 아우구스투스 신전",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.97163,
    "lng": 23.72729,
-   "wd": "Q2145005"
+   "wd": "Q2145005",
+   "aliases": [
+    "Temple of Rome and Augustus"
+   ]
   },
   {
    "name": "비문 박물관",
@@ -764,12 +878,15 @@
    "wd": "Q2732854"
   },
   {
-   "name": "National Museum of Contemporary Art",
+   "name": "국립 현대미술관",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.96274,
    "lng": 23.725,
-   "wd": "Q3038298"
+   "wd": "Q3038298",
+   "aliases": [
+    "National Museum of Contemporary Art"
+   ]
   },
   {
    "name": "베울레 문",
@@ -783,132 +900,169 @@
    "wd": "Q3398897"
   },
   {
-   "name": "Rentis mansion",
-   "cat": "관광",
-   "area": "Athens Municipality",
-   "lat": 37.9759,
-   "lng": 23.73838,
-   "wd": "Q38284182"
-  },
-  {
-   "name": "Altar of Athena Polias",
+   "name": "아테나 폴리아스 제단",
    "cat": "관광",
    "area": "아테네",
    "lat": 37.97188,
    "lng": 23.72681,
-   "wd": "Q2872350"
+   "wd": "Q2872350",
+   "aliases": [
+    "Altar of Athena Polias"
+   ]
   },
   {
-   "name": "Archaeological Museum of Piraeus",
+   "name": "피레우스 고고학박물관",
    "cat": "관광",
    "area": "피레아스",
    "lat": 37.93722,
    "lng": 23.64444,
-   "wd": "Q637040"
+   "wd": "Q637040",
+   "aliases": [
+    "Archaeological Museum of Piraeus"
+   ]
   },
   {
-   "name": "Agios Kosmas cape",
+   "name": "아이오스 코스마스 곶",
    "cat": "관광",
    "area": "Elliniko-Argyroupoli Municipality",
    "lat": 37.89422,
    "lng": 23.71589,
-   "wd": "Q25106019"
+   "wd": "Q25106019",
+   "aliases": [
+    "Agios Kosmas cape"
+   ]
   },
   {
-   "name": "Peripatos (Akropolis)",
+   "name": "페리파토스",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.97167,
    "lng": 23.72861,
-   "wd": "Q2071058"
+   "wd": "Q2071058",
+   "aliases": [
+    "Peripatos (Akropolis)"
+   ]
   },
   {
-   "name": "Choragic Monument of Thrasyllos",
+   "name": "트라실로스 기념비",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.97102,
    "lng": 23.7277,
-   "wd": "Q2290491"
+   "wd": "Q2290491",
+   "aliases": [
+    "Choragic Monument of Thrasyllos"
+   ]
   },
   {
-   "name": "Paul and Alexandra Canellopoulos Museum",
+   "name": "카넬로풀로스 박물관",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.97286,
    "lng": 23.72589,
-   "wd": "Q4306141"
+   "wd": "Q4306141",
+   "aliases": [
+    "Paul and Alexandra Canellopoulos Museum"
+   ]
   },
   {
-   "name": "Museum of Greek Folk Art",
+   "name": "그리스 민속미술관",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.97253,
    "lng": 23.73231,
-   "wd": "Q4306259"
+   "wd": "Q4306259",
+   "aliases": [
+    "Museum of Greek Folk Art"
+   ]
   },
   {
-   "name": "Monument of Nikias",
+   "name": "니키아스 기념비",
    "cat": "관광",
    "area": "아테네",
    "lat": 37.9703,
    "lng": 23.7269,
-   "wd": "Q3323331"
+   "wd": "Q3323331",
+   "aliases": [
+    "Monument of Nikias"
+   ]
   },
   {
-   "name": "Καθεδρικός Ναός Αγίας Τριάδος",
+   "name": "성 삼위일체 대성당",
    "cat": "관광",
    "area": "아테네",
    "lat": 38.00514,
    "lng": 23.72943,
-   "wd": "Q28519111"
+   "wd": "Q28519111",
+   "aliases": [
+    "Καθεδρικός Ναός Αγίας Τριάδος"
+   ]
   },
   {
-   "name": "Stoa Basileios",
+   "name": "스토아 바실레이오스",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.97614,
    "lng": 23.72233,
-   "wd": "Q1670679"
+   "wd": "Q1670679",
+   "aliases": [
+    "Stoa Basileios"
+   ]
   },
   {
-   "name": "Temenos of Dionysus Eleuthereus",
+   "name": "디오니소스 성역",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.97013,
    "lng": 23.72793,
-   "wd": "Q2032467"
+   "wd": "Q2032467",
+   "aliases": [
+    "Temenos of Dionysus Eleuthereus"
+   ]
   },
   {
-   "name": "Tomb of the Unknown Soldier, Athens",
+   "name": "무명용사의 묘",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.97535,
    "lng": 23.73635,
-   "wd": "Q3531128"
+   "wd": "Q3531128",
+   "aliases": [
+    "Tomb of the Unknown Soldier, Athens"
+   ]
   },
   {
-   "name": "Church of the Holy Trinity, Athens",
+   "name": "성 삼위일체 러시아 교회",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.97324,
    "lng": 23.73403,
-   "wd": "Q4400515"
+   "wd": "Q4400515",
+   "aliases": [
+    "Church of the Holy Trinity, Athens"
+   ]
   },
   {
-   "name": "Kolonaki Square",
+   "name": "콜로나키 광장",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.9769,
    "lng": 23.7409,
-   "wd": "Q4669658"
+   "wd": "Q4669658",
+   "aliases": [
+    "Kolonaki Square"
+   ]
   },
   {
-   "name": "Colonos Agoraios",
+   "name": "아고라이오스 언덕",
    "cat": "관광",
    "area": "Athens Municipality",
    "lat": 37.97497,
    "lng": 23.72081,
-   "wd": "Q5148468"
+   "wd": "Q5148468",
+   "aliases": [
+    "Colonos Agoraios"
+   ]
   }
  ]
 }

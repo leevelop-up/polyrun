@@ -33,12 +33,15 @@
    "wd": "Q128316"
   },
   {
-   "name": "USS Arizona Memorial",
+   "name": "USS 애리조나 기념관",
    "cat": "관광",
    "area": "호놀룰루군",
    "lat": 21.3649,
    "lng": -157.95,
-   "wd": "Q2004262"
+   "wd": "Q2004262",
+   "aliases": [
+    "USS Arizona Memorial"
+   ]
   },
   {
    "name": "비숍 박물관",
@@ -49,28 +52,37 @@
    "wd": "Q826520"
   },
   {
-   "name": "USS Bowfin",
+   "name": "USS 보우핀 잠수함",
    "cat": "관광",
    "area": "호놀룰루군",
    "lat": 21.36869,
    "lng": -157.93942,
-   "wd": "Q1638840"
+   "wd": "Q1638840",
+   "aliases": [
+    "USS Bowfin"
+   ]
   },
   {
-   "name": "Cathedral Basilica of Our Lady of Peace",
+   "name": "평화의 성모 대성당",
    "cat": "관광",
    "area": "호놀룰루",
    "lat": 21.31075,
    "lng": -157.85942,
-   "wd": "Q5052335"
+   "wd": "Q5052335",
+   "aliases": [
+    "Cathedral Basilica of Our Lady of Peace"
+   ]
   },
   {
-   "name": "Honolulu Zoo",
+   "name": "호놀룰루 동물원",
    "cat": "관광",
    "area": "호놀룰루",
    "lat": 21.2709,
    "lng": -157.819,
-   "wd": "Q5896736"
+   "wd": "Q5896736",
+   "aliases": [
+    "Honolulu Zoo"
+   ]
   },
   {
    "name": "와이키키 수족관",
@@ -84,60 +96,81 @@
    "wd": "Q2891869"
   },
   {
-   "name": "Aloha Tower",
+   "name": "알로하 타워",
    "cat": "관광",
    "area": "호놀룰루군",
    "lat": 21.30708,
    "lng": -157.86597,
-   "wd": "Q448450"
+   "wd": "Q448450",
+   "aliases": [
+    "Aloha Tower"
+   ]
   },
   {
-   "name": "Washington Place",
+   "name": "워싱턴 플레이스",
    "cat": "관광",
    "area": "호놀룰루",
    "lat": 21.30882,
    "lng": -157.85677,
-   "wd": "Q7972130"
+   "wd": "Q7972130",
+   "aliases": [
+    "Washington Place"
+   ]
   },
   {
-   "name": "Lanikai Beach",
+   "name": "라니카이 비치",
    "cat": "관광",
    "area": "카일루아",
    "lat": 21.39222,
    "lng": -157.715,
-   "wd": "Q5195257"
+   "wd": "Q5195257",
+   "aliases": [
+    "Lanikai Beach"
+   ]
   },
   {
-   "name": "Manoa Falls",
+   "name": "마노아 폭포",
    "cat": "관광",
    "area": "호놀룰루",
    "lat": 21.342,
    "lng": -157.7994,
-   "wd": "Q11340775"
+   "wd": "Q11340775",
+   "aliases": [
+    "Manoa Falls"
+   ]
   },
   {
-   "name": "Aliiolani Hale",
+   "name": "알리이올라니 할레",
    "cat": "관광",
    "area": "호놀룰루군",
    "lat": 21.30528,
    "lng": -157.86,
-   "wd": "Q2336640"
+   "wd": "Q2336640",
+   "aliases": [
+    "Aliiolani Hale"
+   ]
   },
   {
-   "name": "Ala Moana Center",
+   "name": "알라 모아나 센터",
    "cat": "쇼핑",
    "area": "호놀룰루",
    "lat": 21.29111,
    "lng": -157.84361,
-   "wd": "Q1431609"
+   "wd": "Q1431609",
+   "aliases": [
+    "Ala Moana Center"
+   ]
   },
   {
-   "name": "Queen Kapiʻolani Regional Park",
+   "name": "카피올라니 공원",
    "cat": "관광",
    "area": "호놀룰루",
    "lat": 21.2692,
    "lng": -157.819,
-   "wd": "Q6366686"
+   "wd": "Q6366686",
+   "aliases": [
+    "Queen Kapiʻolani Regional Park"
+   ]
   },
   {
    "name": "국립 태평양 기념묘지",
@@ -151,260 +184,301 @@
    "wd": "Q2891136"
   },
   {
-   "name": "Royal Mausoleum of Hawaii",
+   "name": "하와이 왕실 묘역",
    "cat": "관광",
    "area": "호놀룰루",
    "lat": 21.32528,
    "lng": -157.84731,
-   "wd": "Q5574219"
+   "wd": "Q5574219",
+   "aliases": [
+    "Royal Mausoleum of Hawaii"
+   ]
   },
   {
-   "name": "Kawaiahaʻo Church",
+   "name": "카와이아하오 교회",
    "cat": "관광",
    "area": "호놀룰루",
    "lat": 21.30472,
    "lng": -157.85917,
-   "wd": "Q6379539"
+   "wd": "Q6379539",
+   "aliases": [
+    "Kawaiahaʻo Church"
+   ]
   },
   {
-   "name": "Byodo-in Temple",
+   "name": "뵤도인 사원",
    "cat": "관광",
    "area": "하와이군",
    "lat": 21.43095,
    "lng": -157.83179,
-   "wd": "Q5004179"
+   "wd": "Q5004179",
+   "aliases": [
+    "Byodo-in Temple"
+   ]
   },
   {
-   "name": "Sandy Beach",
+   "name": "샌디 비치",
    "cat": "관광",
    "area": "하와이주",
    "lat": 21.2847,
    "lng": -157.672,
-   "wd": "Q7417163"
+   "wd": "Q7417163",
+   "aliases": [
+    "Sandy Beach"
+   ]
   },
   {
-   "name": "Foster Botanical Garden",
+   "name": "포스터 식물원",
    "cat": "관광",
    "area": "호놀룰루",
    "lat": 21.31667,
    "lng": -157.85917,
-   "wd": "Q1976703"
+   "wd": "Q1976703",
+   "aliases": [
+    "Foster Botanical Garden"
+   ]
   },
   {
-   "name": "Lyon Arboretum",
+   "name": "라이언 수목원",
    "cat": "관광",
    "area": "호놀룰루",
    "lat": 21.333,
    "lng": -157.8018,
-   "wd": "Q2485977"
+   "wd": "Q2485977",
+   "aliases": [
+    "Lyon Arboretum"
+   ]
   },
   {
-   "name": "Liliuokalani Botanical Garden",
+   "name": "릴리우오칼라니 식물원",
    "cat": "관광",
    "area": "호놀룰루",
    "lat": 21.3167,
    "lng": -157.85,
-   "wd": "Q4895276"
+   "wd": "Q4895276",
+   "aliases": [
+    "Liliuokalani Botanical Garden"
+   ]
   },
   {
-   "name": "Co-Cathedral of Saint Theresa of the Child Jesus",
+   "name": "성녀 테레사 공동 대성당",
    "cat": "관광",
    "area": "호놀룰루",
    "lat": 21.31083,
    "lng": -157.85972,
-   "wd": "Q5137402"
+   "wd": "Q5137402",
+   "aliases": [
+    "Co-Cathedral of Saint Theresa of the Child Jesus"
+   ]
   },
   {
-   "name": "Koko Crater Botanical Garden",
+   "name": "코코 크레이터 식물원",
    "cat": "관광",
    "area": "호놀룰루군",
    "lat": 21.2931,
    "lng": -157.6772,
-   "wd": "Q2794125"
+   "wd": "Q2794125",
+   "aliases": [
+    "Koko Crater Botanical Garden"
+   ]
   },
   {
-   "name": "Admiral Clarey Bridge",
-   "cat": "관광",
-   "area": "",
-   "lat": 21.36917,
-   "lng": -157.94417,
-   "wd": "Q4683661"
-  },
-  {
-   "name": "Hawaii State Art Museum",
+   "name": "하와이 주립미술관",
    "cat": "관광",
    "area": "호놀룰루",
    "lat": 21.3086,
    "lng": -157.858,
-   "wd": "Q5684387"
+   "wd": "Q5684387",
+   "aliases": [
+    "Hawaii State Art Museum"
+   ]
   },
   {
-   "name": "Hawaii Theatre",
+   "name": "하와이 극장",
    "cat": "관광",
    "area": "호놀룰루",
    "lat": 21.31056,
    "lng": -157.86111,
-   "wd": "Q5684427"
+   "wd": "Q5684427",
+   "aliases": [
+    "Hawaii Theatre"
+   ]
   },
   {
-   "name": "Aloha Jewish Chapel",
-   "cat": "관광",
-   "area": "호놀룰루",
-   "lat": 21.3531,
-   "lng": -157.936,
-   "wd": "Q20820800"
-  },
-  {
-   "name": "Moanalua Gardens",
+   "name": "모아날루아 가든",
    "cat": "관광",
    "area": "호놀룰루",
    "lat": 21.3478,
    "lng": -157.893,
-   "wd": "Q6886412"
+   "wd": "Q6886412",
+   "aliases": [
+    "Moanalua Gardens"
+   ]
   },
   {
-   "name": "Waikiki Shell",
+   "name": "와이키키 셸",
    "cat": "관광",
    "area": "호놀룰루",
    "lat": 21.27167,
    "lng": -157.82139,
-   "wd": "Q7960024"
+   "wd": "Q7960024",
+   "aliases": [
+    "Waikiki Shell"
+   ]
   },
   {
-   "name": "Kawai Nui Marsh",
+   "name": "카와이 누이 습지",
    "cat": "관광",
    "area": "호놀룰루군",
    "lat": 21.4,
    "lng": -157.76083,
-   "wd": "Q6379526"
+   "wd": "Q6379526",
+   "aliases": [
+    "Kawai Nui Marsh"
+   ]
   },
   {
-   "name": "Ala Wai Promenade",
+   "name": "알라 와이 산책로",
    "cat": "관광",
    "area": "호놀룰루군",
    "lat": 21.28894,
    "lng": -157.83633,
-   "wd": "Q49472022"
+   "wd": "Q49472022",
+   "aliases": [
+    "Ala Wai Promenade"
+   ]
   },
   {
-   "name": "Ho'omaluhia Botanical Garden",
+   "name": "호오말루히아 식물원",
    "cat": "관광",
    "area": "카나오헤",
    "lat": 21.3878,
    "lng": -157.808,
-   "wd": "Q5873822"
+   "wd": "Q5873822",
+   "aliases": [
+    "Ho'omaluhia Botanical Garden"
+   ]
   },
   {
-   "name": "Saint John the Baptist Catholic Church",
+   "name": "세례자 성 요한 성당",
    "cat": "관광",
    "area": "하와이주",
    "lat": 21.33771,
    "lng": -157.88102,
-   "wd": "Q7401478"
+   "wd": "Q7401478",
+   "aliases": [
+    "Saint John the Baptist Catholic Church"
+   ]
   },
   {
-   "name": "Shangri La Museum",
+   "name": "샹그릴라 박물관",
    "cat": "관광",
    "area": "하와이주",
    "lat": 21.2567,
    "lng": -157.795,
-   "wd": "Q7488597"
+   "wd": "Q7488597",
+   "aliases": [
+    "Shangri La Museum"
+   ]
   },
   {
-   "name": "Windward Viaducts",
-   "cat": "관광",
-   "area": "하와이주",
-   "lat": 21.40507,
-   "lng": -157.82007,
-   "wd": "Q8024814"
-  },
-  {
-   "name": "Ala Moana Beach Park",
+   "name": "알라 모아나 비치 파크",
    "cat": "관광",
    "area": "호놀룰루",
    "lat": 21.2887,
    "lng": -157.848,
-   "wd": "Q4705100"
+   "wd": "Q4705100",
+   "aliases": [
+    "Ala Moana Beach Park"
+   ]
   },
   {
-   "name": "Fort Kamehameha",
-   "cat": "관광",
-   "area": "호놀룰루",
-   "lat": 21.32333,
-   "lng": -157.95944,
-   "wd": "Q5471420"
-  },
-  {
-   "name": "Hawaii Shingon Mission",
+   "name": "하와이 진언종 사원",
    "cat": "관광",
    "area": "호놀룰루",
    "lat": 21.28472,
    "lng": -157.84917,
-   "wd": "Q5684381"
+   "wd": "Q5684381",
+   "aliases": [
+    "Hawaii Shingon Mission"
+   ]
   },
   {
-   "name": "Honpa Hongwanji Mission of Hawaii",
+   "name": "혼파 혼간지 하와이 별원",
    "cat": "관광",
    "area": "호놀룰루",
    "lat": 21.31583,
    "lng": -157.85194,
-   "wd": "Q5897245"
+   "wd": "Q5897245",
+   "aliases": [
+    "Honpa Hongwanji Mission of Hawaii"
+   ]
   },
   {
-   "name": "Izumo Taishakyo Mission of Hawaii",
+   "name": "하와이 이즈모 대사",
    "cat": "관광",
    "area": "호놀룰루",
    "lat": 21.3156,
    "lng": -157.861,
-   "wd": "Q6102414"
+   "wd": "Q6102414",
+   "aliases": [
+    "Izumo Taishakyo Mission of Hawaii"
+   ]
   },
   {
-   "name": "John Young Museum of Art",
+   "name": "존 영 미술관",
    "cat": "관광",
    "area": "호놀룰루",
    "lat": 21.29679,
    "lng": -157.81891,
-   "wd": "Q6265236"
+   "wd": "Q6265236",
+   "aliases": [
+    "John Young Museum of Art"
+   ]
   },
   {
-   "name": "Kamehameha V Post Office",
-   "cat": "관광",
-   "area": "호놀룰루",
-   "lat": 21.30972,
-   "lng": -157.86306,
-   "wd": "Q6356561"
-  },
-  {
-   "name": "Hawaii Kotohira Jinsha – Hawaii Dazaifu Tenmangu",
+   "name": "하와이 고토히라 신사",
    "cat": "관광",
    "area": "호놀룰루",
    "lat": 21.32833,
    "lng": -157.86919,
-   "wd": "Q11327036"
+   "wd": "Q11327036",
+   "aliases": [
+    "Hawaii Kotohira Jinsha – Hawaii Dazaifu Tenmangu"
+   ]
   },
   {
-   "name": "Makiki Christian Church",
+   "name": "마키키 기독교회",
    "cat": "관광",
    "area": "호놀룰루",
    "lat": 21.29831,
    "lng": -157.84626,
-   "wd": "Q11339934"
+   "wd": "Q11339934",
+   "aliases": [
+    "Makiki Christian Church"
+   ]
   },
   {
-   "name": "Kaumakapili Church",
+   "name": "카우마카필리 교회",
    "cat": "관광",
    "area": "호놀룰루",
    "lat": 21.32167,
    "lng": -157.86667,
-   "wd": "Q16851808"
+   "wd": "Q16851808",
+   "aliases": [
+    "Kaumakapili Church"
+   ]
   },
   {
-   "name": "Mission Houses Museum",
+   "name": "미션 하우스 박물관",
    "cat": "관광",
    "area": "호놀룰루",
    "lat": 21.3039,
    "lng": -157.8569,
-   "wd": "Q6878617"
+   "wd": "Q6878617",
+   "aliases": [
+    "Mission Houses Museum"
+   ]
   },
   {
    "name": "현대 박물관",
@@ -418,68 +492,70 @@
    "wd": "Q7727449"
   },
   {
-   "name": "Daijingu Temple of Hawaii",
+   "name": "하와이 대신궁",
    "cat": "관광",
    "area": "호놀룰루",
    "lat": 21.33522,
    "lng": -157.83747,
-   "wd": "Q11327031"
+   "wd": "Q11327031",
+   "aliases": [
+    "Daijingu Temple of Hawaii"
+   ]
   },
   {
-   "name": "Diamond Head Light",
+   "name": "다이아몬드 헤드 등대",
    "cat": "관광",
    "area": "오아후섬",
    "lat": 21.25694,
    "lng": -157.80944,
-   "wd": "Q5270818"
+   "wd": "Q5270818",
+   "aliases": [
+    "Diamond Head Light"
+   ]
   },
   {
-   "name": "Ulupo Heiau State Historic Site",
+   "name": "울루포 헤이아우 유적",
    "cat": "관광",
    "area": "호놀룰루군",
    "lat": 21.38583,
    "lng": -157.75278,
-   "wd": "Q7880816"
+   "wd": "Q7880816",
+   "aliases": [
+    "Ulupo Heiau State Historic Site"
+   ]
   },
   {
-   "name": "Valley of the Temples Memorial Park",
+   "name": "사원의 계곡 공원",
    "cat": "관광",
    "area": "호놀룰루군",
    "lat": 21.4347,
    "lng": -157.82791,
-   "wd": "Q7912373"
+   "wd": "Q7912373",
+   "aliases": [
+    "Valley of the Temples Memorial Park"
+   ]
   },
   {
-   "name": "ʻĀinahau",
+   "name": "아이나하우",
    "cat": "관광",
    "area": "호놀룰루군",
    "lat": 21.27752,
    "lng": -157.82807,
-   "wd": "Q8083961"
+   "wd": "Q8083961",
+   "aliases": [
+    "ʻĀinahau"
+   ]
   },
   {
-   "name": "Sacred Heart Church-Punahou",
-   "cat": "관광",
-   "area": "호놀룰루군",
-   "lat": 21.30167,
-   "lng": -157.83111,
-   "wd": "Q54871728"
-  },
-  {
-   "name": "Waimalu Shopping Center",
-   "cat": "쇼핑",
-   "area": "호놀룰루군",
-   "lat": 21.38582,
-   "lng": -157.94992,
-   "wd": "Q106521534"
-  },
-  {
-   "name": "Wakamiya Inari Shrine",
+   "name": "와카미야 이나리 신사",
    "cat": "관광",
    "area": "와이파후",
    "lat": 21.386,
    "lng": -158.0115,
-   "wd": "Q7960795"
+   "wd": "Q7960795",
+   "aliases": [
+    "Wakamiya Inari Shrine"
+   ]
   }
  ]
 }

@@ -58,12 +58,15 @@
    "wd": "Q1142142"
   },
   {
-   "name": "Riddarholm Church",
+   "name": "리다르홀름 교회",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.32472,
    "lng": 18.06472,
-   "wd": "Q657118"
+   "wd": "Q657118",
+   "aliases": [
+    "Riddarholm Church"
+   ]
   },
   {
    "name": "근대미술관",
@@ -88,20 +91,26 @@
    "wd": "Q1726607"
   },
   {
-   "name": "Haga Palace",
+   "name": "하가 궁전",
    "cat": "관광",
    "area": "솔나시",
    "lat": 59.36361,
    "lng": 18.03944,
-   "wd": "Q5574523"
+   "wd": "Q5574523",
+   "aliases": [
+    "Haga Palace"
+   ]
   },
   {
-   "name": "Klara Church",
+   "name": "클라라 교회",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.33111,
    "lng": 18.06167,
-   "wd": "Q1540683"
+   "wd": "Q1540683",
+   "aliases": [
+    "Klara Church"
+   ]
   },
   {
    "name": "ABBA 박물관",
@@ -126,20 +135,26 @@
    "wd": "Q653773"
   },
   {
-   "name": "Sergels torg",
+   "name": "세르겔 광장",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.3325,
    "lng": 18.06444,
-   "wd": "Q844426"
+   "wd": "Q844426",
+   "aliases": [
+    "Sergels torg"
+   ]
   },
   {
-   "name": "Royal Armoury",
+   "name": "왕실 무기고",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.32667,
    "lng": 18.07306,
-   "wd": "Q1636176"
+   "wd": "Q1636176",
+   "aliases": [
+    "Royal Armoury"
+   ]
   },
   {
    "name": "동아시아 박물관",
@@ -186,20 +201,26 @@
    "wd": "Q260304"
   },
   {
-   "name": "St. Eric's Cathedral, Stockholm",
+   "name": "성 에릭 대성당",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.31381,
    "lng": 18.0725,
-   "wd": "Q15042147"
+   "wd": "Q15042147",
+   "aliases": [
+    "St. Eric's Cathedral, Stockholm"
+   ]
   },
   {
-   "name": "Millesgården",
+   "name": "밀레스고르덴",
    "cat": "관광",
    "area": "리딩예시",
    "lat": 59.35861,
    "lng": 18.12139,
-   "wd": "Q667094"
+   "wd": "Q667094",
+   "aliases": [
+    "Millesgården"
+   ]
   },
   {
    "name": "뵈르스후세트",
@@ -213,12 +234,15 @@
    "wd": "Q404416"
   },
   {
-   "name": "Swedish Army Museum",
+   "name": "스웨덴 육군박물관",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.33472,
    "lng": 18.08018,
-   "wd": "Q690002"
+   "wd": "Q690002",
+   "aliases": [
+    "Swedish Army Museum"
+   ]
   },
   {
    "name": "스톡홀름 모스크",
@@ -254,52 +278,70 @@
    "wd": "Q1547268"
   },
   {
-   "name": "Kaknästornet",
+   "name": "카크네스 타워",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.335,
    "lng": 18.12639,
-   "wd": "Q1721899"
+   "wd": "Q1721899",
+   "aliases": [
+    "Kaknästornet"
+   ]
   },
   {
-   "name": "Katarina Elevator",
+   "name": "카타리나 엘리베이터",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.32,
    "lng": 18.07278,
-   "wd": "Q615365"
+   "wd": "Q615365",
+   "aliases": [
+    "Katarina Elevator"
+   ]
   },
   {
-   "name": "Economy Museum – Royal Coin Cabinet",
+   "name": "경제박물관(왕립 화폐관)",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.33472,
    "lng": 18.09028,
-   "wd": "Q1750428"
+   "wd": "Q1750428",
+   "aliases": [
+    "Economy Museum – Royal Coin Cabinet"
+   ]
   },
   {
-   "name": "Drottningholm Palace Theatre",
+   "name": "드로트닝홀름 궁정극장",
    "cat": "관광",
    "area": "에케뢰시",
    "lat": 59.32307,
    "lng": 17.885,
-   "wd": "Q3058143"
+   "wd": "Q3058143",
+   "aliases": [
+    "Drottningholm Palace Theatre"
+   ]
   },
   {
-   "name": "The House of Culture",
+   "name": "문화의 집",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.33194,
    "lng": 18.06472,
-   "wd": "Q204298"
+   "wd": "Q204298",
+   "aliases": [
+    "The House of Culture"
+   ]
   },
   {
-   "name": "Hötorget",
+   "name": "회토리에트 광장",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.33486,
    "lng": 18.06217,
-   "wd": "Q1608760"
+   "wd": "Q1608760",
+   "aliases": [
+    "Hötorget"
+   ]
   },
   {
    "name": "드로트닝홀름 중국관",
@@ -313,12 +355,15 @@
    "wd": "Q2227225"
   },
   {
-   "name": "Museum of Medieval Stockholm",
+   "name": "중세 스톡홀름 박물관",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.32833,
    "lng": 18.07028,
-   "wd": "Q1632115"
+   "wd": "Q1632115",
+   "aliases": [
+    "Museum of Medieval Stockholm"
+   ]
   },
   {
    "name": "릴리에발크 미술관",
@@ -332,532 +377,653 @@
    "wd": "Q1640397"
   },
   {
-   "name": "Norrmalmstorg",
+   "name": "노르말름스토리",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.33333,
    "lng": 18.07278,
-   "wd": "Q1750652"
+   "wd": "Q1750652",
+   "aliases": [
+    "Norrmalmstorg"
+   ]
   },
   {
-   "name": "Stockholm City Museum",
+   "name": "스톡홀름 시립박물관",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.31972,
    "lng": 18.07056,
-   "wd": "Q1933896"
+   "wd": "Q1933896",
+   "aliases": [
+    "Stockholm City Museum"
+   ]
   },
   {
-   "name": "Västerbron",
+   "name": "베스테르 다리",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.32444,
    "lng": 18.02722,
-   "wd": "Q580518"
+   "wd": "Q580518",
+   "aliases": [
+    "Västerbron"
+   ]
   },
   {
-   "name": "Wrangel Palace",
+   "name": "브랑겔 궁전",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.325,
    "lng": 18.0625,
-   "wd": "Q772914"
+   "wd": "Q772914",
+   "aliases": [
+    "Wrangel Palace"
+   ]
   },
   {
-   "name": "Hedvig Eleonora Church",
+   "name": "헤드비그 엘레오노라 교회",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.33528,
    "lng": 18.08056,
-   "wd": "Q2036739"
+   "wd": "Q2036739",
+   "aliases": [
+    "Hedvig Eleonora Church"
+   ]
   },
   {
-   "name": "Kastellet",
+   "name": "카스텔레트 요새",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.32264,
    "lng": 18.09028,
-   "wd": "Q4176816"
+   "wd": "Q4176816",
+   "aliases": [
+    "Kastellet"
+   ]
   },
   {
-   "name": "Gustav III's Pavilion",
+   "name": "구스타프 3세 파빌리온",
    "cat": "관광",
    "area": "솔나시",
    "lat": 59.36278,
    "lng": 18.03917,
-   "wd": "Q1191599"
+   "wd": "Q1191599",
+   "aliases": [
+    "Gustav III's Pavilion"
+   ]
   },
   {
-   "name": "Djurgårdsbron",
+   "name": "유르고르덴 다리",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.33111,
    "lng": 18.09389,
-   "wd": "Q1232277"
+   "wd": "Q1232277",
+   "aliases": [
+    "Djurgårdsbron"
+   ]
   },
   {
-   "name": "Museum of Mediterranean and Near Eastern Antiquities",
+   "name": "지중해·근동 고대박물관",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.32939,
    "lng": 18.0674,
-   "wd": "Q1331646"
+   "wd": "Q1331646",
+   "aliases": [
+    "Museum of Mediterranean and Near Eastern Antiquities"
+   ]
   },
   {
-   "name": "Sofia Church",
+   "name": "소피아 교회",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.31222,
    "lng": 18.08833,
-   "wd": "Q1967885"
+   "wd": "Q1967885",
+   "aliases": [
+    "Sofia Church"
+   ]
   },
   {
-   "name": "Gustav Adolfs torg",
+   "name": "구스타프 아돌프 광장",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.32917,
    "lng": 18.06833,
-   "wd": "Q2854887"
+   "wd": "Q2854887",
+   "aliases": [
+    "Gustav Adolfs torg"
+   ]
   },
   {
-   "name": "Aula Magna",
-   "cat": "관광",
-   "area": "스톡홀름시",
-   "lat": 59.36389,
-   "lng": 18.05667,
-   "wd": "Q10422447"
-  },
-  {
-   "name": "Royal National City Park",
+   "name": "왕립 국립도시공원",
    "cat": "관광",
    "area": "솔나시",
    "lat": 59.36167,
    "lng": 18.07361,
-   "wd": "Q1796166"
+   "wd": "Q1796166",
+   "aliases": [
+    "Royal National City Park"
+   ]
   },
   {
-   "name": "Arvfurstens palats",
+   "name": "왕세자 궁전",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.32917,
    "lng": 18.06778,
-   "wd": "Q717105"
+   "wd": "Q717105",
+   "aliases": [
+    "Arvfurstens palats"
+   ]
   },
   {
-   "name": "Biological museum",
+   "name": "생물학 박물관",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.32722,
    "lng": 18.09778,
-   "wd": "Q864536"
+   "wd": "Q864536",
+   "aliases": [
+    "Biological museum"
+   ]
   },
   {
-   "name": "Norrbro",
+   "name": "노르 다리",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.32833,
    "lng": 18.06986,
-   "wd": "Q1568911"
+   "wd": "Q1568911",
+   "aliases": [
+    "Norrbro"
+   ]
   },
   {
-   "name": "Mariatorget",
+   "name": "마리아 광장",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.31806,
    "lng": 18.0625,
-   "wd": "Q1897080"
+   "wd": "Q1897080",
+   "aliases": [
+    "Mariatorget"
+   ]
   },
   {
-   "name": "Stureplan",
+   "name": "스투레플란",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.33611,
    "lng": 18.07278,
-   "wd": "Q2261112"
+   "wd": "Q2261112",
+   "aliases": [
+    "Stureplan"
+   ]
   },
   {
-   "name": "Vasa Theatre",
+   "name": "바사 극장",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.3339,
    "lng": 18.0558,
-   "wd": "Q4992703"
+   "wd": "Q4992703",
+   "aliases": [
+    "Vasa Theatre"
+   ]
   },
   {
-   "name": "Karlberg Palace",
+   "name": "칼베리 궁전",
    "cat": "관광",
    "area": "솔나시",
    "lat": 59.34083,
    "lng": 18.0225,
-   "wd": "Q335491"
+   "wd": "Q335491",
+   "aliases": [
+    "Karlberg Palace"
+   ]
   },
   {
-   "name": "Centralbron",
-   "cat": "관광",
-   "area": "스톡홀름시",
-   "lat": 59.32556,
-   "lng": 18.06486,
-   "wd": "Q847479"
-  },
-  {
-   "name": "Humlegården",
+   "name": "훔레고르덴",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.33944,
    "lng": 18.07278,
-   "wd": "Q1637097"
+   "wd": "Q1637097",
+   "aliases": [
+    "Humlegården"
+   ]
   },
   {
-   "name": "Skeppsholmen Church",
+   "name": "셰프스홀멘 교회",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.32639,
    "lng": 18.0825,
-   "wd": "Q1785830"
+   "wd": "Q1785830",
+   "aliases": [
+    "Skeppsholmen Church"
+   ]
   },
   {
-   "name": "Engelbrecht Church",
+   "name": "엥겔브렉트 교회",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.34417,
    "lng": 18.06778,
-   "wd": "Q4348177"
+   "wd": "Q4348177",
+   "aliases": [
+    "Engelbrecht Church"
+   ]
   },
   {
-   "name": "Finnish Church",
+   "name": "핀란드 교회",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.32556,
    "lng": 18.07222,
-   "wd": "Q4357115"
+   "wd": "Q4357115",
+   "aliases": [
+    "Finnish Church"
+   ]
   },
   {
-   "name": "Saint Sava Serbian Orthodox Church",
+   "name": "성 사바 세르비아 정교회",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.28944,
    "lng": 18.06167,
-   "wd": "Q4426003"
+   "wd": "Q4426003",
+   "aliases": [
+    "Saint Sava Serbian Orthodox Church"
+   ]
   },
   {
-   "name": "Järntorget",
+   "name": "예른토리에트 광장",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.32269,
    "lng": 18.07306,
-   "wd": "Q4566667"
+   "wd": "Q4566667",
+   "aliases": [
+    "Järntorget"
+   ]
   },
   {
-   "name": "Vasabron",
+   "name": "바사 다리",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.3272,
    "lng": 18.0644,
-   "wd": "Q7916304"
+   "wd": "Q7916304",
+   "aliases": [
+    "Vasabron"
+   ]
   },
   {
-   "name": "Kungens Kurva",
-   "cat": "쇼핑",
-   "area": "후딩에시",
-   "lat": 59.26778,
-   "lng": 17.91139,
-   "wd": "Q925544"
-  },
-  {
-   "name": "Medborgarplatsen",
+   "name": "메드보리아르 광장",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.31472,
    "lng": 18.07222,
-   "wd": "Q114160"
+   "wd": "Q114160",
+   "aliases": [
+    "Medborgarplatsen"
+   ]
   },
   {
-   "name": "Odenplan",
+   "name": "오덴플란",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.34278,
    "lng": 18.04972,
-   "wd": "Q602694"
+   "wd": "Q602694",
+   "aliases": [
+    "Odenplan"
+   ]
   },
   {
-   "name": "Ulvsunda Castle",
+   "name": "울브순다 성",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.34083,
    "lng": 17.96389,
-   "wd": "Q931176"
+   "wd": "Q931176",
+   "aliases": [
+    "Ulvsunda Castle"
+   ]
   },
   {
-   "name": "Strindberg Museum",
+   "name": "스트린드베리 박물관",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.33847,
    "lng": 18.05672,
-   "wd": "Q1890584"
+   "wd": "Q1890584",
+   "aliases": [
+    "Strindberg Museum"
+   ]
   },
   {
-   "name": "Mynttorget",
+   "name": "뮌토리에트 광장",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.32669,
    "lng": 18.06867,
-   "wd": "Q3433033"
+   "wd": "Q3433033",
+   "aliases": [
+    "Mynttorget"
+   ]
   },
   {
-   "name": "Kornhamnstorg",
+   "name": "코른함스토리",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.32278,
    "lng": 18.07139,
-   "wd": "Q6432431"
+   "wd": "Q6432431",
+   "aliases": [
+    "Kornhamnstorg"
+   ]
   },
   {
-   "name": "Royal Chapel",
+   "name": "왕실 예배당",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.32654,
    "lng": 18.07272,
-   "wd": "Q10671642"
+   "wd": "Q10671642",
+   "aliases": [
+    "Royal Chapel"
+   ]
   },
   {
-   "name": "Lidingöbron",
-   "cat": "관광",
-   "area": "리딩예시",
-   "lat": 59.36056,
-   "lng": 18.11056,
-   "wd": "Q4348749"
-  },
-  {
-   "name": "Mall of Scandinavia",
+   "name": "몰 오브 스칸디나비아",
    "cat": "관광",
    "area": "솔나시",
    "lat": 59.37,
    "lng": 18.0047,
-   "wd": "Q10575950"
+   "wd": "Q10575950",
+   "aliases": [
+    "Mall of Scandinavia"
+   ]
   },
   {
-   "name": "Axel Oxenstierna Palace",
+   "name": "악셀 옥센셰르나 궁전",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.32583,
    "lng": 18.06917,
-   "wd": "Q403404"
+   "wd": "Q403404",
+   "aliases": [
+    "Axel Oxenstierna Palace"
+   ]
   },
   {
-   "name": "Nybroplan",
+   "name": "뉘브로플란",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.3325,
    "lng": 18.07528,
-   "wd": "Q716848"
+   "wd": "Q716848",
+   "aliases": [
+    "Nybroplan"
+   ]
   },
   {
-   "name": "Tranebergsbron",
-   "cat": "관광",
-   "area": "스톡홀름시",
-   "lat": 59.33361,
-   "lng": 17.995,
-   "wd": "Q750068"
-  },
-  {
-   "name": "Chinateatern",
+   "name": "차이나 극장",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.33242,
    "lng": 18.07349,
-   "wd": "Q1073615"
+   "wd": "Q1073615",
+   "aliases": [
+    "Chinateatern"
+   ]
   },
   {
-   "name": "St. Eugenia's Church",
+   "name": "성 에우제니아 성당",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.33174,
    "lng": 18.07243,
-   "wd": "Q1131130"
+   "wd": "Q1131130",
+   "aliases": [
+    "St. Eugenia's Church"
+   ]
   },
   {
-   "name": "Dance museum",
+   "name": "무용 박물관",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.32975,
    "lng": 18.06539,
-   "wd": "Q1749479"
+   "wd": "Q1749479",
+   "aliases": [
+    "Dance museum"
+   ]
   },
   {
-   "name": "Stenbockska Palatset",
+   "name": "스텐보크 궁전",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.32528,
    "lng": 18.06389,
-   "wd": "Q1788133"
+   "wd": "Q1788133",
+   "aliases": [
+    "Stenbockska Palatset"
+   ]
   },
   {
-   "name": "Karlaplan",
+   "name": "칼라플란",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.33778,
    "lng": 18.09,
-   "wd": "Q3316834"
+   "wd": "Q3316834",
+   "aliases": [
+    "Karlaplan"
+   ]
   },
   {
-   "name": "Birger Jarls torg",
+   "name": "비르예르 얄 광장",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.32511,
    "lng": 18.06389,
-   "wd": "Q3362818"
+   "wd": "Q3362818",
+   "aliases": [
+    "Birger Jarls torg"
+   ]
   },
   {
-   "name": "Gustaf Adolf Church",
+   "name": "구스타프 아돌프 교회",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.3375,
    "lng": 18.09833,
-   "wd": "Q4356641"
+   "wd": "Q4356641",
+   "aliases": [
+    "Gustaf Adolf Church"
+   ]
   },
   {
-   "name": "Skeppsholmsbron",
+   "name": "셰프스홀름 다리",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.32722,
    "lng": 18.07917,
-   "wd": "Q5261596"
+   "wd": "Q5261596",
+   "aliases": [
+    "Skeppsholmsbron"
+   ]
   },
   {
-   "name": "Mälartorget",
+   "name": "멜라르 광장",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.32303,
    "lng": 18.06853,
-   "wd": "Q6949958"
+   "wd": "Q6949958",
+   "aliases": [
+    "Mälartorget"
+   ]
   },
   {
-   "name": "Swedish Museum of Performing Arts",
+   "name": "스웨덴 공연예술박물관",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.33369,
    "lng": 18.07838,
-   "wd": "Q18448716"
+   "wd": "Q18448716",
+   "aliases": [
+    "Swedish Museum of Performing Arts"
+   ]
   },
   {
-   "name": "Estonia memorial",
+   "name": "에스토니아호 추모비",
    "cat": "관광",
    "area": "스톡홀름",
    "lat": 59.32758,
    "lng": 18.09394,
-   "wd": "Q3817479"
+   "wd": "Q3817479",
+   "aliases": [
+    "Estonia memorial"
+   ]
   },
   {
-   "name": "Postmuseum",
+   "name": "우편 박물관",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.32408,
    "lng": 18.06815,
-   "wd": "Q712309"
+   "wd": "Q712309",
+   "aliases": [
+    "Postmuseum"
+   ]
   },
   {
-   "name": "Skanstullsbron",
-   "cat": "관광",
-   "area": "스톡홀름시",
-   "lat": 59.30333,
-   "lng": 18.07917,
-   "wd": "Q846945"
-  },
-  {
-   "name": "Gullmarsplan",
-   "cat": "관광",
-   "area": "스톡홀름시",
-   "lat": 59.29861,
-   "lng": 18.08111,
-   "wd": "Q1781329"
-  },
-  {
-   "name": "Vasaparken",
+   "name": "바사 공원",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.34028,
    "lng": 18.04333,
-   "wd": "Q1785711"
+   "wd": "Q1785711",
+   "aliases": [
+    "Vasaparken"
+   ]
   },
   {
-   "name": "Admiralty House",
+   "name": "해군 본부 건물",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.32556,
    "lng": 18.08139,
-   "wd": "Q4349047"
+   "wd": "Q4349047",
+   "aliases": [
+    "Admiralty House"
+   ]
   },
   {
-   "name": "Strömbron",
+   "name": "스트룀 다리",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.3288,
    "lng": 18.0731,
-   "wd": "Q4993037"
+   "wd": "Q4993037",
+   "aliases": [
+    "Strömbron"
+   ]
   },
   {
-   "name": "Gåstorget",
+   "name": "고스토리에트 광장",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.325,
    "lng": 18.06872,
-   "wd": "Q5625943"
+   "wd": "Q5625943",
+   "aliases": [
+    "Gåstorget"
+   ]
   },
   {
-   "name": "Riddarhustorget",
+   "name": "리다르후스 광장",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.32561,
    "lng": 18.06625,
-   "wd": "Q7332366"
+   "wd": "Q7332366",
+   "aliases": [
+    "Riddarhustorget"
+   ]
   },
   {
-   "name": "Stockholm Music Museum",
+   "name": "스톡홀름 음악박물관",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.3335,
    "lng": 18.0782,
-   "wd": "Q7618027"
+   "wd": "Q7618027",
+   "aliases": [
+    "Stockholm Music Museum"
+   ]
   },
   {
-   "name": "Tegnérlunden",
+   "name": "텡네르룬덴 공원",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.33806,
    "lng": 18.05444,
-   "wd": "Q7694751"
+   "wd": "Q7694751",
+   "aliases": [
+    "Tegnérlunden"
+   ]
   },
   {
-   "name": "Philadelphia Church, Stockholm",
+   "name": "필라델피아 교회",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.33944,
    "lng": 18.03444,
-   "wd": "Q10495053"
+   "wd": "Q10495053",
+   "aliases": [
+    "Philadelphia Church, Stockholm"
+   ]
   },
   {
-   "name": "Immanuel Church, Stockholm",
+   "name": "임마누엘 교회",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.3425,
    "lng": 18.06333,
-   "wd": "Q10534724"
+   "wd": "Q10534724",
+   "aliases": [
+    "Immanuel Church, Stockholm"
+   ]
   },
   {
-   "name": "Saint Matthews Church",
+   "name": "성 마태 교회",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.34528,
    "lng": 18.0425,
-   "wd": "Q10659411"
+   "wd": "Q10659411",
+   "aliases": [
+    "Saint Matthews Church"
+   ]
   },
   {
-   "name": "Sven-Harry's Art Museum",
+   "name": "스벤 하리 미술관",
    "cat": "관광",
    "area": "스톡홀름시",
    "lat": 59.3395,
    "lng": 18.04389,
-   "wd": "Q10684670"
+   "wd": "Q10684670",
+   "aliases": [
+    "Sven-Harry's Art Museum"
+   ]
   }
  ]
 }

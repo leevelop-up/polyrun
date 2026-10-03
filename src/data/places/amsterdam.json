@@ -102,12 +102,15 @@
    "wd": "Q277316"
   },
   {
-   "name": "Westerkerk",
+   "name": "베스테르 교회",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.3745,
    "lng": 4.8839,
-   "wd": "Q1130722"
+   "wd": "Q1130722",
+   "aliases": [
+    "Westerkerk"
+   ]
   },
   {
    "name": "암스테르담 세계 박물관",
@@ -132,20 +135,26 @@
    "wd": "Q136661"
   },
   {
-   "name": "Nieuwe Kerk",
+   "name": "니우어 교회",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.37389,
    "lng": 4.89194,
-   "wd": "Q1419675"
+   "wd": "Q1419675",
+   "aliases": [
+    "Nieuwe Kerk"
+   ]
   },
   {
-   "name": "NEMO Science Center",
+   "name": "네모 과학관",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.37411,
    "lng": 4.91239,
-   "wd": "Q1422000"
+   "wd": "Q1422000",
+   "aliases": [
+    "NEMO Science Center"
+   ]
   },
   {
    "name": "뮈세윔플레인",
@@ -159,20 +168,26 @@
    "wd": "Q639321"
   },
   {
-   "name": "Homomonument",
+   "name": "호모모뉴먼트",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.37444,
    "lng": 4.88472,
-   "wd": "Q51411"
+   "wd": "Q51411",
+   "aliases": [
+    "Homomonument"
+   ]
   },
   {
-   "name": "Oude Kerk",
+   "name": "아우더 교회",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.37417,
    "lng": 4.89806,
-   "wd": "Q623558"
+   "wd": "Q623558",
+   "aliases": [
+    "Oude Kerk"
+   ]
   },
   {
    "name": "마헤러 브뤼흐",
@@ -186,12 +201,15 @@
    "wd": "Q1344400"
   },
   {
-   "name": "Ziggo Dome",
+   "name": "지고 돔",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.31333,
    "lng": 4.93694,
-   "wd": "Q71922"
+   "wd": "Q71922",
+   "aliases": [
+    "Ziggo Dome"
+   ]
   },
   {
    "name": "암스테르담 박물관",
@@ -205,60 +223,81 @@
    "wd": "Q1820897"
   },
   {
-   "name": "Munttoren",
+   "name": "문트 타워",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36694,
    "lng": 4.89333,
-   "wd": "Q1429748"
+   "wd": "Q1429748",
+   "aliases": [
+    "Munttoren"
+   ]
   },
   {
-   "name": "Portuguese Synagogue",
+   "name": "포르투갈 시나고그",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.3675,
    "lng": 4.90528,
-   "wd": "Q1853707"
+   "wd": "Q1853707",
+   "aliases": [
+    "Portuguese Synagogue"
+   ]
   },
   {
-   "name": "Hortus Botanicus Amsterdam",
+   "name": "암스테르담 식물원",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36697,
    "lng": 4.90844,
-   "wd": "Q1576733"
+   "wd": "Q1576733",
+   "aliases": [
+    "Hortus Botanicus Amsterdam"
+   ]
   },
   {
-   "name": "Bloemenmarkt",
+   "name": "꽃시장(블루멘마르크트)",
    "cat": "쇼핑",
    "area": "암스테르담",
    "lat": 52.36678,
    "lng": 4.89135,
-   "wd": "Q643079"
+   "wd": "Q643079",
+   "aliases": [
+    "Bloemenmarkt"
+   ]
   },
   {
-   "name": "Jewish Museum",
+   "name": "유대 역사박물관",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.3673,
    "lng": 4.90384,
-   "wd": "Q702726"
+   "wd": "Q702726",
+   "aliases": [
+    "Jewish Museum"
+   ]
   },
   {
-   "name": "Muziekgebouw aan 't IJ",
+   "name": "무지크헤바우 안 트 에이",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.37833,
    "lng": 4.91306,
-   "wd": "Q2637994"
+   "wd": "Q2637994",
+   "aliases": [
+    "Muziekgebouw aan 't IJ"
+   ]
   },
   {
-   "name": "Church of St Nicholas",
+   "name": "성 니콜라스 성당",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.37653,
    "lng": 4.90111,
-   "wd": "Q1350750"
+   "wd": "Q1350750",
+   "aliases": [
+    "Church of St Nicholas"
+   ]
   },
   {
    "name": "니우마르크트",
@@ -272,116 +311,158 @@
    "wd": "Q1568693"
   },
   {
-   "name": "Rembrandtplein",
+   "name": "렘브란트 광장",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36602,
    "lng": 4.89664,
-   "wd": "Q1579642"
+   "wd": "Q1579642",
+   "aliases": [
+    "Rembrandtplein"
+   ]
   },
   {
-   "name": "Het Scheepvaartmuseum",
+   "name": "국립 해양박물관",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.37139,
    "lng": 4.91472,
-   "wd": "Q1616123"
+   "wd": "Q1616123",
+   "aliases": [
+    "Het Scheepvaartmuseum"
+   ]
   },
   {
-   "name": "Our Lord in the Attic Museum",
+   "name": "다락방 속 우리 주님 박물관",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.37508,
    "lng": 4.89936,
-   "wd": "Q493160"
+   "wd": "Q493160",
+   "aliases": [
+    "Our Lord in the Attic Museum"
+   ]
   },
   {
-   "name": "Blauwbrug",
+   "name": "블라우브뤼흐",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36634,
    "lng": 4.90084,
-   "wd": "Q883126"
+   "wd": "Q883126",
+   "aliases": [
+    "Blauwbrug"
+   ]
   },
   {
-   "name": "Pampus",
+   "name": "팜퓌스 요새섬",
    "cat": "관광",
    "area": "Muiden",
    "lat": 52.36472,
    "lng": 5.06889,
-   "wd": "Q924769"
+   "wd": "Q924769",
+   "aliases": [
+    "Pampus"
+   ]
   },
   {
-   "name": "National Monument on Dam Square",
+   "name": "담 광장 국립 기념비",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.37304,
    "lng": 4.89319,
-   "wd": "Q473851"
+   "wd": "Q473851",
+   "aliases": [
+    "National Monument on Dam Square"
+   ]
   },
   {
-   "name": "Noorderkerk",
+   "name": "노르더 교회",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.37954,
    "lng": 4.8863,
-   "wd": "Q613854"
+   "wd": "Q613854",
+   "aliases": [
+    "Noorderkerk"
+   ]
   },
   {
-   "name": "Muntplein",
+   "name": "문트 광장",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36694,
    "lng": 4.89333,
-   "wd": "Q683180"
+   "wd": "Q683180",
+   "aliases": [
+    "Muntplein"
+   ]
   },
   {
-   "name": "Leidseplein",
+   "name": "라이체 광장",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36413,
    "lng": 4.88297,
-   "wd": "Q1409805"
+   "wd": "Q1409805",
+   "aliases": [
+    "Leidseplein"
+   ]
   },
   {
-   "name": "Eye Filmmuseum",
+   "name": "아이 영화박물관",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.38441,
    "lng": 4.90059,
-   "wd": "Q1538389"
+   "wd": "Q1538389",
+   "aliases": [
+    "Eye Filmmuseum"
+   ]
   },
   {
-   "name": "Albert Cuyp Market",
+   "name": "알버르트 카위프 시장",
    "cat": "쇼핑",
    "area": "암스테르담",
    "lat": 52.35611,
    "lng": 4.89694,
-   "wd": "Q2342892"
+   "wd": "Q2342892",
+   "aliases": [
+    "Albert Cuyp Market"
+   ]
   },
   {
-   "name": "Zuiderkerk",
+   "name": "자위더 교회",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.37,
    "lng": 4.89972,
-   "wd": "Q228629"
+   "wd": "Q228629",
+   "aliases": [
+    "Zuiderkerk"
+   ]
   },
   {
-   "name": "De Krijtberg",
+   "name": "크레이트베르흐 성당",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36778,
    "lng": 4.88806,
-   "wd": "Q1180056"
+   "wd": "Q1180056",
+   "aliases": [
+    "De Krijtberg"
+   ]
   },
   {
-   "name": "Waterlooplein",
+   "name": "바털로 광장 벼룩시장",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36833,
    "lng": 4.90167,
-   "wd": "Q2301532"
+   "wd": "Q2301532",
+   "aliases": [
+    "Waterlooplein"
+   ]
   },
   {
    "name": "바흐 (암스테르담)",
@@ -395,20 +476,26 @@
    "wd": "Q2466999"
   },
   {
-   "name": "Hash, Marihuana & Hemp Museum",
+   "name": "대마 박물관",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.37175,
    "lng": 4.89691,
-   "wd": "Q3783595"
+   "wd": "Q3783595",
+   "aliases": [
+    "Hash, Marihuana & Hemp Museum"
+   ]
   },
   {
-   "name": "Tuschinski Theatre",
+   "name": "투신스키 극장",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36611,
    "lng": 4.89444,
-   "wd": "Q599272"
+   "wd": "Q599272",
+   "aliases": [
+    "Tuschinski Theatre"
+   ]
   },
   {
    "name": "스토페라",
@@ -422,28 +509,37 @@
    "wd": "Q1138851"
   },
   {
-   "name": "Paradiso",
+   "name": "파라디소",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36216,
    "lng": 4.88391,
-   "wd": "Q1535378"
+   "wd": "Q1535378",
+   "aliases": [
+    "Paradiso"
+   ]
   },
   {
-   "name": "Museum Willet-Holthuysen",
+   "name": "빌레트 홀타위선 박물관",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36556,
    "lng": 4.89917,
-   "wd": "Q1886176"
+   "wd": "Q1886176",
+   "aliases": [
+    "Museum Willet-Holthuysen"
+   ]
   },
   {
-   "name": "Montelbaanstoren",
+   "name": "몬텔바안스 탑",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.37204,
    "lng": 4.90563,
-   "wd": "Q1946061"
+   "wd": "Q1946061",
+   "aliases": [
+    "Montelbaanstoren"
+   ]
   },
   {
    "name": "하이네켄 익스피리언스",
@@ -457,28 +553,37 @@
    "wd": "Q2087161"
   },
   {
-   "name": "Noordermarkt",
+   "name": "노르더마르크트",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.38006,
    "lng": 4.88769,
-   "wd": "Q2915920"
+   "wd": "Q2915920",
+   "aliases": [
+    "Noordermarkt"
+   ]
   },
   {
-   "name": "Micropia",
+   "name": "미크로피아",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36686,
    "lng": 4.91258,
-   "wd": "Q18169481"
+   "wd": "Q18169481",
+   "aliases": [
+    "Micropia"
+   ]
   },
   {
-   "name": "Amsterdamse Bos",
+   "name": "암스테르담 숲",
    "cat": "관광",
    "area": "암스텔베인",
    "lat": 52.31083,
    "lng": 4.8325,
-   "wd": "Q511560"
+   "wd": "Q511560",
+   "aliases": [
+    "Amsterdamse Bos"
+   ]
   },
   {
    "name": "네덜란드 레지스탕스 박물관",
@@ -493,324 +598,433 @@
    "wd": "Q828307"
   },
   {
-   "name": "Westermoskee",
+   "name": "베스테르 모스크",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36611,
    "lng": 4.86056,
-   "wd": "Q2187049"
+   "wd": "Q2187049",
+   "aliases": [
+    "Westermoskee"
+   ]
   },
   {
-   "name": "Bijbels Museum",
+   "name": "성경 박물관",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36861,
    "lng": 4.88639,
-   "wd": "Q2919762"
+   "wd": "Q2919762",
+   "aliases": [
+    "Bijbels Museum"
+   ]
   },
   {
-   "name": "Melkweg",
+   "name": "멜크베흐",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36478,
    "lng": 4.88134,
-   "wd": "Q60481"
+   "wd": "Q60481",
+   "aliases": [
+    "Melkweg"
+   ]
   },
   {
-   "name": "Amstelpark",
+   "name": "암스텔 공원",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.32917,
    "lng": 4.89333,
-   "wd": "Q655469"
+   "wd": "Q655469",
+   "aliases": [
+    "Amstelpark"
+   ]
   },
   {
-   "name": "Mozes en Aäronkerk",
+   "name": "모세와 아론 성당",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36806,
    "lng": 4.90306,
-   "wd": "Q1125814"
+   "wd": "Q1125814",
+   "aliases": [
+    "Mozes en Aäronkerk"
+   ]
   },
   {
-   "name": "Stadsschouwburg Amsterdam",
+   "name": "암스테르담 시립극장",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36419,
    "lng": 4.882,
-   "wd": "Q1817103"
+   "wd": "Q1817103",
+   "aliases": [
+    "Stadsschouwburg Amsterdam"
+   ]
   },
   {
-   "name": "Ronde Lutherse Kerk",
+   "name": "둥근 루터 교회",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.37792,
    "lng": 4.89378,
-   "wd": "Q2122749"
+   "wd": "Q2122749",
+   "aliases": [
+    "Ronde Lutherse Kerk"
+   ]
   },
   {
-   "name": "Museum Van Loon",
+   "name": "반 룬 박물관",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36333,
    "lng": 4.89278,
-   "wd": "Q2191110"
+   "wd": "Q2191110",
+   "aliases": [
+    "Museum Van Loon"
+   ]
   },
   {
-   "name": "Oosterkerk",
+   "name": "오스터 교회",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36997,
    "lng": 4.91931,
-   "wd": "Q3408888"
+   "wd": "Q3408888",
+   "aliases": [
+    "Oosterkerk"
+   ]
   },
   {
-   "name": "Spui",
+   "name": "스파위 광장",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36861,
    "lng": 4.88944,
-   "wd": "Q281703"
+   "wd": "Q281703",
+   "aliases": [
+    "Spui"
+   ]
   },
   {
-   "name": "Schreierstoren",
+   "name": "스흐레이어스 탑",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.37639,
    "lng": 4.90222,
-   "wd": "Q610402"
+   "wd": "Q610402",
+   "aliases": [
+    "Schreierstoren"
+   ]
   },
   {
-   "name": "Python Bridge",
+   "name": "파이톤 다리",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.37298,
    "lng": 4.94891,
-   "wd": "Q1912236"
+   "wd": "Q1912236",
+   "aliases": [
+    "Python Bridge"
+   ]
   },
   {
-   "name": "Magna Plaza",
+   "name": "마그나 플라자",
    "cat": "쇼핑",
    "area": "암스테르담",
    "lat": 52.37365,
    "lng": 4.89029,
-   "wd": "Q1962448"
+   "wd": "Q1962448",
+   "aliases": [
+    "Magna Plaza"
+   ]
   },
   {
-   "name": "Museum of Bags and Purses",
+   "name": "가방 박물관",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.3652,
    "lng": 4.8969,
-   "wd": "Q2077489"
+   "wd": "Q2077489",
+   "aliases": [
+    "Museum of Bags and Purses"
+   ]
   },
   {
-   "name": "Hollandsche Schouwburg",
+   "name": "홀란체 스하우뷔르흐",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.3665,
    "lng": 4.9111,
-   "wd": "Q2206529"
+   "wd": "Q2206529",
+   "aliases": [
+    "Hollandsche Schouwburg"
+   ]
   },
   {
-   "name": "Oost-Indisch Huis",
+   "name": "동인도회사 건물",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.37083,
    "lng": 4.89806,
-   "wd": "Q2223310"
+   "wd": "Q2223310",
+   "aliases": [
+    "Oost-Indisch Huis"
+   ]
   },
   {
-   "name": "Zaans Museum",
+   "name": "잔스 박물관",
    "cat": "관광",
    "area": "잔스타트",
    "lat": 52.4737,
    "lng": 4.82217,
-   "wd": "Q3383883"
+   "wd": "Q3383883",
+   "aliases": [
+    "Zaans Museum"
+   ]
   },
   {
-   "name": "Cobra Museum",
+   "name": "코브라 미술관",
    "cat": "관광",
    "area": "암스텔베인",
    "lat": 52.30396,
    "lng": 4.85789,
-   "wd": "Q2161858"
+   "wd": "Q2161858",
+   "aliases": [
+    "Cobra Museum"
+   ]
   },
   {
-   "name": "Sarphatipark",
+   "name": "사르파티 공원",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.35444,
    "lng": 4.89639,
-   "wd": "Q645372"
+   "wd": "Q645372",
+   "aliases": [
+    "Sarphatipark"
+   ]
   },
   {
-   "name": "Koningsplein",
+   "name": "코닝스 광장",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36694,
    "lng": 4.88944,
-   "wd": "Q682020"
+   "wd": "Q682020",
+   "aliases": [
+    "Koningsplein"
+   ]
   },
   {
-   "name": "Carré Theatre",
+   "name": "카레 극장",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36239,
    "lng": 4.90403,
-   "wd": "Q1106490"
+   "wd": "Q1106490",
+   "aliases": [
+    "Carré Theatre"
+   ]
   },
   {
-   "name": "Dappermarkt",
+   "name": "다퍼마르크트",
    "cat": "쇼핑",
    "area": "암스테르담",
    "lat": 52.36222,
    "lng": 4.92778,
-   "wd": "Q1165557"
+   "wd": "Q1165557",
+   "aliases": [
+    "Dappermarkt"
+   ]
   },
   {
-   "name": "Diamond Museum Amsterdam",
+   "name": "다이아몬드 박물관",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.35944,
    "lng": 4.8825,
-   "wd": "Q1208561"
+   "wd": "Q1208561",
+   "aliases": [
+    "Diamond Museum Amsterdam"
+   ]
   },
   {
-   "name": "Arti et Amicitiae",
+   "name": "아르티 에트 아미치티아이",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36886,
    "lng": 4.89175,
-   "wd": "Q2117648"
+   "wd": "Q2117648",
+   "aliases": [
+    "Arti et Amicitiae"
+   ]
   },
   {
-   "name": "Amsterdam municipal archive",
+   "name": "암스테르담 시립기록관",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.3646,
    "lng": 4.8923,
-   "wd": "Q2170763"
+   "wd": "Q2170763",
+   "aliases": [
+    "Amsterdam municipal archive"
+   ]
   },
   {
-   "name": "Trippenhuis",
+   "name": "트리펜하위스",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.37122,
    "lng": 4.89939,
-   "wd": "Q2252756"
+   "wd": "Q2252756",
+   "aliases": [
+    "Trippenhuis"
+   ]
   },
   {
-   "name": "Oosterpark",
+   "name": "오스터 공원",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36028,
    "lng": 4.91972,
-   "wd": "Q2718912"
+   "wd": "Q2718912",
+   "aliases": [
+    "Oosterpark"
+   ]
   },
   {
-   "name": "Museum Geelvinck-Hinlopen",
+   "name": "헬빈크 힌로펜 박물관",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36467,
    "lng": 4.89463,
-   "wd": "Q372829"
+   "wd": "Q372829",
+   "aliases": [
+    "Museum Geelvinck-Hinlopen"
+   ]
   },
   {
-   "name": "Amstelkerk",
+   "name": "암스텔 교회",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36228,
    "lng": 4.89658,
-   "wd": "Q478190"
+   "wd": "Q478190",
+   "aliases": [
+    "Amstelkerk"
+   ]
   },
   {
-   "name": "Bimhuis",
+   "name": "빔하위스",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.37806,
    "lng": 4.91333,
-   "wd": "Q825421"
+   "wd": "Q825421",
+   "aliases": [
+    "Bimhuis"
+   ]
   },
   {
-   "name": "Equestrian statue of Queen Wilhelmina",
+   "name": "빌헬미나 여왕 기마상",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36917,
    "lng": 4.89229,
-   "wd": "Q1993531"
+   "wd": "Q1993531",
+   "aliases": [
+    "Equestrian statue of Queen Wilhelmina"
+   ]
   },
   {
-   "name": "De Papegaai",
+   "name": "파파하이 성당",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.37111,
    "lng": 4.89167,
-   "wd": "Q2102894"
+   "wd": "Q2102894",
+   "aliases": [
+    "De Papegaai"
+   ]
   },
   {
-   "name": "Markenplein",
-   "cat": "관광",
-   "area": "암스테르담",
-   "lat": 52.36868,
-   "lng": 4.90511,
-   "wd": "Q2217260"
-  },
-  {
-   "name": "National Holocaust Museum",
+   "name": "국립 홀로코스트 박물관",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36686,
    "lng": 4.91111,
-   "wd": "Q26822174"
+   "wd": "Q26822174",
+   "aliases": [
+    "National Holocaust Museum"
+   ]
   },
   {
-   "name": "Moco Museum",
+   "name": "모코 미술관",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.35871,
    "lng": 4.88189,
-   "wd": "Q26832671"
+   "wd": "Q26832671",
+   "aliases": [
+    "Moco Museum"
+   ]
   },
   {
-   "name": "Blauwe moskee",
+   "name": "블루 모스크",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.34847,
    "lng": 4.83144,
-   "wd": "Q12269634"
+   "wd": "Q12269634",
+   "aliases": [
+    "Blauwe moskee"
+   ]
   },
   {
-   "name": "El Tawheed Mosque",
+   "name": "엘 타우히드 모스크",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36769,
    "lng": 4.86397,
-   "wd": "Q526708"
+   "wd": "Q526708",
+   "aliases": [
+    "El Tawheed Mosque"
+   ]
   },
   {
-   "name": "De Appel",
+   "name": "데 아펠 아트센터",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.35254,
    "lng": 4.90635,
-   "wd": "Q1179733"
+   "wd": "Q1179733",
+   "aliases": [
+    "De Appel"
+   ]
   },
   {
-   "name": "Rasphuis",
+   "name": "라스하위스",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.3675,
    "lng": 4.89139,
-   "wd": "Q1460467"
+   "wd": "Q1460467",
+   "aliases": [
+    "Rasphuis"
+   ]
   },
   {
-   "name": "Beatrixpark",
+   "name": "베아트릭스 공원",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.34278,
    "lng": 4.88194,
-   "wd": "Q1845531"
+   "wd": "Q1845531",
+   "aliases": [
+    "Beatrixpark"
+   ]
   },
   {
    "name": "암스테르담 튤립 박물관",
@@ -824,44 +1038,59 @@
    "wd": "Q2020907"
   },
   {
-   "name": "Westerpark",
+   "name": "베스테르 공원",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.38611,
    "lng": 4.87778,
-   "wd": "Q2187279"
+   "wd": "Q2187279",
+   "aliases": [
+    "Westerpark"
+   ]
   },
   {
-   "name": "Oudekerksplein",
+   "name": "아우더케르크 광장",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.37417,
    "lng": 4.89778,
-   "wd": "Q2187982"
+   "wd": "Q2187982",
+   "aliases": [
+    "Oudekerksplein"
+   ]
   },
   {
-   "name": "Flevopark",
+   "name": "플레보 공원",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.36111,
    "lng": 4.95,
-   "wd": "Q2335366"
+   "wd": "Q2335366",
+   "aliases": [
+    "Flevopark"
+   ]
   },
   {
-   "name": "Marie Heinekenplein",
+   "name": "마리 하이네켄 광장",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.35694,
    "lng": 4.89111,
-   "wd": "Q2350458"
+   "wd": "Q2350458",
+   "aliases": [
+    "Marie Heinekenplein"
+   ]
   },
   {
-   "name": "Walloon Church, Amsterdam",
+   "name": "왈롱 교회",
    "cat": "관광",
    "area": "암스테르담",
    "lat": 52.37109,
    "lng": 4.89711,
-   "wd": "Q2410708"
+   "wd": "Q2410708",
+   "aliases": [
+    "Walloon Church, Amsterdam"
+   ]
   }
  ]
 }

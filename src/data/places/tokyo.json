@@ -190,12 +190,15 @@
    "wd": "Q670049"
   },
   {
-   "name": "Holy Resurrection Cathedral",
+   "name": "도쿄 부활 대성당",
    "cat": "관광",
    "area": "Kanda-Surugadai",
    "lat": 35.69804,
    "lng": 139.76553,
-   "wd": "Q2660430"
+   "wd": "Q2660430",
+   "aliases": [
+    "Holy Resurrection Cathedral"
+   ]
   },
   {
    "name": "히비야 공원",
@@ -209,12 +212,15 @@
    "wd": "Q1378533"
   },
   {
-   "name": "Shiba Park",
+   "name": "시바 공원",
    "cat": "관광",
    "area": "Shibakōen",
    "lat": 35.65611,
    "lng": 139.74833,
-   "wd": "Q42311591"
+   "wd": "Q42311591",
+   "aliases": [
+    "Shiba Park"
+   ]
   },
   {
    "name": "신국립극장",
@@ -283,12 +289,15 @@
    "wd": "Q1534481"
   },
   {
-   "name": "Equestrian Park",
+   "name": "바지공원",
    "cat": "관광",
    "area": "Kami-Yōga",
    "lat": 35.63681,
    "lng": 139.63394,
-   "wd": "Q11667807"
+   "wd": "Q11667807",
+   "aliases": [
+    "Equestrian Park"
+   ]
   },
   {
    "name": "우에노 동조궁",
@@ -303,14 +312,6 @@
    "wd": "Q708550"
   },
   {
-   "name": "Rikugi Garden",
-   "cat": "관광",
-   "area": "혼코마고메",
-   "lat": 35.73306,
-   "lng": 139.74667,
-   "wd": "Q1889010"
-  },
-  {
    "name": "시오카제 공원",
    "cat": "관광",
    "area": "Higashi-Yashio",
@@ -322,12 +323,15 @@
    "wd": "Q6630204"
   },
   {
-   "name": "Asakusa Mosque",
+   "name": "아사쿠사 모스크",
    "cat": "관광",
    "area": "Higashi-Asakusa",
    "lat": 35.7218,
    "lng": 139.801,
-   "wd": "Q15121515"
+   "wd": "Q15121515",
+   "aliases": [
+    "Asakusa Mosque"
+   ]
   },
   {
    "name": "도쿄 대학 대학원 이학계 연구과 부속 식물원",
@@ -354,12 +358,15 @@
    "wd": "Q3176144"
   },
   {
-   "name": "Tokyo Gate Bridge",
+   "name": "도쿄 게이트 브리지",
    "cat": "관광",
    "area": "고토구",
    "lat": 35.61139,
    "lng": 139.82722,
-   "wd": "Q1644970"
+   "wd": "Q1644970",
+   "aliases": [
+    "Tokyo Gate Bridge"
+   ]
   },
   {
    "name": "데이코쿠 극장",
@@ -450,20 +457,26 @@
    "wd": "Q335606"
   },
   {
-   "name": "Kiyosumi Garden",
+   "name": "기요스미 정원",
    "cat": "관광",
    "area": "Kiyosumi",
    "lat": 35.67994,
    "lng": 139.79772,
-   "wd": "Q4388146"
+   "wd": "Q4388146",
+   "aliases": [
+    "Kiyosumi Garden"
+   ]
   },
   {
-   "name": "Tōgō Shrine",
+   "name": "도고 신사",
    "cat": "관광",
    "area": "진구마에",
    "lat": 35.67181,
    "lng": 139.70592,
-   "wd": "Q1384780"
+   "wd": "Q1384780",
+   "aliases": [
+    "Tōgō Shrine"
+   ]
   }
  ]
 }

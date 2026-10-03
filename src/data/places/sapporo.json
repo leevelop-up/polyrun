@@ -71,20 +71,26 @@
    "wd": "Q861554"
   },
   {
-   "name": "Moerenuma Park",
+   "name": "모에레누마 공원",
    "cat": "관광",
    "area": "히가시구",
    "lat": 43.12447,
    "lng": 141.42991,
-   "wd": "Q1298335"
+   "wd": "Q1298335",
+   "aliases": [
+    "Moerenuma Park"
+   ]
   },
   {
-   "name": "Hokkaido University Botanical Gardens",
+   "name": "홋카이도대학 식물원",
    "cat": "관광",
    "area": "",
    "lat": 43.06389,
    "lng": 141.34265,
-   "wd": "Q2842754"
+   "wd": "Q2842754",
+   "aliases": [
+    "Hokkaido University Botanical Gardens"
+   ]
   },
   {
    "name": "홋카이도 도립 근대미술관",
@@ -98,12 +104,15 @@
    "wd": "Q11402992"
   },
   {
-   "name": "Sapporo Masjid",
+   "name": "삿포로 모스크",
    "cat": "관광",
    "area": "삿포로시",
    "lat": 43.07747,
    "lng": 141.34764,
-   "wd": "Q20425122"
+   "wd": "Q20425122",
+   "aliases": [
+    "Sapporo Masjid"
+   ]
   },
   {
    "name": "미야노모리 미술관",
@@ -117,28 +126,37 @@
    "wd": "Q2420835"
   },
   {
-   "name": "Hokkaido University Museum",
+   "name": "홋카이도대학 종합박물관",
    "cat": "관광",
    "area": "",
    "lat": 43.07222,
    "lng": 141.34167,
-   "wd": "Q18339280"
+   "wd": "Q18339280",
+   "aliases": [
+    "Hokkaido University Museum"
+   ]
   },
   {
-   "name": "Guardian Angels Cathedral, Sapporo",
+   "name": "삿포로 수호천사 대성당",
    "cat": "관광",
    "area": "삿포로시",
    "lat": 43.06422,
    "lng": 141.36508,
-   "wd": "Q24817373"
+   "wd": "Q24817373",
+   "aliases": [
+    "Guardian Angels Cathedral, Sapporo"
+   ]
   },
   {
-   "name": "Sapporo Concert Hall",
+   "name": "삿포로 콘서트홀 키타라",
    "cat": "관광",
    "area": "주오구",
    "lat": 43.04423,
    "lng": 141.35271,
-   "wd": "Q7421089"
+   "wd": "Q7421089",
+   "aliases": [
+    "Sapporo Concert Hall"
+   ]
   },
   {
    "name": "삿포로 팩토리",
@@ -152,28 +170,37 @@
    "wd": "Q7421096"
   },
   {
-   "name": "Hōheikan",
+   "name": "호헤이칸",
    "cat": "관광",
    "area": "주오구",
    "lat": 43.04627,
    "lng": 141.35258,
-   "wd": "Q11633685"
+   "wd": "Q11633685",
+   "aliases": [
+    "Hōheikan"
+   ]
   },
   {
-   "name": "Hitsujigaoka Observation Hill",
+   "name": "히쓰지가오카 전망대",
    "cat": "관광",
    "area": "Hitsujigaoka",
    "lat": 42.99917,
    "lng": 141.39472,
-   "wd": "Q3348373"
+   "wd": "Q3348373",
+   "aliases": [
+    "Hitsujigaoka Observation Hill"
+   ]
   },
   {
-   "name": "Makomanai Park",
+   "name": "마코마나이 공원",
    "cat": "관광",
    "area": "미나미구",
    "lat": 43.0011,
    "lng": 141.34638,
-   "wd": "Q6739876"
+   "wd": "Q6739876",
+   "aliases": [
+    "Makomanai Park"
+   ]
   },
   {
    "name": "예수 그리스도 후기성도 교회 일본 삿포로 성전",
@@ -187,52 +214,70 @@
    "wd": "Q7421101"
   },
   {
-   "name": "Nopporo Shinrin Kouen Prefectural Natural Park",
+   "name": "홋카이도립 노포로 삼림공원",
    "cat": "관광",
    "area": "에베쓰시",
    "lat": 43.0525,
    "lng": 141.50056,
-   "wd": "Q7049983"
+   "wd": "Q7049983",
+   "aliases": [
+    "Nopporo Shinrin Kouen Prefectural Natural Park"
+   ]
   },
   {
-   "name": "Sapporo ESTA",
+   "name": "삿포로 에스타",
    "cat": "쇼핑",
    "area": "주오구",
    "lat": 43.0675,
    "lng": 141.35278,
-   "wd": "Q7421091"
+   "wd": "Q7421091",
+   "aliases": [
+    "Sapporo ESTA"
+   ]
   },
   {
-   "name": "Sapporo Maruyama Zoo",
+   "name": "삿포로 마루야마 동물원",
    "cat": "관광",
    "area": "Miyagaoka",
    "lat": 43.05144,
    "lng": 141.3074,
-   "wd": "Q7421103"
+   "wd": "Q7421103",
+   "aliases": [
+    "Sapporo Maruyama Zoo"
+   ]
   },
   {
-   "name": "Hongō Shin Memorial Museum of Sculpture, Sapporo",
+   "name": "혼고 신 기념 조각미술관",
    "cat": "관광",
    "area": "Miyanomori",
    "lat": 43.05518,
    "lng": 141.29648,
-   "wd": "Q68620047"
+   "wd": "Q68620047",
+   "aliases": [
+    "Hongō Shin Memorial Museum of Sculpture, Sapporo"
+   ]
   },
   {
-   "name": "Sapporo Satoland",
+   "name": "삿포로 사토랜드",
    "cat": "관광",
    "area": "삿포로시",
    "lat": 43.11957,
    "lng": 141.41553,
-   "wd": "Q262730"
+   "wd": "Q262730",
+   "aliases": [
+    "Sapporo Satoland"
+   ]
   },
   {
-   "name": "Sapporo Harisutosu Seikyōkai",
+   "name": "삿포로 하리스토스 정교회",
    "cat": "관광",
    "area": "삿포로시",
    "lat": 43.0186,
    "lng": 141.40318,
-   "wd": "Q9187082"
+   "wd": "Q9187082",
+   "aliases": [
+    "Sapporo Harisutosu Seikyōkai"
+   ]
   },
   {
    "name": "시로이코이비토 파크",
@@ -257,28 +302,37 @@
    "wd": "Q5371866"
   },
   {
-   "name": "Maruyama Park",
+   "name": "마루야마 공원",
    "cat": "관광",
    "area": "주오구",
    "lat": 43.05075,
    "lng": 141.30958,
-   "wd": "Q6778052"
+   "wd": "Q6778052",
+   "aliases": [
+    "Maruyama Park"
+   ]
   },
   {
-   "name": "Nihon Kirisuto Kyodan Sapporo Church",
+   "name": "일본기독교단 삿포로 교회",
    "cat": "관광",
    "area": "주오구",
    "lat": 43.0635,
    "lng": 141.35708,
-   "wd": "Q11506381"
+   "wd": "Q11506381",
+   "aliases": [
+    "Nihon Kirisuto Kyodan Sapporo Church"
+   ]
   },
   {
-   "name": "Asahiyama Memorial Park",
+   "name": "아사히야마 기념공원",
    "cat": "관광",
    "area": "주오구",
    "lat": 43.0397,
    "lng": 141.315,
-   "wd": "Q11511678"
+   "wd": "Q11511678",
+   "aliases": [
+    "Asahiyama Memorial Park"
+   ]
   },
   {
    "name": "삿포로 스텔라 플레이스",
@@ -292,28 +346,37 @@
    "wd": "Q11521106"
   },
   {
-   "name": "Sapporo Gokoku Shrine",
+   "name": "삿포로 고코쿠 신사",
    "cat": "관광",
    "area": "주오구",
    "lat": 43.04069,
    "lng": 141.35292,
-   "wd": "Q11521480"
+   "wd": "Q11521480",
+   "aliases": [
+    "Sapporo Gokoku Shrine"
+   ]
   },
   {
-   "name": "Nishino Shrine",
+   "name": "니시노 신사",
    "cat": "관광",
    "area": "니시구",
    "lat": 43.05972,
    "lng": 141.26056,
-   "wd": "Q11629779"
+   "wd": "Q11629779",
+   "aliases": [
+    "Nishino Shrine"
+   ]
   },
   {
-   "name": "Seikatei",
+   "name": "세이카테이",
    "cat": "관광",
    "area": "기타구",
    "lat": 43.06878,
    "lng": 141.34369,
-   "wd": "Q11561377"
+   "wd": "Q11561377",
+   "aliases": [
+    "Seikatei"
+   ]
   },
   {
    "name": "삿포로 가든 파크",
@@ -327,524 +390,686 @@
    "wd": "Q11249468"
   },
   {
-   "name": "Sapporo Independent Christian Church",
+   "name": "삿포로 독립기독교회",
    "cat": "관광",
    "area": "삿포로시",
    "lat": 43.07328,
    "lng": 141.32381,
-   "wd": "Q7421093"
+   "wd": "Q7421093",
+   "aliases": [
+    "Sapporo Independent Christian Church"
+   ]
   },
   {
-   "name": "Sapporo-nishi interchange",
-   "cat": "관광",
-   "area": "삿포로시",
-   "lat": 43.09052,
-   "lng": 141.2649,
-   "wd": "Q11093490"
-  },
-  {
-   "name": "Sapporo Mitsui JP Building",
-   "cat": "관광",
-   "area": "삿포로시",
-   "lat": 43.06389,
-   "lng": 141.35056,
-   "wd": "Q11521135"
-  },
-  {
-   "name": "Sapporo Science Center",
+   "name": "삿포로시 청소년과학관",
    "cat": "관광",
    "area": "삿포로시",
    "lat": 43.03623,
    "lng": 141.47213,
-   "wd": "Q11521430"
+   "wd": "Q11521430",
+   "aliases": [
+    "Sapporo Science Center"
+   ]
   },
   {
-   "name": "Shiroishi Shrine (Sapporo)",
+   "name": "시로이시 신사",
    "cat": "관광",
    "area": "삿포로시",
    "lat": 43.04042,
    "lng": 141.42819,
-   "wd": "Q11580219"
+   "wd": "Q11580219",
+   "aliases": [
+    "Shiroishi Shrine (Sapporo)"
+   ]
   },
   {
-   "name": "Soma Shrine",
+   "name": "소마 신사",
    "cat": "관광",
    "area": "삿포로시",
    "lat": 43.02044,
    "lng": 141.36478,
-   "wd": "Q11582526"
+   "wd": "Q11582526",
+   "aliases": [
+    "Soma Shrine"
+   ]
   },
   {
-   "name": "Ishiyama Shrine",
+   "name": "이시야마 신사",
    "cat": "관광",
    "area": "삿포로시",
    "lat": 42.96575,
    "lng": 141.33306,
-   "wd": "Q11585540"
+   "wd": "Q11585540",
+   "aliases": [
+    "Ishiyama Shrine"
+   ]
   },
   {
-   "name": "Toyohira Bridge",
+   "name": "도요히라 다리",
    "cat": "관광",
    "area": "삿포로시",
    "lat": 43.05572,
    "lng": 141.36447,
-   "wd": "Q11633678"
+   "wd": "Q11633678",
+   "aliases": [
+    "Toyohira Bridge"
+   ]
   },
   {
-   "name": "Suwa Shrine",
+   "name": "스와 신사",
    "cat": "관광",
    "area": "삿포로시",
    "lat": 43.07597,
    "lng": 141.35406,
-   "wd": "Q20045170"
+   "wd": "Q20045170",
+   "aliases": [
+    "Suwa Shrine"
+   ]
   },
   {
-   "name": "Kawashimo Park",
+   "name": "가와시모 공원",
    "cat": "관광",
    "area": "시로이시구",
    "lat": 43.06331,
    "lng": 141.44456,
-   "wd": "Q11477611"
+   "wd": "Q11477611",
+   "aliases": [
+    "Kawashimo Park"
+   ]
   },
   {
-   "name": "Minamisen Shrine",
+   "name": "미나미센 신사",
    "cat": "관광",
    "area": "이시카리시",
    "lat": 43.15325,
    "lng": 141.29225,
-   "wd": "Q22120495"
+   "wd": "Q22120495",
+   "aliases": [
+    "Minamisen Shrine"
+   ]
   },
   {
-   "name": "YANAGI PARK",
+   "name": "야나기 파크",
    "cat": "관광",
    "area": "시로이시구",
    "lat": 43.05194,
    "lng": 141.41583,
-   "wd": "Q135438391"
+   "wd": "Q135438391",
+   "aliases": [
+    "YANAGI PARK"
+   ]
   },
   {
-   "name": "4-chome Plaza",
+   "name": "4초메 플라자",
    "cat": "쇼핑",
    "area": "주오구",
    "lat": 43.05861,
    "lng": 141.35222,
-   "wd": "Q11187885"
+   "wd": "Q11187885",
+   "aliases": [
+    "4-chome Plaza"
+   ]
   },
   {
-   "name": "PIVOT",
+   "name": "피벗",
    "cat": "관광",
    "area": "주오구",
    "lat": 43.05806,
    "lng": 141.35222,
-   "wd": "Q11331694"
+   "wd": "Q11331694",
+   "aliases": [
+    "PIVOT"
+   ]
   },
   {
-   "name": "Honryu-ji of Sapporo",
+   "name": "삿포로 혼류지",
    "cat": "관광",
    "area": "히가시구",
    "lat": 43.08167,
    "lng": 141.37611,
-   "wd": "Q11521069"
+   "wd": "Q11521069",
+   "aliases": [
+    "Honryu-ji of Sapporo"
+   ]
   },
   {
-   "name": "Sapporo Astronomical Observatory",
+   "name": "삿포로시 천문대",
    "cat": "관광",
    "area": "주오구",
    "lat": 43.04528,
    "lng": 141.35244,
-   "wd": "Q11521260"
+   "wd": "Q11521260",
+   "aliases": [
+    "Sapporo Astronomical Observatory"
+   ]
   },
   {
-   "name": "Yurigahara Park",
+   "name": "유리가하라 공원",
    "cat": "관광",
    "area": "히가시구",
    "lat": 43.12889,
    "lng": 141.36472,
-   "wd": "Q11580696"
+   "wd": "Q11580696",
+   "aliases": [
+    "Yurigahara Park"
+   ]
   },
   {
-   "name": "Sapporo Kita 3-jo Plaza",
+   "name": "삿포로 기타산조 광장",
    "cat": "관광",
    "area": "주오구",
    "lat": 43.06417,
    "lng": 141.35028,
-   "wd": "Q17991961"
+   "wd": "Q17991961",
+   "aliases": [
+    "Sapporo Kita 3-jo Plaza"
+   ]
   },
   {
-   "name": "Sōseigawa Park",
+   "name": "소세이가와 공원",
    "cat": "관광",
    "area": "주오구",
    "lat": 43.05806,
    "lng": 141.35806,
-   "wd": "Q21666158"
+   "wd": "Q21666158",
+   "aliases": [
+    "Sōseigawa Park"
+   ]
   },
   {
-   "name": "Iyahiko Shirine",
+   "name": "이야히코 신사",
    "cat": "관광",
    "area": "주오구",
    "lat": 43.04175,
    "lng": 141.35564,
-   "wd": "Q22117940"
+   "wd": "Q22117940",
+   "aliases": [
+    "Iyahiko Shirine"
+   ]
   },
   {
-   "name": "Okadama Shrine",
+   "name": "오카다마 신사",
    "cat": "관광",
    "area": "히가시구",
    "lat": 43.10744,
    "lng": 141.39014,
-   "wd": "Q22118182"
+   "wd": "Q22118182",
+   "aliases": [
+    "Okadama Shrine"
+   ]
   },
   {
-   "name": "Daikaku-ji of Sapporo",
+   "name": "삿포로 다이카쿠지",
    "cat": "관광",
    "area": "히가시구",
    "lat": 43.07636,
    "lng": 141.37031,
-   "wd": "Q22119206"
+   "wd": "Q22119206",
+   "aliases": [
+    "Daikaku-ji of Sapporo"
+   ]
   },
   {
-   "name": "Chūō-ji Temple",
+   "name": "주오지",
    "cat": "관광",
    "area": "주오구",
    "lat": 43.05329,
    "lng": 141.35618,
-   "wd": "Q38276115"
+   "wd": "Q38276115",
+   "aliases": [
+    "Chūō-ji Temple"
+   ]
   },
   {
-   "name": "Sapporo Nanairo",
+   "name": "삿포로 나나이로",
    "cat": "관광",
    "area": "주오구",
    "lat": 43.0575,
    "lng": 141.3525,
-   "wd": "Q41466076"
+   "wd": "Q41466076",
+   "aliases": [
+    "Sapporo Nanairo"
+   ]
   },
   {
-   "name": "Experimental Station for Medicinal Plant Studies, Faculty of Pharmaceutical Sciences, Hokkaido University",
-   "cat": "관광",
-   "area": "기타구",
-   "lat": 43.05,
-   "lng": 141.33333,
-   "wd": "Q2893067"
-  },
-  {
-   "name": "Edwin Dun Memorial Museum",
+   "name": "에드윈 던 기념관",
    "cat": "관광",
    "area": "미나미구",
    "lat": 42.98889,
    "lng": 141.35222,
-   "wd": "Q11290335"
+   "wd": "Q11290335",
+   "aliases": [
+    "Edwin Dun Memorial Museum"
+   ]
   },
   {
-   "name": "paseo",
+   "name": "파세오",
    "cat": "관광",
    "area": "기타구",
    "lat": 43.06861,
    "lng": 141.35194,
-   "wd": "Q11328852"
+   "wd": "Q11328852",
+   "aliases": [
+    "paseo"
+   ]
   },
   {
-   "name": "Sapporo Salmon Museum",
+   "name": "삿포로 연어 과학관",
    "cat": "관광",
    "area": "미나미구",
    "lat": 43.00111,
    "lng": 141.34333,
-   "wd": "Q11521425"
+   "wd": "Q11521425",
+   "aliases": [
+    "Sapporo Salmon Museum"
+   ]
   },
   {
-   "name": "Monami Park",
+   "name": "모나미 공원",
    "cat": "관광",
    "area": "미나미구",
    "lat": 42.98367,
    "lng": 141.34153,
-   "wd": "Q11625124"
+   "wd": "Q11625124",
+   "aliases": [
+    "Monami Park"
+   ]
   },
   {
-   "name": "Ashiribetsu Shrine",
+   "name": "아시리베쓰 신사",
    "cat": "관광",
    "area": "기요타구",
    "lat": 43.00122,
    "lng": 141.44458,
-   "wd": "Q17988376"
+   "wd": "Q17988376",
+   "aliases": [
+    "Ashiribetsu Shrine"
+   ]
   },
   {
-   "name": "Hokkaido University Archaeological Heritage Park",
+   "name": "홋카이도대학 고고학 유산공원",
    "cat": "관광",
    "area": "기타구",
    "lat": 43.07989,
    "lng": 141.33492,
-   "wd": "Q20043116"
+   "wd": "Q20043116",
+   "aliases": [
+    "Hokkaido University Archaeological Heritage Park"
+   ]
   },
   {
-   "name": "Kōnan Shrine",
+   "name": "고난 신사",
    "cat": "관광",
    "area": "기타구",
    "lat": 43.13764,
    "lng": 141.33128,
-   "wd": "Q20044200"
+   "wd": "Q20044200",
+   "aliases": [
+    "Kōnan Shrine"
+   ]
   },
   {
-   "name": "Shinoro Shrine",
+   "name": "시노로 신사",
    "cat": "관광",
    "area": "기타구",
    "lat": 43.14611,
    "lng": 141.36492,
-   "wd": "Q22118955"
+   "wd": "Q22118955",
+   "aliases": [
+    "Shinoro Shrine"
+   ]
   },
   {
-   "name": "Ryu'un-ji Temple",
+   "name": "류운지",
    "cat": "관광",
    "area": "기타구",
    "lat": 43.14989,
    "lng": 141.37214,
-   "wd": "Q22120862"
+   "wd": "Q22120862",
+   "aliases": [
+    "Ryu'un-ji Temple"
+   ]
   },
   {
-   "name": "Tonden Nishi Park",
+   "name": "돈덴니시 공원",
    "cat": "관광",
    "area": "기타구",
    "lat": 43.13194,
    "lng": 141.32,
-   "wd": "Q25285631"
+   "wd": "Q25285631",
+   "aliases": [
+    "Tonden Nishi Park"
+   ]
   },
   {
-   "name": "Hiragishi Takadai Park",
+   "name": "히라기시 다카다이 공원",
    "cat": "관광",
    "area": "도요히라구",
    "lat": 43.02667,
    "lng": 141.37488,
-   "wd": "Q11482664"
+   "wd": "Q11482664",
+   "aliases": [
+    "Hiragishi Takadai Park"
+   ]
   },
   {
-   "name": "Teine Inazumi Park",
+   "name": "데이네 이나즈미 공원",
    "cat": "관광",
    "area": "데이네구",
    "lat": 43.11583,
    "lng": 141.25861,
-   "wd": "Q11497099"
+   "wd": "Q11497099",
+   "aliases": [
+    "Teine Inazumi Park"
+   ]
   },
   {
-   "name": "Tsukisamu Park",
+   "name": "쓰키사무 공원",
    "cat": "관광",
    "area": "도요히라구",
    "lat": 43.03144,
    "lng": 141.38617,
-   "wd": "Q11516037"
+   "wd": "Q11516037",
+   "aliases": [
+    "Tsukisamu Park"
+   ]
   },
   {
-   "name": "Tsukisamu Shrine",
+   "name": "쓰키사무 신사",
    "cat": "관광",
    "area": "도요히라구",
    "lat": 43.03194,
    "lng": 141.38889,
-   "wd": "Q11516040"
+   "wd": "Q11516040",
+   "aliases": [
+    "Tsukisamu Shrine"
+   ]
   },
   {
-   "name": "Nishioka-hachimangū",
+   "name": "니시오카 하치만구",
    "cat": "관광",
    "area": "도요히라구",
    "lat": 43.00725,
    "lng": 141.38742,
-   "wd": "Q11627935"
+   "wd": "Q11627935",
+   "aliases": [
+    "Nishioka-hachimangū"
+   ]
   },
   {
-   "name": "Toyohira Park",
+   "name": "도요히라 공원",
    "cat": "관광",
    "area": "도요히라구",
    "lat": 43.04306,
    "lng": 141.37833,
-   "wd": "Q11633672"
+   "wd": "Q11633672",
+   "aliases": [
+    "Toyohira Park"
+   ]
   },
   {
-   "name": "Hassamu Shrine",
+   "name": "핫사무 신사",
    "cat": "관광",
    "area": "니시구",
    "lat": 43.09169,
    "lng": 141.29439,
-   "wd": "Q21654196"
+   "wd": "Q21654196",
+   "aliases": [
+    "Hassamu Shrine"
+   ]
   },
   {
-   "name": "Shinano Shrine",
+   "name": "시나노 신사",
    "cat": "관광",
    "area": "아쓰베쓰구",
    "lat": 43.04272,
    "lng": 141.46381,
-   "wd": "Q22118945"
+   "wd": "Q22118945",
+   "aliases": [
+    "Shinano Shrine"
+   ]
   },
   {
-   "name": "Teine Shrine",
+   "name": "데이네 신사",
    "cat": "관광",
    "area": "데이네구",
    "lat": 43.11867,
    "lng": 141.24069,
-   "wd": "Q22119495"
+   "wd": "Q22119495",
+   "aliases": [
+    "Teine Shrine"
+   ]
   },
   {
-   "name": "Toyohira Shrine",
+   "name": "도요히라 신사",
    "cat": "관광",
    "area": "도요히라구",
    "lat": 43.04442,
    "lng": 141.38075,
-   "wd": "Q22119709"
+   "wd": "Q22119709",
+   "aliases": [
+    "Toyohira Shrine"
+   ]
   },
   {
-   "name": "Oyachi Shrine",
+   "name": "오야치 신사",
    "cat": "관광",
    "area": "아쓰베쓰구",
    "lat": 43.0265,
    "lng": 141.4475,
-   "wd": "Q24865971"
+   "wd": "Q24865971",
+   "aliases": [
+    "Oyachi Shrine"
+   ]
   },
   {
-   "name": "Keiō-ji Temple",
+   "name": "게이오지",
    "cat": "관광",
    "area": "도요히라구",
    "lat": 43.05156,
    "lng": 141.36869,
-   "wd": "Q28688557"
+   "wd": "Q28688557",
+   "aliases": [
+    "Keiō-ji Temple"
+   ]
   },
   {
-   "name": "Shinsapporo Arc City Sunpiazza",
+   "name": "신삿포로 아크시티 선피아자",
    "cat": "쇼핑",
    "area": "아쓰베쓰추오",
    "lat": 43.03806,
    "lng": 141.47222,
-   "wd": "Q11305916"
+   "wd": "Q11305916",
+   "aliases": [
+    "Shinsapporo Arc City Sunpiazza"
+   ]
   },
   {
-   "name": "Sunpiazza Aquaruim",
+   "name": "선피아자 수족관",
    "cat": "관광",
    "area": "아쓰베쓰추오",
    "lat": 43.03694,
    "lng": 141.47167,
-   "wd": "Q11305917"
+   "wd": "Q11305917",
+   "aliases": [
+    "Sunpiazza Aquaruim"
+   ]
   },
   {
-   "name": "Shinkotoni Shrine",
+   "name": "신코토니 신사",
    "cat": "관광",
    "area": "Shin-Kotoni",
    "lat": 43.1135,
    "lng": 141.33225,
-   "wd": "Q11503644"
+   "wd": "Q11503644",
+   "aliases": [
+    "Shinkotoni Shrine"
+   ]
   },
   {
-   "name": "Sapporo Fushimi Inari Shrine",
+   "name": "삿포로 후시미 이나리 신사",
    "cat": "관광",
    "area": "Fushimi",
    "lat": 43.03492,
    "lng": 141.32533,
-   "wd": "Q11521150"
+   "wd": "Q11521150",
+   "aliases": [
+    "Sapporo Fushimi Inari Shrine"
+   ]
   },
   {
-   "name": "Sapporo City Teine Memorial Museum",
+   "name": "삿포로시 데이네 기념관",
    "cat": "관광",
    "area": "니시마치",
    "lat": 43.08572,
    "lng": 141.27358,
-   "wd": "Q11521269"
+   "wd": "Q11521269",
+   "aliases": [
+    "Sapporo City Teine Memorial Museum"
+   ]
   },
   {
-   "name": "Sapporo Waterworks Museum",
+   "name": "삿포로시 수도기념관",
    "cat": "관광",
    "area": "Fushimi",
    "lat": 43.033,
    "lng": 141.32878,
-   "wd": "Q11521277"
+   "wd": "Q11521277",
+   "aliases": [
+    "Sapporo Waterworks Museum"
+   ]
   },
   {
-   "name": "Shiryōkan",
+   "name": "시료칸",
    "cat": "관광",
    "area": "Ōdōri-Nishi",
    "lat": 43.05856,
    "lng": 141.33742,
-   "wd": "Q11521426"
+   "wd": "Q11521426",
+   "aliases": [
+    "Shiryōkan"
+   ]
   },
   {
-   "name": "Kotoni Tondenhei Village Site and Barracks",
+   "name": "고토니 둔전병촌",
    "cat": "관광",
    "area": "고토니",
    "lat": 43.07628,
    "lng": 141.30194,
-   "wd": "Q11573740"
+   "wd": "Q11573740",
+   "aliases": [
+    "Kotoni Tondenhei Village Site and Barracks"
+   ]
   },
   {
-   "name": "Kotoni Shrine",
+   "name": "고토니 신사",
    "cat": "관광",
    "area": "고토니",
    "lat": 43.07325,
    "lng": 141.30175,
-   "wd": "Q11573744"
+   "wd": "Q11573744",
+   "aliases": [
+    "Kotoni Shrine"
+   ]
   },
   {
-   "name": "Nishioka Park",
+   "name": "니시오카 공원",
    "cat": "관광",
    "area": "Nishioka",
    "lat": 42.98667,
    "lng": 141.38,
-   "wd": "Q11627957"
+   "wd": "Q11627957",
+   "aliases": [
+    "Nishioka Park"
+   ]
   },
   {
-   "name": "Toyokawa Inari Sapporo Betsu-in Temple",
+   "name": "도요카와 이나리 삿포로 별원",
    "cat": "관광",
    "area": "Kitano",
    "lat": 43.05222,
    "lng": 141.35369,
-   "wd": "Q11633646"
+   "wd": "Q11633646",
+   "aliases": [
+    "Toyokawa Inari Sapporo Betsu-in Temple"
+   ]
   },
   {
-   "name": "Batchelor Memorial Building",
+   "name": "바첼러 기념관",
    "cat": "관광",
    "area": "",
    "lat": 43.06367,
    "lng": 141.34283,
-   "wd": "Q48751353"
+   "wd": "Q48751353",
+   "aliases": [
+    "Batchelor Memorial Building"
+   ]
   },
   {
-   "name": "Mighishi Kōtarō Museum of Art, Hokkaido",
+   "name": "미기시 고타로 미술관",
    "cat": "관광",
    "area": "",
    "lat": 43.06158,
    "lng": 141.33283,
-   "wd": "Q11402955"
+   "wd": "Q11402955",
+   "aliases": [
+    "Mighishi Kōtarō Museum of Art, Hokkaido"
+   ]
   },
   {
-   "name": "Sapporo Village Memorial Museum",
+   "name": "삿포로 마을 기념관",
    "cat": "관광",
    "area": "",
    "lat": 43.08056,
    "lng": 141.37694,
-   "wd": "Q11521442"
+   "wd": "Q11521442",
+   "aliases": [
+    "Sapporo Village Memorial Museum"
+   ]
   },
   {
-   "name": "Sapporo Agricultural College Farm No. 2",
+   "name": "삿포로농학교 제2농장",
    "cat": "관광",
    "area": "",
    "lat": 43.08175,
    "lng": 141.34042,
-   "wd": "Q11521485"
+   "wd": "Q11521485",
+   "aliases": [
+    "Sapporo Agricultural College Farm No. 2"
+   ]
   },
   {
-   "name": "Shinshū Ōtani-ha Sapporo Betsu-in Temple",
+   "name": "신슈 오타니파 삿포로 별원",
    "cat": "관광",
    "area": "",
    "lat": 43.0504,
    "lng": 141.34819,
-   "wd": "Q11583058"
+   "wd": "Q11583058",
+   "aliases": [
+    "Shinshū Ōtani-ha Sapporo Betsu-in Temple"
+   ]
   },
   {
-   "name": "Ario Sapporo",
+   "name": "아리오 삿포로",
    "cat": "쇼핑",
    "area": "",
    "lat": 43.07111,
    "lng": 141.37028,
-   "wd": "Q17191973"
+   "wd": "Q17191973",
+   "aliases": [
+    "Ario Sapporo"
+   ]
   },
   {
-   "name": "Sapporo City Archives",
+   "name": "삿포로시 공문서관",
    "cat": "관광",
    "area": "",
    "lat": 43.05156,
    "lng": 141.35747,
-   "wd": "Q17226346"
+   "wd": "Q17226346",
+   "aliases": [
+    "Sapporo City Archives"
+   ]
   }
  ]
 }

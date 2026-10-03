@@ -225,12 +225,15 @@
    "wd": "Q1088224"
   },
   {
-   "name": "Dong Xuan Market",
+   "name": "동쑤언 시장",
    "cat": "쇼핑",
    "area": "하노이",
    "lat": 21.03816,
    "lng": 105.85003,
-   "wd": "Q1094375"
+   "wd": "Q1094375",
+   "aliases": [
+    "Dong Xuan Market"
+   ]
   },
   {
    "name": "하노이 박물관",
@@ -277,20 +280,26 @@
    "wd": "Q1048785"
   },
   {
-   "name": "The Huc Bridge",
+   "name": "테훅 다리",
    "cat": "관광",
    "area": "호안끼엠군",
    "lat": 21.03075,
    "lng": 105.8528,
-   "wd": "Q10752403"
+   "wd": "Q10752403",
+   "aliases": [
+    "The Huc Bridge"
+   ]
   },
   {
-   "name": "State Guest House",
+   "name": "국빈관",
    "cat": "관광",
    "area": "하노이",
    "lat": 21.02664,
    "lng": 105.85528,
-   "wd": "Q10743330"
+   "wd": "Q10743330",
+   "aliases": [
+    "State Guest House"
+   ]
   },
   {
    "name": "꽌타인 사당",
@@ -305,12 +314,15 @@
    "wd": "Q5370148"
   },
   {
-   "name": "Thủ Lệ Park",
+   "name": "투레 공원",
    "cat": "관광",
    "area": "",
    "lat": 21.03028,
    "lng": 105.8075,
-   "wd": "Q944021"
+   "wd": "Q944021",
+   "aliases": [
+    "Thủ Lệ Park"
+   ]
   },
   {
    "name": "쯔엉즈엉 대교",
@@ -357,44 +369,59 @@
    "wd": "Q10752058"
   },
   {
-   "name": "Palais d'Expositions",
+   "name": "하노이 전시궁",
    "cat": "관광",
    "area": "하노이",
    "lat": 21.02256,
    "lng": 105.84418,
-   "wd": "Q16481383"
+   "wd": "Q16481383",
+   "aliases": [
+    "Palais d'Expositions"
+   ]
   },
   {
-   "name": "Al-Noor Mosque",
+   "name": "알누르 모스크",
    "cat": "관광",
    "area": "호안끼엠군",
    "lat": 21.03803,
    "lng": 105.84753,
-   "wd": "Q124982776"
+   "wd": "Q124982776",
+   "aliases": [
+    "Al-Noor Mosque"
+   ]
   },
   {
-   "name": "1-5 Square",
+   "name": "1-5 광장",
    "cat": "관광",
    "area": "",
    "lat": 21.02306,
    "lng": 105.84444,
-   "wd": "Q2027273"
+   "wd": "Q2027273",
+   "aliases": [
+    "1-5 Square"
+   ]
   },
   {
-   "name": "Thăng Long Bridge",
+   "name": "탕롱 대교",
    "cat": "관광",
    "area": "",
    "lat": 21.098,
    "lng": 105.786,
-   "wd": "Q3023384"
+   "wd": "Q3023384",
+   "aliases": [
+    "Thăng Long Bridge"
+   ]
   },
   {
-   "name": "Hanoi Botanic Garden",
+   "name": "하노이 식물원",
    "cat": "관광",
    "area": "",
    "lat": 21.04056,
    "lng": 105.83167,
-   "wd": "Q9010921"
+   "wd": "Q9010921",
+   "aliases": [
+    "Hanoi Botanic Garden"
+   ]
   },
   {
    "name": "베트남 공군 박물관",
@@ -408,28 +435,37 @@
    "wd": "Q7928536"
   },
   {
-   "name": "Lenin Park",
+   "name": "레닌 공원",
    "cat": "관광",
    "area": "하노이",
    "lat": 21.03168,
    "lng": 105.83942,
-   "wd": "Q10752053"
+   "wd": "Q10752053",
+   "aliases": [
+    "Lenin Park"
+   ]
   },
   {
-   "name": "Huu Tiep Lake",
+   "name": "흐우띠엡 호수(B-52 잔해)",
    "cat": "관광",
    "area": "하노이",
    "lat": 21.03791,
    "lng": 105.8271,
-   "wd": "Q10771972"
+   "wd": "Q10771972",
+   "aliases": [
+    "Huu Tiep Lake"
+   ]
   },
   {
-   "name": "Kính Thiên Palace",
+   "name": "낀티엔 전",
    "cat": "관광",
    "area": "하노이",
    "lat": 21.03766,
    "lng": 105.8411,
-   "wd": "Q18415661"
+   "wd": "Q18415661",
+   "aliases": [
+    "Kính Thiên Palace"
+   ]
   },
   {
    "name": "하이바쯩 사원",
@@ -443,84 +479,114 @@
    "wd": "Q2817231"
   },
   {
-   "name": "Thanh Trì Bridge",
+   "name": "타인찌 대교",
    "cat": "관광",
    "area": "",
    "lat": 21.098,
    "lng": 105.786,
-   "wd": "Q3023373"
+   "wd": "Q3023373",
+   "aliases": [
+    "Thanh Trì Bridge"
+   ]
   },
   {
-   "name": "Vĩnh Tuy Bridge",
+   "name": "빈뚜이 대교",
    "cat": "관광",
    "area": "",
    "lat": 21.0044,
    "lng": 105.876,
-   "wd": "Q3023933"
+   "wd": "Q3023933",
+   "aliases": [
+    "Vĩnh Tuy Bridge"
+   ]
   },
   {
-   "name": "Duong River Bridge",
+   "name": "즈엉강 다리",
    "cat": "관광",
    "area": "",
    "lat": 21.07771,
    "lng": 105.90856,
-   "wd": "Q10752450"
+   "wd": "Q10752450",
+   "aliases": [
+    "Duong River Bridge"
+   ]
   },
   {
-   "name": "Hanoi Citadel",
+   "name": "탕롱 황성",
    "cat": "관광",
    "area": "하노이",
    "lat": 21.03741,
    "lng": 105.84043,
-   "wd": "Q4568216"
+   "wd": "Q4568216",
+   "aliases": [
+    "Hanoi Citadel"
+   ]
   },
   {
-   "name": "Vietnam National Museum of Nature",
+   "name": "베트남 국립자연박물관",
    "cat": "관광",
    "area": "하노이",
    "lat": 21.04641,
    "lng": 105.8037,
-   "wd": "Q10743288"
+   "wd": "Q10743288",
+   "aliases": [
+    "Vietnam National Museum of Nature"
+   ]
   },
   {
-   "name": "Phu Dong Bridge",
+   "name": "푸동 대교",
    "cat": "관광",
    "area": "하노이",
    "lat": 21.04133,
    "lng": 105.93899,
-   "wd": "Q10771234"
+   "wd": "Q10771234",
+   "aliases": [
+    "Phu Dong Bridge"
+   ]
   },
   {
-   "name": "Voi Phục Temple",
+   "name": "보이푹 사원",
    "cat": "관광",
    "area": "하노이",
    "lat": 21.03064,
    "lng": 105.80414,
-   "wd": "Q10841709"
+   "wd": "Q10841709",
+   "aliases": [
+    "Voi Phục Temple"
+   ]
   },
   {
-   "name": "Dong Tru Bridge",
+   "name": "동쭈 대교",
    "cat": "관광",
    "area": "하노이",
    "lat": 21.07134,
    "lng": 105.87799,
-   "wd": "Q11840154"
+   "wd": "Q11840154",
+   "aliases": [
+    "Dong Tru Bridge"
+   ]
   },
   {
-   "name": "Trang Tien Plaza",
+   "name": "짱띠엔 플라자",
    "cat": "쇼핑",
    "area": "Tràng Tiền",
    "lat": 21.0247,
    "lng": 105.853,
-   "wd": "Q7833421"
+   "wd": "Q7833421",
+   "aliases": [
+    "Trang Tien Plaza"
+   ]
   },
   {
-   "name": "Hòe Nhai Pagoda",
+   "name": "호에냐이 사원",
    "cat": "관광",
    "area": "바딘 지구",
    "lat": 21.04243,
    "lng": 105.84736,
-   "wd": "Q10748429"
+   "wd": "Q10748429",
+   "aliases": [
+    "Hòe Nhai Pagoda"
+   ]
   },
   {
    "name": "통킹 의숙 광장",
@@ -534,12 +600,15 @@
    "wd": "Q10810537"
   },
   {
-   "name": "Lý Quốc Sư Pagoda",
+   "name": "리꾸옥스 사원",
    "cat": "관광",
    "area": "",
    "lat": 21.02944,
    "lng": 105.84889,
-   "wd": "Q10841685"
+   "wd": "Q10841685",
+   "aliases": [
+    "Lý Quốc Sư Pagoda"
+   ]
   }
  ]
 }

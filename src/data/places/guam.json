@@ -3,44 +3,59 @@
  "builtAt": "2026-10-03",
  "picks": [
   {
-   "name": "Dulce Nombre de Maria Cathedral Basilica",
+   "name": "둘세 노브레 데 마리아 대성당",
    "cat": "관광",
    "area": "하갓냐",
    "lat": 13.4743,
    "lng": 144.7524,
-   "wd": "Q2580264"
+   "wd": "Q2580264",
+   "aliases": [
+    "Dulce Nombre de Maria Cathedral Basilica"
+   ]
   },
   {
-   "name": "An-Noor Mosque",
+   "name": "안누르 모스크",
    "cat": "관광",
    "area": "Mangilao",
    "lat": 13.4451,
    "lng": 144.808,
-   "wd": "Q107272126"
+   "wd": "Q107272126",
+   "aliases": [
+    "An-Noor Mosque"
+   ]
   },
   {
-   "name": "SMS Cormoran",
+   "name": "SMS 코모란 난파선",
    "cat": "관광",
    "area": "Piti",
    "lat": 13.45917,
    "lng": 144.65417,
-   "wd": "Q326616"
+   "wd": "Q326616",
+   "aliases": [
+    "SMS Cormoran"
+   ]
   },
   {
-   "name": "Tokai Maru",
+   "name": "도카이마루 난파선",
    "cat": "관광",
    "area": "Piti",
    "lat": 13.4592,
    "lng": 144.654,
-   "wd": "Q16901792"
+   "wd": "Q16901792",
+   "aliases": [
+    "Tokai Maru"
+   ]
   },
   {
-   "name": "Plaza de España",
+   "name": "스페인 광장",
    "cat": "관광",
    "area": "괌",
    "lat": 13.47383,
    "lng": 144.75153,
-   "wd": "Q7203678"
+   "wd": "Q7203678",
+   "aliases": [
+    "Plaza de España"
+   ]
   },
   {
    "name": "태평양 전쟁 국립 역사 공원",
@@ -54,20 +69,26 @@
    "wd": "Q7968628"
   },
   {
-   "name": "Agana Spanish Bridge",
+   "name": "아가냐 스페인 다리",
    "cat": "관광",
    "area": "하갓냐",
    "lat": 13.475,
    "lng": 144.74806,
-   "wd": "Q15178290"
+   "wd": "Q15178290",
+   "aliases": [
+    "Agana Spanish Bridge"
+   ]
   },
   {
-   "name": "Cetti Bay",
+   "name": "세티 베이 전망대",
    "cat": "관광",
    "area": "Umatac",
    "lat": 13.31444,
    "lng": 144.65444,
-   "wd": "Q15208613"
+   "wd": "Q15208613",
+   "aliases": [
+    "Cetti Bay"
+   ]
   },
   {
    "name": "괌 박물관",
@@ -81,12 +102,15 @@
    "wd": "Q16982836"
   },
   {
-   "name": "Fort Santa Agueda",
+   "name": "산타 아게다 요새",
    "cat": "관광",
    "area": "하갓냐",
    "lat": 13.47361,
    "lng": 144.74778,
-   "wd": "Q15218150"
+   "wd": "Q15218150",
+   "aliases": [
+    "Fort Santa Agueda"
+   ]
   },
   {
    "name": "마이크로네시아 몰",
@@ -100,76 +124,103 @@
    "wd": "Q6120858"
   },
   {
-   "name": "San Dionisio Church Ruins",
+   "name": "산 디오니시오 성당 유적",
    "cat": "관광",
    "area": "괌",
    "lat": 13.2975,
    "lng": 144.66083,
-   "wd": "Q4255891"
+   "wd": "Q4255891",
+   "aliases": [
+    "San Dionisio Church Ruins"
+   ]
   },
   {
-   "name": "Orote Field",
+   "name": "오로테 비행장",
    "cat": "관광",
    "area": "괌",
    "lat": 13.43694,
    "lng": 144.64167,
-   "wd": "Q7103873"
+   "wd": "Q7103873",
+   "aliases": [
+    "Orote Field"
+   ]
   },
   {
-   "name": "Talofofo Falls",
+   "name": "탈로포포 폭포",
    "cat": "관광",
    "area": "괌",
    "lat": 13.3237,
    "lng": 144.737,
-   "wd": "Q7680272"
+   "wd": "Q7680272",
+   "aliases": [
+    "Talofofo Falls"
+   ]
   },
   {
-   "name": "Uruno Beach",
+   "name": "우루노 비치",
    "cat": "관광",
    "area": "괌",
    "lat": 13.63272,
    "lng": 144.84362,
-   "wd": "Q7901539"
+   "wd": "Q7901539",
+   "aliases": [
+    "Uruno Beach"
+   ]
   },
   {
-   "name": "Fort San Jose",
+   "name": "산 호세 요새",
    "cat": "관광",
    "area": "괌",
    "lat": 13.29917,
    "lng": 144.65583,
-   "wd": "Q22673194"
+   "wd": "Q22673194",
+   "aliases": [
+    "Fort San Jose"
+   ]
   },
   {
-   "name": "Atantano Shrine",
+   "name": "아탄타노 사당",
    "cat": "관광",
    "area": "괌",
    "lat": 13.42222,
    "lng": 144.67611,
-   "wd": "Q25187643"
+   "wd": "Q25187643",
+   "aliases": [
+    "Atantano Shrine"
+   ]
   },
   {
-   "name": "Fort Nuestra Señora de la Soledad",
+   "name": "솔레다드 요새",
    "cat": "관광",
    "area": "Umatac",
    "lat": 13.29333,
    "lng": 144.6575,
-   "wd": "Q15218129"
+   "wd": "Q15218129",
+   "aliases": [
+    "Fort Nuestra Señora de la Soledad"
+   ]
   },
   {
-   "name": "Fort Santo Angel",
+   "name": "산토 앙헬 요새",
    "cat": "관광",
    "area": "Umatac",
    "lat": 13.29722,
    "lng": 144.65611,
-   "wd": "Q22673199"
+   "wd": "Q22673199",
+   "aliases": [
+    "Fort Santo Angel"
+   ]
   },
   {
-   "name": "St. Anthony's Church, Tamuning",
+   "name": "성 안토니오 성당",
    "cat": "관광",
    "area": "타무닝",
    "lat": 13.49854,
    "lng": 144.78116,
-   "wd": "Q24248866"
+   "wd": "Q24248866",
+   "aliases": [
+    "St. Anthony's Church, Tamuning"
+   ]
   },
   {
    "name": "괌 프리미어 아웃렛",
@@ -183,580 +234,741 @@
    "wd": "Q5613444"
   },
   {
-   "name": "Point Udall",
+   "name": "우달 곶",
    "cat": "관광",
    "area": "괌",
    "lat": 13.44756,
    "lng": 144.61819,
-   "wd": "Q441128"
+   "wd": "Q441128",
+   "aliases": [
+    "Point Udall"
+   ]
   },
   {
-   "name": "Aratama Maru",
+   "name": "아라타마마루 난파선",
    "cat": "관광",
    "area": "괌",
    "lat": 13.3347,
    "lng": 144.767,
-   "wd": "Q19864536"
+   "wd": "Q19864536",
+   "aliases": [
+    "Aratama Maru"
+   ]
   },
   {
-   "name": "Ipao Pillbox I",
+   "name": "이파오 토치카",
    "cat": "관광",
    "area": "괌",
    "lat": 13.5061,
    "lng": 144.784,
-   "wd": "Q20050683"
+   "wd": "Q20050683",
+   "aliases": [
+    "Ipao Pillbox I"
+   ]
   },
   {
-   "name": "Fonte River Dam",
+   "name": "폰테 강 댐",
    "cat": "관광",
    "area": "괌",
    "lat": 13.45861,
    "lng": 144.72861,
-   "wd": "Q22673001"
+   "wd": "Q22673001",
+   "aliases": [
+    "Fonte River Dam"
+   ]
   },
   {
-   "name": "Magellan Monument",
+   "name": "마젤란 기념비",
    "cat": "관광",
    "area": "괌",
    "lat": 13.29914,
    "lng": 144.66253,
-   "wd": "Q25186166"
+   "wd": "Q25186166",
+   "aliases": [
+    "Magellan Monument"
+   ]
   },
   {
-   "name": "Agana Shopping Center",
+   "name": "아가냐 쇼핑센터",
    "cat": "쇼핑",
    "area": "하갓냐",
    "lat": 13.47105,
    "lng": 144.7554,
-   "wd": "Q4691185"
+   "wd": "Q4691185",
+   "aliases": [
+    "Agana Shopping Center"
+   ]
   },
   {
-   "name": "Asan Invasion Beach",
+   "name": "아산 상륙 해변",
    "cat": "관광",
    "area": "Asan",
    "lat": 13.47306,
    "lng": 144.70889,
-   "wd": "Q19864779"
+   "wd": "Q19864779",
+   "aliases": [
+    "Asan Invasion Beach"
+   ]
   },
   {
-   "name": "Matgue River Valley Battle Area",
+   "name": "마트게 강 전적지",
    "cat": "관광",
    "area": "Asan",
    "lat": 13.465,
    "lng": 144.705,
-   "wd": "Q20050717"
+   "wd": "Q20050717",
+   "aliases": [
+    "Matgue River Valley Battle Area"
+   ]
   },
   {
-   "name": "Merlyn G. Cooke School",
-   "cat": "관광",
-   "area": "Merizo",
-   "lat": 13.26861,
-   "lng": 144.66444,
-   "wd": "Q15253137"
-  },
-  {
-   "name": "Agat Invasion Beach",
+   "name": "아갓 상륙 해변",
    "cat": "관광",
    "area": "Hågat",
    "lat": 13.3853,
    "lng": 144.655,
-   "wd": "Q19839835"
+   "wd": "Q19839835",
+   "aliases": [
+    "Agat Invasion Beach"
+   ]
   },
   {
-   "name": "South Finegayan Latte Stone Park",
+   "name": "라테 스톤 공원",
    "cat": "관광",
    "area": "데데도",
    "lat": 13.55306,
    "lng": 144.82639,
-   "wd": "Q22950225"
+   "wd": "Q22950225",
+   "aliases": [
+    "South Finegayan Latte Stone Park"
+   ]
   },
   {
-   "name": "Pago Bay Japanese pillboxes",
+   "name": "파고 베이 일본군 토치카",
    "cat": "관광",
    "area": "",
    "lat": 13.4225,
    "lng": 144.782,
-   "wd": "Q20203101"
+   "wd": "Q20203101",
+   "aliases": [
+    "Pago Bay Japanese pillboxes"
+   ]
   },
   {
-   "name": "Piti Guns",
+   "name": "피티 포대",
    "cat": "관광",
    "area": "괌",
    "lat": 13.46194,
    "lng": 144.69444,
-   "wd": "Q7198958"
+   "wd": "Q7198958",
+   "aliases": [
+    "Piti Guns"
+   ]
   },
   {
-   "name": "Canada Water Wells",
-   "cat": "관광",
-   "area": "괌",
-   "lat": 13.46167,
-   "lng": 144.78444,
-   "wd": "Q15207071"
-  },
-  {
-   "name": "Taleyfac Spanish Bridge",
+   "name": "탈레이팍 스페인 다리",
    "cat": "관광",
    "area": "괌",
    "lat": 13.3633,
    "lng": 144.649,
-   "wd": "Q16901088"
+   "wd": "Q16901088",
+   "aliases": [
+    "Taleyfac Spanish Bridge"
+   ]
   },
   {
-   "name": "Mana Pillbox",
+   "name": "마나 토치카",
    "cat": "관광",
    "area": "괌",
    "lat": 13.34056,
    "lng": 144.77139,
-   "wd": "Q20050712"
+   "wd": "Q20050712",
+   "aliases": [
+    "Mana Pillbox"
+   ]
   },
   {
-   "name": "Gabgab Beach",
+   "name": "갑갑 비치",
    "cat": "관광",
    "area": "괌",
    "lat": 13.44193,
    "lng": 144.64217,
-   "wd": "Q25185488"
+   "wd": "Q25185488",
+   "aliases": [
+    "Gabgab Beach"
+   ]
   },
   {
-   "name": "Ypao Beach",
+   "name": "이파오 비치",
    "cat": "관광",
    "area": "괌",
    "lat": 13.50428,
    "lng": 144.78916,
-   "wd": "Q25185546"
+   "wd": "Q25185546",
+   "aliases": [
+    "Ypao Beach"
+   ]
   },
   {
-   "name": "Trinchera Beach",
+   "name": "트린체라 비치",
    "cat": "관광",
    "area": "괌",
    "lat": 13.4796,
    "lng": 144.76637,
-   "wd": "Q25185571"
+   "wd": "Q25185571",
+   "aliases": [
+    "Trinchera Beach"
+   ]
   },
   {
-   "name": "Tarzan Falls",
+   "name": "타잔 폭포",
    "cat": "관광",
    "area": "괌",
    "lat": 13.39611,
    "lng": 144.72028,
-   "wd": "Q25185584"
+   "wd": "Q25185584",
+   "aliases": [
+    "Tarzan Falls"
+   ]
   },
   {
-   "name": "Tanguisson Beach",
+   "name": "탕기손 비치",
    "cat": "관광",
    "area": "괌",
    "lat": 13.55273,
    "lng": 144.81197,
-   "wd": "Q25185589"
+   "wd": "Q25185589",
+   "aliases": [
+    "Tanguisson Beach"
+   ]
   },
   {
-   "name": "Tagachan Beach",
+   "name": "타가찬 비치",
    "cat": "관광",
    "area": "괌",
    "lat": 13.40428,
    "lng": 144.78145,
-   "wd": "Q25185596"
+   "wd": "Q25185596",
+   "aliases": [
+    "Tagachan Beach"
+   ]
   },
   {
-   "name": "Salinas Beach",
+   "name": "살리나스 비치",
    "cat": "관광",
    "area": "괌",
    "lat": 13.39001,
    "lng": 144.66024,
-   "wd": "Q25185616"
+   "wd": "Q25185616",
+   "aliases": [
+    "Salinas Beach"
+   ]
   },
   {
-   "name": "Ritidian Beach",
+   "name": "리티디안 비치",
    "cat": "관광",
    "area": "괌",
    "lat": 13.65418,
    "lng": 144.86227,
-   "wd": "Q25185620"
+   "wd": "Q25185620",
+   "aliases": [
+    "Ritidian Beach"
+   ]
   },
   {
-   "name": "Tarague Beach",
+   "name": "타라게 비치",
    "cat": "관광",
    "area": "괌",
    "lat": 13.625,
    "lng": 144.8958,
-   "wd": "Q25186198"
+   "wd": "Q25186198",
+   "aliases": [
+    "Tarague Beach"
+   ]
   },
   {
-   "name": "Dungcas Beach",
+   "name": "덩카스 비치",
    "cat": "관광",
    "area": "괌",
    "lat": 13.4902,
    "lng": 144.775,
-   "wd": "Q25186793"
+   "wd": "Q25186793",
+   "aliases": [
+    "Dungcas Beach"
+   ]
   },
   {
-   "name": "Malojloj Falls",
+   "name": "말로즐로즈 폭포",
    "cat": "관광",
    "area": "괌",
    "lat": 13.2969,
    "lng": 144.75273,
-   "wd": "Q25187691"
+   "wd": "Q25187691",
+   "aliases": [
+    "Malojloj Falls"
+   ]
   },
   {
-   "name": "Haputo Beach",
+   "name": "하푸토 비치",
    "cat": "관광",
    "area": "괌",
    "lat": 13.57754,
    "lng": 144.83126,
-   "wd": "Q25187702"
+   "wd": "Q25187702",
+   "aliases": [
+    "Haputo Beach"
+   ]
   },
   {
-   "name": "Merizo Bell Tower",
+   "name": "메리조 종탑",
    "cat": "관광",
    "area": "Merizo",
    "lat": 13.26583,
    "lng": 144.66806,
-   "wd": "Q15253131"
+   "wd": "Q15253131",
+   "aliases": [
+    "Merizo Bell Tower"
+   ]
   },
   {
-   "name": "Taelayag Spanish Bridge",
+   "name": "타엘라야그 스페인 다리",
    "cat": "관광",
    "area": "Hågat",
    "lat": 13.3533,
    "lng": 144.643,
-   "wd": "Q19878165"
+   "wd": "Q19878165",
+   "aliases": [
+    "Taelayag Spanish Bridge"
+   ]
   },
   {
-   "name": "Dungcas Beach Defense Guns",
+   "name": "덩카스 해안포",
    "cat": "관광",
    "area": "타무닝",
    "lat": 13.4906,
    "lng": 144.773,
-   "wd": "Q19899383"
+   "wd": "Q19899383",
+   "aliases": [
+    "Dungcas Beach Defense Guns"
+   ]
   },
   {
-   "name": "Gongna Beach defenses",
+   "name": "공나 해안 방어진지",
    "cat": "관광",
    "area": "타무닝",
    "lat": 13.5244,
    "lng": 144.801,
-   "wd": "Q20036937"
+   "wd": "Q20036937",
+   "aliases": [
+    "Gongna Beach defenses"
+   ]
   },
   {
-   "name": "Tokcha' Pillbox",
+   "name": "톡차 토치카",
    "cat": "관광",
    "area": "",
    "lat": 13.37167,
    "lng": 144.76917,
-   "wd": "Q20713989"
+   "wd": "Q20713989",
+   "aliases": [
+    "Tokcha' Pillbox"
+   ]
   },
   {
-   "name": "Yigo Guam Temple",
+   "name": "이고 괌 성전",
    "cat": "관광",
    "area": "",
    "lat": 13.54187,
    "lng": 144.88953,
-   "wd": "Q96415803"
+   "wd": "Q96415803",
+   "aliases": [
+    "Yigo Guam Temple"
+   ]
   },
   {
-   "name": "Kitsugawa Maru",
+   "name": "기쓰가와마루 난파선",
    "cat": "관광",
    "area": "",
    "lat": 13.4582,
    "lng": 144.6525,
-   "wd": "Q106355015"
+   "wd": "Q106355015",
+   "aliases": [
+    "Kitsugawa Maru"
+   ]
   },
   {
-   "name": "Asan Ridge Battle Area",
+   "name": "아산 능선 전적지",
    "cat": "관광",
    "area": "Asan",
    "lat": 13.4683,
    "lng": 144.715,
-   "wd": "Q20036689"
+   "wd": "Q20036689",
+   "aliases": [
+    "Asan Ridge Battle Area"
+   ]
   },
   {
-   "name": "Ilik River Fortification II",
+   "name": "일릭 강 요새",
    "cat": "관광",
    "area": "괌",
    "lat": 13.38722,
    "lng": 144.77306,
-   "wd": "Q5998217"
+   "wd": "Q5998217",
+   "aliases": [
+    "Ilik River Fortification II"
+   ]
   },
   {
-   "name": "Namo Falls",
+   "name": "나모 폭포",
    "cat": "관광",
    "area": "괌",
    "lat": 13.3909,
    "lng": 144.673,
-   "wd": "Q6961972"
+   "wd": "Q6961972",
+   "aliases": [
+    "Namo Falls"
+   ]
   },
   {
-   "name": "Spanish Dikes",
+   "name": "스페인 제방",
    "cat": "관광",
    "area": "괌",
    "lat": 13.46333,
    "lng": 144.76583,
-   "wd": "Q15278850"
+   "wd": "Q15278850",
+   "aliases": [
+    "Spanish Dikes"
+   ]
   },
   {
-   "name": "Inarajan Pillbox",
+   "name": "이나라한 토치카",
    "cat": "관광",
    "area": "괌",
    "lat": 13.2739,
    "lng": 144.748,
-   "wd": "Q20036988"
+   "wd": "Q20036988",
+   "aliases": [
+    "Inarajan Pillbox"
+   ]
   },
   {
-   "name": "Malessu' Pillbox",
+   "name": "말레수 토치카",
    "cat": "관광",
    "area": "괌",
    "lat": 13.26222,
    "lng": 144.6675,
-   "wd": "Q20050711"
+   "wd": "Q20050711",
+   "aliases": [
+    "Malessu' Pillbox"
+   ]
   },
   {
-   "name": "Dadi Beach",
+   "name": "다디 비치",
    "cat": "관광",
    "area": "괌",
    "lat": 13.41335,
    "lng": 144.65707,
-   "wd": "Q25185471"
+   "wd": "Q25185471",
+   "aliases": [
+    "Dadi Beach"
+   ]
   },
   {
-   "name": "Falcona Beach",
+   "name": "팔코나 비치",
    "cat": "관광",
    "area": "괌",
    "lat": 13.61243,
    "lng": 144.83552,
-   "wd": "Q25185475"
+   "wd": "Q25185475",
+   "aliases": [
+    "Falcona Beach"
+   ]
   },
   {
-   "name": "Family Beach",
+   "name": "패밀리 비치",
    "cat": "관광",
    "area": "괌",
    "lat": 13.4638,
    "lng": 144.64754,
-   "wd": "Q25185477"
+   "wd": "Q25185477",
+   "aliases": [
+    "Family Beach"
+   ]
   },
   {
-   "name": "Gongna Beach",
+   "name": "공나 비치",
    "cat": "관광",
    "area": "괌",
    "lat": 13.51913,
    "lng": 144.80611,
-   "wd": "Q25185491"
+   "wd": "Q25185491",
+   "aliases": [
+    "Gongna Beach"
+   ]
   },
   {
-   "name": "Ulomnia Beach",
+   "name": "울롬니아 비치",
    "cat": "관광",
    "area": "괌",
    "lat": 13.2846,
    "lng": 144.76358,
-   "wd": "Q25185568"
+   "wd": "Q25185568",
+   "aliases": [
+    "Ulomnia Beach"
+   ]
   },
   {
-   "name": "Togcha Beach",
+   "name": "톡차 비치",
    "cat": "관광",
    "area": "괌",
    "lat": 13.39752,
    "lng": 144.66251,
-   "wd": "Q25185576"
+   "wd": "Q25185576",
+   "aliases": [
+    "Togcha Beach"
+   ]
   },
   {
-   "name": "Taelayag Beach",
+   "name": "타엘라야그 비치",
    "cat": "관광",
    "area": "괌",
    "lat": 13.35277,
    "lng": 144.64423,
-   "wd": "Q25185599"
+   "wd": "Q25185599",
+   "aliases": [
+    "Taelayag Beach"
+   ]
   },
   {
-   "name": "Outhouse Beach",
+   "name": "아웃하우스 비치",
    "cat": "관광",
    "area": "괌",
    "lat": 13.46417,
    "lng": 144.65607,
-   "wd": "Q25185627"
+   "wd": "Q25185627",
+   "aliases": [
+    "Outhouse Beach"
+   ]
   },
   {
-   "name": "Barrigada War Memorial Park",
+   "name": "바리가다 전쟁기념공원",
    "cat": "관광",
    "area": "괌",
    "lat": 13.45689,
    "lng": 144.79496,
-   "wd": "Q25185991"
+   "wd": "Q25185991",
+   "aliases": [
+    "Barrigada War Memorial Park"
+   ]
   },
   {
-   "name": "Atao Beach",
+   "name": "아타오 비치",
    "cat": "관광",
    "area": "괌",
    "lat": 13.25769,
    "lng": 144.73532,
-   "wd": "Q25186016"
+   "wd": "Q25186016",
+   "aliases": [
+    "Atao Beach"
+   ]
   },
   {
-   "name": "Tipalao Beach",
+   "name": "티팔라오 비치",
    "cat": "관광",
    "area": "괌",
    "lat": 13.4172,
    "lng": 144.64781,
-   "wd": "Q25186190"
+   "wd": "Q25186190",
+   "aliases": [
+    "Tipalao Beach"
+   ]
   },
   {
-   "name": "Punlan Dos Amantes Park",
+   "name": "사랑의 절벽(푼탄 도스 아만테스)",
    "cat": "관광",
    "area": "괌",
    "lat": 13.53496,
    "lng": 144.80294,
-   "wd": "Q25186204"
+   "wd": "Q25186204",
+   "aliases": [
+    "Punlan Dos Amantes Park"
+   ]
   },
   {
-   "name": "Cetti Falls",
+   "name": "세티 폭포",
    "cat": "관광",
    "area": "괌",
    "lat": 13.32401,
    "lng": 144.66675,
-   "wd": "Q25186806"
+   "wd": "Q25186806",
+   "aliases": [
+    "Cetti Falls"
+   ]
   },
   {
-   "name": "Asiga Beach",
+   "name": "아시가 비치",
    "cat": "관광",
    "area": "괌",
    "lat": 13.31492,
    "lng": 144.77135,
-   "wd": "Q25186824"
+   "wd": "Q25186824",
+   "aliases": [
+    "Asiga Beach"
+   ]
   },
   {
-   "name": "NCS Beach",
+   "name": "NCS 비치",
    "cat": "관광",
    "area": "괌",
    "lat": 13.54326,
    "lng": 144.8083,
-   "wd": "Q25187683"
+   "wd": "Q25187683",
+   "aliases": [
+    "NCS Beach"
+   ]
   },
   {
-   "name": "Rizal Beach",
+   "name": "리살 비치",
    "cat": "관광",
    "area": "괌",
    "lat": 13.40573,
    "lng": 144.66119,
-   "wd": "Q25187681"
+   "wd": "Q25187681",
+   "aliases": [
+    "Rizal Beach"
+   ]
   },
   {
-   "name": "Naton Beach",
+   "name": "나톤 비치(투몬)",
    "cat": "관광",
    "area": "괌",
    "lat": 13.51279,
    "lng": 144.80302,
-   "wd": "Q25187688"
+   "wd": "Q25187688",
+   "aliases": [
+    "Naton Beach"
+   ]
   },
   {
-   "name": "Memorial Wall",
+   "name": "추모의 벽",
    "cat": "관광",
    "area": "괌",
    "lat": 13.45993,
    "lng": 144.71532,
-   "wd": "Q25192606"
+   "wd": "Q25192606",
+   "aliases": [
+    "Memorial Wall"
+   ]
   },
   {
-   "name": "War in the Pacific National Historical Park - T. Stell Newman Visitor Center",
+   "name": "태평양전쟁 국립역사공원 방문자센터",
    "cat": "관광",
    "area": "괌",
    "lat": 13.42251,
    "lng": 144.67557,
-   "wd": "Q25192611"
+   "wd": "Q25192611",
+   "aliases": [
+    "War in the Pacific National Historical Park - T. Stell Newman Visitor Center"
+   ]
   },
   {
-   "name": "Andersen AFB Control Tower",
-   "cat": "관광",
-   "area": "괌",
-   "lat": 13.57541,
-   "lng": 144.93078,
-   "wd": "Q25192658"
-  },
-  {
-   "name": "Second Sigua Falls",
+   "name": "시구아 폭포",
    "cat": "관광",
    "area": "괌",
    "lat": 13.42982,
    "lng": 144.72759,
-   "wd": "Q25192756"
+   "wd": "Q25192756",
+   "aliases": [
+    "Second Sigua Falls"
+   ]
   },
   {
-   "name": "Tarza Water Park",
+   "name": "타잔 워터파크",
    "cat": "관광",
    "area": "괌",
    "lat": 13.51588,
    "lng": 144.80932,
-   "wd": "Q25192781"
+   "wd": "Q25192781",
+   "aliases": [
+    "Tarza Water Park"
+   ]
   },
   {
-   "name": "Chief Quipuha Park",
+   "name": "키푸하 추장 공원",
    "cat": "관광",
    "area": "하갓냐",
    "lat": 13.4773,
    "lng": 144.754,
-   "wd": "Q5096892"
+   "wd": "Q5096892",
+   "aliases": [
+    "Chief Quipuha Park"
+   ]
   },
   {
-   "name": "Agana-Hagatna Pillbox",
+   "name": "아가냐 토치카",
    "cat": "관광",
    "area": "하갓냐",
    "lat": 13.4789,
    "lng": 144.749,
-   "wd": "Q19870562"
+   "wd": "Q19870562",
+   "aliases": [
+    "Agana-Hagatna Pillbox"
+   ]
   },
   {
-   "name": "Francisco Q. Sanchez Elementary School",
-   "cat": "관광",
-   "area": "Umatac",
-   "lat": 13.29917,
-   "lng": 144.66333,
-   "wd": "Q20715553"
-  },
-  {
-   "name": "San Vitores Martyrdom Site",
+   "name": "산 비토레스 순교지",
    "cat": "관광",
    "area": "타무닝",
    "lat": 13.51639,
    "lng": 144.80583,
-   "wd": "Q15274965"
+   "wd": "Q15274965",
+   "aliases": [
+    "San Vitores Martyrdom Site"
+   ]
   },
   {
-   "name": "Guam Cable Station",
-   "cat": "관광",
-   "area": "Hågat",
-   "lat": 13.4381,
-   "lng": 144.649,
-   "wd": "Q19880476"
-  },
-  {
-   "name": "Faha Massacre Site",
+   "name": "파하 학살 추모지",
    "cat": "관광",
    "area": "Merizo",
    "lat": 13.2717,
    "lng": 144.664,
-   "wd": "Q20036799"
+   "wd": "Q20036799",
+   "aliases": [
+    "Faha Massacre Site"
+   ]
   },
   {
-   "name": "Guam Buddhism Society",
+   "name": "괌 불교협회",
    "cat": "관광",
    "area": "Barrigada",
    "lat": 13.49483,
    "lng": 144.82842,
-   "wd": "Q3918473"
+   "wd": "Q3918473",
+   "aliases": [
+    "Guam Buddhism Society"
+   ]
   },
   {
-   "name": "UnderWater World Guam",
+   "name": "언더워터 월드 괌",
    "cat": "관광",
    "area": "",
    "lat": 13.515,
    "lng": 144.806,
-   "wd": "Q7883060"
+   "wd": "Q7883060",
+   "aliases": [
+    "UnderWater World Guam"
+   ]
   },
   {
-   "name": "Orote Historical Complex",
+   "name": "오로테 역사단지",
    "cat": "관광",
    "area": "",
    "lat": 13.44667,
    "lng": 144.62694,
-   "wd": "Q23638758"
+   "wd": "Q23638758",
+   "aliases": [
+    "Orote Historical Complex"
+   ]
   }
  ]
 }

@@ -220,20 +220,26 @@
    "wd": "Q156716"
   },
   {
-   "name": "Museum für Naturkunde - Leibniz Institute for Evolution and Biodiversity Science",
+   "name": "베를린 자연사박물관",
    "cat": "관광",
    "area": "베를린",
    "lat": 52.5302,
    "lng": 13.3792,
-   "wd": "Q233098"
+   "wd": "Q233098",
+   "aliases": [
+    "Museum für Naturkunde - Leibniz Institute for Evolution and Biodiversity Science"
+   ]
   },
   {
-   "name": "Soviet War Memorial",
+   "name": "소련 전쟁 기념비",
    "cat": "관광",
    "area": "베를린",
    "lat": 52.48611,
    "lng": 13.47167,
-   "wd": "Q48441"
+   "wd": "Q48441",
+   "aliases": [
+    "Soviet War Memorial"
+   ]
   },
   {
    "name": "체칠리엔호프궁",
@@ -258,20 +264,26 @@
    "wd": "Q170103"
   },
   {
-   "name": "Einstein Tower",
+   "name": "아인슈타인 탑",
    "cat": "관광",
    "area": "Potsdam-Süd",
    "lat": 52.37889,
    "lng": 13.06361,
-   "wd": "Q321789"
+   "wd": "Q321789",
+   "aliases": [
+    "Einstein Tower"
+   ]
   },
   {
-   "name": "Marienkirche (Berlin-Mitte)",
+   "name": "성모 마리아 교회",
    "cat": "관광",
    "area": "미테",
    "lat": 52.52056,
    "lng": 13.40667,
-   "wd": "Q679101"
+   "wd": "Q679101",
+   "aliases": [
+    "Marienkirche (Berlin-Mitte)"
+   ]
   },
   {
    "name": "독일 역사박물관",
@@ -318,12 +330,15 @@
    "wd": "Q315694"
   },
   {
-   "name": "Nikolaikirche (Berlin)",
+   "name": "니콜라이 교회",
    "cat": "관광",
    "area": "미테",
    "lat": 52.51682,
    "lng": 13.40751,
-   "wd": "Q679052"
+   "wd": "Q679052",
+   "aliases": [
+    "Nikolaikirche (Berlin)"
+   ]
   },
   {
    "name": "콘체르트하우스 베를린",
@@ -350,12 +365,15 @@
    "wd": "Q313746"
   },
   {
-   "name": "Oberbaum Bridge",
+   "name": "오버바움 다리",
    "cat": "관광",
    "area": "프리드리히스하인크로이츠베르크구",
    "lat": 52.50194,
    "lng": 13.44556,
-   "wd": "Q695082"
+   "wd": "Q695082",
+   "aliases": [
+    "Oberbaum Bridge"
+   ]
   },
   {
    "name": "신 국립미술관",
@@ -380,12 +398,15 @@
    "wd": "Q637834"
   },
   {
-   "name": "Botanic Garden and Botanical Museum Berlin",
+   "name": "베를린 식물원·식물박물관",
    "cat": "관광",
    "area": "슈테글리츠첼렌도르프구",
    "lat": 52.455,
    "lng": 13.3036,
-   "wd": "Q163255"
+   "wd": "Q163255",
+   "aliases": [
+    "Botanic Garden and Botanical Museum Berlin"
+   ]
   },
   {
    "name": "베를린 필하모니",
@@ -455,12 +476,15 @@
    "wd": "Q702771"
   },
   {
-   "name": "New Palace",
+   "name": "신궁전(포츠담)",
    "cat": "관광",
    "area": "Brandenburger Vorstadt",
    "lat": 52.4013,
    "lng": 13.01603,
-   "wd": "Q677383"
+   "wd": "Q677383",
+   "aliases": [
+    "New Palace"
+   ]
   },
   {
    "name": "베를린 예술 아카데미",
@@ -551,12 +575,15 @@
    "wd": "Q565670"
   },
   {
-   "name": "Berlin Mosque",
+   "name": "베를린 모스크",
    "cat": "관광",
    "area": "샤를로텐부르크빌머스도르프",
    "lat": 52.4875,
    "lng": 13.31167,
-   "wd": "Q238528"
+   "wd": "Q238528",
+   "aliases": [
+    "Berlin Mosque"
+   ]
   },
   {
    "name": "함부르거 반호프",
@@ -570,12 +597,15 @@
    "wd": "Q584756"
   },
   {
-   "name": "Haus der Kulturen der Welt",
+   "name": "세계 문화의 집",
    "cat": "관광",
    "area": "베를린",
    "lat": 52.5188,
    "lng": 13.3648,
-   "wd": "Q704933"
+   "wd": "Q704933",
+   "aliases": [
+    "Haus der Kulturen der Welt"
+   ]
   },
   {
    "name": "넵투누스 분수",
@@ -611,20 +641,26 @@
    "wd": "Q698370"
   },
   {
-   "name": "Treptower Park",
+   "name": "트렙토어 공원",
    "cat": "관광",
    "area": "트레프토쾨페니크구",
    "lat": 52.49028,
    "lng": 13.47,
-   "wd": "Q666937"
+   "wd": "Q666937",
+   "aliases": [
+    "Treptower Park"
+   ]
   },
   {
-   "name": "Berlinische Galerie",
+   "name": "베를리니셰 갤러리",
    "cat": "관광",
    "area": "프리드리히스하인크로이츠베르크구",
    "lat": 52.5039,
    "lng": 13.3981,
-   "wd": "Q700222"
+   "wd": "Q700222",
+   "aliases": [
+    "Berlinische Galerie"
+   ]
   },
   {
    "name": "초이그하우스",
@@ -649,28 +685,37 @@
    "wd": "Q206211"
   },
   {
-   "name": "City Palace",
+   "name": "베를린 궁전(훔볼트 포럼)",
    "cat": "관광",
    "area": "포츠담",
    "lat": 52.39472,
    "lng": 13.06056,
-   "wd": "Q527260"
+   "wd": "Q527260",
+   "aliases": [
+    "City Palace"
+   ]
   },
   {
-   "name": "Friedrichswerder Church",
+   "name": "프리드리히스베르더 교회",
    "cat": "관광",
    "area": "미테",
    "lat": 52.51583,
    "lng": 13.39722,
-   "wd": "Q833817"
+   "wd": "Q833817",
+   "aliases": [
+    "Friedrichswerder Church"
+   ]
   },
   {
-   "name": "Ibn Rushd-Goethe mosque",
+   "name": "이븐 루시드 괴테 모스크",
    "cat": "관광",
    "area": "미테",
    "lat": 52.525,
    "lng": 13.34944,
-   "wd": "Q30447692"
+   "wd": "Q30447692",
+   "aliases": [
+    "Ibn Rushd-Goethe mosque"
+   ]
   },
   {
    "name": "놀렌도르프 광장",
@@ -684,36 +729,48 @@
    "wd": "Q181132"
   },
   {
-   "name": "Brücke Museum",
+   "name": "브뤼케 미술관",
    "cat": "관광",
    "area": "슈테글리츠첼렌도르프구",
    "lat": 52.4669,
    "lng": 13.2736,
-   "wd": "Q833759"
+   "wd": "Q833759",
+   "aliases": [
+    "Brücke Museum"
+   ]
   },
   {
-   "name": "Orangery Palace",
+   "name": "오랑제리 궁전",
    "cat": "관광",
    "area": "포츠담",
    "lat": 52.405,
    "lng": 13.0296,
-   "wd": "Q677478"
+   "wd": "Q677478",
+   "aliases": [
+    "Orangery Palace"
+   ]
   },
   {
-   "name": "Leipziger Platz",
+   "name": "라이프치히 광장",
    "cat": "관광",
    "area": "미테",
    "lat": 52.50964,
    "lng": 13.37844,
-   "wd": "Q672806"
+   "wd": "Q672806",
+   "aliases": [
+    "Leipziger Platz"
+   ]
   },
   {
-   "name": "Marx-Engels Forum",
+   "name": "마르크스 엥겔스 포럼",
    "cat": "관광",
    "area": "미테",
    "lat": 52.5183,
    "lng": 13.4042,
-   "wd": "Q31752"
+   "wd": "Q31752",
+   "aliases": [
+    "Marx-Engels Forum"
+   ]
   },
   {
    "name": "프리드리히스펠데 중앙 묘지",
@@ -727,20 +784,26 @@
    "wd": "Q190494"
   },
   {
-   "name": "Funkturm Berlin",
+   "name": "베를린 방송탑",
    "cat": "관광",
    "area": "샤를로텐부르크빌머스도르프",
    "lat": 52.50506,
    "lng": 13.27818,
-   "wd": "Q699724"
+   "wd": "Q699724",
+   "aliases": [
+    "Funkturm Berlin"
+   ]
   },
   {
-   "name": "Glienicke Palace",
+   "name": "글리니케 궁전",
    "cat": "관광",
    "area": "슈테글리츠첼렌도르프구",
    "lat": 52.4142,
    "lng": 13.0953,
-   "wd": "Q301684"
+   "wd": "Q301684",
+   "aliases": [
+    "Glienicke Palace"
+   ]
   },
   {
    "name": "베를린 장벽 기념관",
@@ -787,20 +850,26 @@
    "wd": "Q390508"
   },
   {
-   "name": "Europa-Center",
+   "name": "오이로파 센터",
    "cat": "관광",
    "area": "서베를린",
    "lat": 52.50444,
    "lng": 13.33889,
-   "wd": "Q703289"
+   "wd": "Q703289",
+   "aliases": [
+    "Europa-Center"
+   ]
   },
   {
-   "name": "Berggruen Museum",
+   "name": "베르크그루엔 미술관",
    "cat": "관광",
    "area": "샤를로텐부르크빌머스도르프",
    "lat": 52.5192,
    "lng": 13.2953,
-   "wd": "Q641630"
+   "wd": "Q641630",
+   "aliases": [
+    "Berggruen Museum"
+   ]
   },
   {
    "name": "비텐베르크플라츠",
@@ -814,20 +883,15 @@
    "wd": "Q700043"
   },
   {
-   "name": "Charlottenhof Palace",
+   "name": "샤를로텐호프 궁전",
    "cat": "관광",
    "area": "포츠담",
    "lat": 52.3955,
    "lng": 13.0259,
-   "wd": "Q674963"
-  },
-  {
-   "name": "Brandenburg Gate",
-   "cat": "관광",
-   "area": "포츠담",
-   "lat": 52.3995,
-   "lng": 13.048,
-   "wd": "Q695045"
+   "wd": "Q674963",
+   "aliases": [
+    "Charlottenhof Palace"
+   ]
   },
   {
    "name": "체크포인트 찰리 박물관",
@@ -841,12 +905,15 @@
    "wd": "Q382575"
   },
   {
-   "name": "DDR Museum",
+   "name": "DDR 박물관",
    "cat": "관광",
    "area": "베를린",
    "lat": 52.51944,
    "lng": 13.40222,
-   "wd": "Q573322"
+   "wd": "Q573322",
+   "aliases": [
+    "DDR Museum"
+   ]
   },
   {
    "name": "로자 룩셈부르크 광장",
@@ -860,28 +927,37 @@
    "wd": "Q659158"
   },
   {
-   "name": "Schloßplatz",
+   "name": "슐로스 광장",
    "cat": "관광",
    "area": "미테",
    "lat": 52.51694,
    "lng": 13.40139,
-   "wd": "Q829294"
+   "wd": "Q829294",
+   "aliases": [
+    "Schloßplatz"
+   ]
   },
   {
-   "name": "Bismarck Memorial",
+   "name": "비스마르크 기념비",
    "cat": "관광",
    "area": "미테",
    "lat": 52.51583,
    "lng": 13.34972,
-   "wd": "Q679124"
+   "wd": "Q679124",
+   "aliases": [
+    "Bismarck Memorial"
+   ]
   },
   {
-   "name": "Şehitlik Mosque",
+   "name": "셰히틀리크 모스크",
    "cat": "관광",
    "area": "노이쾰른",
    "lat": 52.48139,
    "lng": 13.40972,
-   "wd": "Q388677"
+   "wd": "Q388677",
+   "aliases": [
+    "Şehitlik Mosque"
+   ]
   },
   {
    "name": "이슬람 미술 박물관",
@@ -895,36 +971,48 @@
    "wd": "Q1954632"
   },
   {
-   "name": "Marmorpalais",
+   "name": "대리석 궁전",
    "cat": "관광",
    "area": "Nördliche Vorstädte",
    "lat": 52.41267,
    "lng": 13.06975,
-   "wd": "Q573662"
+   "wd": "Q573662",
+   "aliases": [
+    "Marmorpalais"
+   ]
   },
   {
-   "name": "Martin-Gropius-Bau",
+   "name": "마르틴 그로피우스 바우",
    "cat": "관광",
    "area": "프리드리히스하인크로이츠베르크구",
    "lat": 52.5066,
    "lng": 13.3818,
-   "wd": "Q569445"
+   "wd": "Q569445",
+   "aliases": [
+    "Martin-Gropius-Bau"
+   ]
   },
   {
-   "name": "Khadija Mosque",
+   "name": "하디자 모스크",
    "cat": "관광",
    "area": "팡코구",
    "lat": 52.5725,
    "lng": 13.43056,
-   "wd": "Q328829"
+   "wd": "Q328829",
+   "aliases": [
+    "Khadija Mosque"
+   ]
   },
   {
-   "name": "Theater des Westens",
+   "name": "서부 극장",
    "cat": "관광",
    "area": "샤를로텐부르크빌머스도르프",
    "lat": 52.5059,
    "lng": 13.3291,
-   "wd": "Q698233"
+   "wd": "Q698233",
+   "aliases": [
+    "Theater des Westens"
+   ]
   },
   {
    "name": "베를린 카를스호르스트 박물관",
@@ -938,36 +1026,48 @@
    "wd": "Q536614"
   },
   {
-   "name": "Jagdschloss Grunewald",
+   "name": "그루네발트 사냥성",
    "cat": "관광",
    "area": "슈테글리츠첼렌도르프구",
    "lat": 52.4672,
    "lng": 13.2614,
-   "wd": "Q531032"
+   "wd": "Q531032",
+   "aliases": [
+    "Jagdschloss Grunewald"
+   ]
   },
   {
-   "name": "Museum Barberini",
+   "name": "바르베리니 미술관",
    "cat": "관광",
    "area": "포츠담",
    "lat": 52.39517,
    "lng": 13.06228,
-   "wd": "Q23785329"
+   "wd": "Q23785329",
+   "aliases": [
+    "Museum Barberini"
+   ]
   },
   {
-   "name": "Sanssouci Park",
+   "name": "상수시 공원",
    "cat": "관광",
    "area": "Western suburbs of Potsdam",
    "lat": 52.402,
    "lng": 13.0336,
-   "wd": "Q449256"
+   "wd": "Q449256",
+   "aliases": [
+    "Sanssouci Park"
+   ]
   },
   {
-   "name": "Chinese House",
+   "name": "중국 다실",
    "cat": "관광",
    "area": "Brandenburger Vorstadt",
    "lat": 52.4002,
    "lng": 13.0321,
-   "wd": "Q644667"
+   "wd": "Q644667",
+   "aliases": [
+    "Chinese House"
+   ]
   },
   {
    "name": "국립미술관",
@@ -981,20 +1081,26 @@
    "wd": "Q162610"
   },
   {
-   "name": "Vorderasiatisches Museum Berlin",
+   "name": "서아시아 박물관",
    "cat": "관광",
    "area": "베를린",
    "lat": 52.52069,
    "lng": 13.39681,
-   "wd": "Q542084"
+   "wd": "Q542084",
+   "aliases": [
+    "Vorderasiatisches Museum Berlin"
+   ]
   },
   {
-   "name": "Admiralspalast",
+   "name": "아드미랄스팔라스트",
    "cat": "관광",
    "area": "미테",
    "lat": 52.5208,
    "lng": 13.3886,
-   "wd": "Q359242"
+   "wd": "Q359242",
+   "aliases": [
+    "Admiralspalast"
+   ]
   }
  ]
 }

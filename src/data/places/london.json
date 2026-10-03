@@ -488,12 +488,15 @@
    "wd": "Q1130266"
   },
   {
-   "name": "Clarence House",
+   "name": "클래런스 하우스",
    "cat": "관광",
    "area": "시티오브웨스트민스터",
    "lat": 51.504,
    "lng": -0.1385,
-   "wd": "Q565521"
+   "wd": "Q565521",
+   "aliases": [
+    "Clarence House"
+   ]
   },
   {
    "name": "국립해양박물관",
@@ -529,12 +532,15 @@
    "wd": "Q757178"
   },
   {
-   "name": "Somerset House",
+   "name": "서머싯 하우스",
    "cat": "관광",
    "area": "시티오브웨스트민스터",
    "lat": 51.51111,
    "lng": -0.11778,
-   "wd": "Q1344889"
+   "wd": "Q1344889",
+   "aliases": [
+    "Somerset House"
+   ]
   },
   {
    "name": "영국 국립극장",
@@ -607,12 +613,15 @@
    "wd": "Q1130666"
   },
   {
-   "name": "Baitul Futuh Mosque",
+   "name": "바이툴 푸투 모스크",
    "cat": "관광",
    "area": "런던",
    "lat": 51.39611,
    "lng": -0.19889,
-   "wd": "Q788652"
+   "wd": "Q788652",
+   "aliases": [
+    "Baitul Futuh Mosque"
+   ]
   },
   {
    "name": "블랙프라이어스교",
@@ -660,12 +669,15 @@
    "wd": "Q1972207"
   },
   {
-   "name": "Banqueting House",
+   "name": "뱅퀴팅 하우스",
    "cat": "관광",
    "area": "시티오브웨스트민스터",
    "lat": 51.5046,
    "lng": -0.1259,
-   "wd": "Q642039"
+   "wd": "Q642039",
+   "aliases": [
+    "Banqueting House"
+   ]
   },
   {
    "name": "햄프스티드 히스",
@@ -746,12 +758,15 @@
    "wd": "Q607700"
   },
   {
-   "name": "Speakers' Corner",
+   "name": "스피커스 코너",
    "cat": "관광",
    "area": "시티오브웨스트민스터",
    "lat": 51.51171,
    "lng": -0.15978,
-   "wd": "Q510323"
+   "wd": "Q510323",
+   "aliases": [
+    "Speakers' Corner"
+   ]
   },
   {
    "name": "여왕 폐하의 극장",
@@ -765,12 +780,15 @@
    "wd": "Q1155331"
   },
   {
-   "name": "Victoria Memorial",
+   "name": "빅토리아 기념비",
    "cat": "관광",
    "area": "시티오브웨스트민스터",
    "lat": 51.50183,
    "lng": -0.14064,
-   "wd": "Q1333411"
+   "wd": "Q1333411",
+   "aliases": [
+    "Victoria Memorial"
+   ]
   },
   {
    "name": "첼시교",
@@ -796,20 +814,26 @@
    "wd": "Q1459037"
   },
   {
-   "name": "Royal Exchange",
+   "name": "왕립 거래소",
    "cat": "관광",
    "area": "시티오브런던",
    "lat": 51.51361,
    "lng": -0.08722,
-   "wd": "Q1241240"
+   "wd": "Q1241240",
+   "aliases": [
+    "Royal Exchange"
+   ]
   },
   {
-   "name": "Apsley House",
+   "name": "앱슬리 하우스",
    "cat": "관광",
    "area": "시티오브웨스트민스터",
    "lat": 51.50347,
    "lng": -0.15167,
-   "wd": "Q622206"
+   "wd": "Q622206",
+   "aliases": [
+    "Apsley House"
+   ]
   },
   {
    "name": "호스 가즈 퍼레이드",
@@ -834,12 +858,15 @@
    "wd": "Q2914560"
   },
   {
-   "name": "BT Tower",
+   "name": "BT 타워",
    "cat": "관광",
    "area": "캠던구",
    "lat": 51.5215,
    "lng": -0.1389,
-   "wd": "Q797085"
+   "wd": "Q797085",
+   "aliases": [
+    "BT Tower"
+   ]
   },
   {
    "name": "프림로즈힐",
@@ -875,28 +902,37 @@
    "wd": "Q1573860"
   },
   {
-   "name": "Serpentine Galleries",
+   "name": "서펜타인 갤러리",
    "cat": "관광",
    "area": "시티오브웨스트민스터",
    "lat": 51.5047,
    "lng": -0.17505,
-   "wd": "Q591086"
+   "wd": "Q591086",
+   "aliases": [
+    "Serpentine Galleries"
+   ]
   },
   {
-   "name": "London Palladium",
+   "name": "런던 팔라디움",
    "cat": "관광",
    "area": "시티오브웨스트민스터",
    "lat": 51.51458,
    "lng": -0.1405,
-   "wd": "Q676755"
+   "wd": "Q676755",
+   "aliases": [
+    "London Palladium"
+   ]
   },
   {
-   "name": "London Central Mosque",
+   "name": "런던 중앙 모스크",
    "cat": "관광",
    "area": "시티오브웨스트민스터",
    "lat": 51.52917,
    "lng": -0.16528,
-   "wd": "Q1811339"
+   "wd": "Q1811339",
+   "aliases": [
+    "London Central Mosque"
+   ]
   },
   {
    "name": "로열 페스티벌 홀",
@@ -910,12 +946,15 @@
    "wd": "Q647390"
   },
   {
-   "name": "Petrie Museum of Egyptian Archaeology",
+   "name": "페트리 이집트 고고학 박물관",
    "cat": "관광",
    "area": "캠던구",
    "lat": 51.5236,
    "lng": -0.13306,
-   "wd": "Q2002512"
+   "wd": "Q2002512",
+   "aliases": [
+    "Petrie Museum of Egyptian Archaeology"
+   ]
   },
   {
    "name": "켄우드 하우스",
@@ -929,20 +968,26 @@
    "wd": "Q764804"
   },
   {
-   "name": "Mansion House",
+   "name": "맨션 하우스",
    "cat": "관광",
    "area": "시티오브런던",
    "lat": 51.51325,
    "lng": -0.08936,
-   "wd": "Q1786933"
+   "wd": "Q1786933",
+   "aliases": [
+    "Mansion House"
+   ]
   },
   {
-   "name": "Sir John Soane's Museum",
+   "name": "존 손 경 박물관",
    "cat": "관광",
    "area": "캠던타운",
    "lat": 51.5171,
    "lng": -0.11691,
-   "wd": "Q2060860"
+   "wd": "Q2060860",
+   "aliases": [
+    "Sir John Soane's Museum"
+   ]
   },
   {
    "name": "사치 갤러리",
@@ -978,12 +1023,15 @@
    "wd": "Q894072"
   },
   {
-   "name": "Dulwich Picture Gallery",
+   "name": "덜위치 미술관",
    "cat": "관광",
    "area": "덜리치",
    "lat": 51.44611,
    "lng": -0.08639,
-   "wd": "Q1241163"
+   "wd": "Q1241163",
+   "aliases": [
+    "Dulwich Picture Gallery"
+   ]
   },
   {
    "name": "런던 교통 박물관",
@@ -997,28 +1045,37 @@
    "wd": "Q1541098"
   },
   {
-   "name": "Victoria Tower",
+   "name": "빅토리아 타워",
    "cat": "관광",
    "area": "시티오브웨스트민스터",
    "lat": 51.49834,
    "lng": -0.12549,
-   "wd": "Q1858077"
+   "wd": "Q1858077",
+   "aliases": [
+    "Victoria Tower"
+   ]
   },
   {
-   "name": "London Coliseum",
+   "name": "런던 콜리세움",
    "cat": "관광",
    "area": "시티오브웨스트민스터",
    "lat": 51.5097,
    "lng": -0.12639,
-   "wd": "Q1868965"
+   "wd": "Q1868965",
+   "aliases": [
+    "London Coliseum"
+   ]
   },
   {
-   "name": "Chelsea Physic Garden",
+   "name": "첼시 약초원",
    "cat": "관광",
    "area": "켄징턴 첼시 구",
    "lat": 51.485,
    "lng": -0.16278,
-   "wd": "Q1069148"
+   "wd": "Q1069148",
+   "aliases": [
+    "Chelsea Physic Garden"
+   ]
   },
   {
    "name": "러셀 스퀘어",
@@ -1043,12 +1100,15 @@
    "wd": "Q1337772"
   },
   {
-   "name": "Kew Palace",
+   "name": "큐 궁전",
    "cat": "관광",
    "area": "그레이터런던",
    "lat": 51.4838,
    "lng": -0.29506,
-   "wd": "Q1050082"
+   "wd": "Q1050082",
+   "aliases": [
+    "Kew Palace"
+   ]
   },
   {
    "name": "레든홀 마켓",
@@ -1062,13 +1122,14 @@
    "wd": "Q961148"
   },
   {
-   "name": "College of Arms",
+   "name": "문장원",
    "cat": "관광",
    "area": "시티오브런던",
    "lat": 51.51225,
    "lng": -0.09872,
    "wd": "Q1109101",
    "aliases": [
+    "College of Arms",
     "문장원"
    ]
   }

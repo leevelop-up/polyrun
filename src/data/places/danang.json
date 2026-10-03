@@ -47,172 +47,235 @@
    "wd": "Q7798648"
   },
   {
-   "name": "Precious Heritage Art Gallery Museum",
+   "name": "프레셔스 헤리티지 아트 갤러리",
    "cat": "관광",
    "area": "호이안",
    "lat": 15.87723,
    "lng": 108.3342,
-   "wd": "Q30744118"
+   "wd": "Q30744118",
+   "aliases": [
+    "Precious Heritage Art Gallery Museum"
+   ]
   },
   {
-   "name": "Museum of Trade Ceramics",
+   "name": "무역도자기 박물관",
    "cat": "관광",
    "area": "호이안",
    "lat": 15.87723,
    "lng": 108.32968,
-   "wd": "Q6941034"
+   "wd": "Q6941034",
+   "aliases": [
+    "Museum of Trade Ceramics"
+   ]
   },
   {
-   "name": "Hoi An Museum",
+   "name": "호이안 박물관",
    "cat": "관광",
    "area": "호이안",
    "lat": 15.879,
    "lng": 108.329,
-   "wd": "Q114397271"
+   "wd": "Q114397271",
+   "aliases": [
+    "Hoi An Museum"
+   ]
   },
   {
-   "name": "Tiên Sơn Bridge",
+   "name": "띠엔선 다리",
    "cat": "관광",
    "area": "다낭",
    "lat": 16.03547,
    "lng": 108.23607,
-   "wd": "Q10752410"
+   "wd": "Q10752410",
+   "aliases": [
+    "Tiên Sơn Bridge"
+   ]
   },
   {
-   "name": "Zone 5 Military Museum",
+   "name": "제5군관구 박물관",
    "cat": "관광",
    "area": "다낭",
    "lat": 16.0487,
    "lng": 108.218,
-   "wd": "Q18164670"
+   "wd": "Q18164670",
+   "aliases": [
+    "Zone 5 Military Museum"
+   ]
   },
   {
-   "name": "Son Tra Guanyin",
+   "name": "선짜 관음상",
    "cat": "관광",
    "area": "다낭",
    "lat": 16.0996,
    "lng": 108.2769,
-   "wd": "Q60853845"
+   "wd": "Q60853845",
+   "aliases": [
+    "Son Tra Guanyin"
+   ]
   },
   {
-   "name": "Dien Hai Citadel",
+   "name": "디엔하이 성채",
    "cat": "관광",
    "area": "하이쩌우군",
    "lat": 16.07634,
    "lng": 108.22178,
-   "wd": "Q3917231"
+   "wd": "Q3917231",
+   "aliases": [
+    "Dien Hai Citadel"
+   ]
   },
   {
-   "name": "March 29 Park",
+   "name": "3월 29일 공원",
    "cat": "관광",
    "area": "다낭",
    "lat": 16.06271,
    "lng": 108.20481,
-   "wd": "Q32176308"
+   "wd": "Q32176308",
+   "aliases": [
+    "March 29 Park"
+   ]
   },
   {
-   "name": "Nguyen Van Troi Bridge",
+   "name": "응우옌반쪼이 다리",
    "cat": "관광",
    "area": "다낭",
    "lat": 16.05106,
    "lng": 108.22881,
-   "wd": "Q65164322"
+   "wd": "Q65164322",
+   "aliases": [
+    "Nguyen Van Troi Bridge"
+   ]
   },
   {
-   "name": "Cua Dai Bridge",
+   "name": "끄어다이 다리",
    "cat": "관광",
    "area": "",
    "lat": 15.86553,
    "lng": 108.37618,
-   "wd": "Q24959045"
+   "wd": "Q24959045",
+   "aliases": [
+    "Cua Dai Bridge"
+   ]
   },
   {
-   "name": "Quan Cong Temple",
+   "name": "관공묘",
    "cat": "관광",
    "area": "호이안",
    "lat": 15.87944,
    "lng": 108.335,
-   "wd": "Q56320631"
+   "wd": "Q56320631",
+   "aliases": [
+    "Quan Cong Temple"
+   ]
   },
   {
-   "name": "Nguyen Tri Phuong Bridge",
+   "name": "응우옌찌프엉 다리",
    "cat": "관광",
    "area": "",
    "lat": 16.01571,
    "lng": 108.21375,
-   "wd": "Q10752385"
+   "wd": "Q10752385",
+   "aliases": [
+    "Nguyen Tri Phuong Bridge"
+   ]
   },
   {
-   "name": "Bãi Tắm Nam Ô",
+   "name": "남오 해변",
    "cat": "관광",
    "area": "",
    "lat": 16.13556,
    "lng": 108.12306,
-   "wd": "Q32174278"
+   "wd": "Q32174278",
+   "aliases": [
+    "Bãi Tắm Nam Ô"
+   ]
   },
   {
-   "name": "Bãi Tắm Non Nước",
+   "name": "논느억 해변",
    "cat": "관광",
    "area": "",
    "lat": 16.00722,
    "lng": 108.26806,
-   "wd": "Q32174297"
+   "wd": "Q32174297",
+   "aliases": [
+    "Bãi Tắm Non Nước"
+   ]
   },
   {
-   "name": "Cau Lau Bridge",
+   "name": "까우라우 다리",
    "cat": "관광",
    "area": "디엔반 시사",
    "lat": 15.86155,
    "lng": 108.27218,
-   "wd": "Q32300559"
+   "wd": "Q32300559",
+   "aliases": [
+    "Cau Lau Bridge"
+   ]
   },
   {
-   "name": "Evangelical Church of Hội An",
+   "name": "호이안 개신교회",
    "cat": "관광",
    "area": "호이안",
    "lat": 15.87875,
    "lng": 108.32332,
-   "wd": "Q89576998"
+   "wd": "Q89576998",
+   "aliases": [
+    "Evangelical Church of Hội An"
+   ]
   },
   {
-   "name": "Hoi An Park",
+   "name": "호이안 공원",
    "cat": "관광",
    "area": "호이안",
    "lat": 15.88031,
    "lng": 108.33408,
-   "wd": "Q113003348"
+   "wd": "Q113003348",
+   "aliases": [
+    "Hoi An Park"
+   ]
   },
   {
-   "name": "Minh Huong Temple of Literature, Hoi An",
+   "name": "민흐엉 문묘",
    "cat": "관광",
    "area": "호이안",
    "lat": 15.87871,
    "lng": 108.33048,
-   "wd": "Q132483343"
+   "wd": "Q132483343",
+   "aliases": [
+    "Minh Huong Temple of Literature, Hoi An"
+   ]
   },
   {
-   "name": "Rạp Hội An",
+   "name": "호이안 극장",
    "cat": "관광",
    "area": "호이안",
    "lat": 15.87833,
    "lng": 108.32964,
-   "wd": "Q132484484"
+   "wd": "Q132484484",
+   "aliases": [
+    "Rạp Hội An"
+   ]
   },
   {
-   "name": "Tan Ky Old House",
+   "name": "떤끼 고가",
    "cat": "관광",
    "area": "호이안",
    "lat": 15.87645,
    "lng": 108.32781,
-   "wd": "Q140915999"
+   "wd": "Q140915999",
+   "aliases": [
+    "Tan Ky Old House"
+   ]
   },
   {
-   "name": "Trung Hoa Assembly Hall",
+   "name": "중화회관",
    "cat": "관광",
    "area": "호이안",
    "lat": 15.87742,
    "lng": 108.33002,
-   "wd": "Q140932347"
+   "wd": "Q140932347",
+   "aliases": [
+    "Trung Hoa Assembly Hall"
+   ]
   }
  ]
 }

@@ -3,100 +3,125 @@
  "builtAt": "2026-10-03",
  "picks": [
   {
-   "name": "Jomtien",
+   "name": "좀티엔",
    "cat": "관광",
    "area": "Na Chom Thian",
    "lat": 12.88233,
    "lng": 100.89372,
-   "wd": "Q2423544"
+   "wd": "Q2423544",
+   "aliases": [
+    "Jomtien"
+   ]
   },
   {
-   "name": "All Saints church",
+   "name": "모든 성인 성당",
    "cat": "관광",
    "area": "파타야",
    "lat": 12.96489,
    "lng": 100.89043,
-   "wd": "Q28671215"
+   "wd": "Q28671215",
+   "aliases": [
+    "All Saints church"
+   ]
   },
   {
-   "name": "CentralFestival Pattaya Beach",
-   "cat": "쇼핑",
-   "area": "",
-   "lat": 12.9351,
-   "lng": 100.8827,
-   "wd": "Q5060204"
-  },
-  {
-   "name": "Central Center Pattaya",
+   "name": "센트럴 센터 파타야",
    "cat": "쇼핑",
    "area": "",
    "lat": 12.94568,
    "lng": 100.89024,
-   "wd": "Q5060537"
+   "wd": "Q5060537",
+   "aliases": [
+    "Central Center Pattaya"
+   ]
   },
   {
-   "name": "Sunee Plaza",
+   "name": "수니 플라자",
    "cat": "관광",
    "area": "",
    "lat": 12.92265,
    "lng": 100.87291,
-   "wd": "Q7639923"
+   "wd": "Q7639923",
+   "aliases": [
+    "Sunee Plaza"
+   ]
   },
   {
-   "name": "USS LSM-333",
+   "name": "USS LSM-333 난파선",
    "cat": "관광",
    "area": "",
    "lat": 12.95622,
    "lng": 100.79329,
-   "wd": "Q110354503"
+   "wd": "Q110354503",
+   "aliases": [
+    "USS LSM-333"
+   ]
   },
   {
-   "name": "Wong Amat Beach",
+   "name": "웡아맛 비치",
    "cat": "관광",
    "area": "",
    "lat": 12.96,
    "lng": 100.88472,
-   "wd": "Q106818525"
+   "wd": "Q106818525",
+   "aliases": [
+    "Wong Amat Beach"
+   ]
   },
   {
-   "name": "Ta Yai Beach",
+   "name": "타야이 비치",
    "cat": "관광",
    "area": "란섬",
    "lat": 12.93609,
    "lng": 100.78799,
-   "wd": "Q115620460"
+   "wd": "Q115620460",
+   "aliases": [
+    "Ta Yai Beach"
+   ]
   },
   {
-   "name": "Hat Si Chomphu",
+   "name": "시촘푸 비치",
    "cat": "관광",
    "area": "촌부리주",
    "lat": 13.01583,
    "lng": 100.92778,
-   "wd": "Q49321060"
+   "wd": "Q49321060",
+   "aliases": [
+    "Hat Si Chomphu"
+   ]
   },
   {
-   "name": "Tong Lang Beach",
+   "name": "통랑 비치",
    "cat": "관광",
    "area": "방라뭉군",
    "lat": 12.9294,
    "lng": 100.783,
-   "wd": "Q115088645"
+   "wd": "Q115088645",
+   "aliases": [
+    "Tong Lang Beach"
+   ]
   },
   {
-   "name": "Giant Monk Statue, Ko Lan",
+   "name": "꼬란 대불 승려상",
    "cat": "관광",
    "area": "방라뭉군",
    "lat": 12.92317,
    "lng": 100.77957,
-   "wd": "Q115120592"
+   "wd": "Q115120592",
+   "aliases": [
+    "Giant Monk Statue, Ko Lan"
+   ]
   },
   {
-   "name": "Mike Shopping Mall",
+   "name": "마이크 쇼핑몰",
    "cat": "쇼핑",
    "area": "",
    "lat": 12.9321,
    "lng": 100.8805,
-   "wd": "Q6848812"
+   "wd": "Q6848812",
+   "aliases": [
+    "Mike Shopping Mall"
+   ]
   }
  ]
 }

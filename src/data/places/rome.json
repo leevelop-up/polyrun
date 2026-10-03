@@ -254,12 +254,15 @@
    "wd": "Q333906"
   },
   {
-   "name": "Altare della Patria",
+   "name": "비토리오 에마누엘레 2세 기념관",
    "cat": "관광",
    "area": "로마",
    "lat": 41.89472,
    "lng": 12.48306,
-   "wd": "Q506234"
+   "wd": "Q506234",
+   "aliases": [
+    "Altare della Patria"
+   ]
   },
   {
    "name": "티투스 개선문",
@@ -307,12 +310,15 @@
    "wd": "Q623612"
   },
   {
-   "name": "Church of the Gesù",
+   "name": "제수 성당",
    "cat": "관광",
    "area": "로마",
    "lat": 41.89583,
    "lng": 12.47972,
-   "wd": "Q719794"
+   "wd": "Q719794",
+   "aliases": [
+    "Church of the Gesù"
+   ]
   },
   {
    "name": "베스타 신전",
@@ -429,20 +435,26 @@
    "wd": "Q281330"
   },
   {
-   "name": "Cloaca Maxima",
+   "name": "클로아카 막시마",
    "cat": "관광",
    "area": "로마",
    "lat": 41.88889,
    "lng": 12.48028,
-   "wd": "Q746102"
+   "wd": "Q746102",
+   "aliases": [
+    "Cloaca Maxima"
+   ]
   },
   {
-   "name": "Domus Aurea",
+   "name": "도무스 아우레아",
    "cat": "관광",
    "area": "Roma Capitale",
    "lat": 41.89139,
    "lng": 12.49528,
-   "wd": "Q622438"
+   "wd": "Q622438",
+   "aliases": [
+    "Domus Aurea"
+   ]
   },
   {
    "name": "산탄젤로 다리",
@@ -459,12 +471,15 @@
    "wd": "Q870476"
   },
   {
-   "name": "Santa Maria in Aracoeli",
+   "name": "산타 마리아 인 아라코엘리 성당",
    "cat": "관광",
    "area": "로마",
    "lat": 41.89389,
    "lng": 12.48333,
-   "wd": "Q318660"
+   "wd": "Q318660",
+   "aliases": [
+    "Santa Maria in Aracoeli"
+   ]
   },
   {
    "name": "콰트로 피우미 분수",
@@ -500,12 +515,15 @@
    "wd": "Q738214"
   },
   {
-   "name": "Temple of Saturn",
+   "name": "사투르누스 신전",
    "cat": "관광",
    "area": "로마",
    "lat": 41.89243,
    "lng": 12.48411,
-   "wd": "Q746721"
+   "wd": "Q746721",
+   "aliases": [
+    "Temple of Saturn"
+   ]
   },
   {
    "name": "산타 마리아 델라 비토리아 성당",
@@ -552,12 +570,15 @@
    "wd": "Q1127325"
   },
   {
-   "name": "Temple of Castor and Pollux",
+   "name": "카스토르와 폴룩스 신전",
    "cat": "관광",
    "area": "로마",
    "lat": 41.89167,
    "lng": 12.48556,
-   "wd": "Q380530"
+   "wd": "Q380530",
+   "aliases": [
+    "Temple of Castor and Pollux"
+   ]
   },
   {
    "name": "산 루이지 데이 프란체시 성당",
@@ -627,20 +648,26 @@
    "wd": "Q1126723"
   },
   {
-   "name": "Tabularium",
+   "name": "타불라리움",
    "cat": "관광",
    "area": "로마",
    "lat": 41.89278,
    "lng": 12.48361,
-   "wd": "Q568342"
+   "wd": "Q568342",
+   "aliases": [
+    "Tabularium"
+   ]
   },
   {
-   "name": "Catacombs of Rome",
+   "name": "로마 카타콤",
    "cat": "관광",
    "area": "로마",
    "lat": 41.89444,
    "lng": 12.49833,
-   "wd": "Q741051"
+   "wd": "Q741051",
+   "aliases": [
+    "Catacombs of Rome"
+   ]
   },
   {
    "name": "산 카를로 알레 콰트로 폰타네 성당",
@@ -666,20 +693,26 @@
    "wd": "Q944814"
   },
   {
-   "name": "Palazzo Barberini",
+   "name": "바르베리니 궁전",
    "cat": "관광",
    "area": "로마",
    "lat": 41.90332,
    "lng": 12.48986,
-   "wd": "Q1136614"
+   "wd": "Q1136614",
+   "aliases": [
+    "Palazzo Barberini"
+   ]
   },
   {
-   "name": "Basilica of Maxentius",
+   "name": "막센티우스 바실리카",
    "cat": "관광",
    "area": "로마",
    "lat": 41.89194,
    "lng": 12.48833,
-   "wd": "Q371921"
+   "wd": "Q371921",
+   "aliases": [
+    "Basilica of Maxentius"
+   ]
   },
   {
    "name": "안토니누스와 파우스티나 신전",
@@ -715,20 +748,26 @@
    "wd": "Q849241"
   },
   {
-   "name": "Moschea di Roma",
+   "name": "로마 대모스크",
    "cat": "관광",
    "area": "로마",
    "lat": 41.93472,
    "lng": 12.495,
-   "wd": "Q1789776"
+   "wd": "Q1789776",
+   "aliases": [
+    "Moschea di Roma"
+   ]
   },
   {
-   "name": "Palazzo Chigi",
+   "name": "키지 궁전",
    "cat": "관광",
    "area": "로마",
    "lat": 41.90123,
    "lng": 12.47977,
-   "wd": "Q2047548"
+   "wd": "Q2047548",
+   "aliases": [
+    "Palazzo Chigi"
+   ]
   },
   {
    "name": "산타 마리아 델리 안젤리 에 데이 마르티리 성당",
@@ -808,20 +847,26 @@
    "wd": "Q42003"
   },
   {
-   "name": "rostra",
+   "name": "로스트라",
    "cat": "관광",
    "area": "로마",
    "lat": 41.89264,
    "lng": 12.48461,
-   "wd": "Q426372"
+   "wd": "Q426372",
+   "aliases": [
+    "rostra"
+   ]
   },
   {
-   "name": "Forum of Caesar",
+   "name": "카이사르 포룸",
    "cat": "관광",
    "area": "로마",
    "lat": 41.89401,
    "lng": 12.48494,
-   "wd": "Q856968"
+   "wd": "Q856968",
+   "aliases": [
+    "Forum of Caesar"
+   ]
   },
   {
    "name": "로마 국립 오페라 극장",
@@ -838,28 +883,37 @@
    "wd": "Q1050350"
   },
   {
-   "name": "Temple of Caesar",
+   "name": "카이사르 신전",
    "cat": "관광",
    "area": "로마",
    "lat": 41.89204,
    "lng": 12.48609,
-   "wd": "Q1133288"
+   "wd": "Q1133288",
+   "aliases": [
+    "Temple of Caesar"
+   ]
   },
   {
-   "name": "Temple of Venus and Roma",
+   "name": "베누스와 로마 신전",
    "cat": "관광",
    "area": "로마",
    "lat": 41.89089,
    "lng": 12.48975,
-   "wd": "Q430792"
+   "wd": "Q430792",
+   "aliases": [
+    "Temple of Venus and Roma"
+   ]
   },
   {
-   "name": "Forum Boarium",
+   "name": "포룸 보아리움",
    "cat": "관광",
    "area": "로마",
    "lat": 41.88889,
    "lng": 12.48111,
-   "wd": "Q283650"
+   "wd": "Q283650",
+   "aliases": [
+    "Forum Boarium"
+   ]
   },
   {
    "name": "트라야누스 시장",
@@ -873,12 +927,15 @@
    "wd": "Q478642"
   },
   {
-   "name": "Curia Julia",
+   "name": "쿠리아 율리아",
    "cat": "관광",
    "area": "로마",
    "lat": 41.89293,
    "lng": 12.4854,
-   "wd": "Q1144514"
+   "wd": "Q1144514",
+   "aliases": [
+    "Curia Julia"
+   ]
   },
   {
    "name": "산티냐시오 성당",
@@ -922,20 +979,26 @@
    "wd": "Q278579"
   },
   {
-   "name": "Temple of Hercules Victor",
+   "name": "헤라클레스 빅토르 신전",
    "cat": "관광",
    "area": "로마",
    "lat": 41.88873,
    "lng": 12.48075,
-   "wd": "Q576929"
+   "wd": "Q576929",
+   "aliases": [
+    "Temple of Hercules Victor"
+   ]
   },
   {
-   "name": "Temple of Concord",
+   "name": "콩코르디아 신전",
    "cat": "관광",
    "area": "로마",
    "lat": 41.89293,
    "lng": 12.48424,
-   "wd": "Q828143"
+   "wd": "Q828143",
+   "aliases": [
+    "Temple of Concord"
+   ]
   },
   {
    "name": "평화의 신전",
@@ -949,12 +1012,15 @@
    "wd": "Q1456939"
   },
   {
-   "name": "Galleria Nazionale d'Arte Antica",
+   "name": "국립 고전미술관",
    "cat": "관광",
    "area": "로마",
    "lat": 41.90278,
    "lng": 12.48953,
-   "wd": "Q2266081"
+   "wd": "Q2266081",
+   "aliases": [
+    "Galleria Nazionale d'Arte Antica"
+   ]
   },
   {
    "name": "바실리카 율리아",
@@ -990,20 +1056,26 @@
    "wd": "Q1492387"
   },
   {
-   "name": "Baths of Agrippa",
+   "name": "아그리파 목욕탕",
    "cat": "관광",
    "area": "로마",
    "lat": 41.89691,
    "lng": 12.477,
-   "wd": "Q518832"
+   "wd": "Q518832",
+   "aliases": [
+    "Baths of Agrippa"
+   ]
   },
   {
-   "name": "Teatro Argentina",
+   "name": "아르젠티나 극장",
    "cat": "관광",
    "area": "로마",
    "lat": 41.89556,
    "lng": 12.47611,
-   "wd": "Q588377"
+   "wd": "Q588377",
+   "aliases": [
+    "Teatro Argentina"
+   ]
   },
   {
    "name": "트라야누스 욕장",
@@ -1028,20 +1100,26 @@
    "wd": "Q658051"
   },
   {
-   "name": "Porta Maggiore",
+   "name": "포르타 마조레",
    "cat": "관광",
    "area": "로마",
    "lat": 41.89146,
    "lng": 12.51524,
-   "wd": "Q751318"
+   "wd": "Q751318",
+   "aliases": [
+    "Porta Maggiore"
+   ]
   },
   {
-   "name": "piazza Barberini",
+   "name": "바르베리니 광장",
    "cat": "관광",
    "area": "로마",
    "lat": 41.90361,
    "lng": 12.48833,
-   "wd": "Q947037"
+   "wd": "Q947037",
+   "aliases": [
+    "piazza Barberini"
+   ]
   },
   {
    "name": "산타녜세 인 아고네 성당",

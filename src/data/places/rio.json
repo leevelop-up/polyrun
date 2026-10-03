@@ -61,28 +61,37 @@
    "wd": "Q1367127"
   },
   {
-   "name": "Tijuca National Park",
+   "name": "치주카 국립공원",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.95944,
    "lng": -43.27778,
-   "wd": "Q1974494"
+   "wd": "Q1974494",
+   "aliases": [
+    "Tijuca National Park"
+   ]
   },
   {
-   "name": "Valongo Wharf",
+   "name": "발롱구 부두 유적",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.89711,
    "lng": -43.18739,
-   "wd": "Q20048515"
+   "wd": "Q20048515",
+   "aliases": [
+    "Valongo Wharf"
+   ]
   },
   {
-   "name": "Rio de Janeiro Cathedral",
+   "name": "리우데자네이루 대성당",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.91092,
    "lng": -43.18071,
-   "wd": "Q2411716"
+   "wd": "Q2411716",
+   "aliases": [
+    "Rio de Janeiro Cathedral"
+   ]
   },
   {
    "name": "아메리카 FC",
@@ -96,20 +105,26 @@
    "wd": "Q463147"
   },
   {
-   "name": "Sambadrome Marquês de Sapucaí",
+   "name": "삼보드로무",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.91138,
    "lng": -43.19685,
-   "wd": "Q281521"
+   "wd": "Q281521",
+   "aliases": [
+    "Sambadrome Marquês de Sapucaí"
+   ]
   },
   {
-   "name": "Fort Copacabana",
+   "name": "코파카바나 요새",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.98583,
    "lng": -43.18528,
-   "wd": "Q5470982"
+   "wd": "Q5470982",
+   "aliases": [
+    "Fort Copacabana"
+   ]
   },
   {
    "name": "니테로이 현대미술관",
@@ -123,28 +138,26 @@
    "wd": "Q1573239"
   },
   {
-   "name": "Olaria Atlético Clube",
-   "cat": "관광",
-   "area": "리우데자네이루",
-   "lat": -22.84214,
-   "lng": -43.267,
-   "wd": "Q2018179"
-  },
-  {
-   "name": "Rio de Janeiro Botanical Garden",
+   "name": "리우데자네이루 식물원",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.9675,
    "lng": -43.22389,
-   "wd": "Q45242"
+   "wd": "Q45242",
+   "aliases": [
+    "Rio de Janeiro Botanical Garden"
+   ]
   },
   {
-   "name": "Candelária Church",
+   "name": "칸델라리아 성당",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.90081,
    "lng": -43.17789,
-   "wd": "Q82312"
+   "wd": "Q82312",
+   "aliases": [
+    "Candelária Church"
+   ]
   },
   {
    "name": "국립미술관",
@@ -158,36 +171,48 @@
    "wd": "Q1954370"
   },
   {
-   "name": "Teatro Municipal",
+   "name": "시립극장",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.90899,
    "lng": -43.17667,
-   "wd": "Q1968538"
+   "wd": "Q1968538",
+   "aliases": [
+    "Teatro Municipal"
+   ]
   },
   {
-   "name": "Carioca Aqueduct",
+   "name": "카리오카 수도교(아르쿠스 다 라파)",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.91259,
    "lng": -43.17985,
-   "wd": "Q1579892"
+   "wd": "Q1579892",
+   "aliases": [
+    "Carioca Aqueduct"
+   ]
   },
   {
-   "name": "Urca",
+   "name": "우르카",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.9489,
    "lng": -43.1656,
-   "wd": "Q1898482"
+   "wd": "Q1898482",
+   "aliases": [
+    "Urca"
+   ]
   },
   {
-   "name": "Museum of Modern Art, Rio de Janeiro",
+   "name": "리우 현대미술관",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.91375,
    "lng": -43.17181,
-   "wd": "Q1431995"
+   "wd": "Q1431995",
+   "aliases": [
+    "Museum of Modern Art, Rio de Janeiro"
+   ]
   },
   {
    "name": "퀸타 다 보아 비스타 공원",
@@ -201,140 +226,180 @@
    "wd": "Q2500590"
   },
   {
-   "name": "Old Cathedral of Rio de Janeiro",
+   "name": "리우 구 대성당",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.90333,
    "lng": -43.17556,
-   "wd": "Q2942273"
+   "wd": "Q2942273",
+   "aliases": [
+    "Old Cathedral of Rio de Janeiro"
+   ]
   },
   {
-   "name": "Museum of Tomorrow",
+   "name": "내일의 박물관",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.89413,
    "lng": -43.1794,
-   "wd": "Q10333874"
+   "wd": "Q10333874",
+   "aliases": [
+    "Museum of Tomorrow"
+   ]
   },
   {
-   "name": "Paço Imperial",
+   "name": "임페리얼 궁전",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.90361,
    "lng": -43.17417,
-   "wd": "Q3361206"
+   "wd": "Q3361206",
+   "aliases": [
+    "Paço Imperial"
+   ]
   },
   {
-   "name": "Paço de São Cristóvão",
+   "name": "상 크리스토방 궁전",
    "cat": "관광",
    "area": "São Cristóvão",
    "lat": -22.90583,
    "lng": -43.22611,
-   "wd": "Q2749982"
+   "wd": "Q2749982",
+   "aliases": [
+    "Paço de São Cristóvão"
+   ]
   },
   {
-   "name": "Gustavo Capanema Palace",
+   "name": "구스타부 카파네마 궁전",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.9092,
    "lng": -43.17383,
-   "wd": "Q2598551"
+   "wd": "Q2598551",
+   "aliases": [
+    "Gustavo Capanema Palace"
+   ]
   },
   {
-   "name": "Ilha Fiscal",
+   "name": "피스칼 섬",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.8969,
    "lng": -43.1664,
-   "wd": "Q985128"
+   "wd": "Q985128",
+   "aliases": [
+    "Ilha Fiscal"
+   ]
   },
   {
-   "name": "Santa Teresa Tram",
+   "name": "산타 테레자 트램",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.9129,
    "lng": -43.1799,
-   "wd": "Q1864964"
+   "wd": "Q1864964",
+   "aliases": [
+    "Santa Teresa Tram"
+   ]
   },
   {
-   "name": "Parque Lage",
+   "name": "라즈 공원",
    "cat": "관광",
    "area": "South Zone of Rio de Janeiro",
    "lat": -22.9606,
    "lng": -43.212,
-   "wd": "Q7139641"
+   "wd": "Q7139641",
+   "aliases": [
+    "Parque Lage"
+   ]
   },
   {
-   "name": "Cinelândia District",
+   "name": "시넬란지아",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.91101,
    "lng": -43.17572,
-   "wd": "Q579694"
+   "wd": "Q579694",
+   "aliases": [
+    "Cinelândia District"
+   ]
   },
   {
-   "name": "Brazilian Historic and Geographic Institute",
-   "cat": "관광",
-   "area": "리우데자네이루",
-   "lat": -22.91444,
-   "lng": -43.17667,
-   "wd": "Q965390"
-  },
-  {
-   "name": "Catete Palace",
+   "name": "카테치 궁전(공화국 박물관)",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.92583,
    "lng": -43.17611,
-   "wd": "Q1142766"
+   "wd": "Q1142766",
+   "aliases": [
+    "Catete Palace"
+   ]
   },
   {
-   "name": "Tiradentes Palace",
+   "name": "치라덴치스 궁전",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.90387,
    "lng": -43.17388,
-   "wd": "Q2048490"
+   "wd": "Q2048490",
+   "aliases": [
+    "Tiradentes Palace"
+   ]
   },
   {
-   "name": "Guanabara Palace",
+   "name": "과나바라 궁전",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.9375,
    "lng": -43.18389,
-   "wd": "Q3813706"
+   "wd": "Q3813706",
+   "aliases": [
+    "Guanabara Palace"
+   ]
   },
   {
-   "name": "Presbyterian Cathedral of Rio of Janeiro",
+   "name": "장로교 대성당",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.90792,
    "lng": -43.18124,
-   "wd": "Q10300210"
+   "wd": "Q10300210",
+   "aliases": [
+    "Presbyterian Cathedral of Rio of Janeiro"
+   ]
   },
   {
-   "name": "Carmen Miranda Museum",
+   "name": "카르멘 미란다 박물관",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.94161,
    "lng": -43.17222,
-   "wd": "Q10333423"
+   "wd": "Q10333423",
+   "aliases": [
+    "Carmen Miranda Museum"
+   ]
   },
   {
-   "name": "Monument to the dead of World War II",
+   "name": "제2차 세계대전 전몰자 기념비",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.91667,
    "lng": -43.17361,
-   "wd": "Q2017454"
+   "wd": "Q2017454",
+   "aliases": [
+    "Monument to the dead of World War II"
+   ]
   },
   {
-   "name": "Mosteiro de São Bento",
+   "name": "상 벤투 수도원",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.89703,
    "lng": -43.17805,
-   "wd": "Q2820360"
+   "wd": "Q2820360",
+   "aliases": [
+    "Mosteiro de São Bento"
+   ]
   },
   {
    "name": "11월 15일 광장",
@@ -348,492 +413,598 @@
    "wd": "Q10353359"
   },
   {
-   "name": "Campo de Santana",
+   "name": "산타나 공원",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.9067,
    "lng": -43.18856,
-   "wd": "Q10353440"
+   "wd": "Q10353440",
+   "aliases": [
+    "Campo de Santana"
+   ]
   },
   {
-   "name": "Praia Vermelha",
+   "name": "프라이아 베르멜랴",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.95528,
    "lng": -43.16472,
-   "wd": "Q203325"
+   "wd": "Q203325",
+   "aliases": [
+    "Praia Vermelha"
+   ]
   },
   {
-   "name": "Fort Coligny",
-   "cat": "관광",
-   "area": "리우데자네이루",
-   "lat": -22.91389,
-   "lng": -43.15972,
-   "wd": "Q3077834"
-  },
-  {
-   "name": "Fortaleza de São João",
+   "name": "상 주앙 요새",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.94337,
    "lng": -43.15646,
-   "wd": "Q5472516"
+   "wd": "Q5472516",
+   "aliases": [
+    "Fortaleza de São João"
+   ]
   },
   {
-   "name": "Museu Nacional dos Povos Indígenas",
+   "name": "국립 원주민 박물관",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.95194,
    "lng": -43.19111,
-   "wd": "Q6940631"
+   "wd": "Q6940631",
+   "aliases": [
+    "Museu Nacional dos Povos Indígenas"
+   ]
   },
   {
-   "name": "Earth Sciences Museum",
+   "name": "지구과학 박물관",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.95362,
    "lng": -43.17062,
-   "wd": "Q10333819"
+   "wd": "Q10333819",
+   "aliases": [
+    "Earth Sciences Museum"
+   ]
   },
   {
-   "name": "Laranjeiras Palace",
+   "name": "라란제이라스 궁전",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.93143,
    "lng": -43.18356,
-   "wd": "Q10343955"
+   "wd": "Q10343955",
+   "aliases": [
+    "Laranjeiras Palace"
+   ]
   },
   {
-   "name": "Praia do Diabo",
+   "name": "디아부 해변",
    "cat": "관광",
    "area": "",
    "lat": -22.98839,
    "lng": -43.18948,
-   "wd": "Q10352994"
+   "wd": "Q10352994",
+   "aliases": [
+    "Praia do Diabo"
+   ]
   },
   {
-   "name": "Teatro João Caetano",
+   "name": "주앙 카에타누 극장",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.9061,
    "lng": -43.18225,
-   "wd": "Q6367742"
+   "wd": "Q6367742",
+   "aliases": [
+    "Teatro João Caetano"
+   ]
   },
   {
-   "name": "Passeio Público",
+   "name": "파세이우 푸블리쿠 공원",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.9138,
    "lng": -43.17599,
-   "wd": "Q7142572"
+   "wd": "Q7142572",
+   "aliases": [
+    "Passeio Público"
+   ]
   },
   {
-   "name": "Igreja de Nossa Senhora da Penha",
+   "name": "페냐 성모 성당",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.84429,
    "lng": -43.27119,
-   "wd": "Q10300298"
+   "wd": "Q10300298",
+   "aliases": [
+    "Igreja de Nossa Senhora da Penha"
+   ]
   },
   {
-   "name": "Largo do Boticário",
+   "name": "보치카리우 광장",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.93954,
    "lng": -43.20132,
-   "wd": "Q10316367"
+   "wd": "Q10316367",
+   "aliases": [
+    "Largo do Boticário"
+   ]
   },
   {
-   "name": "Copacabana Beach",
+   "name": "코파카바나 해변",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.97096,
    "lng": -43.18165,
-   "wd": "Q63894"
+   "wd": "Q63894",
+   "aliases": [
+    "Copacabana Beach"
+   ]
   },
   {
-   "name": "Palace of Itamaraty",
+   "name": "이타마라치 궁전",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.90292,
    "lng": -43.18795,
-   "wd": "Q10344051"
+   "wd": "Q10344051",
+   "aliases": [
+    "Palace of Itamaraty"
+   ]
   },
   {
-   "name": "Ponte do Saber",
-   "cat": "관광",
-   "area": "리우데자네이루",
-   "lat": -22.86612,
-   "lng": -43.2315,
-   "wd": "Q10351475"
-  },
-  {
-   "name": "Pedro Ernesto Palace",
+   "name": "페드루 에르네스투 궁전",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.91,
    "lng": -43.18,
-   "wd": "Q116203788"
+   "wd": "Q116203788",
+   "aliases": [
+    "Pedro Ernesto Palace"
+   ]
   },
   {
-   "name": "Vista Chinesa",
+   "name": "비스타 시네자 전망대",
    "cat": "관광",
    "area": "리우데자네이루주",
    "lat": -22.97316,
    "lng": -43.24976,
-   "wd": "Q7936437"
+   "wd": "Q7936437",
+   "aliases": [
+    "Vista Chinesa"
+   ]
   },
   {
-   "name": "Museu Antônio Parreiras",
+   "name": "안토니우 파헤이라스 박물관",
    "cat": "관광",
    "area": "니테로이",
    "lat": -22.90172,
    "lng": -43.12611,
-   "wd": "Q17167639"
+   "wd": "Q17167639",
+   "aliases": [
+    "Museu Antônio Parreiras"
+   ]
   },
   {
-   "name": "Metropolitan Cathedral of St. John the Baptist, Niterói",
+   "name": "니테로이 세례자 요한 대성당",
    "cat": "관광",
    "area": "니테로이",
    "lat": -22.89153,
    "lng": -43.12045,
-   "wd": "Q18482370"
+   "wd": "Q18482370",
+   "aliases": [
+    "Metropolitan Cathedral of St. John the Baptist, Niterói"
+   ]
   },
   {
-   "name": "Jardim de Alá",
+   "name": "알라 정원",
    "cat": "관광",
    "area": "이파네마",
    "lat": -22.98296,
    "lng": -43.21503,
-   "wd": "Q10306310"
+   "wd": "Q10306310",
+   "aliases": [
+    "Jardim de Alá"
+   ]
   },
   {
-   "name": "Grajaú",
-   "cat": "관광",
-   "area": "리우데자네이루",
-   "lat": -22.92833,
-   "lng": -43.26028,
-   "wd": "Q761849"
-  },
-  {
-   "name": "Pedra do Sal",
+   "name": "페드라 두 사우",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.89804,
    "lng": -43.18531,
-   "wd": "Q6543840"
+   "wd": "Q6543840",
+   "aliases": [
+    "Pedra do Sal"
+   ]
   },
   {
-   "name": "Church of Our Lady of Lapa dos Mercadores",
+   "name": "라파 두스 메르카도리스 성모 성당",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.90221,
    "lng": -43.1752,
-   "wd": "Q10300403"
+   "wd": "Q10300403",
+   "aliases": [
+    "Church of Our Lady of Lapa dos Mercadores"
+   ]
   },
   {
-   "name": "Church of Saint Lucy",
+   "name": "산타 루지아 성당",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.90954,
    "lng": -43.1726,
-   "wd": "Q10300629"
+   "wd": "Q10300629",
+   "aliases": [
+    "Church of Saint Lucy"
+   ]
   },
   {
-   "name": "Rio de Janeiro Zoological Garden",
+   "name": "리우 동물원",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.90444,
    "lng": -43.22944,
-   "wd": "Q10306230"
+   "wd": "Q10306230",
+   "aliases": [
+    "Rio de Janeiro Zoological Garden"
+   ]
   },
   {
-   "name": "Largo do Machado",
+   "name": "마샤두 광장",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.93083,
    "lng": -43.17861,
-   "wd": "Q10316374"
+   "wd": "Q10316374",
+   "aliases": [
+    "Largo do Machado"
+   ]
   },
   {
-   "name": "Rio Art Museum",
+   "name": "리우 미술관(MAR)",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.89657,
    "lng": -43.18199,
-   "wd": "Q10333798"
+   "wd": "Q10333798",
+   "aliases": [
+    "Rio Art Museum"
+   ]
   },
   {
-   "name": "Convent of Santo Antônio",
+   "name": "산투 안토니우 수도원",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.90725,
    "lng": -43.17914,
-   "wd": "Q14947966"
+   "wd": "Q14947966",
+   "aliases": [
+    "Convent of Santo Antônio"
+   ]
   },
   {
-   "name": "Botafogo Beach",
+   "name": "보타포구 해변",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.94437,
    "lng": -43.1809,
-   "wd": "Q10352741"
+   "wd": "Q10352741",
+   "aliases": [
+    "Botafogo Beach"
+   ]
   },
   {
-   "name": "Praça Mauá",
+   "name": "마우아 광장",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.8967,
    "lng": -43.1811,
-   "wd": "Q10353330"
+   "wd": "Q10353330",
+   "aliases": [
+    "Praça Mauá"
+   ]
   },
   {
-   "name": "Sociedade Brasileira de Belas Artes",
-   "cat": "관광",
-   "area": "리우데자네이루",
-   "lat": -22.91,
-   "lng": -43.18338,
-   "wd": "Q25439595"
-  },
-  {
-   "name": "AquaRio",
+   "name": "아쿠아리우",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.89306,
    "lng": -43.19278,
-   "wd": "Q28679974"
+   "wd": "Q28679974",
+   "aliases": [
+    "AquaRio"
+   ]
   },
   {
-   "name": "Praia da Joatinga",
+   "name": "조아칭가 해변",
    "cat": "관광",
    "area": "리우데자네이루주",
    "lat": -23.015,
    "lng": -43.29083,
-   "wd": "Q10352615"
+   "wd": "Q10352615",
+   "aliases": [
+    "Praia da Joatinga"
+   ]
   },
   {
-   "name": "Praia de Ipanema",
+   "name": "이파네마 해변",
    "cat": "관광",
    "area": "이파네마",
    "lat": -22.985,
    "lng": -43.205,
-   "wd": "Q3390838"
+   "wd": "Q3390838",
+   "aliases": [
+    "Praia de Ipanema"
+   ]
   },
   {
-   "name": "Convent of Mount Carmel",
+   "name": "카르무 수도원",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.90337,
    "lng": -43.17555,
-   "wd": "Q4902626"
+   "wd": "Q4902626",
+   "aliases": [
+    "Convent of Mount Carmel"
+   ]
   },
   {
-   "name": "Eva Klabin House Museum",
+   "name": "에바 클라빈 저택 박물관",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.97551,
    "lng": -43.19835,
-   "wd": "Q5415088"
+   "wd": "Q5415088",
+   "aliases": [
+    "Eva Klabin House Museum"
+   ]
   },
   {
-   "name": "Instituto Moreira Salles",
+   "name": "모레이라 살레스 연구소",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.98185,
    "lng": -43.23922,
-   "wd": "Q6041378"
+   "wd": "Q6041378",
+   "aliases": [
+    "Instituto Moreira Salles"
+   ]
   },
   {
-   "name": "Museu da Vida Fiocruz",
+   "name": "피오크루즈 생명 박물관",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.87639,
    "lng": -43.24361,
-   "wd": "Q6940925"
+   "wd": "Q6940925",
+   "aliases": [
+    "Museu da Vida Fiocruz"
+   ]
   },
   {
-   "name": "Teatro Carlos Gomes",
+   "name": "카를루스 고메스 극장",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.90717,
    "lng": -43.18246,
-   "wd": "Q7691903"
+   "wd": "Q7691903",
+   "aliases": [
+    "Teatro Carlos Gomes"
+   ]
   },
   {
-   "name": "Centro Cândido Mendes",
-   "cat": "관광",
-   "area": "리우데자네이루",
-   "lat": -22.90388,
-   "lng": -43.17524,
-   "wd": "Q10270222"
-  },
-  {
-   "name": "Church of Our Lady of the Conception and Good Death",
+   "name": "콘세이상 이 보아 모르치 성당",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.90302,
    "lng": -43.17875,
-   "wd": "Q10300378"
+   "wd": "Q10300378",
+   "aliases": [
+    "Church of Our Lady of the Conception and Good Death"
+   ]
   },
   {
-   "name": "Igreja de Nossa Senhora da Glória do Outeiro",
+   "name": "글로리아 두 오우테이루 성당",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.92145,
    "lng": -43.17543,
-   "wd": "Q10300392"
+   "wd": "Q10300392",
+   "aliases": [
+    "Igreja de Nossa Senhora da Glória do Outeiro"
+   ]
   },
   {
-   "name": "Church of the Holy Cross of the Military",
+   "name": "군인의 성 십자가 성당",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.90216,
    "lng": -43.17568,
-   "wd": "Q10300620"
+   "wd": "Q10300620",
+   "aliases": [
+    "Church of the Holy Cross of the Military"
+   ]
   },
   {
-   "name": "Sanctuary of Saint Rita of Cascia",
+   "name": "성녀 리타 성당",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.90038,
    "lng": -43.18066,
-   "wd": "Q10300658"
+   "wd": "Q10300658",
+   "aliases": [
+    "Sanctuary of Saint Rita of Cascia"
+   ]
   },
   {
-   "name": "Church of Saint Francis of Paola",
+   "name": "상 프란시스쿠 지 파울라 성당",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.90549,
    "lng": -43.18059,
-   "wd": "Q10300739"
+   "wd": "Q10300739",
+   "aliases": [
+    "Church of Saint Francis of Paola"
+   ]
   },
   {
-   "name": "Church of the Blessed Sacrament",
+   "name": "성체 성당",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.90458,
    "lng": -43.18284,
-   "wd": "Q10300936"
+   "wd": "Q10300936",
+   "aliases": [
+    "Church of the Blessed Sacrament"
+   ]
   },
   {
-   "name": "Instituto Benjamin Constant",
-   "cat": "관광",
-   "area": "리우데자네이루",
-   "lat": -22.95362,
-   "lng": -43.17219,
-   "wd": "Q10302403"
-  },
-  {
-   "name": "Museu de Imagens do Inconsciente",
+   "name": "무의식 이미지 박물관",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.90361,
    "lng": -43.30162,
-   "wd": "Q10333843"
+   "wd": "Q10333843",
+   "aliases": [
+    "Museu de Imagens do Inconsciente"
+   ]
   },
   {
-   "name": "NorteShopping RJ",
+   "name": "노르치쇼핑",
    "cat": "쇼핑",
    "area": "리우데자네이루",
    "lat": -22.88722,
    "lng": -43.28306,
-   "wd": "Q10337451"
+   "wd": "Q10337451",
+   "aliases": [
+    "NorteShopping RJ"
+   ]
   },
   {
-   "name": "Palácio Episcopal (Rio de Janeiro)",
+   "name": "주교 궁전",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.89964,
    "lng": -43.1827,
-   "wd": "Q10343988"
+   "wd": "Q10343988",
+   "aliases": [
+    "Palácio Episcopal (Rio de Janeiro)"
+   ]
   },
   {
-   "name": "General Osório Square",
+   "name": "제네랄 오조리우 광장",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.98515,
    "lng": -43.19811,
-   "wd": "Q10353299"
+   "wd": "Q10353299",
+   "aliases": [
+    "General Osório Square"
+   ]
   },
   {
-   "name": "Paris Square",
+   "name": "파리 광장",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.91706,
    "lng": -43.17594,
-   "wd": "Q10353344"
+   "wd": "Q10353344",
+   "aliases": [
+    "Paris Square"
+   ]
   },
   {
-   "name": "Praça Tiradentes",
+   "name": "치라덴치스 광장",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.90692,
    "lng": -43.18288,
-   "wd": "Q10353390"
+   "wd": "Q10353390",
+   "aliases": [
+    "Praça Tiradentes"
+   ]
   },
   {
-   "name": "Church of the Intercession of the Theotokos",
+   "name": "성모 보호 정교회",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.9035,
    "lng": -43.1238,
-   "wd": "Q21645181"
+   "wd": "Q21645181",
+   "aliases": [
+    "Church of the Intercession of the Theotokos"
+   ]
   },
   {
-   "name": "Largo da Prainha",
+   "name": "프라이냐 광장",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.89765,
    "lng": -43.18427,
-   "wd": "Q48862340"
+   "wd": "Q48862340",
+   "aliases": [
+    "Largo da Prainha"
+   ]
   },
   {
-   "name": "Monumento ao Almirante Barroso",
+   "name": "바호주 제독 기념비",
    "cat": "관광",
    "area": "리우데자네이루",
    "lat": -22.91856,
    "lng": -43.17594,
-   "wd": "Q67210520"
+   "wd": "Q67210520",
+   "aliases": [
+    "Monumento ao Almirante Barroso"
+   ]
   },
   {
-   "name": "BNDES Building",
-   "cat": "관광",
-   "area": "리우데자네이루",
-   "lat": -22.90852,
-   "lng": -43.17998,
-   "wd": "Q138561968"
-  },
-  {
-   "name": "Farol da Ilha Rasa",
+   "name": "하자 섬 등대",
    "cat": "관광",
    "area": "리우데자네이루주",
    "lat": -23.06333,
    "lng": -43.145,
-   "wd": "Q10280116"
+   "wd": "Q10280116",
+   "aliases": [
+    "Farol da Ilha Rasa"
+   ]
   },
   {
-   "name": "Piscinão de Ramos",
+   "name": "하무스 인공 해변",
    "cat": "관광",
    "area": "리우데자네이루주",
    "lat": -22.83917,
    "lng": -43.25056,
-   "wd": "Q10350080"
+   "wd": "Q10350080",
+   "aliases": [
+    "Piscinão de Ramos"
+   ]
   },
   {
-   "name": "Praia da Urca",
+   "name": "우르카 해변",
    "cat": "관광",
    "area": "리우데자네이루주",
    "lat": -22.94722,
    "lng": -43.16389,
-   "wd": "Q10352677"
+   "wd": "Q10352677",
+   "aliases": [
+    "Praia da Urca"
+   ]
   },
   {
-   "name": "Praia de São Conrado",
+   "name": "상 콘하두 해변",
    "cat": "관광",
    "area": "리우데자네이루주",
    "lat": -23,
    "lng": -43.26111,
-   "wd": "Q10352894"
+   "wd": "Q10352894",
+   "aliases": [
+    "Praia de São Conrado"
+   ]
   }
  ]
 }

@@ -250,12 +250,15 @@
    "wd": "Q1201304"
   },
   {
-   "name": "Sanjūsangen-dō Temple",
+   "name": "산주산겐도",
    "cat": "관광",
    "area": "히가시야마구",
    "lat": 34.98788,
    "lng": 135.77171,
-   "wd": "Q653319"
+   "wd": "Q653319",
+   "aliases": [
+    "Sanjūsangen-dō Temple"
+   ]
   },
   {
    "name": "혼노지",
@@ -291,12 +294,15 @@
    "wd": "Q1759226"
   },
   {
-   "name": "Daitoku-ji Temple",
+   "name": "다이토쿠지",
    "cat": "관광",
    "area": "기타구",
    "lat": 35.04389,
    "lng": 135.74611,
-   "wd": "Q901256"
+   "wd": "Q901256",
+   "aliases": [
+    "Daitoku-ji Temple"
+   ]
   },
   {
    "name": "치온인",
@@ -321,12 +327,15 @@
    "wd": "Q3087620"
   },
   {
-   "name": "Mii-dera Temple",
+   "name": "미이데라",
    "cat": "관광",
    "area": "오쓰시",
    "lat": 35.01333,
    "lng": 135.85278,
-   "wd": "Q1756307"
+   "wd": "Q1756307",
+   "aliases": [
+    "Mii-dera Temple"
+   ]
   },
   {
    "name": "기타노텐만 궁",
@@ -340,28 +349,37 @@
    "wd": "Q662176"
   },
   {
-   "name": "Kamo Shrine",
+   "name": "가모 신사",
    "cat": "관광",
    "area": "교토시",
    "lat": 35.06028,
    "lng": 135.75278,
-   "wd": "Q1306606"
+   "wd": "Q1306606",
+   "aliases": [
+    "Kamo Shrine"
+   ]
   },
   {
-   "name": "Katsura Imperial Villa",
+   "name": "가쓰라 이궁",
    "cat": "관광",
    "area": "니시쿄구",
    "lat": 34.98389,
    "lng": 135.70944,
-   "wd": "Q1736808"
+   "wd": "Q1736808",
+   "aliases": [
+    "Katsura Imperial Villa"
+   ]
   },
   {
-   "name": "Myōshin-ji Temple",
+   "name": "묘신지",
    "cat": "관광",
    "area": "우쿄구",
    "lat": 35.02317,
    "lng": 135.72018,
-   "wd": "Q376288"
+   "wd": "Q376288",
+   "aliases": [
+    "Myōshin-ji Temple"
+   ]
   },
   {
    "name": "니시혼간지",
@@ -399,12 +417,15 @@
    "wd": "Q1055628"
   },
   {
-   "name": "Kōdai-ji Temple",
+   "name": "고다이지",
    "cat": "관광",
    "area": "히가시야마구",
    "lat": 35.00076,
    "lng": 135.78111,
-   "wd": "Q2702064"
+   "wd": "Q2702064",
+   "aliases": [
+    "Kōdai-ji Temple"
+   ]
   },
   {
    "name": "혼간지",
@@ -474,20 +495,26 @@
    "wd": "Q1060966"
   },
   {
-   "name": "Kennin-ji Temple",
+   "name": "겐닌지",
    "cat": "관광",
    "area": "히가시야마구",
    "lat": 35.00099,
    "lng": 135.77366,
-   "wd": "Q1440954"
+   "wd": "Q1440954",
+   "aliases": [
+    "Kennin-ji Temple"
+   ]
   },
   {
-   "name": "Sanbō-in Temple",
+   "name": "산보인",
    "cat": "관광",
    "area": "후시미구",
    "lat": 34.95228,
    "lng": 135.81944,
-   "wd": "Q3471686"
+   "wd": "Q3471686",
+   "aliases": [
+    "Sanbō-in Temple"
+   ]
   },
   {
    "name": "교토부립 식물원",
@@ -501,20 +528,26 @@
    "wd": "Q3106834"
   },
   {
-   "name": "Daikaku-ji Temple",
+   "name": "다이카쿠지",
    "cat": "관광",
    "area": "우쿄구",
    "lat": 35.02824,
    "lng": 135.67774,
-   "wd": "Q1157585"
+   "wd": "Q1157585",
+   "aliases": [
+    "Daikaku-ji Temple"
+   ]
   },
   {
-   "name": "Shugaku-in Imperial Villa",
+   "name": "슈가쿠인 이궁",
    "cat": "관광",
    "area": "사쿄구",
    "lat": 35.0537,
    "lng": 135.80174,
-   "wd": "Q2223611"
+   "wd": "Q2223611",
+   "aliases": [
+    "Shugaku-in Imperial Villa"
+   ]
   },
   {
    "name": "히라노 신사",
@@ -528,60 +561,81 @@
    "wd": "Q738971"
   },
   {
-   "name": "Mibu-dera",
+   "name": "미부데라",
    "cat": "관광",
    "area": "나카교구",
    "lat": 35.0016,
    "lng": 135.74334,
-   "wd": "Q1082935"
+   "wd": "Q1082935",
+   "aliases": [
+    "Mibu-dera"
+   ]
   },
   {
-   "name": "Kajū-ji Temple",
+   "name": "간주지",
    "cat": "관광",
    "area": "야마시나구",
    "lat": 34.96121,
    "lng": 135.80756,
-   "wd": "Q772598"
+   "wd": "Q772598",
+   "aliases": [
+    "Kajū-ji Temple"
+   ]
   },
   {
-   "name": "Tōji-in Temple",
+   "name": "도지인",
    "cat": "관광",
    "area": "기타구",
    "lat": 35.03155,
    "lng": 135.72347,
-   "wd": "Q3138637"
+   "wd": "Q3138637",
+   "aliases": [
+    "Tōji-in Temple"
+   ]
   },
   {
-   "name": "Rokuharamitsu-ji Temple",
+   "name": "로쿠하라미쓰지",
    "cat": "관광",
    "area": "히가시야마구",
    "lat": 34.99711,
    "lng": 135.77333,
-   "wd": "Q1060771"
+   "wd": "Q1060771",
+   "aliases": [
+    "Rokuharamitsu-ji Temple"
+   ]
   },
   {
-   "name": "Hōjū-ji Temple",
+   "name": "호주지",
    "cat": "관광",
    "area": "히가시야마구",
    "lat": 34.98763,
    "lng": 135.77273,
-   "wd": "Q1072965"
+   "wd": "Q1072965",
+   "aliases": [
+    "Hōjū-ji Temple"
+   ]
   },
   {
-   "name": "Maruyama Park",
+   "name": "마루야마 공원",
    "cat": "관광",
    "area": "히가시야마구",
    "lat": 35.00333,
    "lng": 135.78139,
-   "wd": "Q1108695"
+   "wd": "Q1108695",
+   "aliases": [
+    "Maruyama Park"
+   ]
   },
   {
-   "name": "Manju-ji",
+   "name": "만주지",
    "cat": "관광",
    "area": "히가시야마구",
    "lat": 34.9812,
    "lng": 135.771,
-   "wd": "Q3074317"
+   "wd": "Q3074317",
+   "aliases": [
+    "Manju-ji"
+   ]
   },
   {
    "name": "야사카의 탑",
@@ -618,20 +672,26 @@
    "wd": "Q3076920"
   },
   {
-   "name": "Shinsen-en",
+   "name": "신센엔",
    "cat": "관광",
    "area": "나카교구",
    "lat": 35.01138,
    "lng": 135.74837,
-   "wd": "Q11590468"
+   "wd": "Q11590468",
+   "aliases": [
+    "Shinsen-en"
+   ]
   },
   {
-   "name": "Shōren-in Temple",
+   "name": "쇼렌인",
    "cat": "관광",
    "area": "히가시야마구",
    "lat": 35.00731,
    "lng": 135.7832,
-   "wd": "Q377386"
+   "wd": "Q377386",
+   "aliases": [
+    "Shōren-in Temple"
+   ]
   },
   {
    "name": "도요쿠니 신사",
@@ -645,28 +705,37 @@
    "wd": "Q709822"
   },
   {
-   "name": "Minami-za",
+   "name": "미나미자",
    "cat": "관광",
    "area": "히가시야마구",
    "lat": 35.00352,
    "lng": 135.7723,
-   "wd": "Q919524"
+   "wd": "Q919524",
+   "aliases": [
+    "Minami-za"
+   ]
   },
   {
-   "name": "Eikan-dō Zenrin-ji Temple",
+   "name": "에이칸도 젠린지",
    "cat": "관광",
    "area": "사쿄구",
    "lat": 35.01452,
    "lng": 135.79529,
-   "wd": "Q2380134"
+   "wd": "Q2380134",
+   "aliases": [
+    "Eikan-dō Zenrin-ji Temple"
+   ]
   },
   {
-   "name": "Daihōon-ji Temple",
+   "name": "다이호온지",
    "cat": "관광",
    "area": "가미교구",
    "lat": 35.0319,
    "lng": 135.7399,
-   "wd": "Q10934650"
+   "wd": "Q10934650",
+   "aliases": [
+    "Daihōon-ji Temple"
+   ]
   },
   {
    "name": "오미진구",
@@ -680,12 +749,15 @@
    "wd": "Q385407"
   },
   {
-   "name": "Otagi Nenbutsu-ji Temple",
+   "name": "오타기 넨부쓰지",
    "cat": "관광",
    "area": "우쿄구",
    "lat": 35.03137,
    "lng": 135.66112,
-   "wd": "Q3080421"
+   "wd": "Q3080421",
+   "aliases": [
+    "Otagi Nenbutsu-ji Temple"
+   ]
   },
   {
    "name": "도게쓰교",
@@ -699,76 +771,103 @@
    "wd": "Q11561923"
   },
   {
-   "name": "Rokkaku-dō Temple",
+   "name": "롯카쿠도",
    "cat": "관광",
    "area": "나카교구",
    "lat": 35.00722,
    "lng": 135.76028,
-   "wd": "Q599378"
+   "wd": "Q599378",
+   "aliases": [
+    "Rokkaku-dō Temple"
+   ]
   },
   {
-   "name": "Matsunoo Taisha",
+   "name": "마쓰노오 대사",
    "cat": "관광",
    "area": "야마시로국",
    "lat": 34.99997,
    "lng": 135.68501,
-   "wd": "Q710302"
+   "wd": "Q710302",
+   "aliases": [
+    "Matsunoo Taisha"
+   ]
   },
   {
-   "name": "Bukkō-ji Temple",
+   "name": "붓코지",
    "cat": "관광",
    "area": "시모교구",
    "lat": 35.00081,
    "lng": 135.76211,
-   "wd": "Q2413893"
+   "wd": "Q2413893",
+   "aliases": [
+    "Bukkō-ji Temple"
+   ]
   },
   {
-   "name": "Gangyō-ji Temple",
+   "name": "간교지",
    "cat": "관광",
    "area": "야마시나구",
    "lat": 34.98863,
    "lng": 135.80116,
-   "wd": "Q3095172"
+   "wd": "Q3095172",
+   "aliases": [
+    "Gangyō-ji Temple"
+   ]
   },
   {
-   "name": "Kyoto Railway Museum",
+   "name": "교토 철도박물관",
    "cat": "관광",
    "area": "시모교구",
    "lat": 34.98722,
    "lng": 135.7425,
-   "wd": "Q24014029"
+   "wd": "Q24014029",
+   "aliases": [
+    "Kyoto Railway Museum"
+   ]
   },
   {
-   "name": "Iwatayama Monkey Park",
+   "name": "이와타야마 원숭이 공원",
    "cat": "관광",
    "area": "니시쿄구",
    "lat": 35.00894,
    "lng": 135.67468,
-   "wd": "Q15229013"
+   "wd": "Q15229013",
+   "aliases": [
+    "Iwatayama Monkey Park"
+   ]
   },
   {
-   "name": "Yasaka Kōshin-dō Temple",
+   "name": "야사카 고신도",
    "cat": "관광",
    "area": "히가시야마구",
    "lat": 34.99838,
    "lng": 135.77874,
-   "wd": "Q3571897"
+   "wd": "Q3571897",
+   "aliases": [
+    "Yasaka Kōshin-dō Temple"
+   ]
   },
   {
-   "name": "Shiramine Jingū",
+   "name": "시라미네 신궁",
    "cat": "관광",
    "area": "가미교구",
    "lat": 35.0303,
    "lng": 135.753,
-   "wd": "Q705635"
+   "wd": "Q705635",
+   "aliases": [
+    "Shiramine Jingū"
+   ]
   },
   {
-   "name": "Shisen-dō Temple",
+   "name": "시센도",
    "cat": "관광",
    "area": "사쿄구",
    "lat": 35.04374,
    "lng": 135.79624,
-   "wd": "Q3028486"
+   "wd": "Q3028486",
+   "aliases": [
+    "Shisen-dō Temple"
+   ]
   },
   {
    "name": "교토시 동물원",
@@ -782,36 +881,48 @@
    "wd": "Q6452176"
   },
   {
-   "name": "Umenomiya Taisha",
+   "name": "우메노미야 대사",
    "cat": "관광",
    "area": "우쿄구",
    "lat": 35.00407,
    "lng": 135.69489,
-   "wd": "Q276781"
+   "wd": "Q276781",
+   "aliases": [
+    "Umenomiya Taisha"
+   ]
   },
   {
-   "name": "Seiryō-ji Temple",
+   "name": "세이료지",
    "cat": "관광",
    "area": "우쿄구",
    "lat": 35.02349,
    "lng": 135.67429,
-   "wd": "Q534101"
+   "wd": "Q534101",
+   "aliases": [
+    "Seiryō-ji Temple"
+   ]
   },
   {
-   "name": "Nison-in Temple",
+   "name": "니손인",
    "cat": "관광",
    "area": "우쿄구",
    "lat": 35.0212,
    "lng": 135.668,
-   "wd": "Q3096514"
+   "wd": "Q3096514",
+   "aliases": [
+    "Nison-in Temple"
+   ]
   },
   {
-   "name": "Kawaramachi Roman Catholic Church",
+   "name": "가와라마치 성당",
    "cat": "관광",
    "area": "나카교구",
    "lat": 35.00972,
    "lng": 135.76944,
-   "wd": "Q21019667"
+   "wd": "Q21019667",
+   "aliases": [
+    "Kawaramachi Roman Catholic Church"
+   ]
   },
   {
    "name": "교토 수족관",
@@ -836,36 +947,48 @@
    "wd": "Q1058324"
   },
   {
-   "name": "Daisen-in",
+   "name": "다이센인",
    "cat": "관광",
    "area": "기타구",
    "lat": 35.04457,
    "lng": 135.74595,
-   "wd": "Q3012166"
+   "wd": "Q3012166",
+   "aliases": [
+    "Daisen-in"
+   ]
   },
   {
-   "name": "Kenkun Shrine",
+   "name": "겐쿤 신사",
    "cat": "관광",
    "area": "기타구",
    "lat": 35.03861,
    "lng": 135.74306,
-   "wd": "Q3195151"
+   "wd": "Q3195151",
+   "aliases": [
+    "Kenkun Shrine"
+   ]
   },
   {
-   "name": "Chishaku-in Temple",
+   "name": "지샤쿠인",
    "cat": "관광",
    "area": "히가시야마구",
    "lat": 34.9881,
    "lng": 135.7764,
-   "wd": "Q11090279"
+   "wd": "Q11090279",
+   "aliases": [
+    "Chishaku-in Temple"
+   ]
   },
   {
-   "name": "Seimei Shrine",
+   "name": "세이메이 신사",
    "cat": "관광",
    "area": "가미교구",
    "lat": 35.02775,
    "lng": 135.75103,
-   "wd": "Q276830"
+   "wd": "Q276830",
+   "aliases": [
+    "Seimei Shrine"
+   ]
   },
   {
    "name": "교토 교엔",
@@ -880,92 +1003,125 @@
    "wd": "Q843854"
   },
   {
-   "name": "Manshu-in Temple",
+   "name": "만슈인",
    "cat": "관광",
    "area": "사쿄구",
    "lat": 35.04882,
    "lng": 135.80306,
-   "wd": "Q3076940"
+   "wd": "Q3076940",
+   "aliases": [
+    "Manshu-in Temple"
+   ]
   },
   {
-   "name": "Konkaikōmyō-ji Temple",
+   "name": "곤카이코묘지",
    "cat": "관광",
    "area": "사쿄구",
    "lat": 35.01964,
    "lng": 135.78803,
-   "wd": "Q6134090"
+   "wd": "Q6134090",
+   "aliases": [
+    "Konkaikōmyō-ji Temple"
+   ]
   },
   {
-   "name": "Rozan-ji Temple",
+   "name": "로잔지",
    "cat": "관광",
    "area": "가미교구",
    "lat": 35.02458,
    "lng": 135.76835,
-   "wd": "Q11064894"
+   "wd": "Q11064894",
+   "aliases": [
+    "Rozan-ji Temple"
+   ]
   },
   {
-   "name": "Hōnen-in Temple",
+   "name": "호넨인",
    "cat": "관광",
    "area": "사쿄구",
    "lat": 35.02397,
    "lng": 135.79742,
-   "wd": "Q11555257"
+   "wd": "Q11555257",
+   "aliases": [
+    "Hōnen-in Temple"
+   ]
   },
   {
-   "name": "Nomura Art Museum",
+   "name": "노무라 미술관",
    "cat": "관광",
    "area": "사쿄구",
    "lat": 35.01292,
    "lng": 135.79333,
-   "wd": "Q11645680"
+   "wd": "Q11645680",
+   "aliases": [
+    "Nomura Art Museum"
+   ]
   },
   {
-   "name": "Yamashina Hongan-ji",
+   "name": "야마시나 혼간지",
    "cat": "관광",
    "area": "교토시",
    "lat": 34.98461,
    "lng": 135.81242,
-   "wd": "Q7348557"
+   "wd": "Q7348557",
+   "aliases": [
+    "Yamashina Hongan-ji"
+   ]
   },
   {
-   "name": "Holy Annunciation Cathedral",
+   "name": "교토 수태고지 대성당",
    "cat": "관광",
    "area": "교토시",
    "lat": 35.01442,
    "lng": 135.76428,
-   "wd": "Q11374812"
+   "wd": "Q11374812",
+   "aliases": [
+    "Holy Annunciation Cathedral"
+   ]
   },
   {
-   "name": "Tenson Shrine",
+   "name": "덴손 신사",
    "cat": "관광",
    "area": "오쓰시",
    "lat": 35.0057,
    "lng": 135.867,
-   "wd": "Q3082076"
+   "wd": "Q3082076",
+   "aliases": [
+    "Tenson Shrine"
+   ]
   },
   {
-   "name": "Nonomiya Shrine",
+   "name": "노노미야 신사",
    "cat": "관광",
    "area": "우쿄구",
    "lat": 35.01778,
    "lng": 135.67417,
-   "wd": "Q501266"
+   "wd": "Q501266",
+   "aliases": [
+    "Nonomiya Shrine"
+   ]
   },
   {
-   "name": "Shunkō-in",
+   "name": "슌코인",
    "cat": "관광",
    "area": "우쿄구",
    "lat": 35.024,
    "lng": 135.719,
-   "wd": "Q669494"
+   "wd": "Q669494",
+   "aliases": [
+    "Shunkō-in"
+   ]
   },
   {
-   "name": "Adashino Nenbutsu-ji Temple",
+   "name": "아다시노 넨부쓰지",
    "cat": "관광",
    "area": "우쿄구",
    "lat": 35.02681,
    "lng": 135.66452,
-   "wd": "Q2824122"
+   "wd": "Q2824122",
+   "aliases": [
+    "Adashino Nenbutsu-ji Temple"
+   ]
   }
  ]
 }

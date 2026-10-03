@@ -116,12 +116,15 @@
    "wd": "Q1203099"
   },
   {
-   "name": "Nara Dreamland",
+   "name": "나라 드림랜드",
    "cat": "관광",
    "area": "",
    "lat": 34.7,
    "lng": 135.82417,
-   "wd": "Q1139847"
+   "wd": "Q1139847",
+   "aliases": [
+    "Nara Dreamland"
+   ]
   },
   {
    "name": "사이다이지",
@@ -158,12 +161,15 @@
    "wd": "Q1073899"
   },
   {
-   "name": "Akishino-dera Temple",
+   "name": "아키시노데라",
    "cat": "관광",
    "area": "나라시",
    "lat": 34.70361,
    "lng": 135.77611,
-   "wd": "Q4301475"
+   "wd": "Q4301475",
+   "aliases": [
+    "Akishino-dera Temple"
+   ]
   },
   {
    "name": "가스가산 원시림",
@@ -178,156 +184,213 @@
    "wd": "Q5367406"
   },
   {
-   "name": "Jōruri-ji Temple",
+   "name": "조루리지",
    "cat": "관광",
    "area": "가모정",
    "lat": 34.71611,
    "lng": 135.87306,
-   "wd": "Q1093645"
+   "wd": "Q1093645",
+   "aliases": [
+    "Jōruri-ji Temple"
+   ]
   },
   {
-   "name": "Museum Yamato Bunkakan",
+   "name": "야마토 문화관",
    "cat": "관광",
    "area": "나라시",
    "lat": 34.69528,
    "lng": 135.75667,
-   "wd": "Q3329639"
+   "wd": "Q3329639",
+   "aliases": [
+    "Museum Yamato Bunkakan"
+   ]
   },
   {
-   "name": "Shin-Yakushi-ji Temple",
+   "name": "신야쿠시지",
    "cat": "관광",
    "area": "Takabatakechō",
    "lat": 34.67588,
    "lng": 135.84617,
-   "wd": "Q3080305"
+   "wd": "Q3080305",
+   "aliases": [
+    "Shin-Yakushi-ji Temple"
+   ]
   },
   {
-   "name": "Hannya-ji Temple",
+   "name": "한냐지",
    "cat": "관광",
    "area": "나라시",
    "lat": 34.7,
    "lng": 135.83611,
-   "wd": "Q1576651"
+   "wd": "Q1576651",
+   "aliases": [
+    "Hannya-ji Temple"
+   ]
   },
   {
-   "name": "Enshō-ji",
+   "name": "엔쇼지",
    "cat": "관광",
    "area": "나라시",
    "lat": 34.64386,
    "lng": 135.84498,
-   "wd": "Q2671301"
+   "wd": "Q2671301",
+   "aliases": [
+    "Enshō-ji"
+   ]
   },
   {
-   "name": "Ryōsen-ji Temple",
+   "name": "료센지",
    "cat": "관광",
    "area": "Nakamachi",
    "lat": 34.67345,
    "lng": 135.7424,
-   "wd": "Q1089221"
+   "wd": "Q1089221",
+   "aliases": [
+    "Ryōsen-ji Temple"
+   ]
   },
   {
-   "name": "Hokke-ji Temple",
+   "name": "홋케지",
    "cat": "관광",
    "area": "나라시",
    "lat": 34.6924,
    "lng": 135.80412,
-   "wd": "Q3076936"
+   "wd": "Q3076936",
+   "aliases": [
+    "Hokke-ji Temple"
+   ]
   },
   {
-   "name": "Futai-ji Temple",
+   "name": "후타이지",
    "cat": "관광",
    "area": "나라시",
    "lat": 34.69473,
    "lng": 135.81248,
-   "wd": "Q580386"
+   "wd": "Q580386",
+   "aliases": [
+    "Futai-ji Temple"
+   ]
   },
   {
-   "name": "Byakugō-ji Temple",
+   "name": "뱌쿠고지",
    "cat": "관광",
    "area": "나라시",
    "lat": 34.67111,
    "lng": 135.85139,
-   "wd": "Q1018450"
+   "wd": "Q1018450",
+   "aliases": [
+    "Byakugō-ji Temple"
+   ]
   },
   {
-   "name": "Nigatsu-dō",
+   "name": "니가쓰도",
    "cat": "관광",
    "area": "나라시",
    "lat": 34.68928,
    "lng": 135.84428,
-   "wd": "Q3341341"
+   "wd": "Q3341341",
+   "aliases": [
+    "Nigatsu-dō"
+   ]
   },
   {
-   "name": "Nara Centennial Hall",
+   "name": "나라 백년회관",
    "cat": "관광",
    "area": "나라시",
    "lat": 34.68028,
    "lng": 135.81639,
-   "wd": "Q6965228"
+   "wd": "Q6965228",
+   "aliases": [
+    "Nara Centennial Hall"
+   ]
   },
   {
-   "name": "Tamukeyama Hachiman Shrine",
+   "name": "다무케야마 하치만 신사",
    "cat": "관광",
    "area": "나라시",
    "lat": 34.6879,
    "lng": 135.845,
-   "wd": "Q11496939"
+   "wd": "Q11496939",
+   "aliases": [
+    "Tamukeyama Hachiman Shrine"
+   ]
   },
   {
-   "name": "Man'yō Botanical Garden (Nara)",
+   "name": "만요 식물원",
    "cat": "관광",
    "area": "나라시",
    "lat": 34.68231,
    "lng": 135.8445,
-   "wd": "Q3162376"
+   "wd": "Q3162376",
+   "aliases": [
+    "Man'yō Botanical Garden (Nara)"
+   ]
   },
   {
-   "name": "Shōhaku Art Museum",
+   "name": "쇼하쿠 미술관",
    "cat": "관광",
    "area": "나라시",
    "lat": 34.71002,
    "lng": 135.74718,
-   "wd": "Q11529256"
+   "wd": "Q11529256",
+   "aliases": [
+    "Shōhaku Art Museum"
+   ]
   },
   {
-   "name": "Himuro Shrine",
+   "name": "히무로 신사",
    "cat": "관광",
    "area": "나라시",
    "lat": 34.6844,
    "lng": 135.838,
-   "wd": "Q11549570"
+   "wd": "Q11549570",
+   "aliases": [
+    "Himuro Shrine"
+   ]
   },
   {
-   "name": "Yata-dera Temple",
+   "name": "야타데라",
    "cat": "관광",
    "area": "야마토코리야마시",
    "lat": 34.64944,
    "lng": 135.73667,
-   "wd": "Q1781626"
+   "wd": "Q1781626",
+   "aliases": [
+    "Yata-dera Temple"
+   ]
   },
   {
-   "name": "Nakano Museum of Art",
+   "name": "나카노 미술관",
    "cat": "관광",
    "area": "나라시",
    "lat": 34.69428,
    "lng": 135.75594,
-   "wd": "Q11367709"
+   "wd": "Q11367709",
+   "aliases": [
+    "Nakano Museum of Art"
+   ]
   },
   {
-   "name": "Kikō-ji Temple",
+   "name": "기코지",
    "cat": "관광",
    "area": "나라시",
    "lat": 34.68472,
    "lng": 135.77778,
-   "wd": "Q11419051"
+   "wd": "Q11419051",
+   "aliases": [
+    "Kikō-ji Temple"
+   ]
   },
   {
-   "name": "Isagawa Shrine",
+   "name": "이사가와 신사",
    "cat": "관광",
    "area": "나라시",
    "lat": 34.68131,
    "lng": 135.82573,
-   "wd": "Q22117854"
+   "wd": "Q22117854",
+   "aliases": [
+    "Isagawa Shrine"
+   ]
   },
   {
    "name": "요시키엔",
@@ -341,68 +404,92 @@
    "wd": "Q23825091"
   },
   {
-   "name": "Himegamisha Shrine",
+   "name": "히메가미샤",
    "cat": "관광",
    "area": "Takabatakechō",
    "lat": 34.67543,
    "lng": 135.84639,
-   "wd": "Q5765240"
+   "wd": "Q5765240",
+   "aliases": [
+    "Himegamisha Shrine"
+   ]
   },
   {
-   "name": "Irie Taikichi Memorial Museum of Photography Nara City",
+   "name": "이리에 다이키치 기념 나라시 사진미술관",
    "cat": "관광",
    "area": "Takabatakechō",
    "lat": 34.67558,
    "lng": 135.84542,
-   "wd": "Q11388956"
+   "wd": "Q11388956",
+   "aliases": [
+    "Irie Taikichi Memorial Museum of Photography Nara City"
+   ]
   },
   {
-   "name": "Nara Prefectural Museum of Art",
+   "name": "나라현립미술관",
    "cat": "관광",
    "area": "나라시",
    "lat": 34.68586,
    "lng": 135.83258,
-   "wd": "Q11445231"
+   "wd": "Q11445231",
+   "aliases": [
+    "Nara Prefectural Museum of Art"
+   ]
   },
   {
-   "name": "Neiraku Museum",
+   "name": "네이라쿠 미술관",
    "cat": "관광",
    "area": "나라시",
    "lat": 34.686,
    "lng": 135.83714,
-   "wd": "Q11457608"
+   "wd": "Q11457608",
+   "aliases": [
+    "Neiraku Museum"
+   ]
   },
   {
-   "name": "Kyūseki Teien",
+   "name": "규세키 정원",
    "cat": "관광",
    "area": "나라시",
    "lat": 34.68375,
    "lng": 135.80239,
-   "wd": "Q11482303"
+   "wd": "Q11482303",
+   "aliases": [
+    "Kyūseki Teien"
+   ]
   },
   {
-   "name": "Jikō-in Temple",
+   "name": "지코인",
    "cat": "관광",
    "area": "야마토코리야마시",
    "lat": 34.63203,
    "lng": 135.758,
-   "wd": "Q11494987"
+   "wd": "Q11494987",
+   "aliases": [
+    "Jikō-in Temple"
+   ]
   },
   {
-   "name": "Shōryaku-ji Temple",
+   "name": "쇼랴쿠지",
    "cat": "관광",
    "area": "나라시",
    "lat": 34.64467,
    "lng": 135.86844,
-   "wd": "Q11545483"
+   "wd": "Q11545483",
+   "aliases": [
+    "Shōryaku-ji Temple"
+   ]
   },
   {
-   "name": "Kairyūō-ji Temple",
+   "name": "가이류오지",
    "cat": "관광",
    "area": "나라시",
    "lat": 34.6929,
    "lng": 135.80555,
-   "wd": "Q11559434"
+   "wd": "Q11559434",
+   "aliases": [
+    "Kairyūō-ji Temple"
+   ]
   },
   {
    "name": "서륭사",
@@ -416,68 +503,92 @@
    "wd": "Q11629970"
   },
   {
-   "name": "Meta Shrine",
+   "name": "메타 신사",
    "cat": "관광",
    "area": "야마토코리야마시",
    "lat": 34.63929,
    "lng": 135.79645,
-   "wd": "Q11635096"
+   "wd": "Q11635096",
+   "aliases": [
+    "Meta Shrine"
+   ]
   },
   {
-   "name": "M!Nara",
+   "name": "엠나라",
    "cat": "관광",
    "area": "나라시",
    "lat": 34.68517,
    "lng": 135.80217,
-   "wd": "Q56347158"
+   "wd": "Q56347158",
+   "aliases": [
+    "M!Nara"
+   ]
   },
   {
-   "name": "Hyōshi Shrine",
+   "name": "효시 신사",
    "cat": "관광",
    "area": "나라시",
    "lat": 34.68472,
    "lng": 135.83306,
-   "wd": "Q124500174"
+   "wd": "Q124500174",
+   "aliases": [
+    "Hyōshi Shrine"
+   ]
   },
   {
-   "name": "Jūrin-in Temple",
+   "name": "주린인",
    "cat": "관광",
    "area": "Jūriinchō",
    "lat": 34.67628,
    "lng": 135.83319,
-   "wd": "Q11405177"
+   "wd": "Q11405177",
+   "aliases": [
+    "Jūrin-in Temple"
+   ]
   },
   {
-   "name": "Nara City Historical Materials Preservation House",
+   "name": "나라시 사료보존관",
    "cat": "관광",
    "area": "Wakidochō",
    "lat": 34.67776,
    "lng": 135.82922,
-   "wd": "Q24807771"
+   "wd": "Q24807771",
+   "aliases": [
+    "Nara City Historical Materials Preservation House"
+   ]
   },
   {
-   "name": "Kakuya-dera Temple",
+   "name": "가쿠야데라",
    "cat": "관광",
    "area": "Takabatakechō",
    "lat": 34.67714,
    "lng": 135.84811,
-   "wd": "Q24865462"
+   "wd": "Q24865462",
+   "aliases": [
+    "Kakuya-dera Temple"
+   ]
   },
   {
-   "name": "Kyoto Prefectural Yamashiro Regional Museum",
+   "name": "교토부립 야마시로 향토자료관",
    "cat": "관광",
    "area": "기즈가와시",
    "lat": 34.75222,
    "lng": 135.83389,
-   "wd": "Q56062380"
+   "wd": "Q56062380",
+   "aliases": [
+    "Kyoto Prefectural Yamashiro Regional Museum"
+   ]
   },
   {
-   "name": "Kamio-dera",
+   "name": "가미오데라",
    "cat": "관광",
    "area": "기즈가와시",
    "lat": 34.725,
    "lng": 135.82472,
-   "wd": "Q109361182"
+   "wd": "Q109361182",
+   "aliases": [
+    "Kamio-dera"
+   ]
   }
  ]
 }

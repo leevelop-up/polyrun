@@ -3,28 +3,37 @@
  "builtAt": "2026-10-03",
  "picks": [
   {
-   "name": "New Century Global Center",
+   "name": "신세기 환구중심",
    "cat": "관광",
    "area": "청두시",
    "lat": 30.57111,
    "lng": 104.06083,
-   "wd": "Q13580991"
+   "wd": "Q13580991",
+   "aliases": [
+    "New Century Global Center"
+   ]
   },
   {
-   "name": "Tianfu Panda Tower",
+   "name": "톈푸 판다 타워",
    "cat": "관광",
    "area": "청두시",
    "lat": 30.66444,
    "lng": 104.09222,
-   "wd": "Q2118734"
+   "wd": "Q2118734",
+   "aliases": [
+    "Tianfu Panda Tower"
+   ]
   },
   {
-   "name": "Jinsha site",
+   "name": "진사 유적",
    "cat": "관광",
    "area": "칭양구",
    "lat": 30.68344,
    "lng": 104.01091,
-   "wd": "Q217618"
+   "wd": "Q217618",
+   "aliases": [
+    "Jinsha site"
+   ]
   },
   {
    "name": "두보초당",
@@ -38,20 +47,26 @@
    "wd": "Q4390891"
   },
   {
-   "name": "Anshun Bridge",
+   "name": "안순교",
    "cat": "관광",
    "area": "",
    "lat": 30.64406,
    "lng": 104.08344,
-   "wd": "Q3366223"
+   "wd": "Q3366223",
+   "aliases": [
+    "Anshun Bridge"
+   ]
   },
   {
-   "name": "Mao Zedong Statue",
+   "name": "마오쩌둥 동상",
    "cat": "관광",
    "area": "",
    "lat": 30.65807,
    "lng": 104.06595,
-   "wd": "Q11880816"
+   "wd": "Q11880816",
+   "aliases": [
+    "Mao Zedong Statue"
+   ]
   },
   {
    "name": "무후사",
@@ -65,44 +80,59 @@
    "wd": "Q1069942"
   },
   {
-   "name": "Chengdu Huangcheng Mosque",
+   "name": "청두 황청 모스크",
    "cat": "관광",
    "area": "칭양구",
    "lat": 30.65917,
    "lng": 104.06056,
-   "wd": "Q976143"
+   "wd": "Q976143",
+   "aliases": [
+    "Chengdu Huangcheng Mosque"
+   ]
   },
   {
-   "name": "Immaculate Conception Cathedral",
+   "name": "청두 무염시태 대성당",
    "cat": "관광",
    "area": "칭양구",
    "lat": 30.66639,
    "lng": 104.05944,
-   "wd": "Q10281190"
+   "wd": "Q10281190",
+   "aliases": [
+    "Immaculate Conception Cathedral"
+   ]
   },
   {
-   "name": "Tomb of Wang Jian",
+   "name": "왕건 묘(영릉)",
    "cat": "관광",
    "area": "진뉴구",
    "lat": 30.67671,
    "lng": 104.04444,
-   "wd": "Q1540709"
+   "wd": "Q1540709",
+   "aliases": [
+    "Tomb of Wang Jian"
+   ]
   },
   {
-   "name": "Museum of Contemporary Art Chengdu",
+   "name": "청두 현대미술관",
    "cat": "관광",
    "area": "청두시",
    "lat": 30.55389,
    "lng": 104.04417,
-   "wd": "Q30588416"
+   "wd": "Q30588416",
+   "aliases": [
+    "Museum of Contemporary Art Chengdu"
+   ]
   },
   {
-   "name": "Chengdu Museum",
+   "name": "청두 박물관",
    "cat": "관광",
    "area": "청두시",
    "lat": 30.65973,
    "lng": 104.0612,
-   "wd": "Q55696247"
+   "wd": "Q55696247",
+   "aliases": [
+    "Chengdu Museum"
+   ]
   },
   {
    "name": "청양궁",
@@ -116,13 +146,14 @@
    "wd": "Q2121639"
   },
   {
-   "name": "Sichuan Museum",
+   "name": "쓰촨 박물관",
    "cat": "관광",
    "area": "칭양구",
    "lat": 30.66027,
    "lng": 104.03435,
    "wd": "Q10924774",
    "aliases": [
+    "Sichuan Museum",
     "四川博物院"
    ]
   },
@@ -138,220 +169,301 @@
    "wd": "Q16927648"
   },
   {
-   "name": "Daci Temple",
+   "name": "대자사",
    "cat": "관광",
    "area": "진장구",
    "lat": 30.657,
    "lng": 104.08141,
-   "wd": "Q9907170"
+   "wd": "Q9907170",
+   "aliases": [
+    "Daci Temple"
+   ]
   },
   {
-   "name": "Sichuan Science and Technology Museum",
+   "name": "쓰촨 과학기술관",
    "cat": "관광",
    "area": "칭양구",
    "lat": 30.66231,
    "lng": 104.06331,
-   "wd": "Q7507431"
+   "wd": "Q7507431",
+   "aliases": [
+    "Sichuan Science and Technology Museum"
+   ]
   },
   {
-   "name": "St. John's Church, Chengdu",
+   "name": "성 요한 교회",
    "cat": "관광",
    "area": "칭양구",
    "lat": 30.66357,
    "lng": 104.06783,
-   "wd": "Q10868216"
+   "wd": "Q10868216",
+   "aliases": [
+    "St. John's Church, Chengdu"
+   ]
   },
   {
-   "name": "Tianfu Square",
+   "name": "톈푸 광장",
    "cat": "관광",
    "area": "칭양구",
    "lat": 30.65988,
    "lng": 104.06333,
-   "wd": "Q10939558"
+   "wd": "Q10939558",
+   "aliases": [
+    "Tianfu Square"
+   ]
   },
   {
-   "name": "Joint tombs of boat-shaped coffins",
+   "name": "선관장 합장묘",
    "cat": "관광",
    "area": "칭양구",
    "lat": 30.66677,
    "lng": 104.05529,
-   "wd": "Q17025263"
+   "wd": "Q17025263",
+   "aliases": [
+    "Joint tombs of boat-shaped coffins"
+   ]
   },
   {
-   "name": "Gulou South Street Mosque",
+   "name": "구러우남가 모스크",
    "cat": "관광",
    "area": "칭양구",
    "lat": 30.66558,
    "lng": 104.06939,
-   "wd": "Q21018491"
+   "wd": "Q21018491",
+   "aliases": [
+    "Gulou South Street Mosque"
+   ]
   },
   {
-   "name": "Chengdu Culture Park",
+   "name": "청두 문화공원",
    "cat": "관광",
    "area": "칭양구",
    "lat": 30.66293,
    "lng": 104.04168,
-   "wd": "Q109690323"
+   "wd": "Q109690323",
+   "aliases": [
+    "Chengdu Culture Park"
+   ]
   },
   {
-   "name": "Sï-Shen-Tsï Methodist Church",
+   "name": "사성사 감리교회",
    "cat": "관광",
    "area": "진장구",
    "lat": 30.66281,
    "lng": 104.0852,
-   "wd": "Q9668845"
+   "wd": "Q9668845",
+   "aliases": [
+    "Sï-Shen-Tsï Methodist Church"
+   ]
   },
   {
-   "name": "Chengdu International Finance Center",
+   "name": "청두 IFS",
    "cat": "관광",
    "area": "Jinguanyi Subdistrict",
    "lat": 30.65778,
    "lng": 104.07894,
-   "wd": "Q12255787"
+   "wd": "Q12255787",
+   "aliases": [
+    "Chengdu International Finance Center"
+   ]
   },
   {
-   "name": "Fugan Temple",
+   "name": "복감사",
    "cat": "관광",
    "area": "",
    "lat": 30.6665,
    "lng": 104.0525,
-   "wd": "Q30308677"
+   "wd": "Q30308677",
+   "aliases": [
+    "Fugan Temple"
+   ]
   },
   {
-   "name": "Chengdu City Concert Hall",
+   "name": "청두 콘서트홀",
    "cat": "관광",
    "area": "청두시",
    "lat": 30.63855,
    "lng": 104.07718,
-   "wd": "Q85880151"
+   "wd": "Q85880151",
+   "aliases": [
+    "Chengdu City Concert Hall"
+   ]
   },
   {
-   "name": "Icon·Tianfu Concert Hall",
+   "name": "아이콘 톈푸 콘서트홀",
    "cat": "관광",
    "area": "청두시",
    "lat": 30.53869,
    "lng": 104.06847,
-   "wd": "Q124880870"
+   "wd": "Q124880870",
+   "aliases": [
+    "Icon·Tianfu Concert Hall"
+   ]
   },
   {
-   "name": "Shi'erqiao Site",
+   "name": "스얼차오 유적",
    "cat": "관광",
    "area": "칭양구",
    "lat": 30.66383,
    "lng": 104.04202,
-   "wd": "Q17022034"
+   "wd": "Q17022034",
+   "aliases": [
+    "Shi'erqiao Site"
+   ]
   },
   {
-   "name": "Donghuamen Site",
+   "name": "둥화먼 유적",
    "cat": "관광",
    "area": "칭양구",
    "lat": 30.66444,
    "lng": 104.06556,
-   "wd": "Q18111940"
+   "wd": "Q18111940",
+   "aliases": [
+    "Donghuamen Site"
+   ]
   },
   {
-   "name": "Erxian An",
+   "name": "이선암",
    "cat": "관광",
    "area": "칭양구",
    "lat": 30.6631,
    "lng": 104.0403,
-   "wd": "Q21017200"
+   "wd": "Q21017200",
+   "aliases": [
+    "Erxian An"
+   ]
   },
   {
-   "name": "Baihuatan Park",
+   "name": "바이화탄 공원",
    "cat": "관광",
    "area": "칭양구",
    "lat": 30.65868,
    "lng": 104.04144,
-   "wd": "Q67936052"
+   "wd": "Q67936052",
+   "aliases": [
+    "Baihuatan Park"
+   ]
   },
   {
-   "name": "Chengdu Natural History Museum",
+   "name": "청두 자연사박물관",
    "cat": "관광",
    "area": "청화구",
    "lat": 30.68071,
    "lng": 104.14189,
-   "wd": "Q136766716"
+   "wd": "Q136766716",
+   "aliases": [
+    "Chengdu Natural History Museum"
+   ]
   },
   {
-   "name": "Chenghan Tomb",
+   "name": "성한 묘",
    "cat": "관광",
    "area": "우허우구",
    "lat": 30.64485,
    "lng": 104.0571,
-   "wd": "Q117286788"
+   "wd": "Q117286788",
+   "aliases": [
+    "Chenghan Tomb"
+   ]
   },
   {
-   "name": "Jinsha Site Museum",
+   "name": "진사 유적 박물관",
    "cat": "관광",
    "area": "Jinsha Subdistrict",
    "lat": 30.68556,
    "lng": 104.01195,
-   "wd": "Q10564008"
+   "wd": "Q10564008",
+   "aliases": [
+    "Jinsha Site Museum"
+   ]
   },
   {
-   "name": "Chengdu Young Men's Christian Association",
+   "name": "청두 YMCA",
    "cat": "관광",
    "area": "진장구",
    "lat": 30.65885,
    "lng": 104.07591,
-   "wd": "Q21017630"
+   "wd": "Q21017630",
+   "aliases": [
+    "Chengdu Young Men's Christian Association"
+   ]
   },
   {
-   "name": "Liu Xiang Mausoleum",
+   "name": "류샹 묘",
    "cat": "관광",
    "area": "우허우구",
    "lat": 30.65042,
    "lng": 104.04541,
-   "wd": "Q17498760"
+   "wd": "Q17498760",
+   "aliases": [
+    "Liu Xiang Mausoleum"
+   ]
   },
   {
-   "name": "Cube Oceanarium",
+   "name": "큐브 수족관",
    "cat": "관광",
    "area": "청두시",
    "lat": 30.57569,
    "lng": 104.0643,
-   "wd": "Q110709440"
+   "wd": "Q110709440",
+   "aliases": [
+    "Cube Oceanarium"
+   ]
   },
   {
-   "name": "Sichuan Symphony Hall",
+   "name": "쓰촨 교향악홀",
    "cat": "관광",
    "area": "솽류 현",
    "lat": 30.51496,
    "lng": 104.08021,
-   "wd": "Q136351553"
+   "wd": "Q136351553",
+   "aliases": [
+    "Sichuan Symphony Hall"
+   ]
   },
   {
-   "name": "Tazishan Park",
+   "name": "타쯔산 공원",
    "cat": "관광",
    "area": "진장구",
    "lat": 30.63726,
    "lng": 104.12135,
-   "wd": "Q102328053"
+   "wd": "Q102328053",
+   "aliases": [
+    "Tazishan Park"
+   ]
   },
   {
-   "name": "Wàngjiānglóu Park",
+   "name": "왕장러우 공원",
    "cat": "관광",
    "area": "우허우구",
    "lat": 30.63189,
    "lng": 104.08988,
-   "wd": "Q113164674"
+   "wd": "Q113164674",
+   "aliases": [
+    "Wàngjiānglóu Park"
+   ]
   },
   {
-   "name": "SM City Chengdu",
+   "name": "SM 시티 청두",
    "cat": "쇼핑",
    "area": "",
    "lat": 30.67044,
    "lng": 104.11338,
-   "wd": "Q7391459"
+   "wd": "Q7391459",
+   "aliases": [
+    "SM City Chengdu"
+   ]
   },
   {
-   "name": "Chengdu Art Museum",
+   "name": "청두 미술관",
    "cat": "관광",
    "area": "",
    "lat": 30.66537,
    "lng": 104.05202,
-   "wd": "Q109905582"
+   "wd": "Q109905582",
+   "aliases": [
+    "Chengdu Art Museum"
+   ]
   }
  ]
 }

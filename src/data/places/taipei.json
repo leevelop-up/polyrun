@@ -25,12 +25,15 @@
    "wd": "Q540794"
   },
   {
-   "name": "Taipei Grand Mosque",
+   "name": "타이베이 그랜드 모스크",
    "cat": "관광",
    "area": "다안구",
    "lat": 25.02793,
    "lng": 121.53422,
-   "wd": "Q717882"
+   "wd": "Q717882",
+   "aliases": [
+    "Taipei Grand Mosque"
+   ]
   },
   {
    "name": "중화민국 총통부",
@@ -137,28 +140,37 @@
    "wd": "Q697177"
   },
   {
-   "name": "Taipei Cultural Mosque",
+   "name": "타이베이 문화 모스크",
    "cat": "관광",
    "area": "중정구",
    "lat": 25.01939,
    "lng": 121.52795,
-   "wd": "Q14319036"
+   "wd": "Q14319036",
+   "aliases": [
+    "Taipei Cultural Mosque"
+   ]
   },
   {
-   "name": "Taipei Confucian Temple",
+   "name": "타이베이 공자묘",
    "cat": "관광",
    "area": "다퉁구",
    "lat": 25.0729,
    "lng": 121.5166,
-   "wd": "Q136181"
+   "wd": "Q136181",
+   "aliases": [
+    "Taipei Confucian Temple"
+   ]
   },
   {
-   "name": "Ama Museum",
+   "name": "아마 박물관",
    "cat": "관광",
    "area": "다퉁구",
    "lat": 25.06445,
    "lng": 121.51807,
-   "wd": "Q24837610"
+   "wd": "Q24837610",
+   "aliases": [
+    "Ama Museum"
+   ]
   },
   {
    "name": "타이베이 시립미술관",
@@ -173,20 +185,26 @@
    "wd": "Q697319"
   },
   {
-   "name": "Daan Forest Park",
+   "name": "다안 삼림공원",
    "cat": "관광",
    "area": "다안구",
    "lat": 25.03018,
    "lng": 121.53569,
-   "wd": "Q114918"
+   "wd": "Q114918",
+   "aliases": [
+    "Daan Forest Park"
+   ]
   },
   {
-   "name": "Taipei Botanical Garden",
+   "name": "타이베이 식물원",
    "cat": "관광",
    "area": "중정구",
    "lat": 25.0323,
    "lng": 121.51,
-   "wd": "Q10914190"
+   "wd": "Q10914190",
+   "aliases": [
+    "Taipei Botanical Garden"
+   ]
   },
   {
    "name": "송산 자우궁",
@@ -200,12 +218,15 @@
    "wd": "Q701307"
   },
   {
-   "name": "National Human Rights Museum",
+   "name": "국가인권박물관",
    "cat": "관광",
    "area": "",
    "lat": 24.98771,
    "lng": 121.53223,
-   "wd": "Q10926802"
+   "wd": "Q10926802",
+   "aliases": [
+    "National Human Rights Museum"
+   ]
   },
   {
    "name": "미려화백락원",
@@ -220,12 +241,15 @@
    "wd": "Q699573"
   },
   {
-   "name": "Taipei Taiwan Temple",
+   "name": "타이베이 대만 성전",
    "cat": "관광",
    "area": "타이베이시",
    "lat": 25.0314,
    "lng": 121.528,
-   "wd": "Q717052"
+   "wd": "Q717052",
+   "aliases": [
+    "Taipei Taiwan Temple"
+   ]
   },
   {
    "name": "중산당",
@@ -252,20 +276,26 @@
    "wd": "Q7676322"
   },
   {
-   "name": "Immaculate Conception Cathedral, Taipei",
+   "name": "타이베이 무염시태 대성당",
    "cat": "관광",
    "area": "타이베이시",
    "lat": 25.05725,
    "lng": 121.51497,
-   "wd": "Q15354632"
+   "wd": "Q15354632",
+   "aliases": [
+    "Immaculate Conception Cathedral, Taipei"
+   ]
   },
   {
-   "name": "National Museum of History",
+   "name": "국립역사박물관",
    "cat": "관광",
    "area": "중정구",
    "lat": 25.03157,
    "lng": 121.5112,
-   "wd": "Q3330688"
+   "wd": "Q3330688",
+   "aliases": [
+    "National Museum of History"
+   ]
   },
   {
    "name": "국사관",
@@ -279,12 +309,15 @@
    "wd": "Q8016022"
   },
   {
-   "name": "Museum of Drinking Water",
+   "name": "타이베이 자래수 박물관",
    "cat": "관광",
    "area": "중정구",
    "lat": 25.01256,
    "lng": 121.53001,
-   "wd": "Q13499289"
+   "wd": "Q13499289",
+   "aliases": [
+    "Museum of Drinking Water"
+   ]
   },
   {
    "name": "타이베이 대교",
@@ -309,20 +342,26 @@
    "wd": "Q700862"
   },
   {
-   "name": "Bangka Qingshan Temple",
+   "name": "멍자 칭산궁",
    "cat": "관광",
    "area": "완화구",
    "lat": 25.04028,
    "lng": 121.50213,
-   "wd": "Q701295"
+   "wd": "Q701295",
+   "aliases": [
+    "Bangka Qingshan Temple"
+   ]
   },
   {
-   "name": "Huguo Chan Buddhist Temple of the Linji School",
+   "name": "임제호국선사",
    "cat": "관광",
    "area": "중산구",
    "lat": 25.0725,
    "lng": 121.52085,
-   "wd": "Q11612560"
+   "wd": "Q11612560",
+   "aliases": [
+    "Huguo Chan Buddhist Temple of the Linji School"
+   ]
   },
   {
    "name": "국민혁명충렬사",
@@ -348,12 +387,15 @@
    "wd": "Q697187"
   },
   {
-   "name": "Chunghwa Postal Museum",
+   "name": "중화우정박물관",
    "cat": "관광",
    "area": "중정구",
    "lat": 25.03167,
    "lng": 121.51481,
-   "wd": "Q5116373"
+   "wd": "Q5116373",
+   "aliases": [
+    "Chunghwa Postal Museum"
+   ]
   },
   {
    "name": "베이먼",
@@ -379,52 +421,70 @@
    "wd": "Q10923449"
   },
   {
-   "name": "National Taiwan Science Education Center",
+   "name": "국립대만과학교육관",
    "cat": "관광",
    "area": "스린구",
    "lat": 25.09611,
    "lng": 121.51667,
-   "wd": "Q10927242"
+   "wd": "Q10927242",
+   "aliases": [
+    "National Taiwan Science Education Center"
+   ]
   },
   {
-   "name": "Bihu Park",
+   "name": "비후 공원",
    "cat": "관광",
    "area": "네이후구",
    "lat": 25.0826,
    "lng": 121.583,
-   "wd": "Q15940899"
+   "wd": "Q15940899",
+   "aliases": [
+    "Bihu Park"
+   ]
   },
   {
-   "name": "Taipei Tianhou Temple",
+   "name": "타이베이 천후궁",
    "cat": "관광",
    "area": "완화구",
    "lat": 25.04279,
    "lng": 121.50633,
-   "wd": "Q2313150"
+   "wd": "Q2313150",
+   "aliases": [
+    "Taipei Tianhou Temple"
+   ]
   },
   {
-   "name": "Bopiliao",
+   "name": "보피랴오 역사거리",
    "cat": "관광",
    "area": "완화구",
    "lat": 25.03639,
    "lng": 121.50139,
-   "wd": "Q10899202"
+   "wd": "Q10899202",
+   "aliases": [
+    "Bopiliao"
+   ]
   },
   {
-   "name": "Lin Family Mansion and Garden",
+   "name": "린자화위안(임가화원)",
    "cat": "관광",
    "area": "반차오구",
    "lat": 25.01028,
    "lng": 121.45556,
-   "wd": "Q6550027"
+   "wd": "Q6550027",
+   "aliases": [
+    "Lin Family Mansion and Garden"
+   ]
   },
   {
-   "name": "Dalongdong Baoan Temple",
+   "name": "다룽둥 바오안궁",
    "cat": "관광",
    "area": "Bao'an Village",
    "lat": 25.07318,
    "lng": 121.51556,
-   "wd": "Q699348"
+   "wd": "Q699348",
+   "aliases": [
+    "Dalongdong Baoan Temple"
+   ]
   },
   {
    "name": "시먼 홍루",
@@ -449,12 +509,15 @@
    "wd": "Q5364661"
   },
   {
-   "name": "Taipei City Wall-East Gate",
+   "name": "타이베이 성곽 동문",
    "cat": "관광",
    "area": "타이베이시",
    "lat": 25.03902,
    "lng": 121.51766,
-   "wd": "Q15909604"
+   "wd": "Q15909604",
+   "aliases": [
+    "Taipei City Wall-East Gate"
+   ]
   },
   {
    "name": "국군역사문물관",
@@ -479,36 +542,48 @@
    "wd": "Q7676310"
   },
   {
-   "name": "Judicial Yuan Building",
+   "name": "사법원 청사",
    "cat": "관광",
    "area": "중정구",
    "lat": 25.03797,
    "lng": 121.51213,
-   "wd": "Q10916553"
+   "wd": "Q10916553",
+   "aliases": [
+    "Judicial Yuan Building"
+   ]
   },
   {
-   "name": "Museum of Medical Humanities",
+   "name": "의학인문박물관",
    "cat": "관광",
    "area": "중정구",
    "lat": 25.03944,
    "lng": 121.51944,
-   "wd": "Q10927230"
+   "wd": "Q10927230",
+   "aliases": [
+    "Museum of Medical Humanities"
+   ]
   },
   {
-   "name": "New Taipei Bridge",
+   "name": "신타이베이 대교",
    "cat": "관광",
    "area": "신베이시",
    "lat": 25.0471,
    "lng": 121.496,
-   "wd": "Q11081294"
+   "wd": "Q11081294",
+   "aliases": [
+    "New Taipei Bridge"
+   ]
   },
   {
-   "name": "Jieshou Park",
+   "name": "제서우 공원",
    "cat": "관광",
    "area": "중정구",
    "lat": 25.0392,
    "lng": 121.514,
-   "wd": "Q16892918"
+   "wd": "Q16892918",
+   "aliases": [
+    "Jieshou Park"
+   ]
   },
   {
    "name": "순이 타이완 원주민 박물관",
@@ -535,28 +610,37 @@
    "wd": "Q6146055"
   },
   {
-   "name": "Taipei Astronomical Museum",
+   "name": "타이베이 천문관",
    "cat": "관광",
    "area": "스린구",
    "lat": 25.0958,
    "lng": 121.518,
-   "wd": "Q13511804"
+   "wd": "Q13511804",
+   "aliases": [
+    "Taipei Astronomical Museum"
+   ]
   },
   {
-   "name": "Dahu Park",
+   "name": "다후 공원",
    "cat": "관광",
    "area": "네이후구",
    "lat": 25.08222,
    "lng": 121.60472,
-   "wd": "Q10936501"
+   "wd": "Q10936501",
+   "aliases": [
+    "Dahu Park"
+   ]
   },
   {
-   "name": "Lingnan Fine Arts Museum",
+   "name": "링난 미술관",
    "cat": "관광",
    "area": "난강구",
    "lat": 25.04028,
    "lng": 121.615,
-   "wd": "Q15242423"
+   "wd": "Q15242423",
+   "aliases": [
+    "Lingnan Fine Arts Museum"
+   ]
   },
   {
    "name": "린안타이구춰",
@@ -581,12 +665,15 @@
    "wd": "Q699324"
   },
   {
-   "name": "New Taipei City Yi Tien Temple",
+   "name": "신베이 이톈궁",
    "cat": "관광",
    "area": "",
    "lat": 25.07615,
    "lng": 121.48363,
-   "wd": "Q10867046"
+   "wd": "Q10867046",
+   "aliases": [
+    "New Taipei City Yi Tien Temple"
+   ]
   },
   {
    "name": "다쟈 리버사이드 파크",
@@ -611,132 +698,169 @@
    "wd": "Q6505219"
   },
   {
-   "name": "Museum of Anthropology",
+   "name": "인류학박물관",
    "cat": "관광",
    "area": "타이베이시",
    "lat": 25.01778,
    "lng": 121.53472,
-   "wd": "Q15909420"
+   "wd": "Q15909420",
+   "aliases": [
+    "Museum of Anthropology"
+   ]
   },
   {
-   "name": "LaLaport Taipei-Nangang",
+   "name": "라라포트 타이베이 난강",
    "cat": "쇼핑",
    "area": "타이베이시",
    "lat": 25.05958,
    "lng": 121.6175,
-   "wd": "Q48901384"
+   "wd": "Q48901384",
+   "aliases": [
+    "LaLaport Taipei-Nangang"
+   ]
   },
   {
-   "name": "Church of the Good Shepherd",
+   "name": "선한 목자 교회",
    "cat": "관광",
    "area": "타이베이시",
    "lat": 25.09111,
    "lng": 121.5175,
-   "wd": "Q96375031"
+   "wd": "Q96375031",
+   "aliases": [
+    "Church of the Good Shepherd"
+   ]
   },
   {
-   "name": "Taiwan Education Association Building",
+   "name": "대만교육회관(228 국가기념관)",
    "cat": "관광",
    "area": "중정구",
    "lat": 25.0316,
    "lng": 121.514,
-   "wd": "Q4391002"
+   "wd": "Q4391002",
+   "aliases": [
+    "Taiwan Education Association Building"
+   ]
   },
   {
-   "name": "Nanhai Academy",
+   "name": "난하이 학원",
    "cat": "관광",
    "area": "중정구",
    "lat": 25.03196,
    "lng": 121.51142,
-   "wd": "Q6963577"
+   "wd": "Q6963577",
+   "aliases": [
+    "Nanhai Academy"
+   ]
   },
   {
-   "name": "Taipei Futai Street Mansion",
+   "name": "타이베이 푸타이가 저택",
    "cat": "관광",
    "area": "중정구",
    "lat": 25.0467,
    "lng": 121.511,
-   "wd": "Q7676292"
+   "wd": "Q7676292",
+   "aliases": [
+    "Taipei Futai Street Mansion"
+   ]
   },
   {
-   "name": "Former residence of Chia-kan Yen",
+   "name": "옌자간 옛집",
    "cat": "관광",
    "area": "중정구",
    "lat": 25.03494,
    "lng": 121.51219,
-   "wd": "Q10924367"
+   "wd": "Q10924367",
+   "aliases": [
+    "Former residence of Chia-kan Yen"
+   ]
   },
   {
-   "name": "Evergreen Maritime Museum",
+   "name": "에버그린 해양박물관",
    "cat": "관광",
    "area": "중정구",
    "lat": 25.03861,
    "lng": 121.51889,
-   "wd": "Q14920625"
+   "wd": "Q14920625",
+   "aliases": [
+    "Evergreen Maritime Museum"
+   ]
   },
   {
-   "name": "Sun Yun-suan Memorial Museum",
+   "name": "쑨윈쉬안 기념관",
    "cat": "관광",
    "area": "중정구",
    "lat": 25.03357,
    "lng": 121.51155,
-   "wd": "Q22097591"
+   "wd": "Q22097591",
+   "aliases": [
+    "Sun Yun-suan Memorial Museum"
+   ]
   },
   {
-   "name": "Weiming Tang",
+   "name": "웨이밍탕",
    "cat": "관광",
    "area": "신베이시",
    "lat": 24.99806,
    "lng": 121.50694,
-   "wd": "Q120069113"
+   "wd": "Q120069113",
+   "aliases": [
+    "Weiming Tang"
+   ]
   },
   {
-   "name": "Beitou Refuse Incineration Plant",
-   "cat": "관광",
-   "area": "베이터우구",
-   "lat": 25.108,
-   "lng": 121.49997,
-   "wd": "Q22097585"
-  },
-  {
-   "name": "Chinese Culture and Movie Center",
+   "name": "중화문화영화센터",
    "cat": "관광",
    "area": "스린구",
    "lat": 25.09698,
    "lng": 121.54535,
-   "wd": "Q5100431"
+   "wd": "Q5100431",
+   "aliases": [
+    "Chinese Culture and Movie Center"
+   ]
   },
   {
-   "name": "Shuangxi Park and Chinese Garden",
+   "name": "솽시 공원과 중국 정원",
    "cat": "관광",
    "area": "스린구",
    "lat": 25.09803,
    "lng": 121.53488,
-   "wd": "Q7504511"
+   "wd": "Q7504511",
+   "aliases": [
+    "Shuangxi Park and Chinese Garden"
+   ]
   },
   {
-   "name": "Shilin Shennong Temple",
+   "name": "스린 선농궁",
    "cat": "관광",
    "area": "스린구",
    "lat": 25.09786,
    "lng": 121.52632,
-   "wd": "Q9795144"
+   "wd": "Q9795144",
+   "aliases": [
+    "Shilin Shennong Temple"
+   ]
   },
   {
-   "name": "Children's Art Museum in Taipei",
+   "name": "타이베이 어린이 미술관",
    "cat": "관광",
    "area": "스린구",
    "lat": 25.11778,
    "lng": 121.52444,
-   "wd": "Q15209671"
+   "wd": "Q15209671",
+   "aliases": [
+    "Children's Art Museum in Taipei"
+   ]
   },
   {
-   "name": "Customs Museum",
+   "name": "관세 박물관",
    "cat": "관광",
    "area": "다퉁구",
    "lat": 25.05139,
    "lng": 121.51056,
-   "wd": "Q15212225"
+   "wd": "Q15212225",
+   "aliases": [
+    "Customs Museum"
+   ]
   },
   {
    "name": "Q 스퀘어",
@@ -750,36 +874,48 @@
    "wd": "Q20731280"
   },
   {
-   "name": "Taipei Children's Amusement Park",
+   "name": "타이베이 어린이 놀이공원",
    "cat": "관광",
    "area": "스린구",
    "lat": 25.0972,
    "lng": 121.515,
-   "wd": "Q21139624"
+   "wd": "Q21139624",
+   "aliases": [
+    "Taipei Children's Amusement Park"
+   ]
   },
   {
-   "name": "Taipei Music Center",
+   "name": "타이베이 뮤직센터",
    "cat": "관광",
    "area": "난강구",
    "lat": 25.05163,
    "lng": 121.59939,
-   "wd": "Q7676273"
+   "wd": "Q7676273",
+   "aliases": [
+    "Taipei Music Center"
+   ]
   },
   {
-   "name": "Taiwan Stock Museum",
+   "name": "대만 증권박물관",
    "cat": "관광",
    "area": "쑹산구",
    "lat": 25.06108,
    "lng": 121.5445,
-   "wd": "Q17499633"
+   "wd": "Q17499633",
+   "aliases": [
+    "Taiwan Stock Museum"
+   ]
   },
   {
-   "name": "Fudekeng Environmental Restoration Park",
+   "name": "푸더컹 환경복원공원",
    "cat": "관광",
    "area": "원산구",
    "lat": 25.01015,
    "lng": 121.58825,
-   "wd": "Q15931085"
+   "wd": "Q15931085",
+   "aliases": [
+    "Fudekeng Environmental Restoration Park"
+   ]
   },
   {
    "name": "징메이 인권문화공원",
@@ -793,84 +929,114 @@
    "wd": "Q11090153"
   },
   {
-   "name": "Linsen Park",
+   "name": "린썬 공원",
    "cat": "관광",
    "area": "중산구",
    "lat": 25.05304,
    "lng": 121.52652,
-   "wd": "Q11106375"
+   "wd": "Q11106375",
+   "aliases": [
+    "Linsen Park"
+   ]
   },
   {
-   "name": "New Taipei Metropolitan Park",
+   "name": "신베이 대도시공원",
    "cat": "관광",
    "area": "루저우구",
    "lat": 25.05567,
    "lng": 121.48152,
-   "wd": "Q9948683"
+   "wd": "Q9948683",
+   "aliases": [
+    "New Taipei Metropolitan Park"
+   ]
   },
   {
-   "name": "Xinzhuang Temple of Goddess of Mercy",
+   "name": "신좡 관음사",
    "cat": "관광",
    "area": "신좡구",
    "lat": 25.03453,
    "lng": 121.45279,
-   "wd": "Q11084227"
+   "wd": "Q11084227",
+   "aliases": [
+    "Xinzhuang Temple of Goddess of Mercy"
+   ]
   },
   {
-   "name": "Museum of World Religions",
+   "name": "세계종교박물관",
    "cat": "관광",
    "area": "융허구",
    "lat": 25.00806,
    "lng": 121.50778,
-   "wd": "Q6941061"
+   "wd": "Q6941061",
+   "aliases": [
+    "Museum of World Religions"
+   ]
   },
   {
-   "name": "Taipei 228 Memorial Museum",
+   "name": "타이베이 228 기념관",
    "cat": "관광",
    "area": "Liming Village",
    "lat": 25.0404,
    "lng": 121.51556,
-   "wd": "Q19853356"
+   "wd": "Q19853356",
+   "aliases": [
+    "Taipei 228 Memorial Museum"
+   ]
   },
   {
-   "name": "Taiwan Governor Museum",
+   "name": "대만 총독박물관",
    "cat": "관광",
    "area": "",
    "lat": 25.04277,
    "lng": 121.51502,
-   "wd": "Q113807984"
+   "wd": "Q113807984",
+   "aliases": [
+    "Taiwan Governor Museum"
+   ]
   },
   {
-   "name": "Shilin Cixian Temple",
+   "name": "스린 츠셴궁",
    "cat": "관광",
    "area": "Yixin Village",
    "lat": 25.08957,
    "lng": 121.52467,
-   "wd": "Q10931499"
+   "wd": "Q10931499",
+   "aliases": [
+    "Shilin Cixian Temple"
+   ]
   },
   {
-   "name": "Chin Shan Yen Hui Chi Temple",
+   "name": "진산 옌후이지사",
    "cat": "관광",
    "area": "Mingshan Village",
    "lat": 25.1032,
    "lng": 121.53083,
-   "wd": "Q15909498"
+   "wd": "Q15909498",
+   "aliases": [
+    "Chin Shan Yen Hui Chi Temple"
+   ]
   },
   {
-   "name": "Xizhi Gongbei Temple",
+   "name": "시즈 궁베이궁",
    "cat": "관광",
    "area": "Hongnei Village",
    "lat": 25.09449,
    "lng": 121.64216,
-   "wd": "Q16929064"
+   "wd": "Q16929064",
+   "aliases": [
+    "Xizhi Gongbei Temple"
+   ]
   },
   {
-   "name": "Nanxing Park",
+   "name": "난싱 공원",
    "cat": "관광",
    "area": "Nangang Village",
    "lat": 25.0541,
    "lng": 121.607,
-   "wd": "Q18128503"
+   "wd": "Q18128503",
+   "aliases": [
+    "Nanxing Park"
+   ]
   },
   {
    "name": "중산 지하가",
@@ -884,28 +1050,37 @@
    "wd": "Q5360473"
   },
   {
-   "name": "Breeze Nanjing",
+   "name": "브리즈 난징",
    "cat": "쇼핑",
    "area": "",
    "lat": 25.05206,
    "lng": 121.54776,
-   "wd": "Q10851561"
+   "wd": "Q10851561",
+   "aliases": [
+    "Breeze Nanjing"
+   ]
   },
   {
-   "name": "Qidong Street Japanese Houses",
+   "name": "치둥가 일식 가옥",
    "cat": "관광",
    "area": "타이베이시",
    "lat": 25.04116,
    "lng": 121.52848,
-   "wd": "Q3353078"
+   "wd": "Q3353078",
+   "aliases": [
+    "Qidong Street Japanese Houses"
+   ]
   },
   {
-   "name": "Miniatures Museum of Taiwan",
+   "name": "대만 미니어처 박물관",
    "cat": "관광",
    "area": "타이베이시",
    "lat": 25.05034,
    "lng": 121.53614,
-   "wd": "Q6865171"
+   "wd": "Q6865171",
+   "aliases": [
+    "Miniatures Museum of Taiwan"
+   ]
   },
   {
    "name": "ATT 4 FUN",
@@ -913,15 +1088,21 @@
    "area": "타이베이시",
    "lat": 25.03548,
    "lng": 121.566,
-   "wd": "Q10846375"
+   "wd": "Q10846375",
+   "aliases": [
+    "ATT 4 FUN"
+   ]
   },
   {
-   "name": "City Hall Square (Taipei City)",
+   "name": "타이베이 시청 광장",
    "cat": "관광",
    "area": "타이베이시",
    "lat": 25.03832,
    "lng": 121.56294,
-   "wd": "Q11059499"
+   "wd": "Q11059499",
+   "aliases": [
+    "City Hall Square (Taipei City)"
+   ]
   }
  ]
 }

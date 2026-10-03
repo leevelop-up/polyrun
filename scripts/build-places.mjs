@@ -111,6 +111,8 @@ const EXCLUDE = [
 const readJson = (url, fallback) => (existsSync(url) ? JSON.parse(readFileSync(url, 'utf8')) : fallback);
 const cities = readJson(CITIES, []);
 const curated = readJson(CURATED, {});
+// 위키데이터에 한국어 이름이 없는 곳의 번역 (QID → 이름, '-' 는 관광지가 아니라 뺌)
+const KO_NAMES = readJson(new URL('./ko-names.json', import.meta.url), {});
 mkdirSync(OUT_DIR, { recursive: true });
 mkdirSync(CACHE_DIR, { recursive: true });
 
@@ -243,7 +245,8 @@ const buildCity = async (city) => {
     seenItems.add(wd);
     const ko = b.ko?.value;
     const en = b.en?.value;
-    const name = ko || en;
+    if (!ko && KO_NAMES[wd] === '-') continue;
+    const name = ko || KO_NAMES[wd] || en;
     if (!name || /^Q\d+$/.test(name)) continue;
     const m = /Point\(([-\d.eE]+) ([-\d.eE]+)\)/.exec(b.coord.value);
     if (!m) continue;

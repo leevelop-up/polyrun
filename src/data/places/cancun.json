@@ -3,108 +3,136 @@
  "builtAt": "2026-10-03",
  "picks": [
   {
-   "name": "Cancun Underwater Museum",
+   "name": "칸쿤 수중박물관(MUSA)",
    "cat": "관광",
    "area": "캉쿤",
    "lat": 21.0763,
    "lng": -86.8463,
-   "wd": "Q5031539"
+   "wd": "Q5031539",
+   "aliases": [
+    "Cancun Underwater Museum"
+   ]
   },
   {
-   "name": "El Meco",
+   "name": "엘 메코 유적",
    "cat": "관광",
    "area": "킨타나로오주",
    "lat": 21.21083,
    "lng": -86.80417,
-   "wd": "Q1324311"
+   "wd": "Q1324311",
+   "aliases": [
+    "El Meco"
+   ]
   },
   {
-   "name": "Costa Occidental de Isla Mujeres, Punta Cancún y Punta Nizuc National Park",
+   "name": "이슬라 무헤레스·푼타 칸쿤 해양국립공원",
    "cat": "관광",
    "area": "킨타나로오주",
    "lat": 21.18056,
    "lng": -86.75833,
-   "wd": "Q6062968"
+   "wd": "Q6062968",
+   "aliases": [
+    "Costa Occidental de Isla Mujeres, Punta Cancún y Punta Nizuc National Park"
+   ]
   },
   {
-   "name": "Hotel Zone",
+   "name": "호텔 존",
    "cat": "관광",
    "area": "캉쿤",
    "lat": 21.13444,
    "lng": -86.74611,
-   "wd": "Q134996543"
+   "wd": "Q134996543",
+   "aliases": [
+    "Hotel Zone"
+   ]
   },
   {
-   "name": "Plaza Las Américas",
+   "name": "플라사 라스 아메리카스",
    "cat": "쇼핑",
    "area": "캉쿤",
    "lat": 21.14717,
    "lng": -86.82394,
-   "wd": "Q124408564"
+   "wd": "Q124408564",
+   "aliases": [
+    "Plaza Las Américas"
+   ]
   },
   {
-   "name": "Punta Cancun Lighthouse",
+   "name": "푼타 칸쿤 등대",
    "cat": "관광",
    "area": "킨타나로오주",
    "lat": 21.138,
    "lng": -86.7407,
-   "wd": "Q28806956"
+   "wd": "Q28806956",
+   "aliases": [
+    "Punta Cancun Lighthouse"
+   ]
   },
   {
-   "name": "Nichupté Vehicular Bridge",
+   "name": "니춥테 다리",
    "cat": "관광",
    "area": "Benito Juárez Municipality",
    "lat": 21.13389,
    "lng": -86.80347,
-   "wd": "Q121375664"
+   "wd": "Q121375664",
+   "aliases": [
+    "Nichupté Vehicular Bridge"
+   ]
   },
   {
-   "name": "Yamil Lu'um",
+   "name": "야밀 루움 유적",
    "cat": "관광",
    "area": "",
    "lat": 21.11028,
    "lng": -86.76028,
-   "wd": "Q131441938"
+   "wd": "Q131441938",
+   "aliases": [
+    "Yamil Lu'um"
+   ]
   },
   {
-   "name": "Pok Ta Pok",
+   "name": "폭타폭 유적",
    "cat": "관광",
    "area": "",
    "lat": 21.12539,
    "lng": -86.76647,
-   "wd": "Q135922902"
+   "wd": "Q135922902",
+   "aliases": [
+    "Pok Ta Pok"
+   ]
   },
   {
-   "name": "Ni'Ku'",
-   "cat": "관광",
-   "area": "",
-   "lat": 21.13634,
-   "lng": -86.74092,
-   "wd": "Q140826495"
-  },
-  {
-   "name": "Cathedral of the Most Holy Trinity",
+   "name": "성 삼위일체 대성당",
    "cat": "관광",
    "area": "캉쿤",
    "lat": 21.15719,
    "lng": -86.84256,
-   "wd": "Q123560921"
+   "wd": "Q123560921",
+   "aliases": [
+    "Cathedral of the Most Holy Trinity"
+   ]
   },
   {
-   "name": "Playa El Cocal",
+   "name": "엘 코칼 비치",
    "cat": "관광",
    "area": "",
    "lat": 21.26056,
    "lng": -86.75417,
-   "wd": "Q27774952"
+   "wd": "Q27774952",
+   "aliases": [
+    "Playa El Cocal"
+   ]
   },
   {
-   "name": "Playa Ancha",
+   "name": "앙차 비치",
    "cat": "관광",
    "area": "",
    "lat": 21.13611,
    "lng": -86.75417,
-   "wd": "Q27775005"
+   "wd": "Q27775005",
+   "aliases": [
+    "Playa Ancha"
+   ]
   }
  ]
 }

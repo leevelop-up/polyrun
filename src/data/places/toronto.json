@@ -59,28 +59,37 @@
    "wd": "Q1814534"
   },
   {
-   "name": "Bata Shoe Museum",
+   "name": "바타 신발 박물관",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.66728,
    "lng": -79.40011,
-   "wd": "Q810693"
+   "wd": "Q810693",
+   "aliases": [
+    "Bata Shoe Museum"
+   ]
   },
   {
-   "name": "Canada's Walk of Fame",
+   "name": "캐나다 명예의 거리",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6471,
    "lng": -79.38705,
-   "wd": "Q857933"
+   "wd": "Q857933",
+   "aliases": [
+    "Canada's Walk of Fame"
+   ]
   },
   {
-   "name": "The Aga Khan Museum",
+   "name": "아가 칸 박물관",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.7253,
    "lng": -79.33199,
-   "wd": "Q4690937"
+   "wd": "Q4690937",
+   "aliases": [
+    "The Aga Khan Museum"
+   ]
   },
   {
    "name": "하이 파크",
@@ -105,52 +114,70 @@
    "wd": "Q1315374"
   },
   {
-   "name": "Nathan Phillips Square",
+   "name": "네이선 필립스 광장",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6525,
    "lng": -79.38361,
-   "wd": "Q2915521"
+   "wd": "Q2915521",
+   "aliases": [
+    "Nathan Phillips Square"
+   ]
   },
   {
-   "name": "St. Michael's Cathedral",
+   "name": "세인트 마이클 대성당",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.655,
    "lng": -79.377,
-   "wd": "Q2942399"
+   "wd": "Q2942399",
+   "aliases": [
+    "St. Michael's Cathedral"
+   ]
   },
   {
-   "name": "Queen's Park",
+   "name": "퀸스 파크",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6647,
    "lng": -79.3925,
-   "wd": "Q1419018"
+   "wd": "Q1419018",
+   "aliases": [
+    "Queen's Park"
+   ]
   },
   {
-   "name": "Mel Lastman Square",
+   "name": "멜 래스트먼 광장",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.76826,
    "lng": -79.41302,
-   "wd": "Q6810763"
+   "wd": "Q6810763",
+   "aliases": [
+    "Mel Lastman Square"
+   ]
   },
   {
-   "name": "Massey Hall",
+   "name": "매시 홀",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.65417,
    "lng": -79.37903,
-   "wd": "Q1122776"
+   "wd": "Q1122776",
+   "aliases": [
+    "Massey Hall"
+   ]
   },
   {
-   "name": "Jami Mosque",
+   "name": "자미 모스크",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6532,
    "lng": -79.4545,
-   "wd": "Q6146372"
+   "wd": "Q6146372",
+   "aliases": [
+    "Jami Mosque"
+   ]
   },
   {
    "name": "요크 요새",
@@ -175,660 +202,697 @@
    "wd": "Q2110325"
   },
   {
-   "name": "Hanlan's Point Beach",
+   "name": "핸런스 포인트 비치",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6153,
    "lng": -79.3911,
-   "wd": "Q5648577"
+   "wd": "Q5648577",
+   "aliases": [
+    "Hanlan's Point Beach"
+   ]
   },
   {
-   "name": "Ontario Place",
+   "name": "온타리오 플레이스",
    "cat": "관광",
    "area": "온타리오주",
    "lat": 43.62899,
    "lng": -79.41505,
-   "wd": "Q935388"
+   "wd": "Q935388",
+   "aliases": [
+    "Ontario Place"
+   ]
   },
   {
-   "name": "Gardiner Museum",
+   "name": "가디너 도자기 박물관",
    "cat": "관광",
    "area": "온타리오주",
    "lat": 43.6682,
    "lng": -79.3932,
-   "wd": "Q2043270"
+   "wd": "Q2043270",
+   "aliases": [
+    "Gardiner Museum"
+   ]
   },
   {
-   "name": "Ontario Science Centre",
+   "name": "온타리오 과학센터",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.7167,
    "lng": -79.3383,
-   "wd": "Q1500067"
+   "wd": "Q1500067",
+   "aliases": [
+    "Ontario Science Centre"
+   ]
   },
   {
-   "name": "Allan Gardens",
+   "name": "앨런 가든",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.66167,
    "lng": -79.37444,
-   "wd": "Q1635335"
+   "wd": "Q1635335",
+   "aliases": [
+    "Allan Gardens"
+   ]
   },
   {
-   "name": "Fort Rouillé",
+   "name": "루이예 요새 터",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.63056,
    "lng": -79.42361,
-   "wd": "Q3078009"
+   "wd": "Q3078009",
+   "aliases": [
+    "Fort Rouillé"
+   ]
   },
   {
-   "name": "St. Paul's Basilica",
+   "name": "세인트 폴 대성당",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6556,
    "lng": -79.3628,
-   "wd": "Q4505091"
+   "wd": "Q4505091",
+   "aliases": [
+    "St. Paul's Basilica"
+   ]
   },
   {
-   "name": "Elgin Theatre",
+   "name": "엘긴 극장",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6531,
    "lng": -79.3792,
-   "wd": "Q5360073"
+   "wd": "Q5360073",
+   "aliases": [
+    "Elgin Theatre"
+   ]
   },
   {
-   "name": "St. John's Cathedral",
-   "cat": "관광",
-   "area": "토론토",
-   "lat": 43.6397,
-   "lng": -79.4326,
-   "wd": "Q913830"
-  },
-  {
-   "name": "Christie Pits",
+   "name": "크리스티 핏츠 공원",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6647,
    "lng": -79.4208,
-   "wd": "Q2965849"
+   "wd": "Q2965849",
+   "aliases": [
+    "Christie Pits"
+   ]
   },
   {
-   "name": "Royal Alexandra Theatre",
+   "name": "로열 알렉산드라 극장",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6472,
    "lng": -79.3875,
-   "wd": "Q3527553"
+   "wd": "Q3527553",
+   "aliases": [
+    "Royal Alexandra Theatre"
+   ]
   },
   {
-   "name": "Cinesphere",
+   "name": "시네스피어",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.62764,
    "lng": -79.41819,
-   "wd": "Q5120894"
+   "wd": "Q5120894",
+   "aliases": [
+    "Cinesphere"
+   ]
   },
   {
-   "name": "Downsview Park",
+   "name": "다운스뷰 공원",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.7418,
    "lng": -79.4815,
-   "wd": "Q5303309"
+   "wd": "Q5303309",
+   "aliases": [
+    "Downsview Park"
+   ]
   },
   {
-   "name": "Fairview Mall",
+   "name": "페어뷰 몰",
    "cat": "쇼핑",
    "area": "토론토",
    "lat": 43.77778,
    "lng": -79.34444,
-   "wd": "Q5430835"
+   "wd": "Q5430835",
+   "aliases": [
+    "Fairview Mall"
+   ]
   },
   {
-   "name": "Princess of Wales Theatre",
+   "name": "프린세스 오브 웨일스 극장",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6469,
    "lng": -79.3894,
-   "wd": "Q7244906"
+   "wd": "Q7244906",
+   "aliases": [
+    "Princess of Wales Theatre"
+   ]
   },
   {
-   "name": "Cherry Beach",
+   "name": "체리 비치",
    "cat": "관광",
    "area": "온타리오주",
    "lat": 43.63694,
    "lng": -79.34444,
-   "wd": "Q5092280"
+   "wd": "Q5092280",
+   "aliases": [
+    "Cherry Beach"
+   ]
   },
   {
-   "name": "Italian Walk of Fame",
+   "name": "이탈리아 명예의 거리",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6551,
    "lng": -79.4147,
-   "wd": "Q776096"
+   "wd": "Q776096",
+   "aliases": [
+    "Italian Walk of Fame"
+   ]
   },
   {
-   "name": "Humber Bay Park",
+   "name": "험버 베이 공원",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6205,
    "lng": -79.4779,
-   "wd": "Q3143165"
+   "wd": "Q3143165",
+   "aliases": [
+    "Humber Bay Park"
+   ]
   },
   {
-   "name": "St. Clement of Ohrid Macedonian Orthodox Cathedral",
+   "name": "성 클레멘트 마케도니아 정교회 대성당",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.7086,
    "lng": -79.3411,
-   "wd": "Q3401291"
+   "wd": "Q3401291",
+   "aliases": [
+    "St. Clement of Ohrid Macedonian Orthodox Cathedral"
+   ]
   },
   {
-   "name": "Church of the Holy Trinity",
+   "name": "성 삼위일체 교회",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.65472,
    "lng": -79.38167,
-   "wd": "Q3585843"
+   "wd": "Q3585843",
+   "aliases": [
+    "Church of the Holy Trinity"
+   ]
   },
   {
-   "name": "Centreville Amusement Park",
+   "name": "센터빌 놀이공원",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6203,
    "lng": -79.3737,
-   "wd": "Q5062718"
+   "wd": "Q5062718",
+   "aliases": [
+    "Centreville Amusement Park"
+   ]
   },
   {
-   "name": "Ed Mirvish Theatre",
+   "name": "에드 미르비시 극장",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.655,
    "lng": -79.3797,
-   "wd": "Q5335183"
+   "wd": "Q5335183",
+   "aliases": [
+    "Ed Mirvish Theatre"
+   ]
   },
   {
-   "name": "The Image Centre",
+   "name": "이미지 센터",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.65806,
    "lng": -79.37889,
-   "wd": "Q7385034"
+   "wd": "Q7385034",
+   "aliases": [
+    "The Image Centre"
+   ]
   },
   {
-   "name": "St. Anne's Anglican Church",
+   "name": "세인트 앤 교회",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6506,
    "lng": -79.43068,
-   "wd": "Q7587022"
+   "wd": "Q7587022",
+   "aliases": [
+    "St. Anne's Anglican Church"
+   ]
   },
   {
-   "name": "Sunnybrook Park",
+   "name": "서니브룩 공원",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.7237,
    "lng": -79.3591,
-   "wd": "Q7640791"
+   "wd": "Q7640791",
+   "aliases": [
+    "Sunnybrook Park"
+   ]
   },
   {
-   "name": "Ripley's Aquarium of Canada",
+   "name": "리플리 캐나다 아쿠아리움",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.64248,
    "lng": -79.38605,
-   "wd": "Q14875406"
+   "wd": "Q14875406",
+   "aliases": [
+    "Ripley's Aquarium of Canada"
+   ]
   },
   {
-   "name": "Woodbine Beach",
+   "name": "우드바인 비치",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6625,
    "lng": -79.3075,
-   "wd": "Q18168153"
+   "wd": "Q18168153",
+   "aliases": [
+    "Woodbine Beach"
+   ]
   },
   {
-   "name": "CIBC Square",
-   "cat": "관광",
-   "area": "토론토",
-   "lat": 43.64417,
-   "lng": -79.3775,
-   "wd": "Q29467888"
-  },
-  {
-   "name": "Toronto Botanical Garden",
+   "name": "토론토 식물원",
    "cat": "관광",
    "area": "온타리오주",
    "lat": 43.7343,
    "lng": -79.3582,
-   "wd": "Q2684773"
+   "wd": "Q2684773",
+   "aliases": [
+    "Toronto Botanical Garden"
+   ]
   },
   {
-   "name": "Museum of Contemporary Art Toronto Canada",
+   "name": "토론토 현대미술관",
    "cat": "관광",
    "area": "온타리오주",
    "lat": 43.65463,
    "lng": -79.44512,
-   "wd": "Q6940822"
+   "wd": "Q6940822",
+   "aliases": [
+    "Museum of Contemporary Art Toronto Canada"
+   ]
   },
   {
-   "name": "Trinity Square",
+   "name": "트리니티 스퀘어",
    "cat": "관광",
    "area": "온타리오주",
    "lat": 43.6545,
    "lng": -79.382,
-   "wd": "Q7842978"
+   "wd": "Q7842978",
+   "aliases": [
+    "Trinity Square"
+   ]
   },
   {
-   "name": "Yorkdale Shopping Centre",
+   "name": "요크데일 쇼핑센터",
    "cat": "쇼핑",
    "area": "온타리오주",
    "lat": 43.7256,
    "lng": -79.4527,
-   "wd": "Q8055633"
+   "wd": "Q8055633",
+   "aliases": [
+    "Yorkdale Shopping Centre"
+   ]
   },
   {
-   "name": "Sugar Beach",
+   "name": "슈가 비치",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.643,
    "lng": -79.3674,
-   "wd": "Q1032021"
+   "wd": "Q1032021",
+   "aliases": [
+    "Sugar Beach"
+   ]
   },
   {
-   "name": "Kew Gardens",
+   "name": "큐 가든스",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6687,
    "lng": -79.2985,
-   "wd": "Q1740294"
+   "wd": "Q1740294",
+   "aliases": [
+    "Kew Gardens"
+   ]
   },
   {
-   "name": "299 Queen Street West",
-   "cat": "관광",
-   "area": "토론토",
-   "lat": 43.64983,
-   "lng": -79.3907,
-   "wd": "Q2815717"
-  },
-  {
-   "name": "Hot Docs Ted Rogers Cinema",
+   "name": "핫 독스 테드 로저스 시네마",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6655,
    "lng": -79.4104,
-   "wd": "Q2907054"
+   "wd": "Q2907054",
+   "aliases": [
+    "Hot Docs Ted Rogers Cinema"
+   ]
   },
   {
-   "name": "Masonic Temple",
-   "cat": "관광",
-   "area": "토론토",
-   "lat": 43.673,
-   "lng": -79.38829,
-   "wd": "Q4284139"
-  },
-  {
-   "name": "St. Basil's Church",
+   "name": "성 바실리오 성당",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6664,
    "lng": -79.3889,
-   "wd": "Q4504990"
+   "wd": "Q4504990",
+   "aliases": [
+    "St. Basil's Church"
+   ]
   },
   {
-   "name": "Humber Bay Arch Bridge",
+   "name": "험버 베이 아치 다리",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.63186,
    "lng": -79.47128,
-   "wd": "Q5939782"
+   "wd": "Q5939782",
+   "aliases": [
+    "Humber Bay Arch Bridge"
+   ]
   },
   {
-   "name": "St. Paul's Bloor Street",
+   "name": "세인트 폴 블루어 교회",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6711,
    "lng": -79.3815,
-   "wd": "Q7591012"
+   "wd": "Q7591012",
+   "aliases": [
+    "St. Paul's Bloor Street"
+   ]
   },
   {
-   "name": "St. Volodymyr's Ukrainian Orthodox Cathedral",
+   "name": "성 볼로디미르 우크라이나 정교회 대성당",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6538,
    "lng": -79.4069,
-   "wd": "Q7592132"
+   "wd": "Q7592132",
+   "aliases": [
+    "St. Volodymyr's Ukrainian Orthodox Cathedral"
+   ]
   },
   {
-   "name": "The Power Plant",
+   "name": "파워 플랜트 현대미술관",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6384,
    "lng": -79.3821,
-   "wd": "Q7757923"
+   "wd": "Q7757923",
+   "aliases": [
+    "The Power Plant"
+   ]
   },
   {
-   "name": "Statue of Lesya Ukrainka",
+   "name": "레샤 우크라인카 동상",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.647,
    "lng": -79.4641,
-   "wd": "Q12138373"
+   "wd": "Q12138373",
+   "aliases": [
+    "Statue of Lesya Ukrainka"
+   ]
   },
   {
-   "name": "Panasonic Theatre",
-   "cat": "관광",
-   "area": "토론토",
-   "lat": 43.6681,
-   "lng": -79.38546,
-   "wd": "Q14875381"
-  },
-  {
-   "name": "TORONTO sign",
+   "name": "토론토 사인",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.65239,
    "lng": -79.38364,
-   "wd": "Q24883816"
+   "wd": "Q24883816",
+   "aliases": [
+    "TORONTO sign"
+   ]
   },
   {
-   "name": "Saint Sava Serbian Orthodox Church (Toronto)",
+   "name": "성 사바 세르비아 정교회",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.66413,
    "lng": -79.35882,
-   "wd": "Q61133866"
+   "wd": "Q61133866",
+   "aliases": [
+    "Saint Sava Serbian Orthodox Church (Toronto)"
+   ]
   },
   {
-   "name": "Saint Michael the Archangel Serbian Orthodox Church",
-   "cat": "관광",
-   "area": "토론토",
-   "lat": 43.66187,
-   "lng": -79.42847,
-   "wd": "Q65041785"
-  },
-  {
-   "name": "Biidaasige Park",
+   "name": "비다시게 공원",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6457,
    "lng": -79.3491,
-   "wd": "Q135583813"
+   "wd": "Q135583813",
+   "aliases": [
+    "Biidaasige Park"
+   ]
   },
   {
-   "name": "Edwards Gardens",
+   "name": "에드워즈 가든",
    "cat": "관광",
    "area": "온타리오주",
    "lat": 43.7339,
    "lng": -79.3594,
-   "wd": "Q3048736"
+   "wd": "Q3048736",
+   "aliases": [
+    "Edwards Gardens"
+   ]
   },
   {
-   "name": "Riverdale Park",
+   "name": "리버데일 공원",
    "cat": "관광",
    "area": "온타리오주",
    "lat": 43.6698,
    "lng": -79.3554,
-   "wd": "Q3433506"
+   "wd": "Q3433506",
+   "aliases": [
+    "Riverdale Park"
+   ]
   },
   {
-   "name": "Empress Walk",
+   "name": "엠프리스 워크",
    "cat": "관광",
    "area": "온타리오주",
    "lat": 43.7687,
    "lng": -79.4122,
-   "wd": "Q5374606"
+   "wd": "Q5374606",
+   "aliases": [
+    "Empress Walk"
+   ]
   },
   {
-   "name": "Grange Park",
+   "name": "그레인지 공원",
    "cat": "관광",
    "area": "온타리오주",
    "lat": 43.6523,
    "lng": -79.3921,
-   "wd": "Q5595673"
+   "wd": "Q5595673",
+   "aliases": [
+    "Grange Park"
+   ]
   },
   {
-   "name": "Hare Krishna Temple",
+   "name": "하레 크리슈나 사원",
    "cat": "관광",
    "area": "온타리오주",
    "lat": 43.6769,
    "lng": -79.3979,
-   "wd": "Q5656723"
+   "wd": "Q5656723",
+   "aliases": [
+    "Hare Krishna Temple"
+   ]
   },
   {
-   "name": "Toronto Sculpture Garden",
+   "name": "토론토 조각공원",
    "cat": "관광",
    "area": "온타리오주",
    "lat": 43.6497,
    "lng": -79.3736,
-   "wd": "Q7826503"
+   "wd": "Q7826503",
+   "aliases": [
+    "Toronto Sculpture Garden"
+   ]
   },
   {
-   "name": "Studio Building",
-   "cat": "관광",
-   "area": "토론토",
-   "lat": 43.6732,
-   "lng": -79.3861,
-   "wd": "Q211631"
-  },
-  {
-   "name": "Little Trinity Anglican Church",
+   "name": "리틀 트리니티 교회",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6532,
    "lng": -79.3619,
-   "wd": "Q948275"
+   "wd": "Q948275",
+   "aliases": [
+    "Little Trinity Anglican Church"
+   ]
   },
   {
-   "name": "Al Green Sculpture Park",
+   "name": "앨 그린 조각공원",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.70037,
    "lng": -79.3867,
-   "wd": "Q1795131"
+   "wd": "Q1795131",
+   "aliases": [
+    "Al Green Sculpture Park"
+   ]
   },
   {
-   "name": "Rogers Building",
-   "cat": "관광",
-   "area": "토론토",
-   "lat": 43.6698,
-   "lng": -79.3794,
-   "wd": "Q2161980"
-  },
-  {
-   "name": "Canadian Broadcasting Centre",
+   "name": "캐나다 방송센터",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6448,
    "lng": -79.3882,
-   "wd": "Q2935781"
+   "wd": "Q2935781",
+   "aliases": [
+    "Canadian Broadcasting Centre"
+   ]
   },
   {
-   "name": "Enoch Turner Schoolhouse",
+   "name": "이녹 터너 스쿨하우스",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6529,
    "lng": -79.3616,
-   "wd": "Q3054503"
+   "wd": "Q3054503",
+   "aliases": [
+    "Enoch Turner Schoolhouse"
+   ]
   },
   {
-   "name": "Queen Street Viaduct",
-   "cat": "관광",
-   "area": "토론토",
-   "lat": 43.658,
-   "lng": -79.354,
-   "wd": "Q3414017"
-  },
-  {
-   "name": "Metropolitan Community Church of Toronto",
-   "cat": "관광",
-   "area": "토론토",
-   "lat": 43.6671,
-   "lng": -79.3476,
-   "wd": "Q3585486"
-  },
-  {
-   "name": "10 Dundas East",
-   "cat": "쇼핑",
-   "area": "토론토",
-   "lat": 43.65676,
-   "lng": -79.38073,
-   "wd": "Q4546868"
-  },
-  {
-   "name": "College Park",
+   "name": "칼리지 파크",
    "cat": "쇼핑",
    "area": "토론토",
    "lat": 43.6609,
    "lng": -79.3833,
-   "wd": "Q5146497"
+   "wd": "Q5146497",
+   "aliases": [
+    "College Park"
+   ]
   },
   {
-   "name": "Deer Park United Church",
-   "cat": "관광",
-   "area": "토론토",
-   "lat": 43.6865,
-   "lng": -79.4002,
-   "wd": "Q5250823"
-  },
-  {
-   "name": "Dufferin Grove Park",
+   "name": "더퍼린 그로브 공원",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6562,
    "lng": -79.4325,
-   "wd": "Q5312341"
+   "wd": "Q5312341",
+   "aliases": [
+    "Dufferin Grove Park"
+   ]
   },
   {
-   "name": "Epiphany and St. Mark, Parkdale",
-   "cat": "관광",
-   "area": "토론토",
-   "lat": 43.6407,
-   "lng": -79.4325,
-   "wd": "Q5383136"
-  },
-  {
-   "name": "Fox Theatre",
+   "name": "폭스 극장",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6729,
    "lng": -79.2873,
-   "wd": "Q5477005"
+   "wd": "Q5477005",
+   "aliases": [
+    "Fox Theatre"
+   ]
   },
   {
-   "name": "HTO Park",
+   "name": "HTO 공원",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.638,
    "lng": -79.3828,
-   "wd": "Q5636118"
+   "wd": "Q5636118",
+   "aliases": [
+    "HTO Park"
+   ]
   },
   {
-   "name": "Holy Family Church, Toronto",
-   "cat": "관광",
-   "area": "토론토",
-   "lat": 43.6378,
-   "lng": -79.4344,
-   "wd": "Q5885505"
-  },
-  {
-   "name": "King Edward Hotel",
-   "cat": "관광",
-   "area": "토론토",
-   "lat": 43.64937,
-   "lng": -79.37628,
-   "wd": "Q6411469"
-  },
-  {
-   "name": "Knox Presbyterian Church",
-   "cat": "관광",
-   "area": "토론토",
-   "lat": 43.6625,
-   "lng": -79.4025,
-   "wd": "Q6423585"
-  },
-  {
-   "name": "Leaside Bridge",
-   "cat": "관광",
-   "area": "토론토",
-   "lat": 43.6991,
-   "lng": -79.3504,
-   "wd": "Q6510303"
-  },
-  {
-   "name": "Young People's Theatre",
+   "name": "영 피플스 극장",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.65,
    "lng": -79.3687,
-   "wd": "Q6681647"
+   "wd": "Q6681647",
+   "aliases": [
+    "Young People's Theatre"
+   ]
   },
   {
-   "name": "Old City Hall Cenotaph, Toronto",
+   "name": "구 시청 전쟁기념비",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6521,
    "lng": -79.3817,
-   "wd": "Q7083696"
+   "wd": "Q7083696",
+   "aliases": [
+    "Old City Hall Cenotaph, Toronto"
+   ]
   },
   {
-   "name": "Queen Elizabeth Theatre",
+   "name": "퀸 엘리자베스 극장",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6327,
    "lng": -79.4215,
-   "wd": "Q7270385"
+   "wd": "Q7270385",
+   "aliases": [
+    "Queen Elizabeth Theatre"
+   ]
   },
   {
-   "name": "Revue Cinema",
+   "name": "레뷰 시네마",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6511,
    "lng": -79.4509,
-   "wd": "Q7318981"
+   "wd": "Q7318981",
+   "aliases": [
+    "Revue Cinema"
+   ]
   },
   {
-   "name": "Runnymede Theatre",
-   "cat": "관광",
-   "area": "토론토",
-   "lat": 43.6507,
-   "lng": -79.4765,
-   "wd": "Q7380091"
-  },
-  {
-   "name": "Soldiers' Tower",
+   "name": "솔저스 타워",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.66351,
    "lng": -79.39522,
-   "wd": "Q7557369"
+   "wd": "Q7557369",
+   "aliases": [
+    "Soldiers' Tower"
+   ]
   },
   {
-   "name": "South African War Memorial",
+   "name": "남아프리카 전쟁 기념비",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6513,
    "lng": -79.3868,
-   "wd": "Q7565811"
+   "wd": "Q7565811",
+   "aliases": [
+    "South African War Memorial"
+   ]
   },
   {
-   "name": "St. Andrew's Church",
+   "name": "세인트 앤드루 교회",
    "cat": "관광",
    "area": "토론토",
    "lat": 43.6472,
    "lng": -79.3857,
-   "wd": "Q7586844"
-  },
-  {
-   "name": "Grace Toronto Church",
-   "cat": "관광",
-   "area": "토론토",
-   "lat": 43.6623,
-   "lng": -79.3763,
-   "wd": "Q7586877"
+   "wd": "Q7586844",
+   "aliases": [
+    "St. Andrew's Church"
+   ]
   }
  ]
 }

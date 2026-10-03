@@ -25,12 +25,15 @@
    "wd": "Q233737"
   },
   {
-   "name": "Pena Palace",
+   "name": "페나 궁전",
    "cat": "관광",
    "area": "Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",
    "lat": 38.78778,
    "lng": -9.39056,
-   "wd": "Q69513"
+   "wd": "Q69513",
+   "aliases": [
+    "Pena Palace"
+   ]
   },
   {
    "name": "4월 25일 다리",
@@ -135,12 +138,15 @@
    "wd": "Q532399"
   },
   {
-   "name": "Church of Santa Engrácia",
+   "name": "산타 엥그라시아 성당(국립 판테온)",
    "cat": "관광",
    "area": "São Vicente",
    "lat": 38.715,
    "lng": -9.125,
-   "wd": "Q1601019"
+   "wd": "Q1601019",
+   "aliases": [
+    "Church of Santa Engrácia"
+   ]
   },
   {
    "name": "벨렝궁",
@@ -168,44 +174,59 @@
    "wd": "Q2630165"
   },
   {
-   "name": "São Bento Palace",
+   "name": "상 벤투 궁전",
    "cat": "관광",
    "area": "Estrela",
    "lat": 38.7125,
    "lng": -9.15361,
-   "wd": "Q1464499"
+   "wd": "Q1464499",
+   "aliases": [
+    "São Bento Palace"
+   ]
   },
   {
-   "name": "Castle of the Moors",
+   "name": "무어인의 성",
    "cat": "관광",
    "area": "Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",
    "lat": 38.79254,
    "lng": -9.3896,
-   "wd": "Q1049008"
+   "wd": "Q1049008",
+   "aliases": [
+    "Castle of the Moors"
+   ]
   },
   {
-   "name": "Lisbon Central Mosque",
+   "name": "리스본 중앙 모스크",
    "cat": "관광",
    "area": "리스본",
    "lat": 38.73555,
    "lng": -9.15853,
-   "wd": "Q3115759"
+   "wd": "Q3115759",
+   "aliases": [
+    "Lisbon Central Mosque"
+   ]
   },
   {
-   "name": "Palace of Ajuda",
+   "name": "아주다 궁전",
    "cat": "관광",
    "area": "Ajuda",
    "lat": 38.7075,
    "lng": -9.19778,
-   "wd": "Q1478288"
+   "wd": "Q1478288",
+   "aliases": [
+    "Palace of Ajuda"
+   ]
   },
   {
-   "name": "Águas Livres Aqueduct",
+   "name": "아과스 리브르스 수도교",
    "cat": "관광",
    "area": "Campolide",
    "lat": 38.72667,
    "lng": -9.16667,
-   "wd": "Q623228"
+   "wd": "Q623228",
+   "aliases": [
+    "Águas Livres Aqueduct"
+   ]
   },
   {
    "name": "상카를루스 국립극장",
@@ -230,12 +251,15 @@
    "wd": "Q1776168"
   },
   {
-   "name": "Estrela Basilica",
+   "name": "에스트렐라 대성당",
    "cat": "관광",
    "area": "Estrela",
    "lat": 38.71333,
    "lng": -9.16056,
-   "wd": "Q2657972"
+   "wd": "Q2657972",
+   "aliases": [
+    "Estrela Basilica"
+   ]
   },
   {
    "name": "호시우 광장",
@@ -260,28 +284,37 @@
    "wd": "Q1470414"
   },
   {
-   "name": "Lisbon Oceanarium",
+   "name": "리스본 해양수족관",
    "cat": "관광",
    "area": "Parque das Nações",
    "lat": 38.76353,
    "lng": -9.09375,
-   "wd": "Q652806"
+   "wd": "Q652806",
+   "aliases": [
+    "Lisbon Oceanarium"
+   ]
   },
   {
-   "name": "Igreja de São Roque",
+   "name": "상 호케 성당",
    "cat": "관광",
    "area": "Misericórdia",
    "lat": 38.71363,
    "lng": -9.14349,
-   "wd": "Q1078864"
+   "wd": "Q1078864",
+   "aliases": [
+    "Igreja de São Roque"
+   ]
   },
   {
-   "name": "National Archaeology Museum",
+   "name": "국립 고고학박물관",
    "cat": "관광",
    "area": "Belém",
    "lat": 38.69728,
    "lng": -9.20706,
-   "wd": "Q1954384"
+   "wd": "Q1954384",
+   "aliases": [
+    "National Archaeology Museum"
+   ]
   },
   {
    "name": "리베이라궁",
@@ -297,44 +330,59 @@
    "wd": "Q1939953"
   },
   {
-   "name": "Monserrate Palace",
+   "name": "몬세라트 궁전",
    "cat": "관광",
    "area": "Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",
    "lat": 38.79428,
    "lng": -9.42071,
-   "wd": "Q3175595"
+   "wd": "Q3175595",
+   "aliases": [
+    "Monserrate Palace"
+   ]
   },
   {
-   "name": "Restauradores Square",
+   "name": "헤스타우라도레스 광장",
    "cat": "관광",
    "area": "리스본",
    "lat": 38.71583,
    "lng": -9.14167,
-   "wd": "Q959567"
+   "wd": "Q959567",
+   "aliases": [
+    "Restauradores Square"
+   ]
   },
   {
-   "name": "National Azulejo Museum",
+   "name": "국립 아줄레주 박물관",
    "cat": "관광",
    "area": "Penha de França",
    "lat": 38.7244,
    "lng": -9.11389,
-   "wd": "Q2313815"
+   "wd": "Q2313815",
+   "aliases": [
+    "National Azulejo Museum"
+   ]
   },
   {
-   "name": "Praça da Figueira",
+   "name": "피게이라 광장",
    "cat": "관광",
    "area": "Santa Maria Maior",
    "lat": 38.71374,
    "lng": -9.13787,
-   "wd": "Q1305091"
+   "wd": "Q1305091",
+   "aliases": [
+    "Praça da Figueira"
+   ]
   },
   {
-   "name": "Edward VII Park",
+   "name": "에두아르두 7세 공원",
    "cat": "관광",
    "area": "Avenidas Novas",
    "lat": 38.72825,
    "lng": -9.15283,
-   "wd": "Q2034183"
+   "wd": "Q2034183",
+   "aliases": [
+    "Edward VII Park"
+   ]
   },
   {
    "name": "해군박물관",
@@ -348,188 +396,257 @@
    "wd": "Q1540177"
   },
   {
-   "name": "Marquess of Pombal Square",
+   "name": "폼발 후작 광장",
    "cat": "관광",
    "area": "리스본",
    "lat": 38.72528,
    "lng": -9.15,
-   "wd": "Q1807096"
+   "wd": "Q1807096",
+   "aliases": [
+    "Marquess of Pombal Square"
+   ]
   },
   {
-   "name": "Astronomical Observatory of Lisbon",
+   "name": "리스본 천문대",
    "cat": "관광",
    "area": "Alcântara",
    "lat": 38.71054,
    "lng": -9.18751,
-   "wd": "Q2065139"
+   "wd": "Q2065139",
+   "aliases": [
+    "Astronomical Observatory of Lisbon"
+   ]
   },
   {
-   "name": "Teatro Nacional D. Maria II",
+   "name": "도나 마리아 2세 국립극장",
    "cat": "관광",
    "area": "Santa Maria Maior",
    "lat": 38.71481,
    "lng": -9.13979,
-   "wd": "Q116125"
+   "wd": "Q116125",
+   "aliases": [
+    "Teatro Nacional D. Maria II"
+   ]
   },
   {
-   "name": "Electricity Museum",
+   "name": "전기 박물관",
    "cat": "관광",
    "area": "Belém",
    "lat": 38.69556,
    "lng": -9.19611,
-   "wd": "Q1262183"
+   "wd": "Q1262183",
+   "aliases": [
+    "Electricity Museum"
+   ]
   },
   {
-   "name": "Pantheon of the House of Braganza",
+   "name": "브라간사 왕가 판테온",
    "cat": "관광",
    "area": "리스본",
    "lat": 38.71478,
    "lng": -9.12694,
-   "wd": "Q1638625"
+   "wd": "Q1638625",
+   "aliases": [
+    "Pantheon of the House of Braganza"
+   ]
   },
   {
-   "name": "Lisbon Zoo",
+   "name": "리스본 동물원",
    "cat": "관광",
    "area": "São Domingos de Benfica",
    "lat": 38.74325,
    "lng": -9.169,
-   "wd": "Q220063"
+   "wd": "Q220063",
+   "aliases": [
+    "Lisbon Zoo"
+   ]
   },
   {
-   "name": "Tejo Power Station",
+   "name": "테주 발전소",
    "cat": "관광",
    "area": "Belém",
    "lat": 38.69582,
    "lng": -9.19498,
-   "wd": "Q968458"
+   "wd": "Q968458",
+   "aliases": [
+    "Tejo Power Station"
+   ]
   },
   {
-   "name": "Palace of the Marquises of Fronteira",
+   "name": "프론테이라 후작 궁전",
    "cat": "관광",
    "area": "São Domingos de Benfica",
    "lat": 38.74006,
    "lng": -9.18024,
-   "wd": "Q1161724"
+   "wd": "Q1161724",
+   "aliases": [
+    "Palace of the Marquises of Fronteira"
+   ]
   },
   {
-   "name": "Igreja de Santo António de Lisboa",
+   "name": "산투 안토니우 성당",
    "cat": "관광",
    "area": "Santa Maria Maior",
    "lat": 38.71,
    "lng": -9.13389,
-   "wd": "Q2976487"
+   "wd": "Q2976487",
+   "aliases": [
+    "Igreja de Santo António de Lisboa"
+   ]
   },
   {
-   "name": "Praça do Império",
+   "name": "제국 광장",
    "cat": "관광",
    "area": "Belém",
    "lat": 38.69649,
    "lng": -9.2074,
-   "wd": "Q1483993"
+   "wd": "Q1483993",
+   "aliases": [
+    "Praça do Império"
+   ]
   },
   {
-   "name": "Berardo Collection Museum",
+   "name": "베라르두 컬렉션 미술관",
    "cat": "관광",
    "area": "Belém",
    "lat": 38.69552,
    "lng": -9.20838,
-   "wd": "Q2191491"
+   "wd": "Q2191491",
+   "aliases": [
+    "Berardo Collection Museum"
+   ]
   },
   {
-   "name": "Museum of Art, Architecture and Technology",
+   "name": "MAAT 미술관",
    "cat": "관광",
    "area": "Belém",
    "lat": 38.69591,
    "lng": -9.1935,
-   "wd": "Q27522479"
+   "wd": "Q27522479",
+   "aliases": [
+    "Museum of Art, Architecture and Technology"
+   ]
   },
   {
-   "name": "Afonso de Albuquerque Square",
+   "name": "아폰수 드 알부케르크 광장",
    "cat": "관광",
    "area": "리스본",
    "lat": 38.69665,
    "lng": -9.20028,
-   "wd": "Q1576882"
+   "wd": "Q1576882",
+   "aliases": [
+    "Afonso de Albuquerque Square"
+   ]
   },
   {
-   "name": "Chiado Museum",
+   "name": "시아두 미술관",
    "cat": "관광",
    "area": "리스본",
    "lat": 38.70889,
    "lng": -9.14111,
-   "wd": "Q2745620"
+   "wd": "Q2745620",
+   "aliases": [
+    "Chiado Museum"
+   ]
   },
   {
-   "name": "Torre do Tombo National Archive",
+   "name": "토레 두 톰부 국립기록관",
    "cat": "관광",
    "area": "Alvalade",
    "lat": 38.75472,
    "lng": -9.15639,
-   "wd": "Q1769248"
+   "wd": "Q1769248",
+   "aliases": [
+    "Torre do Tombo National Archive"
+   ]
   },
   {
-   "name": "Necessidades Palace",
+   "name": "네세시다드스 궁전",
    "cat": "관광",
    "area": "Estrela",
    "lat": 38.70684,
    "lng": -9.16963,
-   "wd": "Q11336481"
+   "wd": "Q11336481",
+   "aliases": [
+    "Necessidades Palace"
+   ]
   },
   {
-   "name": "Monastery of São Dinis de Odivelas",
+   "name": "오디벨라스 수도원",
    "cat": "관광",
    "area": "Odivelas",
    "lat": 38.79129,
    "lng": -9.18282,
-   "wd": "Q3487677"
+   "wd": "Q3487677",
+   "aliases": [
+    "Monastery of São Dinis de Odivelas"
+   ]
   },
   {
-   "name": "Casa dos Bicos",
+   "name": "카사 두스 비쿠스",
    "cat": "관광",
    "area": "Santa Maria Maior",
    "lat": 38.7091,
    "lng": -9.1327,
-   "wd": "Q2700618"
+   "wd": "Q2700618",
+   "aliases": [
+    "Casa dos Bicos"
+   ]
   },
   {
-   "name": "Igreja de Santa Luzia",
+   "name": "산타 루지아 성당",
    "cat": "관광",
    "area": "Santa Maria Maior",
    "lat": 38.7118,
    "lng": -9.13044,
-   "wd": "Q5994160"
+   "wd": "Q5994160",
+   "aliases": [
+    "Igreja de Santa Luzia"
+   ]
   },
   {
-   "name": "Igreja de Santo Estêvão",
+   "name": "산투 에스테방 성당",
    "cat": "관광",
    "area": "Santa Maria Maior",
    "lat": 38.71218,
    "lng": -9.12796,
-   "wd": "Q5994220"
+   "wd": "Q5994220",
+   "aliases": [
+    "Igreja de Santo Estêvão"
+   ]
   },
   {
-   "name": "Jardim Botânico de Lisboa",
+   "name": "리스본 식물원",
    "cat": "관광",
    "area": "Santo António",
    "lat": 38.7181,
    "lng": -9.14895,
-   "wd": "Q943407"
+   "wd": "Q943407",
+   "aliases": [
+    "Jardim Botânico de Lisboa"
+   ]
   },
   {
-   "name": "Palácio da Bemposta",
+   "name": "벰포스타 궁전",
    "cat": "관광",
    "area": "Arroios",
    "lat": 38.72349,
    "lng": -9.13818,
-   "wd": "Q4885138"
+   "wd": "Q4885138",
+   "aliases": [
+    "Palácio da Bemposta"
+   ]
   },
   {
-   "name": "Praça de Espanha",
+   "name": "에스파냐 광장",
    "cat": "관광",
    "area": "리스본",
    "lat": 38.73787,
    "lng": -9.15742,
-   "wd": "Q1143630"
+   "wd": "Q1143630",
+   "aliases": [
+    "Praça de Espanha"
+   ]
   },
   {
    "name": "에스타우스궁",
@@ -543,292 +660,378 @@
    "wd": "Q1342595"
   },
   {
-   "name": "Miradouro de Santa Luzia",
+   "name": "산타 루지아 전망대",
    "cat": "관광",
    "area": "리스본",
    "lat": 38.71169,
    "lng": -9.13021,
-   "wd": "Q6837314"
+   "wd": "Q6837314",
+   "aliases": [
+    "Miradouro de Santa Luzia"
+   ]
   },
   {
-   "name": "Igreja da Memória",
+   "name": "메모리아 성당",
    "cat": "관광",
    "area": "Ajuda",
    "lat": 38.703,
    "lng": -9.202,
-   "wd": "Q10300252"
+   "wd": "Q10300252",
+   "aliases": [
+    "Igreja da Memória"
+   ]
   },
   {
-   "name": "National Museum of Costume",
+   "name": "국립 의상박물관",
    "cat": "관광",
    "area": "Lumiar",
    "lat": 38.77516,
    "lng": -9.16498,
-   "wd": "Q9047155"
+   "wd": "Q9047155",
+   "aliases": [
+    "National Museum of Costume"
+   ]
   },
   {
-   "name": "Palácio dos Duques de Lafões",
+   "name": "라퐁스 공작 궁전",
    "cat": "관광",
    "area": "Beato",
    "lat": 38.73232,
    "lng": -9.10659,
-   "wd": "Q74473884"
+   "wd": "Q74473884",
+   "aliases": [
+    "Palácio dos Duques de Lafões"
+   ]
   },
   {
-   "name": "Colombo Center",
+   "name": "콜롬부 쇼핑센터",
    "cat": "쇼핑",
    "area": "Carnide",
    "lat": 38.75444,
    "lng": -9.18861,
-   "wd": "Q1054260"
+   "wd": "Q1054260",
+   "aliases": [
+    "Colombo Center"
+   ]
   },
   {
-   "name": "Jardim do Príncipe Real",
+   "name": "프린시프 헤알 정원",
    "cat": "관광",
    "area": "",
    "lat": 38.71627,
    "lng": -9.14881,
-   "wd": "Q1107447"
+   "wd": "Q1107447",
+   "aliases": [
+    "Jardim do Príncipe Real"
+   ]
   },
   {
-   "name": "Luís de Camões Square",
+   "name": "카몽이스 광장",
    "cat": "관광",
    "area": "리스본",
    "lat": 38.7106,
    "lng": -9.14322,
-   "wd": "Q1370629"
+   "wd": "Q1370629",
+   "aliases": [
+    "Luís de Camões Square"
+   ]
   },
   {
-   "name": "Museu da Água",
+   "name": "물 박물관",
    "cat": "관광",
    "area": "리스본",
    "lat": 38.71917,
    "lng": -9.11917,
-   "wd": "Q6940623"
+   "wd": "Q6940623",
+   "aliases": [
+    "Museu da Água"
+   ]
   },
   {
-   "name": "National Museum of Ethnology",
+   "name": "국립 민족학박물관",
    "cat": "관광",
    "area": "리스본",
    "lat": 38.7048,
    "lng": -9.2085,
-   "wd": "Q6974467"
+   "wd": "Q6974467",
+   "aliases": [
+    "National Museum of Ethnology"
+   ]
   },
   {
-   "name": "Jardim da Estrela",
+   "name": "에스트렐라 정원",
    "cat": "관광",
    "area": "Estrela",
    "lat": 38.7146,
    "lng": -9.15927,
-   "wd": "Q10306236"
+   "wd": "Q10306236",
+   "aliases": [
+    "Jardim da Estrela"
+   ]
   },
   {
-   "name": "German School of Lisbon",
-   "cat": "관광",
-   "area": "Lumiar",
-   "lat": 38.75861,
-   "lng": -9.16365,
-   "wd": "Q5551226"
-  },
-  {
-   "name": "Jardim de São Pedro de Alcântara",
+   "name": "상 페드루 드 알칸타라 전망대",
    "cat": "관광",
    "area": "Misericórdia",
    "lat": 38.71528,
    "lng": -9.14444,
-   "wd": "Q6672039"
+   "wd": "Q6672039",
+   "aliases": [
+    "Jardim de São Pedro de Alcântara"
+   ]
   },
   {
-   "name": "Bela Vista Park",
+   "name": "벨라 비스타 공원",
    "cat": "관광",
    "area": "Marvila",
    "lat": 38.749,
    "lng": -9.126,
-   "wd": "Q2054026"
+   "wd": "Q2054026",
+   "aliases": [
+    "Bela Vista Park"
+   ]
   },
   {
-   "name": "Church of Nossa Senhora da Conceição Velha",
+   "name": "콘세이상 벨랴 성당",
    "cat": "관광",
    "area": "Santa Maria Maior",
    "lat": 38.70885,
    "lng": -9.13421,
-   "wd": "Q5116936"
+   "wd": "Q5116936",
+   "aliases": [
+    "Church of Nossa Senhora da Conceição Velha"
+   ]
   },
   {
-   "name": "Necropolis of Carenque",
+   "name": "카렝크 고분군",
    "cat": "관광",
    "area": "Mina de Água",
    "lat": 38.77341,
    "lng": -9.24389,
-   "wd": "Q10335950"
+   "wd": "Q10335950",
+   "aliases": [
+    "Necropolis of Carenque"
+   ]
   },
   {
-   "name": "Cinemateca Portuguesa",
+   "name": "포르투갈 시네마테크",
    "cat": "관광",
    "area": "리스본",
    "lat": 38.72092,
    "lng": -9.14879,
-   "wd": "Q1092464"
+   "wd": "Q1092464",
+   "aliases": [
+    "Cinemateca Portuguesa"
+   ]
   },
   {
-   "name": "Entrecampos Square",
+   "name": "엔트레캄푸스 광장",
    "cat": "관광",
    "area": "리스본",
    "lat": 38.74833,
    "lng": -9.14833,
-   "wd": "Q2108151"
+   "wd": "Q2108151",
+   "aliases": [
+    "Entrecampos Square"
+   ]
   },
   {
-   "name": "Miradouro da Graça",
+   "name": "그라사 전망대",
    "cat": "관광",
    "area": "리스본",
    "lat": 38.71633,
    "lng": -9.1315,
-   "wd": "Q2744066"
+   "wd": "Q2744066",
+   "aliases": [
+    "Miradouro da Graça"
+   ]
   },
   {
-   "name": "Casino Lisboa, Portugal",
+   "name": "카지노 리스보아",
    "cat": "관광",
    "area": "리스본",
    "lat": 38.76488,
    "lng": -9.09659,
-   "wd": "Q2941105"
+   "wd": "Q2941105",
+   "aliases": [
+    "Casino Lisboa, Portugal"
+   ]
   },
   {
-   "name": "Carris Museum",
+   "name": "카리스 박물관",
    "cat": "관광",
    "area": "리스본",
    "lat": 38.70222,
    "lng": -9.18056,
-   "wd": "Q5046467"
+   "wd": "Q5046467",
+   "aliases": [
+    "Carris Museum"
+   ]
   },
   {
-   "name": "Museu Benfica",
+   "name": "벤피카 박물관",
    "cat": "관광",
    "area": "리스본",
    "lat": 38.75259,
    "lng": -9.18467,
-   "wd": "Q15284280"
+   "wd": "Q15284280",
+   "aliases": [
+    "Museu Benfica"
+   ]
   },
   {
-   "name": "Fonte Luminosa",
+   "name": "빛의 분수",
    "cat": "관광",
    "area": "Areeiro",
    "lat": 38.73732,
    "lng": -9.13047,
-   "wd": "Q1435854"
+   "wd": "Q1435854",
+   "aliases": [
+    "Fonte Luminosa"
+   ]
   },
   {
-   "name": "Mário Soares Garden",
+   "name": "마리우 소아르스 정원",
    "cat": "관광",
    "area": "Alvalade",
    "lat": 38.75396,
    "lng": -9.15154,
-   "wd": "Q1591291"
+   "wd": "Q1591291",
+   "aliases": [
+    "Mário Soares Garden"
+   ]
   },
   {
-   "name": "Jardim Botânico da Ajuda",
+   "name": "아주다 식물원",
    "cat": "관광",
    "area": "Ajuda",
    "lat": 38.70621,
    "lng": -9.20081,
-   "wd": "Q107183486"
+   "wd": "Q107183486",
+   "aliases": [
+    "Jardim Botânico da Ajuda"
+   ]
   },
   {
-   "name": "Cacilhas Lighthouse",
+   "name": "카실냐스 등대",
    "cat": "관광",
    "area": "Cacilhas",
    "lat": 38.68814,
    "lng": -9.14636,
-   "wd": "Q1292515"
+   "wd": "Q1292515",
+   "aliases": [
+    "Cacilhas Lighthouse"
+   ]
   },
   {
-   "name": "Centro de Arte Moderna Gulbenkian",
+   "name": "굴벵키안 현대미술센터",
    "cat": "관광",
    "area": "Avenidas Novas",
    "lat": 38.73546,
    "lng": -9.15402,
-   "wd": "Q1054339"
+   "wd": "Q1054339",
+   "aliases": [
+    "Centro de Arte Moderna Gulbenkian"
+   ]
   },
   {
-   "name": "Carmo Archaeological Museum",
+   "name": "카르무 고고학박물관",
    "cat": "관광",
    "area": "Santa Maria Maior",
    "lat": 38.71222,
    "lng": -9.14,
-   "wd": "Q1146790"
+   "wd": "Q1146790",
+   "aliases": [
+    "Carmo Archaeological Museum"
+   ]
   },
   {
-   "name": "Teatro da Trindade",
+   "name": "트린다드 극장",
    "cat": "관광",
    "area": "Santa Maria Maior",
    "lat": 38.71189,
    "lng": -9.14265,
-   "wd": "Q2398829"
+   "wd": "Q2398829",
+   "aliases": [
+    "Teatro da Trindade"
+   ]
   },
   {
-   "name": "Hotel Avenida Palace (Lisbon)",
-   "cat": "관광",
-   "area": "Santa Maria Maior",
-   "lat": 38.71481,
-   "lng": -9.14128,
-   "wd": "Q2676124"
-  },
-  {
-   "name": "Pavilhão Carlos Lopes",
+   "name": "카를루스 로페스 파빌리온",
    "cat": "관광",
    "area": "Avenidas Novas",
    "lat": 38.72901,
    "lng": -9.15157,
-   "wd": "Q10346943"
+   "wd": "Q10346943",
+   "aliases": [
+    "Pavilhão Carlos Lopes"
+   ]
   },
   {
-   "name": "Palacete Mayer",
+   "name": "마이어 저택",
    "cat": "관광",
    "area": "Santo António",
    "lat": 38.71931,
    "lng": -9.14566,
-   "wd": "Q959578"
+   "wd": "Q959578",
+   "aliases": [
+    "Palacete Mayer"
+   ]
   },
   {
-   "name": "Coliseu dos Recreios",
+   "name": "콜리세우 두스 헤크레이우스",
    "cat": "관광",
    "area": "Arroios",
    "lat": 38.71675,
    "lng": -9.14017,
-   "wd": "Q1108805"
+   "wd": "Q1108805",
+   "aliases": [
+    "Coliseu dos Recreios"
+   ]
   },
   {
-   "name": "Teatro Maria Vitória",
+   "name": "마리아 비토리아 극장",
    "cat": "관광",
    "area": "Santo António",
    "lat": 38.71932,
    "lng": -9.14638,
-   "wd": "Q3516762"
+   "wd": "Q3516762",
+   "aliases": [
+    "Teatro Maria Vitória"
+   ]
   },
   {
-   "name": "Graça Convent",
+   "name": "그라사 수도원",
    "cat": "관광",
    "area": "São Vicente",
    "lat": 38.71699,
    "lng": -9.13087,
-   "wd": "Q17117463"
+   "wd": "Q17117463",
+   "aliases": [
+    "Graça Convent"
+   ]
   },
   {
-   "name": "Teatro Tivoli",
+   "name": "티볼리 극장",
    "cat": "관광",
    "area": "Santo António",
    "lat": 38.72049,
    "lng": -9.14497,
-   "wd": "Q66814334"
+   "wd": "Q66814334",
+   "aliases": [
+    "Teatro Tivoli"
+   ]
   },
   {
-   "name": "Jardim Botânico Tropical",
+   "name": "열대 식물원",
    "cat": "관광",
    "area": "Belém",
    "lat": 38.69932,
    "lng": -9.20249,
-   "wd": "Q2249320"
+   "wd": "Q2249320",
+   "aliases": [
+    "Jardim Botânico Tropical"
+   ]
   },
   {
    "name": "제3테주교",
@@ -842,36 +1045,48 @@
    "wd": "Q901283"
   },
   {
-   "name": "Miradouro da Senhora do Monte",
+   "name": "세뇨라 두 몬트 전망대",
    "cat": "관광",
    "area": "리스본",
    "lat": 38.71889,
    "lng": -9.13278,
-   "wd": "Q6813351"
+   "wd": "Q6813351",
+   "aliases": [
+    "Miradouro da Senhora do Monte"
+   ]
   },
   {
-   "name": "Saint George's Church",
+   "name": "성 조지 교회",
    "cat": "관광",
    "area": "리스본",
    "lat": 38.7164,
    "lng": -9.16045,
-   "wd": "Q7588114"
+   "wd": "Q7588114",
+   "aliases": [
+    "Saint George's Church"
+   ]
   },
   {
-   "name": "Largo do Chiado",
+   "name": "시아두 광장",
    "cat": "관광",
    "area": "리스본",
    "lat": 38.71054,
    "lng": -9.1425,
-   "wd": "Q10064"
+   "wd": "Q10064",
+   "aliases": [
+    "Largo do Chiado"
+   ]
   },
   {
-   "name": "Parque Tejo",
+   "name": "테주 공원",
    "cat": "관광",
    "area": "리스본",
    "lat": 38.78446,
    "lng": -9.09291,
-   "wd": "Q10345523"
+   "wd": "Q10345523",
+   "aliases": [
+    "Parque Tejo"
+   ]
   }
  ]
 }

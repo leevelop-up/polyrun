@@ -3,28 +3,37 @@
  "builtAt": "2026-10-03",
  "picks": [
   {
-   "name": "Xom Bong Bridge",
+   "name": "쏨봉 다리",
    "cat": "관광",
    "area": "냐짱",
    "lat": 12.26331,
    "lng": 109.1956,
-   "wd": "Q32252088"
+   "wd": "Q32252088",
+   "aliases": [
+    "Xom Bong Bridge"
+   ]
   },
   {
-   "name": "Tran Phu Bridge",
+   "name": "쩐푸 다리",
    "cat": "관광",
    "area": "냐짱",
    "lat": 12.26169,
    "lng": 109.19912,
-   "wd": "Q32253700"
+   "wd": "Q32253700",
+   "aliases": [
+    "Tran Phu Bridge"
+   ]
   },
   {
-   "name": "Bãi Tre",
+   "name": "바이째 해변",
    "cat": "관광",
    "area": "",
    "lat": 12.21667,
    "lng": 109.31667,
-   "wd": "Q32174166"
+   "wd": "Q32174166",
+   "aliases": [
+    "Bãi Tre"
+   ]
   }
  ]
 }

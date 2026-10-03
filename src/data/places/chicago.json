@@ -36,12 +36,15 @@
    "wd": "Q1414079"
   },
   {
-   "name": "Institute for the Study of Ancient Cultures, West Asia & North Africa",
+   "name": "시카고 대학 고대문화연구소 박물관",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.7893,
    "lng": -87.59746,
-   "wd": "Q1276053"
+   "wd": "Q1276053",
+   "aliases": [
+    "Institute for the Study of Ancient Cultures, West Asia & North Africa"
+   ]
   },
   {
    "name": "애들러 천문관",
@@ -99,12 +102,15 @@
    "wd": "Q862890"
   },
   {
-   "name": "Museum of Contemporary Art, Chicago",
+   "name": "시카고 현대미술관",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.89721,
    "lng": -87.62099,
-   "wd": "Q118142"
+   "wd": "Q118142",
+   "aliases": [
+    "Museum of Contemporary Art, Chicago"
+   ]
   },
   {
    "name": "헐 하우스",
@@ -140,12 +146,15 @@
    "wd": "Q2123262"
   },
   {
-   "name": "Mosque Maryam",
+   "name": "마리암 모스크",
    "cat": "관광",
    "area": "일리노이주",
    "lat": 41.7608,
    "lng": -87.5851,
-   "wd": "Q690130"
+   "wd": "Q690130",
+   "aliases": [
+    "Mosque Maryam"
+   ]
   },
   {
    "name": "오디토리움 빌딩",
@@ -159,28 +168,37 @@
    "wd": "Q546009"
   },
   {
-   "name": "Holy Name Cathedral, Chicago",
+   "name": "성명 대성당",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.89587,
    "lng": -87.62755,
-   "wd": "Q2942930"
+   "wd": "Q2942930",
+   "aliases": [
+    "Holy Name Cathedral, Chicago"
+   ]
   },
   {
-   "name": "Jay Pritzker Pavilion",
+   "name": "제이 프리츠커 파빌리온",
    "cat": "관광",
    "area": "쿡군",
    "lat": 41.88306,
    "lng": -87.62194,
-   "wd": "Q3180096"
+   "wd": "Q3180096",
+   "aliases": [
+    "Jay Pritzker Pavilion"
+   ]
   },
   {
-   "name": "BP Pedestrian Bridge",
+   "name": "BP 보행자 다리",
    "cat": "관광",
    "area": "일리노이주",
    "lat": 41.8828,
    "lng": -87.6206,
-   "wd": "Q2002163"
+   "wd": "Q2002163",
+   "aliases": [
+    "BP Pedestrian Bridge"
+   ]
   },
   {
    "name": "뮤지엄 캠퍼스",
@@ -194,12 +212,15 @@
    "wd": "Q1954441"
   },
   {
-   "name": "Civic Opera House",
+   "name": "시빅 오페라 하우스",
    "cat": "관광",
    "area": "일리노이주",
    "lat": 41.8825,
    "lng": -87.6375,
-   "wd": "Q1833594"
+   "wd": "Q1833594",
+   "aliases": [
+    "Civic Opera House"
+   ]
   },
   {
    "name": "링컨파크동물원",
@@ -213,44 +234,37 @@
    "wd": "Q3241309"
   },
   {
-   "name": "Basilica of St. Hyacinth",
+   "name": "성 히아친토 대성당",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.93357,
    "lng": -87.71857,
-   "wd": "Q4867380"
+   "wd": "Q4867380",
+   "aliases": [
+    "Basilica of St. Hyacinth"
+   ]
   },
   {
-   "name": "Woman's Building",
-   "cat": "관광",
-   "area": "시카고",
-   "lat": 41.79,
-   "lng": -87.58,
-   "wd": "Q41165043"
-  },
-  {
-   "name": "Unity Temple",
+   "name": "유니티 템플",
    "cat": "관광",
    "area": "오크파크",
    "lat": 41.88833,
    "lng": -87.79667,
-   "wd": "Q1680814"
+   "wd": "Q1680814",
+   "aliases": [
+    "Unity Temple"
+   ]
   },
   {
-   "name": "One North Wacker",
-   "cat": "관광",
-   "area": "일리노이주",
-   "lat": 41.8822,
-   "lng": -87.6362,
-   "wd": "Q1876150"
-  },
-  {
-   "name": "Our Lady of Sorrows Basilica",
+   "name": "슬픔의 성모 대성당",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.877,
    "lng": -87.704,
-   "wd": "Q2886917"
+   "wd": "Q2886917",
+   "aliases": [
+    "Our Lady of Sorrows Basilica"
+   ]
   },
   {
    "name": "프랭크 로이드 라이트 자택 및 스튜디오",
@@ -264,68 +278,59 @@
    "wd": "Q3069681"
   },
   {
-   "name": "Holy Trinity Cathedral",
+   "name": "성 삼위일체 대성당",
    "cat": "관광",
    "area": "일리노이주",
    "lat": 41.90194,
    "lng": -87.68188,
-   "wd": "Q2498222"
+   "wd": "Q2498222",
+   "aliases": [
+    "Holy Trinity Cathedral"
+   ]
   },
   {
-   "name": "Harris Theater",
+   "name": "해리스 극장",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.88389,
    "lng": -87.62194,
-   "wd": "Q3127746"
+   "wd": "Q3127746",
+   "aliases": [
+    "Harris Theater"
+   ]
   },
   {
-   "name": "Al-Sadiq Mosque",
-   "cat": "관광",
-   "area": "일리노이주",
-   "lat": 41.8132,
-   "lng": -87.6248,
-   "wd": "Q309657"
-  },
-  {
-   "name": "Crain Communications Building",
-   "cat": "관광",
-   "area": "일리노이주",
-   "lat": 41.8854,
-   "lng": -87.6248,
-   "wd": "Q2444330"
-  },
-  {
-   "name": "Symphony Center",
+   "name": "심포니 센터",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.87889,
    "lng": -87.625,
-   "wd": "Q2154167"
+   "wd": "Q2154167",
+   "aliases": [
+    "Symphony Center"
+   ]
   },
   {
-   "name": "Oak Street Beach",
+   "name": "오크 스트리트 비치",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.903,
    "lng": -87.623,
-   "wd": "Q3347844"
+   "wd": "Q3347844",
+   "aliases": [
+    "Oak Street Beach"
+   ]
   },
   {
-   "name": "353 North Clark",
-   "cat": "관광",
-   "area": "시카고",
-   "lat": 41.8885,
-   "lng": -87.631,
-   "wd": "Q4635502"
-  },
-  {
-   "name": "Biograph Theater",
+   "name": "바이오그래프 극장",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.92639,
    "lng": -87.64972,
-   "wd": "Q4914863"
+   "wd": "Q4914863",
+   "aliases": [
+    "Biograph Theater"
+   ]
   },
   {
    "name": "무디 교회",
@@ -339,28 +344,15 @@
    "wd": "Q13650483"
   },
   {
-   "name": "Michigan Avenue Bridge",
+   "name": "미시간 애비뉴 다리",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.88886,
    "lng": -87.62436,
-   "wd": "Q1928112"
-  },
-  {
-   "name": "One South Dearborn",
-   "cat": "관광",
-   "area": "시카고",
-   "lat": 41.88167,
-   "lng": -87.62861,
-   "wd": "Q2736389"
-  },
-  {
-   "name": "Mid-Continental Plaza",
-   "cat": "관광",
-   "area": "시카고",
-   "lat": 41.88,
-   "lng": -87.62556,
-   "wd": "Q2783742"
+   "wd": "Q1928112",
+   "aliases": [
+    "Michigan Avenue Bridge"
+   ]
   },
   {
    "name": "블랙스톤 호텔",
@@ -374,484 +366,510 @@
    "wd": "Q2905596"
   },
   {
-   "name": "Chicago History Museum",
+   "name": "시카고 역사박물관",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.912,
    "lng": -87.6313,
-   "wd": "Q2963315"
+   "wd": "Q2963315",
+   "aliases": [
+    "Chicago History Museum"
+   ]
   },
   {
-   "name": "Abraham Lincoln: The Man",
+   "name": "링컨 동상",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.91263,
    "lng": -87.63026,
-   "wd": "Q4668997"
+   "wd": "Q4668997",
+   "aliases": [
+    "Abraham Lincoln: The Man"
+   ]
   },
   {
-   "name": "Merle Reskin Theatre",
+   "name": "멀 레스킨 극장",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.8733,
    "lng": -87.6253,
-   "wd": "Q6819718"
+   "wd": "Q6819718",
+   "aliases": [
+    "Merle Reskin Theatre"
+   ]
   },
   {
-   "name": "St. Stanislaus Kostka Church",
+   "name": "성 스타니슬라우스 코스트카 성당",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.90594,
    "lng": -87.66242,
-   "wd": "Q7591706"
+   "wd": "Q7591706",
+   "aliases": [
+    "St. Stanislaus Kostka Church"
+   ]
   },
   {
-   "name": "St. Nicholas Cathedral",
+   "name": "성 니콜라스 대성당",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.897,
    "lng": -87.68387,
-   "wd": "Q16987016"
+   "wd": "Q16987016",
+   "aliases": [
+    "St. Nicholas Cathedral"
+   ]
   },
   {
-   "name": "Burnham Park",
+   "name": "번햄 공원",
    "cat": "관광",
    "area": "일리노이주",
    "lat": 41.8353,
    "lng": -87.6072,
-   "wd": "Q1062693"
+   "wd": "Q1062693",
+   "aliases": [
+    "Burnham Park"
+   ]
   },
   {
-   "name": "Leather Archives and Museum",
-   "cat": "관광",
-   "area": "시카고",
-   "lat": 41.99864,
-   "lng": -87.66828,
-   "wd": "Q1435136"
-  },
-  {
-   "name": "Nederlander Theatre",
+   "name": "네덜란더 극장",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.88472,
    "lng": -87.62861,
-   "wd": "Q3077068"
+   "wd": "Q3077068",
+   "aliases": [
+    "Nederlander Theatre"
+   ]
   },
   {
-   "name": "Midway Plaisance",
+   "name": "미드웨이 플레장스",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.7869,
    "lng": -87.5962,
-   "wd": "Q3378479"
+   "wd": "Q3378479",
+   "aliases": [
+    "Midway Plaisance"
+   ]
   },
   {
-   "name": "Smart Museum of Art",
+   "name": "스마트 미술관",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.7936,
    "lng": -87.6002,
-   "wd": "Q3486881"
+   "wd": "Q3486881",
+   "aliases": [
+    "Smart Museum of Art"
+   ]
   },
   {
-   "name": "St. Mary of the Angels in Chicago",
+   "name": "천사의 성모 마리아 성당",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.9157,
    "lng": -87.67125,
-   "wd": "Q7590538"
+   "wd": "Q7590538",
+   "aliases": [
+    "St. Mary of the Angels in Chicago"
+   ]
   },
   {
-   "name": "Hawthorne Works",
-   "cat": "관광",
-   "area": "시서로",
-   "lat": 41.85,
-   "lng": -87.74,
-   "wd": "Q3552649"
-  },
-  {
-   "name": "One Chicago",
-   "cat": "관광",
-   "area": "",
-   "lat": 41.89617,
-   "lng": -87.62878,
-   "wd": "Q48969627"
-  },
-  {
-   "name": "Chicago Children's Museum",
+   "name": "시카고 어린이 박물관",
    "cat": "관광",
    "area": "일리노이주",
    "lat": 41.8914,
    "lng": -87.6092,
-   "wd": "Q2963300"
+   "wd": "Q2963300",
+   "aliases": [
+    "Chicago Children's Museum"
+   ]
   },
   {
-   "name": "DuSable Museum of African American History",
+   "name": "듀세이블 흑인역사박물관",
    "cat": "관광",
    "area": "일리노이주",
    "lat": 41.7921,
    "lng": -87.6073,
-   "wd": "Q3040299"
+   "wd": "Q3040299",
+   "aliases": [
+    "DuSable Museum of African American History"
+   ]
   },
   {
-   "name": "Lurie Garden",
+   "name": "루리 가든",
    "cat": "관광",
    "area": "일리노이주",
    "lat": 41.88139,
    "lng": -87.62194,
-   "wd": "Q3267751"
+   "wd": "Q3267751",
+   "aliases": [
+    "Lurie Garden"
+   ]
   },
   {
-   "name": "Fine Arts Building",
+   "name": "파인 아츠 빌딩",
    "cat": "관광",
    "area": "일리노이주",
    "lat": 41.87644,
    "lng": -87.62461,
-   "wd": "Q5450045"
+   "wd": "Q5450045",
+   "aliases": [
+    "Fine Arts Building"
+   ]
   },
   {
-   "name": "Nichols Bridgeway",
+   "name": "니컬스 브리지웨이",
    "cat": "관광",
    "area": "일리노이주",
    "lat": 41.8806,
    "lng": -87.6225,
-   "wd": "Q7026554"
+   "wd": "Q7026554",
+   "aliases": [
+    "Nichols Bridgeway"
+   ]
   },
   {
-   "name": "Wicker Park",
+   "name": "위커 파크",
    "cat": "관광",
    "area": "일리노이주",
    "lat": 41.9077,
    "lng": -87.6768,
-   "wd": "Q7998336"
+   "wd": "Q7998336",
+   "aliases": [
+    "Wicker Park"
+   ]
   },
   {
-   "name": "Pritzker Military Museum & Library",
+   "name": "프리츠커 군사박물관",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.88056,
    "lng": -87.625,
-   "wd": "Q588030"
+   "wd": "Q588030",
+   "aliases": [
+    "Pritzker Military Museum & Library"
+   ]
   },
   {
-   "name": "425 South Financial Place",
-   "cat": "관광",
-   "area": "시카고",
-   "lat": 41.87586,
-   "lng": -87.63244,
-   "wd": "Q2615799"
-  },
-  {
-   "name": "Congress Theater",
+   "name": "콩그레스 극장",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.92,
    "lng": -87.6922,
-   "wd": "Q2993017"
+   "wd": "Q2993017",
+   "aliases": [
+    "Congress Theater"
+   ]
   },
   {
-   "name": "Garfield Park",
+   "name": "가필드 공원",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.88639,
    "lng": -87.71722,
-   "wd": "Q3098339"
+   "wd": "Q3098339",
+   "aliases": [
+    "Garfield Park"
+   ]
   },
   {
-   "name": "Jackson Park",
+   "name": "잭슨 공원",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.783,
    "lng": -87.58,
-   "wd": "Q3157432"
+   "wd": "Q3157432",
+   "aliases": [
+    "Jackson Park"
+   ]
   },
   {
-   "name": "Polish Museum of America",
+   "name": "폴란드계 미국인 박물관",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.8996,
    "lng": -87.6612,
-   "wd": "Q3394265"
+   "wd": "Q3394265",
+   "aliases": [
+    "Polish Museum of America"
+   ]
   },
   {
-   "name": "Second Presbyterian Church",
+   "name": "제2 장로교회",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.85583,
    "lng": -87.62444,
-   "wd": "Q3477011"
+   "wd": "Q3477011",
+   "aliases": [
+    "Second Presbyterian Church"
+   ]
   },
   {
-   "name": "St. Hedwig's in Chicago",
+   "name": "성 헤드비그 성당",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.92161,
    "lng": -87.68075,
-   "wd": "Q3585074"
+   "wd": "Q3585074",
+   "aliases": [
+    "St. Hedwig's in Chicago"
+   ]
   },
   {
-   "name": "Fourth Presbyterian Church of Chicago",
+   "name": "제4 장로교회",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.8988,
    "lng": -87.6247,
-   "wd": "Q4290682"
+   "wd": "Q4290682",
+   "aliases": [
+    "Fourth Presbyterian Church of Chicago"
+   ]
   },
   {
-   "name": "All Saints Episcopal Church",
-   "cat": "관광",
-   "area": "시카고",
-   "lat": 41.965,
-   "lng": -87.6728,
-   "wd": "Q4729564"
-  },
-  {
-   "name": "Carrie Eliza Getty Tomb",
+   "name": "게티 묘",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.96114,
    "lng": -87.66127,
-   "wd": "Q5046222"
+   "wd": "Q5046222",
+   "aliases": [
+    "Carrie Eliza Getty Tomb"
+   ]
   },
   {
-   "name": "Chicago Harbor Light",
+   "name": "시카고 항구 등대",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.88944,
    "lng": -87.59056,
-   "wd": "Q5095636"
+   "wd": "Q5095636",
+   "aliases": [
+    "Chicago Harbor Light"
+   ]
   },
   {
-   "name": "Goodman Theatre",
+   "name": "굿먼 극장",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.8848,
    "lng": -87.6299,
-   "wd": "Q5583472"
+   "wd": "Q5583472",
+   "aliases": [
+    "Goodman Theatre"
+   ]
   },
   {
-   "name": "Holy Trinity Church",
+   "name": "성 삼위일체 성당",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.90233,
    "lng": -87.66278,
-   "wd": "Q5886665"
+   "wd": "Q5886665",
+   "aliases": [
+    "Holy Trinity Church"
+   ]
   },
   {
-   "name": "Humboldt Park",
+   "name": "훔볼트 공원",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.9065,
    "lng": -87.7018,
-   "wd": "Q5940360"
+   "wd": "Q5940360",
+   "aliases": [
+    "Humboldt Park"
+   ]
   },
   {
-   "name": "Kinzie Street railroad bridge",
-   "cat": "관광",
-   "area": "시카고",
-   "lat": 41.8885,
-   "lng": -87.6392,
-   "wd": "Q6414483"
-  },
-  {
-   "name": "St. John Cantius in Chicago",
+   "name": "성 요한 칸티우스 성당",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.89683,
    "lng": -87.65333,
-   "wd": "Q7588888"
+   "wd": "Q7588888",
+   "aliases": [
+    "St. John Cantius in Chicago"
+   ]
   },
   {
-   "name": "St. Josaphat's in Chicago",
+   "name": "성 요사팟 성당",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.92364,
    "lng": -87.663,
-   "wd": "Q7589048"
+   "wd": "Q7589048",
+   "aliases": [
+    "St. Josaphat's in Chicago"
+   ]
   },
   {
-   "name": "Steppenwolf Theatre Company",
+   "name": "스테픈울프 극장",
    "cat": "관광",
    "area": "시카고",
    "lat": 41.9125,
    "lng": -87.6486,
-   "wd": "Q7611082"
+   "wd": "Q7611082",
+   "aliases": [
+    "Steppenwolf Theatre Company"
+   ]
   },
   {
-   "name": "Chopin Park",
+   "name": "쇼팽 공원",
    "cat": "관광",
    "area": "Portage Park",
    "lat": 41.9432,
    "lng": -87.763,
-   "wd": "Q2964469"
+   "wd": "Q2964469",
+   "aliases": [
+    "Chopin Park"
+   ]
   },
   {
-   "name": "National Hellenic Museum",
+   "name": "국립 그리스 박물관",
    "cat": "관광",
    "area": "Halsted Street",
    "lat": 41.87687,
    "lng": -87.64692,
-   "wd": "Q6973035"
+   "wd": "Q6973035",
+   "aliases": [
+    "National Hellenic Museum"
+   ]
   },
   {
-   "name": "Legacy Walk",
+   "name": "레거시 워크",
    "cat": "관광",
    "area": "",
    "lat": 41.94528,
    "lng": -87.64944,
-   "wd": "Q17031265"
+   "wd": "Q17031265",
+   "aliases": [
+    "Legacy Walk"
+   ]
   },
   {
-   "name": "Spertus Institute for Jewish Learning and Leadership",
+   "name": "스퍼터스 유대학 연구소",
    "cat": "관광",
    "area": "일리노이주",
    "lat": 41.874,
    "lng": -87.6247,
-   "wd": "Q2896792"
+   "wd": "Q2896792",
+   "aliases": [
+    "Spertus Institute for Jewish Learning and Leadership"
+   ]
   },
   {
-   "name": "Centennial Fountain",
+   "name": "센테니얼 분수",
    "cat": "관광",
    "area": "일리노이주",
    "lat": 41.8888,
    "lng": -87.6176,
-   "wd": "Q3076298"
+   "wd": "Q3076298",
+   "aliases": [
+    "Centennial Fountain"
+   ]
   },
   {
-   "name": "Henry B. Clarke House",
+   "name": "헨리 B. 클라크 하우스",
    "cat": "관광",
    "area": "일리노이주",
    "lat": 41.8571,
    "lng": -87.6219,
-   "wd": "Q3132596"
+   "wd": "Q3132596",
+   "aliases": [
+    "Henry B. Clarke House"
+   ]
   },
   {
-   "name": "Lincoln Park Conservatory",
+   "name": "링컨 공원 온실",
    "cat": "관광",
    "area": "일리노이주",
    "lat": 41.924,
    "lng": -87.6353,
-   "wd": "Q3241308"
+   "wd": "Q3241308",
+   "aliases": [
+    "Lincoln Park Conservatory"
+   ]
   },
   {
-   "name": "Museum of Contemporary Photography",
+   "name": "현대 사진 박물관",
    "cat": "관광",
    "area": "일리노이주",
    "lat": 41.87423,
    "lng": -87.62451,
-   "wd": "Q3328434"
+   "wd": "Q3328434",
+   "aliases": [
+    "Museum of Contemporary Photography"
+   ]
   },
   {
-   "name": "Ukrainian Institute of Modern Art",
+   "name": "우크라이나 현대미술관",
    "cat": "관광",
    "area": "일리노이주",
    "lat": 41.896,
    "lng": -87.6851,
-   "wd": "Q3547881"
+   "wd": "Q3547881",
+   "aliases": [
+    "Ukrainian Institute of Modern Art"
+   ]
   },
   {
-   "name": "St. Michael's Church, Old Town, Chicago",
+   "name": "성 미카엘 성당",
    "cat": "관광",
    "area": "일리노이주",
    "lat": 41.9123,
    "lng": -87.6397,
-   "wd": "Q3583169"
+   "wd": "Q3583169",
+   "aliases": [
+    "St. Michael's Church, Old Town, Chicago"
+   ]
   },
   {
-   "name": "AT&T Plaza",
+   "name": "AT&T 플라자",
    "cat": "관광",
    "area": "일리노이주",
    "lat": 41.8827,
    "lng": -87.6233,
-   "wd": "Q4654551"
+   "wd": "Q4654551",
+   "aliases": [
+    "AT&T Plaza"
+   ]
   },
   {
-   "name": "Café Brauer",
+   "name": "카페 브라우어",
    "cat": "관광",
    "area": "일리노이주",
    "lat": 41.91917,
    "lng": -87.63389,
-   "wd": "Q5017227"
+   "wd": "Q5017227",
+   "aliases": [
+    "Café Brauer"
+   ]
   },
   {
-   "name": "Clark Street Bridge",
-   "cat": "관광",
-   "area": "일리노이주",
-   "lat": 41.8875,
-   "lng": -87.631,
-   "wd": "Q5127391"
-  },
-  {
-   "name": "Cortland Street Drawbridge",
-   "cat": "관광",
-   "area": "일리노이주",
-   "lat": 41.917,
-   "lng": -87.664,
-   "wd": "Q5173348"
-  },
-  {
-   "name": "Franklin Street Bridge",
-   "cat": "관광",
-   "area": "일리노이주",
-   "lat": 41.8872,
-   "lng": -87.6358,
-   "wd": "Q5491875"
-  },
-  {
-   "name": "Kelvyn Park",
+   "name": "켈빈 공원",
    "cat": "관광",
    "area": "일리노이주",
    "lat": 41.9296,
    "lng": -87.7381,
-   "wd": "Q6386788"
+   "wd": "Q6386788",
+   "aliases": [
+    "Kelvyn Park"
+   ]
   },
   {
-   "name": "La Salle Street Bridge",
-   "cat": "관광",
-   "area": "일리노이주",
-   "lat": 41.8875,
-   "lng": -87.6325,
-   "wd": "Q6465142"
-  },
-  {
-   "name": "New York Life Insurance Building, Chicago",
-   "cat": "관광",
-   "area": "일리노이주",
-   "lat": 41.8814,
-   "lng": -87.6323,
-   "wd": "Q7013714"
-  },
-  {
-   "name": "Notre Dame de Chicago",
+   "name": "노트르담 드 시카고 성당",
    "cat": "관광",
    "area": "일리노이주",
    "lat": 41.87333,
    "lng": -87.66083,
-   "wd": "Q7063482"
-  },
-  {
-   "name": "Oliver Building",
-   "cat": "관광",
-   "area": "일리노이주",
-   "lat": 41.88472,
-   "lng": -87.62931,
-   "wd": "Q7087428"
-  },
-  {
-   "name": "Polonia Triangle",
-   "cat": "관광",
-   "area": "일리노이주",
-   "lat": 41.9036,
-   "lng": -87.6672,
-   "wd": "Q7225944"
-  },
-  {
-   "name": "Powhatan Apartments",
-   "cat": "관광",
-   "area": "일리노이주",
-   "lat": 41.8046,
-   "lng": -87.5843,
-   "wd": "Q7236880"
+   "wd": "Q7063482",
+   "aliases": [
+    "Notre Dame de Chicago"
+   ]
   }
  ]
 }

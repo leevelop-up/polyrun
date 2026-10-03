@@ -71,12 +71,15 @@
    "wd": "Q671384"
   },
   {
-   "name": "Grundtvig's Church",
+   "name": "그룬트비 교회",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.71658,
    "lng": 12.53361,
-   "wd": "Q650849"
+   "wd": "Q650849",
+   "aliases": [
+    "Grundtvig's Church"
+   ]
   },
   {
    "name": "코펜하겐 오페라 하우스",
@@ -112,36 +115,48 @@
    "wd": "Q1066641"
   },
   {
-   "name": "Frederik's Church",
+   "name": "프레데릭 교회(대리석 교회)",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.685,
    "lng": 12.58944,
-   "wd": "Q1321231"
+   "wd": "Q1321231",
+   "aliases": [
+    "Frederik's Church"
+   ]
   },
   {
-   "name": "Church of Our Saviour",
+   "name": "구세주 교회",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.67278,
    "lng": 12.59389,
-   "wd": "Q29157"
+   "wd": "Q29157",
+   "aliases": [
+    "Church of Our Saviour"
+   ]
   },
   {
-   "name": "Copenhagen Zoo",
+   "name": "코펜하겐 동물원",
    "cat": "관광",
    "area": "프레데릭스베르시",
    "lat": 55.67278,
    "lng": 12.52139,
-   "wd": "Q220057"
+   "wd": "Q220057",
+   "aliases": [
+    "Copenhagen Zoo"
+   ]
   },
   {
-   "name": "B&W Halls",
+   "name": "B&W 홀",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.69262,
    "lng": 12.61489,
-   "wd": "Q14790402"
+   "wd": "Q14790402",
+   "aliases": [
+    "B&W Halls"
+   ]
   },
   {
    "name": "프레데릭스베르궁",
@@ -155,76 +170,92 @@
    "wd": "Q665954"
   },
   {
-   "name": "Dyrehavsbakken",
+   "name": "바켄 놀이공원",
    "cat": "관광",
    "area": "륑뷔토르베크시",
    "lat": 55.7761,
    "lng": 12.5739,
-   "wd": "Q496893"
+   "wd": "Q496893",
+   "aliases": [
+    "Dyrehavsbakken"
+   ]
   },
   {
-   "name": "Kastellet",
+   "name": "카스텔레트 요새",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.69161,
    "lng": 12.59357,
-   "wd": "Q221812"
+   "wd": "Q221812",
+   "aliases": [
+    "Kastellet"
+   ]
   },
   {
-   "name": "University of Copenhagen Botanical Garden",
+   "name": "코펜하겐 대학 식물원",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.68694,
    "lng": 12.57389,
-   "wd": "Q892711"
+   "wd": "Q892711",
+   "aliases": [
+    "University of Copenhagen Botanical Garden"
+   ]
   },
   {
-   "name": "Ungdomshuset",
-   "cat": "관광",
-   "area": "코펜하겐시",
-   "lat": 55.6938,
-   "lng": 12.548,
-   "wd": "Q849232"
-  },
-  {
-   "name": "Gefion Fountain",
+   "name": "게피온 분수",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.68931,
    "lng": 12.59763,
-   "wd": "Q952817"
+   "wd": "Q952817",
+   "aliases": [
+    "Gefion Fountain"
+   ]
   },
   {
-   "name": "Kongens Nytorv",
+   "name": "콩겐스 뉘토르브",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.68028,
    "lng": 12.58583,
-   "wd": "Q1589941"
+   "wd": "Q1589941",
+   "aliases": [
+    "Kongens Nytorv"
+   ]
   },
   {
-   "name": "Amager Bakke",
+   "name": "아마게르 바케(코펜힐)",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.68474,
    "lng": 12.62055,
-   "wd": "Q16002749"
+   "wd": "Q16002749",
+   "aliases": [
+    "Amager Bakke"
+   ]
   },
   {
-   "name": "St. Ansgar's Cathedral",
+   "name": "성 안스가르 대성당",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.68611,
    "lng": 12.5925,
-   "wd": "Q1238512"
+   "wd": "Q1238512",
+   "aliases": [
+    "St. Ansgar's Cathedral"
+   ]
   },
   {
-   "name": "Yellow Palace",
+   "name": "노란 궁전",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.68301,
    "lng": 12.59272,
-   "wd": "Q2504988"
+   "wd": "Q2504988",
+   "aliases": [
+    "Yellow Palace"
+   ]
   },
   {
    "name": "아마게르 해변공원",
@@ -238,12 +269,15 @@
    "wd": "Q452470"
   },
   {
-   "name": "Koncerthuset",
+   "name": "DR 콘서트홀",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.65795,
    "lng": 12.58898,
-   "wd": "Q1783715"
+   "wd": "Q1783715",
+   "aliases": [
+    "Koncerthuset"
+   ]
   },
   {
    "name": "시청광장",
@@ -268,20 +302,26 @@
    "wd": "Q3466525"
   },
   {
-   "name": "Museum Ordrupgaard",
+   "name": "오드럽고 미술관",
    "cat": "관광",
    "area": "겐토프테시",
    "lat": 55.76694,
    "lng": 12.56333,
-   "wd": "Q770918"
+   "wd": "Q770918",
+   "aliases": [
+    "Museum Ordrupgaard"
+   ]
   },
   {
-   "name": "Charlottenborg Palace",
+   "name": "샤를로텐보르 궁전",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.68028,
    "lng": 12.5875,
-   "wd": "Q1280223"
+   "wd": "Q1280223",
+   "aliases": [
+    "Charlottenborg Palace"
+   ]
   },
   {
    "name": "히르슈프룽 컬렉션",
@@ -306,52 +346,70 @@
    "wd": "Q12318161"
   },
   {
-   "name": "Church of the Holy Ghost",
+   "name": "성령 교회",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.679,
    "lng": 12.57692,
-   "wd": "Q1602873"
+   "wd": "Q1602873",
+   "aliases": [
+    "Church of the Holy Ghost"
+   ]
   },
   {
-   "name": "Rosenborg Castle Gardens",
+   "name": "로젠보르 성 정원",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.685,
    "lng": 12.579,
-   "wd": "Q1898947"
+   "wd": "Q1898947",
+   "aliases": [
+    "Rosenborg Castle Gardens"
+   ]
   },
   {
-   "name": "Circle Bridge",
+   "name": "서클 브리지",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.67243,
    "lng": 12.5838,
-   "wd": "Q11963844"
+   "wd": "Q11963844",
+   "aliases": [
+    "Circle Bridge"
+   ]
   },
   {
-   "name": "Grand Mosque of Copenhagen",
+   "name": "코펜하겐 대모스크",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.70833,
    "lng": 12.54879,
-   "wd": "Q16957737"
+   "wd": "Q16957737",
+   "aliases": [
+    "Grand Mosque of Copenhagen"
+   ]
   },
   {
-   "name": "Trinitatis Church",
+   "name": "삼위일체 교회",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.68156,
    "lng": 12.57606,
-   "wd": "Q1033809"
+   "wd": "Q1033809",
+   "aliases": [
+    "Trinitatis Church"
+   ]
   },
   {
-   "name": "St. Alban's Church",
+   "name": "성 알반 교회",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.68917,
    "lng": 12.59696,
-   "wd": "Q3580820"
+   "wd": "Q3580820",
+   "aliases": [
+    "St. Alban's Church"
+   ]
   },
   {
    "name": "덴마크 국립수족관",
@@ -376,484 +434,598 @@
    "wd": "Q834603"
   },
   {
-   "name": "Langebro",
+   "name": "랑에브로",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.67028,
    "lng": 12.5788,
-   "wd": "Q944453"
+   "wd": "Q944453",
+   "aliases": [
+    "Langebro"
+   ]
   },
   {
-   "name": "Christian's Church",
+   "name": "크리스티안 교회",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.6724,
    "lng": 12.5872,
-   "wd": "Q1082978"
+   "wd": "Q1082978",
+   "aliases": [
+    "Christian's Church"
+   ]
   },
   {
-   "name": "St. Peter's Church",
+   "name": "성 베드로 교회",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.67995,
    "lng": 12.57066,
-   "wd": "Q1433264"
+   "wd": "Q1433264",
+   "aliases": [
+    "St. Peter's Church"
+   ]
   },
   {
-   "name": "Det Ny Theater",
+   "name": "뉘 극장",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.67333,
    "lng": 12.55528,
-   "wd": "Q2562959"
+   "wd": "Q2562959",
+   "aliases": [
+    "Det Ny Theater"
+   ]
   },
   {
-   "name": "David Collection",
+   "name": "다비드 컬렉션",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.68429,
    "lng": 12.58225,
-   "wd": "Q536499"
+   "wd": "Q536499",
+   "aliases": [
+    "David Collection"
+   ]
   },
   {
-   "name": "Fælledparken",
+   "name": "펠레드 공원",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.6997,
    "lng": 12.57,
-   "wd": "Q2562401"
+   "wd": "Q2562401",
+   "aliases": [
+    "Fælledparken"
+   ]
   },
   {
-   "name": "Alexander Nevsky Church",
+   "name": "알렉산드르 넵스키 교회",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.68528,
    "lng": 12.59069,
-   "wd": "Q2661965"
+   "wd": "Q2661965",
+   "aliases": [
+    "Alexander Nevsky Church"
+   ]
   },
   {
-   "name": "Langelinie",
+   "name": "랑엘리니에",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.6924,
    "lng": 12.5987,
-   "wd": "Q2983172"
+   "wd": "Q2983172",
+   "aliases": [
+    "Langelinie"
+   ]
   },
   {
-   "name": "Field's",
+   "name": "필즈 쇼핑센터",
    "cat": "쇼핑",
    "area": "코펜하겐시",
    "lat": 55.63027,
    "lng": 12.57711,
-   "wd": "Q3504718"
+   "wd": "Q3504718",
+   "aliases": [
+    "Field's"
+   ]
   },
   {
-   "name": "Royal Danish Playhouse",
+   "name": "왕립 극장 플레이하우스",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.6801,
    "lng": 12.5946,
-   "wd": "Q4568402"
+   "wd": "Q4568402",
+   "aliases": [
+    "Royal Danish Playhouse"
+   ]
   },
   {
-   "name": "Reformed Church",
+   "name": "개혁 교회",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.68377,
    "lng": 12.57511,
-   "wd": "Q4994203"
+   "wd": "Q4994203",
+   "aliases": [
+    "Reformed Church"
+   ]
   },
   {
-   "name": "Nusrat Jahan Mosque",
+   "name": "누스라트 자한 모스크",
    "cat": "관광",
    "area": "흐비도우레",
    "lat": 55.65098,
    "lng": 12.47896,
-   "wd": "Q19384094"
+   "wd": "Q19384094",
+   "aliases": [
+    "Nusrat Jahan Mosque"
+   ]
   },
   {
-   "name": "Natural History Museum of Denmark",
+   "name": "덴마크 자연사박물관",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.6874,
    "lng": 12.5769,
-   "wd": "Q978464"
+   "wd": "Q978464",
+   "aliases": [
+    "Natural History Museum of Denmark"
+   ]
   },
   {
-   "name": "Middelgrundsfortet",
+   "name": "미델그룬 요새",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.72028,
    "lng": 12.66583,
-   "wd": "Q1860409"
+   "wd": "Q1860409",
+   "aliases": [
+    "Middelgrundsfortet"
+   ]
   },
   {
-   "name": "Ørstedsparken",
+   "name": "외르스테드 공원",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.68083,
    "lng": 12.56639,
-   "wd": "Q2686981"
+   "wd": "Q2686981",
+   "aliases": [
+    "Ørstedsparken"
+   ]
   },
   {
-   "name": "Folketeatret",
+   "name": "폴케테아트레",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.68139,
    "lng": 12.57111,
-   "wd": "Q3075039"
+   "wd": "Q3075039",
+   "aliases": [
+    "Folketeatret"
+   ]
   },
   {
-   "name": "Østre Anlæg",
+   "name": "외스트레 안레그 공원",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.69083,
    "lng": 12.58194,
-   "wd": "Q3089054"
+   "wd": "Q3089054",
+   "aliases": [
+    "Østre Anlæg"
+   ]
   },
   {
-   "name": "8 House",
+   "name": "8 하우스",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.61743,
    "lng": 12.57179,
-   "wd": "Q3360208"
+   "wd": "Q3360208",
+   "aliases": [
+    "8 House"
+   ]
   },
   {
-   "name": "Jesuskirken",
+   "name": "예수 교회",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.6653,
    "lng": 12.5221,
-   "wd": "Q3428442"
+   "wd": "Q3428442",
+   "aliases": [
+    "Jesuskirken"
+   ]
   },
   {
-   "name": "Caritas Well",
+   "name": "카리타스 분수",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.6781,
    "lng": 12.5723,
-   "wd": "Q3431282"
+   "wd": "Q3431282",
+   "aliases": [
+    "Caritas Well"
+   ]
   },
   {
-   "name": "Absalon's Castle",
+   "name": "압살론 성 유적",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.67639,
    "lng": 12.58056,
-   "wd": "Q4585653"
+   "wd": "Q4585653",
+   "aliases": [
+    "Absalon's Castle"
+   ]
   },
   {
-   "name": "Copenhagen Denmark Temple",
-   "cat": "관광",
-   "area": "프레데릭스베르시",
-   "lat": 55.69274,
-   "lng": 12.53394,
-   "wd": "Q1783903"
-  },
-  {
-   "name": "Bellevue Teatret",
+   "name": "벨뷔 극장",
    "cat": "관광",
    "area": "겐토프테시",
    "lat": 55.7776,
    "lng": 12.5899,
-   "wd": "Q815963"
+   "wd": "Q815963",
+   "aliases": [
+    "Bellevue Teatret"
+   ]
   },
   {
-   "name": "Bellevue Beach",
+   "name": "벨뷔 비치",
    "cat": "관광",
    "area": "겐토프테시",
    "lat": 55.778,
    "lng": 12.5923,
-   "wd": "Q3375957"
+   "wd": "Q3375957",
+   "aliases": [
+    "Bellevue Beach"
+   ]
   },
   {
-   "name": "Danish War Museum",
+   "name": "덴마크 전쟁박물관",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.6743,
    "lng": 12.58021,
-   "wd": "Q653100"
+   "wd": "Q653100",
+   "aliases": [
+    "Danish War Museum"
+   ]
   },
   {
-   "name": "Danish Design Centre",
+   "name": "덴마크 디자인센터",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.6722,
    "lng": 12.579,
-   "wd": "Q2043643"
+   "wd": "Q2043643",
+   "aliases": [
+    "Danish Design Centre"
+   ]
   },
   {
-   "name": "Bryggebroen",
+   "name": "브뤼게 다리",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.66153,
    "lng": 12.56667,
-   "wd": "Q2927205"
+   "wd": "Q2927205",
+   "aliases": [
+    "Bryggebroen"
+   ]
   },
   {
-   "name": "Nytorv",
+   "name": "뉘토르브",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.6776,
    "lng": 12.573,
-   "wd": "Q3289863"
+   "wd": "Q3289863",
+   "aliases": [
+    "Nytorv"
+   ]
   },
   {
-   "name": "Amagertorv",
+   "name": "아마게르토르브",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.6788,
    "lng": 12.57916,
-   "wd": "Q4572749"
+   "wd": "Q4572749",
+   "aliases": [
+    "Amagertorv"
+   ]
   },
   {
-   "name": "Frederiksberg Park",
+   "name": "프레데릭스베르 공원",
    "cat": "관광",
    "area": "프레데릭스베르시",
    "lat": 55.6743,
    "lng": 12.5253,
-   "wd": "Q513382"
+   "wd": "Q513382",
+   "aliases": [
+    "Frederiksberg Park"
+   ]
   },
   {
-   "name": "Betty Nansen Teatret",
+   "name": "베티 난센 극장",
    "cat": "관광",
    "area": "프레데릭스베르시",
    "lat": 55.67397,
    "lng": 12.537,
-   "wd": "Q9027098"
+   "wd": "Q9027098",
+   "aliases": [
+    "Betty Nansen Teatret"
+   ]
   },
   {
-   "name": "Christus",
+   "name": "그리스도상",
    "cat": "관광",
    "area": "",
    "lat": 55.67944,
    "lng": 12.57306,
-   "wd": "Q5113613"
+   "wd": "Q5113613",
+   "aliases": [
+    "Christus"
+   ]
   },
   {
-   "name": "Nikolaj, Copenhagen Contemporary Art Center",
+   "name": "니콜라이 현대미술센터",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.67861,
    "lng": 12.58139,
-   "wd": "Q747844"
+   "wd": "Q747844",
+   "aliases": [
+    "Nikolaj, Copenhagen Contemporary Art Center"
+   ]
   },
   {
-   "name": "Pantomimeteatret",
+   "name": "판토마임 극장",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.6745,
    "lng": 12.5665,
-   "wd": "Q955226"
+   "wd": "Q955226",
+   "aliases": [
+    "Pantomimeteatret"
+   ]
   },
   {
-   "name": "Theatre Museum in the Court Theatre",
+   "name": "궁정극장 극장박물관",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.6748,
    "lng": 12.5786,
-   "wd": "Q3072878"
+   "wd": "Q3072878",
+   "aliases": [
+    "Theatre Museum in the Court Theatre"
+   ]
   },
   {
-   "name": "Teglværksbroen",
-   "cat": "관광",
-   "area": "코펜하겐시",
-   "lat": 55.6475,
-   "lng": 12.55028,
-   "wd": "Q3076002"
-  },
-  {
-   "name": "Gammeltorv",
+   "name": "감멜토르브",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.67806,
    "lng": 12.57222,
-   "wd": "Q3289837"
+   "wd": "Q3289837",
+   "aliases": [
+    "Gammeltorv"
+   ]
   },
   {
-   "name": "Workers Museum",
+   "name": "노동자 박물관",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.68481,
    "lng": 12.5702,
-   "wd": "Q3365660"
+   "wd": "Q3365660",
+   "aliases": [
+    "Workers Museum"
+   ]
   },
   {
-   "name": "Royal Danish Naval Museum",
+   "name": "왕립 해군박물관",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.6742,
    "lng": 12.5945,
-   "wd": "Q3375972"
+   "wd": "Q3375972",
+   "aliases": [
+    "Royal Danish Naval Museum"
+   ]
   },
   {
-   "name": "Garrison Church",
+   "name": "수비대 교회",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.68172,
    "lng": 12.58951,
-   "wd": "Q3428195"
+   "wd": "Q3428195",
+   "aliases": [
+    "Garrison Church"
+   ]
   },
   {
-   "name": "Odd Fellows Mansion",
-   "cat": "관광",
-   "area": "코펜하겐시",
-   "lat": 55.6828,
-   "lng": 12.59,
-   "wd": "Q3432545"
-  },
-  {
-   "name": "Prince's Mansion",
+   "name": "프린스 저택(국립박물관)",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.67472,
    "lng": 12.57472,
-   "wd": "Q3432994"
+   "wd": "Q3432994",
+   "aliases": [
+    "Prince's Mansion"
+   ]
   },
   {
-   "name": "Jarmers Tower",
+   "name": "야르메르 탑",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.67882,
    "lng": 12.56568,
-   "wd": "Q3437098"
+   "wd": "Q3437098",
+   "aliases": [
+    "Jarmers Tower"
+   ]
   },
   {
-   "name": "Liberty Column",
+   "name": "자유의 기둥",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.67419,
    "lng": 12.56329,
-   "wd": "Q3441954"
+   "wd": "Q3441954",
+   "aliases": [
+    "Liberty Column"
+   ]
   },
   {
-   "name": "St. James's Church",
+   "name": "성 야고보 교회",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.7035,
    "lng": 12.5764,
-   "wd": "Q7588414"
+   "wd": "Q7588414",
+   "aliases": [
+    "St. James's Church"
+   ]
   },
   {
-   "name": "St. Paul's Church",
+   "name": "성 바오로 교회",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.68784,
    "lng": 12.587,
-   "wd": "Q7591041"
+   "wd": "Q7591041",
+   "aliases": [
+    "St. Paul's Church"
+   ]
   },
   {
-   "name": "Copenhagen Police Headquarters",
-   "cat": "관광",
-   "area": "코펜하겐시",
-   "lat": 55.6706,
-   "lng": 12.572,
-   "wd": "Q11982834"
-  },
-  {
-   "name": "Nordre Røse Fyr",
-   "cat": "관광",
-   "area": "토른뷔시",
-   "lat": 55.63601,
-   "lng": 12.68678,
-   "wd": "Q11686689"
-  },
-  {
-   "name": "Sjællandsbroen",
-   "cat": "관광",
-   "area": "코펜하겐시",
-   "lat": 55.64159,
-   "lng": 12.5505,
-   "wd": "Q379464"
-  },
-  {
-   "name": "Citadel Church",
+   "name": "성채 교회",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.69139,
    "lng": 12.59306,
-   "wd": "Q751541"
+   "wd": "Q751541",
+   "aliases": [
+    "Citadel Church"
+   ]
   },
   {
-   "name": "Blåtårn",
+   "name": "블루 타워",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.67528,
    "lng": 12.57833,
-   "wd": "Q882740"
+   "wd": "Q882740",
+   "aliases": [
+    "Blåtårn"
+   ]
   },
   {
-   "name": "Palads Teatret",
+   "name": "팔라스 영화관",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.67639,
    "lng": 12.56361,
-   "wd": "Q2711052"
+   "wd": "Q2711052",
+   "aliases": [
+    "Palads Teatret"
+   ]
   },
   {
-   "name": "Tycho Brahe Planetarium",
+   "name": "티코 브라헤 천문관",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.67457,
    "lng": 12.55814,
-   "wd": "Q3101943"
+   "wd": "Q3101943",
+   "aliases": [
+    "Tycho Brahe Planetarium"
+   ]
   },
   {
-   "name": "Geologisk Museum",
+   "name": "지질학 박물관",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.6874,
    "lng": 12.5768,
-   "wd": "Q3275232"
+   "wd": "Q3275232",
+   "aliases": [
+    "Geologisk Museum"
+   ]
   },
   {
-   "name": "Søtorvet",
+   "name": "쇠토르베트",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.6861,
    "lng": 12.5653,
-   "wd": "Q3359396"
+   "wd": "Q3359396",
+   "aliases": [
+    "Søtorvet"
+   ]
   },
   {
-   "name": "Christian IV's Brewhouse",
+   "name": "크리스티안 4세 양조장",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.6731,
    "lng": 12.5798,
-   "wd": "Q3363786"
+   "wd": "Q3363786",
+   "aliases": [
+    "Christian IV's Brewhouse"
+   ]
   },
   {
-   "name": "Højbro Plads",
+   "name": "회이브로 광장",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.67833,
    "lng": 12.58,
-   "wd": "Q3434130"
+   "wd": "Q3434130",
+   "aliases": [
+    "Højbro Plads"
+   ]
   },
   {
-   "name": "St. Matthew's Church",
+   "name": "성 마태 교회",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.66946,
    "lng": 12.54805,
-   "wd": "Q3642673"
+   "wd": "Q3642673",
+   "aliases": [
+    "St. Matthew's Church"
+   ]
   },
   {
-   "name": "Gråbrødretorv",
+   "name": "그로브뢰드레토르브",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.67972,
    "lng": 12.57583,
-   "wd": "Q4572693"
+   "wd": "Q4572693",
+   "aliases": [
+    "Gråbrødretorv"
+   ]
   },
   {
-   "name": "Israels Plads",
+   "name": "이스라엘 광장",
    "cat": "관광",
    "area": "코펜하겐시",
    "lat": 55.683,
    "lng": 12.5684,
-   "wd": "Q4964733"
+   "wd": "Q4964733",
+   "aliases": [
+    "Israels Plads"
+   ]
   }
  ]
 }

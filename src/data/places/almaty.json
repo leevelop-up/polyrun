@@ -3,140 +3,191 @@
  "builtAt": "2026-10-03",
  "picks": [
   {
-   "name": "Ascension Cathedral",
+   "name": "승천 대성당(젠코프 성당)",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.25861,
    "lng": 76.95333,
-   "wd": "Q1078589"
+   "wd": "Q1078589",
+   "aliases": [
+    "Ascension Cathedral"
+   ]
   },
   {
-   "name": "Central Mosque (Almaty)",
+   "name": "알마티 중앙 모스크",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.2683,
    "lng": 76.95292,
-   "wd": "Q190682"
+   "wd": "Q190682",
+   "aliases": [
+    "Central Mosque (Almaty)"
+   ]
   },
   {
-   "name": "Central State Museum of Kazakhstan",
+   "name": "카자흐스탄 중앙국립박물관",
    "cat": "관광",
    "area": "",
    "lat": 43.23582,
    "lng": 76.95073,
-   "wd": "Q190456"
+   "wd": "Q190456",
+   "aliases": [
+    "Central State Museum of Kazakhstan"
+   ]
   },
   {
-   "name": "Abay Opera House",
+   "name": "아바이 오페라 극장",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.24889,
    "lng": 76.94583,
-   "wd": "Q304839"
+   "wd": "Q304839",
+   "aliases": [
+    "Abay Opera House"
+   ]
   },
   {
-   "name": "Kok Tobe",
+   "name": "콕토베",
    "cat": "관광",
    "area": "Medeu district",
    "lat": 43.23306,
    "lng": 76.97611,
-   "wd": "Q1795699"
+   "wd": "Q1795699",
+   "aliases": [
+    "Kok Tobe"
+   ]
   },
   {
-   "name": "A. Kasteyev State Museum of Arts",
+   "name": "카스테예프 국립미술관",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.23559,
    "lng": 76.9195,
-   "wd": "Q2324596"
+   "wd": "Q2324596",
+   "aliases": [
+    "A. Kasteyev State Museum of Arts"
+   ]
   },
   {
-   "name": "Kazakhstan National Museum of Instruments",
+   "name": "카자흐스탄 국립 민속악기 박물관",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.25943,
    "lng": 76.95686,
-   "wd": "Q2498214"
+   "wd": "Q2498214",
+   "aliases": [
+    "Kazakhstan National Museum of Instruments"
+   ]
   },
   {
-   "name": "Abai Square",
+   "name": "아바이 광장",
    "cat": "관광",
    "area": "Medeu district",
    "lat": 43.24314,
    "lng": 76.95817,
-   "wd": "Q12526202"
+   "wd": "Q12526202",
+   "aliases": [
+    "Abai Square"
+   ]
   },
   {
-   "name": "Auezov Theatre",
+   "name": "아우에조프 극장",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.24155,
    "lng": 76.91792,
-   "wd": "Q258180"
+   "wd": "Q258180",
+   "aliases": [
+    "Auezov Theatre"
+   ]
   },
   {
-   "name": "Palace of the Republic",
+   "name": "공화국 궁전",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.24321,
    "lng": 76.95947,
-   "wd": "Q2047375"
+   "wd": "Q2047375",
+   "aliases": [
+    "Palace of the Republic"
+   ]
   },
   {
-   "name": "Almaty Zoo",
+   "name": "알마티 동물원",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.26342,
    "lng": 76.97405,
-   "wd": "Q4062771"
+   "wd": "Q4062771",
+   "aliases": [
+    "Almaty Zoo"
+   ]
   },
   {
-   "name": "Saint Nicholas Orthodox church in Almaty",
+   "name": "성 니콜라스 정교회",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.24841,
    "lng": 76.92812,
-   "wd": "Q1234917"
+   "wd": "Q1234917",
+   "aliases": [
+    "Saint Nicholas Orthodox church in Almaty"
+   ]
   },
   {
-   "name": "Republic Square",
+   "name": "공화국 광장",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.23824,
    "lng": 76.94562,
-   "wd": "Q4365743"
+   "wd": "Q4365743",
+   "aliases": [
+    "Republic Square"
+   ]
   },
   {
-   "name": "Museum of Almaty",
+   "name": "알마티 박물관",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.24874,
    "lng": 76.93611,
-   "wd": "Q60853367"
+   "wd": "Q60853367",
+   "aliases": [
+    "Museum of Almaty"
+   ]
   },
   {
-   "name": "Almaty National Circus",
+   "name": "알마티 국립 서커스",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.23911,
    "lng": 76.91727,
-   "wd": "Q205932"
+   "wd": "Q205932",
+   "aliases": [
+    "Almaty National Circus"
+   ]
   },
   {
-   "name": "Auezov Home Museum",
+   "name": "아우에조프 기념관",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.24339,
    "lng": 76.94956,
-   "wd": "Q258173"
+   "wd": "Q258173",
+   "aliases": [
+    "Auezov Home Museum"
+   ]
   },
   {
-   "name": "Park of 28 Panfilov Guardsmen, Almaty",
+   "name": "판필로프 28용사 공원",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.2588,
    "lng": 76.95369,
-   "wd": "Q2052602"
+   "wd": "Q2052602",
+   "aliases": [
+    "Park of 28 Panfilov Guardsmen, Almaty"
+   ]
   },
   {
    "name": "카자흐스탄공화국 국립 아카데미 고려극장",
@@ -151,460 +202,598 @@
    "wd": "Q4393634"
   },
   {
-   "name": "Central Park",
+   "name": "중앙공원",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.26214,
    "lng": 76.96927,
-   "wd": "Q190387"
+   "wd": "Q190387",
+   "aliases": [
+    "Central Park"
+   ]
   },
   {
-   "name": "Saints Faith, Hope, Charity and Their Mother Sophia Orthodox church in Almaty",
+   "name": "성녀 소피아와 세 딸 정교회",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.26963,
    "lng": 76.95869,
-   "wd": "Q1795306"
+   "wd": "Q1795306",
+   "aliases": [
+    "Saints Faith, Hope, Charity and Their Mother Sophia Orthodox church in Almaty"
+   ]
   },
   {
-   "name": "Musirepov Kazhak Children's and Youth Theatre",
+   "name": "무시레포프 청소년 극장",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.26604,
    "lng": 76.94115,
-   "wd": "Q4208087"
+   "wd": "Q4208087",
+   "aliases": [
+    "Musirepov Kazhak Children's and Youth Theatre"
+   ]
   },
   {
-   "name": "Kyzyl-Tan",
+   "name": "크즐탄 사원",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.26256,
    "lng": 76.95024,
-   "wd": "Q4250655"
+   "wd": "Q4250655",
+   "aliases": [
+    "Kyzyl-Tan"
+   ]
   },
   {
-   "name": "Park named after the First President of the Republic of Kazakhstan",
+   "name": "초대 대통령 공원",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.188,
    "lng": 76.887,
-   "wd": "Q16684909"
+   "wd": "Q16684909",
+   "aliases": [
+    "Park named after the First President of the Republic of Kazakhstan"
+   ]
   },
   {
-   "name": "The Republican Museum of Sports and Olympic Glory",
+   "name": "카자흐스탄 스포츠·올림픽 박물관",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.25203,
    "lng": 76.93283,
-   "wd": "Q60853372"
+   "wd": "Q60853372",
+   "aliases": [
+    "The Republican Museum of Sports and Olympic Glory"
+   ]
   },
   {
-   "name": "Our Lady of Kazan church in Almaty",
+   "name": "카잔 성모 성당",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.28467,
    "lng": 76.97611,
-   "wd": "Q1112939"
+   "wd": "Q1112939",
+   "aliases": [
+    "Our Lady of Kazan church in Almaty"
+   ]
   },
   {
-   "name": "Almaty Botanical Garden",
+   "name": "알마티 식물원",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.225,
    "lng": 76.915,
-   "wd": "Q4062764"
+   "wd": "Q4062764",
+   "aliases": [
+    "Almaty Botanical Garden"
+   ]
   },
   {
-   "name": "Kinoteatr Arman",
+   "name": "아르만 영화관",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.24215,
    "lng": 76.95765,
-   "wd": "Q4069553"
+   "wd": "Q4069553",
+   "aliases": [
+    "Kinoteatr Arman"
+   ]
   },
   {
-   "name": "Pioneer Palace, Almaty",
+   "name": "알마티 피오네르 궁전",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.23774,
    "lng": 76.95918,
-   "wd": "Q12528536"
+   "wd": "Q12528536",
+   "aliases": [
+    "Pioneer Palace, Almaty"
+   ]
   },
   {
-   "name": "Republican Book Museum",
+   "name": "공화국 도서박물관",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.24988,
    "lng": 76.95115,
-   "wd": "Q12560065"
+   "wd": "Q12560065",
+   "aliases": [
+    "Republican Book Museum"
+   ]
   },
   {
-   "name": "Museum of Archaeology",
+   "name": "고고학 박물관",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.24612,
    "lng": 76.9531,
-   "wd": "Q16641105"
+   "wd": "Q16641105",
+   "aliases": [
+    "Museum of Archaeology"
+   ]
   },
   {
-   "name": "Baitursynov Home Museum",
+   "name": "바이투르시노프 기념관",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.24619,
    "lng": 76.92697,
-   "wd": "Q60853375"
+   "wd": "Q60853375",
+   "aliases": [
+    "Baitursynov Home Museum"
+   ]
   },
   {
-   "name": "Natural History Museum of the Republic of Kazakhstan",
+   "name": "카자흐스탄 자연사박물관",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.24333,
    "lng": 76.94889,
-   "wd": "Q62050218"
+   "wd": "Q62050218",
+   "aliases": [
+    "Natural History Museum of the Republic of Kazakhstan"
+   ]
   },
   {
-   "name": "Boralday",
-   "cat": "관광",
-   "area": "알마티",
-   "lat": 43.341,
-   "lng": 76.868,
-   "wd": "Q123746590"
-  },
-  {
-   "name": "Memorial of Glory",
+   "name": "영광의 기념비",
    "cat": "관광",
    "area": "Medeu district",
    "lat": 43.25895,
    "lng": 76.95517,
-   "wd": "Q60290910"
+   "wd": "Q60290910",
+   "aliases": [
+    "Memorial of Glory"
+   ]
   },
   {
-   "name": "Astana Square, Almaty",
+   "name": "아스타나 광장",
    "cat": "관광",
    "area": "",
    "lat": 43.25494,
    "lng": 76.94319,
-   "wd": "Q39060398"
+   "wd": "Q39060398",
+   "aliases": [
+    "Astana Square, Almaty"
+   ]
   },
   {
-   "name": "Satbayev Memorial Museum",
+   "name": "사트바예프 기념관",
    "cat": "관광",
    "area": "",
    "lat": 43.24333,
    "lng": 76.94889,
-   "wd": "Q62055969"
+   "wd": "Q62055969",
+   "aliases": [
+    "Satbayev Memorial Museum"
+   ]
   },
   {
-   "name": "Mikhail Lermontov National Russian Drama Theatre",
+   "name": "레르몬토프 러시아 드라마 극장",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.24304,
    "lng": 76.94404,
-   "wd": "Q4146748"
+   "wd": "Q4146748",
+   "aliases": [
+    "Mikhail Lermontov National Russian Drama Theatre"
+   ]
   },
   {
-   "name": "Golden Warrior Monument",
+   "name": "황금 전사 기념비",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.23857,
    "lng": 76.9454,
-   "wd": "Q4302193"
+   "wd": "Q4302193",
+   "aliases": [
+    "Golden Warrior Monument"
+   ]
   },
   {
-   "name": "House of Officers (Almaty)",
+   "name": "장교의 집",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.25909,
    "lng": 76.95729,
-   "wd": "Q12557874"
+   "wd": "Q12557874",
+   "aliases": [
+    "House of Officers (Almaty)"
+   ]
   },
   {
-   "name": "Kunaev Home Museum",
+   "name": "쿠나예프 기념관",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.25271,
    "lng": 76.94845,
-   "wd": "Q25498984"
+   "wd": "Q25498984",
+   "aliases": [
+    "Kunaev Home Museum"
+   ]
   },
   {
-   "name": "Raiymbek Batyr Mausoleum",
+   "name": "라이임베크 바티르 영묘",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.26513,
    "lng": 76.90687,
-   "wd": "Q55663813"
+   "wd": "Q55663813",
+   "aliases": [
+    "Raiymbek Batyr Mausoleum"
+   ]
   },
   {
-   "name": "Zenkovy house",
+   "name": "젠코프 하우스",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.25578,
    "lng": 76.93054,
-   "wd": "Q58232690"
+   "wd": "Q58232690",
+   "aliases": [
+    "Zenkovy house"
+   ]
   },
   {
-   "name": "Kök Bazaar",
+   "name": "그린 바자르(콕 바자르)",
    "cat": "쇼핑",
    "area": "알마티",
    "lat": 43.26371,
    "lng": 76.9535,
-   "wd": "Q60851906"
+   "wd": "Q60851906",
+   "aliases": [
+    "Kök Bazaar"
+   ]
   },
   {
-   "name": "Tlendiyev Memorial Museum",
+   "name": "틀렌디예프 기념관",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.24335,
    "lng": 76.94898,
-   "wd": "Q60853376"
+   "wd": "Q60853376",
+   "aliases": [
+    "Tlendiyev Memorial Museum"
+   ]
   },
   {
-   "name": "Wedding palace",
+   "name": "결혼 궁전",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.24126,
    "lng": 76.92004,
-   "wd": "Q65175748"
+   "wd": "Q65175748",
+   "aliases": [
+    "Wedding palace"
+   ]
   },
   {
-   "name": "Statue of Abay Kunanbayev in Almaty",
+   "name": "아바이 쿠난바예프 동상",
    "cat": "관광",
    "area": "",
    "lat": 43.24313,
    "lng": 76.9575,
-   "wd": "Q4343037"
+   "wd": "Q4343037",
+   "aliases": [
+    "Statue of Abay Kunanbayev in Almaty"
+   ]
   },
   {
-   "name": "Kasteev Home Museum",
+   "name": "카스테예프 기념관",
    "cat": "관광",
    "area": "",
    "lat": 43.24333,
    "lng": 76.94889,
-   "wd": "Q62900958"
+   "wd": "Q62900958",
+   "aliases": [
+    "Kasteev Home Museum"
+   ]
   },
   {
-   "name": "MEGA Alma-Ata",
+   "name": "메가 알마티",
    "cat": "쇼핑",
    "area": "알마티",
    "lat": 43.2025,
    "lng": 76.89211,
-   "wd": "Q1916971"
+   "wd": "Q1916971",
+   "aliases": [
+    "MEGA Alma-Ata"
+   ]
   },
   {
-   "name": "Republican State Academic Uyghur Musical Comedy Theater named after. Kuddus Kuzhamyarov.",
+   "name": "위구르 뮤지컬 코미디 극장",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.2511,
    "lng": 76.9362,
-   "wd": "Q4146927"
+   "wd": "Q4146927",
+   "aliases": [
+    "Republican State Academic Uyghur Musical Comedy Theater named after. Kuddus Kuzhamyarov."
+   ]
   },
   {
-   "name": "Church of St. Karapet",
+   "name": "성 카라펫 교회",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.32971,
    "lng": 76.95059,
-   "wd": "Q4505052"
+   "wd": "Q4505052",
+   "aliases": [
+    "Church of St. Karapet"
+   ]
   },
   {
-   "name": "Museum Complex of S. Mukanov and G. Musrepov",
+   "name": "무카노프·무스레포프 기념관",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.25105,
    "lng": 76.94869,
-   "wd": "Q12555416"
+   "wd": "Q12555416",
+   "aliases": [
+    "Museum Complex of S. Mukanov and G. Musrepov"
+   ]
   },
   {
-   "name": "Atakent",
+   "name": "아타켄트 전시장",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.22306,
    "lng": 76.90639,
-   "wd": "Q22668435"
+   "wd": "Q22668435",
+   "aliases": [
+    "Atakent"
+   ]
   },
   {
-   "name": "House of merchant T. A. Golovizin",
+   "name": "상인 골로비진 저택",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.24453,
    "lng": 76.94839,
-   "wd": "Q58809412"
+   "wd": "Q58809412",
+   "aliases": [
+    "House of merchant T. A. Golovizin"
+   ]
   },
   {
-   "name": "President's Residence, Almaty",
-   "cat": "관광",
-   "area": "알마티",
-   "lat": 43.23478,
-   "lng": 76.94769,
-   "wd": "Q60853181"
-  },
-  {
-   "name": "House of Merchant M.A. Gavrilov",
+   "name": "상인 가브릴로프 저택",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.24295,
    "lng": 76.94055,
-   "wd": "Q60945147"
+   "wd": "Q60945147",
+   "aliases": [
+    "House of Merchant M.A. Gavrilov"
+   ]
   },
   {
-   "name": "Alatau Traditional Art Theater",
+   "name": "알라타우 전통예술극장",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.26,
    "lng": 76.81922,
-   "wd": "Q61992149"
+   "wd": "Q61992149",
+   "aliases": [
+    "Alatau Traditional Art Theater"
+   ]
   },
   {
-   "name": "Almaty Museum of Arts",
+   "name": "알마티 미술관",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.22697,
    "lng": 76.94908,
-   "wd": "Q136315417"
+   "wd": "Q136315417",
+   "aliases": [
+    "Almaty Museum of Arts"
+   ]
   },
   {
-   "name": "Shakhvorostov house",
+   "name": "샤흐보로스토프 저택",
    "cat": "관광",
    "area": "Almaly District",
    "lat": 43.25855,
    "lng": 76.94591,
-   "wd": "Q113260026"
+   "wd": "Q113260026",
+   "aliases": [
+    "Shakhvorostov house"
+   ]
   },
   {
-   "name": "Museum of Art \"Umai\"",
+   "name": "우마이 미술관",
    "cat": "관광",
    "area": "",
    "lat": 43.25029,
    "lng": 76.93723,
-   "wd": "Q62928858"
+   "wd": "Q62928858",
+   "aliases": [
+    "Museum of Art \"Umai\""
+   ]
   },
   {
-   "name": "Russian Theatre for Children and Teenagers",
+   "name": "러시아 청소년 극장",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.22169,
    "lng": 76.86807,
-   "wd": "Q4146750"
+   "wd": "Q4146750",
+   "aliases": [
+    "Russian Theatre for Children and Teenagers"
+   ]
   },
   {
-   "name": "Kinoteatr Kazakhstan",
+   "name": "카자흐스탄 영화관",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.26491,
    "lng": 76.9346,
-   "wd": "Q4208110"
+   "wd": "Q4208110",
+   "aliases": [
+    "Kinoteatr Kazakhstan"
+   ]
   },
   {
-   "name": "The Beatles Monument (Almaty)",
+   "name": "비틀스 기념비",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.23304,
    "lng": 76.97604,
-   "wd": "Q4342994"
+   "wd": "Q4342994",
+   "aliases": [
+    "The Beatles Monument (Almaty)"
+   ]
   },
   {
-   "name": "Kazakh state academic philharmonic named after Zhambyl",
+   "name": "잠빌 국립 필하모니",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.25622,
    "lng": 76.95813,
-   "wd": "Q18435892"
+   "wd": "Q18435892",
+   "aliases": [
+    "Kazakh state academic philharmonic named after Zhambyl"
+   ]
   },
   {
-   "name": "Taksai kurgans",
+   "name": "탁사이 쿠르간",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.33733,
    "lng": 76.86836,
-   "wd": "Q48807767"
+   "wd": "Q48807767",
+   "aliases": [
+    "Taksai kurgans"
+   ]
   },
   {
-   "name": "Kazpotrebsoyuz building",
-   "cat": "관광",
-   "area": "알마티",
-   "lat": 43.25526,
-   "lng": 76.94526,
-   "wd": "Q60046057"
-  },
-  {
-   "name": "Orthodox church of the Nativity of Jesus Christ in Almaty",
+   "name": "그리스도 탄생 정교회",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.24534,
    "lng": 76.83203,
-   "wd": "Q60851968"
+   "wd": "Q60851968",
+   "aliases": [
+    "Orthodox church of the Nativity of Jesus Christ in Almaty"
+   ]
   },
   {
-   "name": "Alley of busts (memorial complex)",
+   "name": "흉상의 거리",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.25737,
    "lng": 76.94292,
-   "wd": "Q60852061"
+   "wd": "Q60852061",
+   "aliases": [
+    "Alley of busts (memorial complex)"
+   ]
   },
   {
-   "name": "Radchenko house",
+   "name": "라드첸코 저택",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.26507,
    "lng": 76.94692,
-   "wd": "Q65172432"
+   "wd": "Q65172432",
+   "aliases": [
+    "Radchenko house"
+   ]
   },
   {
-   "name": "Merchant Gabdulvaliev's Trading House",
+   "name": "상인 가브둘발리예프 상관",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.26448,
    "lng": 76.94757,
-   "wd": "Q65172455"
+   "wd": "Q65172455",
+   "aliases": [
+    "Merchant Gabdulvaliev's Trading House"
+   ]
   },
   {
-   "name": "Baum house",
+   "name": "바움 저택",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.24813,
    "lng": 76.93217,
-   "wd": "Q65174595"
+   "wd": "Q65174595",
+   "aliases": [
+    "Baum house"
+   ]
   },
   {
-   "name": "Monument to Raiymbek Batyr",
+   "name": "라이임베크 바티르 기념비",
    "cat": "관광",
    "area": "알마티",
    "lat": 43.2704,
    "lng": 76.95201,
-   "wd": "Q65926214"
+   "wd": "Q65926214",
+   "aliases": [
+    "Monument to Raiymbek Batyr"
+   ]
   },
   {
-   "name": "Verniy",
+   "name": "베르니 요새",
    "cat": "관광",
    "area": "세미레치예주",
    "lat": 43.25,
    "lng": 76.93333,
-   "wd": "Q32361660"
+   "wd": "Q32361660",
+   "aliases": [
+    "Verniy"
+   ]
   },
   {
-   "name": "Monument to Taras Shevchenko",
+   "name": "타라스 셰브첸코 기념비",
    "cat": "관광",
    "area": "Medeu district",
    "lat": 43.24712,
    "lng": 76.95666,
-   "wd": "Q30887694"
+   "wd": "Q30887694",
+   "aliases": [
+    "Monument to Taras Shevchenko"
+   ]
   },
   {
-   "name": "Abylai Khan",
+   "name": "아블라이 칸 기념비",
    "cat": "관광",
    "area": "Zhetisu district",
    "lat": 43.27297,
    "lng": 76.9392,
-   "wd": "Q65926221"
+   "wd": "Q65926221",
+   "aliases": [
+    "Abylai Khan"
+   ]
   },
   {
-   "name": "Kók Tóbe Park",
+   "name": "콕토베 공원",
    "cat": "관광",
    "area": "",
    "lat": 43.231,
    "lng": 76.9762,
-   "wd": "Q85846351"
+   "wd": "Q85846351",
+   "aliases": [
+    "Kók Tóbe Park"
+   ]
   }
  ]
 }

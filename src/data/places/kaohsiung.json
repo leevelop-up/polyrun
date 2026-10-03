@@ -3,92 +3,103 @@
  "builtAt": "2026-10-03",
  "picks": [
   {
-   "name": "Kaohsiung Mosque",
+   "name": "가오슝 모스크",
    "cat": "관광",
    "area": "Zhengyi Village",
    "lat": 22.628,
    "lng": 120.34192,
-   "wd": "Q10566876"
+   "wd": "Q10566876",
+   "aliases": [
+    "Kaohsiung Mosque"
+   ]
   },
   {
-   "name": "Holy Rosary Cathedral",
+   "name": "가오슝 성 로사리오 대성당",
    "cat": "관광",
    "area": "링야구",
    "lat": 22.62022,
    "lng": 120.29165,
-   "wd": "Q57345"
+   "wd": "Q57345",
+   "aliases": [
+    "Holy Rosary Cathedral"
+   ]
   },
   {
-   "name": "Kaohsiung Museum of History",
+   "name": "가오슝 역사박물관",
    "cat": "관광",
    "area": "옌청구",
    "lat": 22.62669,
    "lng": 120.2877,
-   "wd": "Q6125749"
+   "wd": "Q6125749",
+   "aliases": [
+    "Kaohsiung Museum of History"
+   ]
   },
   {
-   "name": "Kaohsiung Confucian Temple",
+   "name": "가오슝 공자묘",
    "cat": "관광",
    "area": "쭤잉구",
    "lat": 22.68931,
    "lng": 120.29903,
-   "wd": "Q1194922"
+   "wd": "Q1194922",
+   "aliases": [
+    "Kaohsiung Confucian Temple"
+   ]
   },
   {
-   "name": "Farglory THE ONE",
-   "cat": "관광",
-   "area": "첸전구",
-   "lat": 22.611,
-   "lng": 120.30329,
-   "wd": "Q47539331"
-  },
-  {
-   "name": "National Science and Technology Museum",
+   "name": "국립과학공예박물관",
    "cat": "관광",
    "area": "가오슝시",
    "lat": 22.6417,
    "lng": 120.3227,
-   "wd": "Q10927140"
+   "wd": "Q10927140",
+   "aliases": [
+    "National Science and Technology Museum"
+   ]
   },
   {
-   "name": "Fongshan Longshan Temple",
+   "name": "펑산 룽산사",
    "cat": "관광",
    "area": "펑산구",
    "lat": 22.6207,
    "lng": 120.362,
-   "wd": "Q1983202"
+   "wd": "Q1983202",
+   "aliases": [
+    "Fongshan Longshan Temple"
+   ]
   },
   {
-   "name": "Kaohsiung Lighthouse",
+   "name": "가오슝 등대",
    "cat": "관광",
    "area": "치진구",
    "lat": 22.6154,
    "lng": 120.265,
-   "wd": "Q3847130"
+   "wd": "Q3847130",
+   "aliases": [
+    "Kaohsiung Lighthouse"
+   ]
   },
   {
-   "name": "Cihou Fort",
+   "name": "치허우 포대",
    "cat": "관광",
    "area": "치진구",
    "lat": 22.61306,
    "lng": 120.26417,
-   "wd": "Q57397"
+   "wd": "Q57397",
+   "aliases": [
+    "Cihou Fort"
+   ]
   },
   {
-   "name": "China Steel Corporation Headquarters",
-   "cat": "관광",
-   "area": "첸전구",
-   "lat": 22.605,
-   "lng": 120.302,
-   "wd": "Q16725813"
-  },
-  {
-   "name": "Takao Shrine",
+   "name": "다카오 신사",
    "cat": "관광",
    "area": "다카오주",
    "lat": 22.62644,
    "lng": 120.27381,
-   "wd": "Q713072"
+   "wd": "Q713072",
+   "aliases": [
+    "Takao Shrine"
+   ]
   },
   {
    "name": "드림몰",
@@ -102,52 +113,70 @@
    "wd": "Q5306407"
   },
   {
-   "name": "Takao Railway Museum",
+   "name": "다거우 철도박물관",
    "cat": "관광",
    "area": "구산구",
    "lat": 22.6217,
    "lng": 120.2764,
-   "wd": "Q25713893"
+   "wd": "Q25713893",
+   "aliases": [
+    "Takao Railway Museum"
+   ]
   },
   {
-   "name": "Kaohsiung Museum of Fine Arts",
+   "name": "가오슝 시립미술관",
    "cat": "관광",
    "area": "구산구",
    "lat": 22.6565,
    "lng": 120.2863,
-   "wd": "Q3846600"
+   "wd": "Q3846600",
+   "aliases": [
+    "Kaohsiung Museum of Fine Arts"
+   ]
   },
   {
-   "name": "Kaohsiung Hakka Cultural Museum",
+   "name": "가오슝 객가문화박물관",
    "cat": "관광",
    "area": "싼민구",
    "lat": 22.65032,
    "lng": 120.29579,
-   "wd": "Q6366091"
+   "wd": "Q6366091",
+   "aliases": [
+    "Kaohsiung Hakka Cultural Museum"
+   ]
   },
   {
-   "name": "Taroko Park",
+   "name": "타이루거 공원",
    "cat": "관광",
    "area": "첸전구",
    "lat": 22.5835,
    "lng": 120.32967,
-   "wd": "Q10938609"
+   "wd": "Q10938609",
+   "aliases": [
+    "Taroko Park"
+   ]
   },
   {
-   "name": "Dagang Bridge",
+   "name": "다강 대교",
    "cat": "관광",
    "area": "옌청구",
    "lat": 22.6177,
    "lng": 120.2838,
-   "wd": "Q86727465"
+   "wd": "Q86727465",
+   "aliases": [
+    "Dagang Bridge"
+   ]
   },
   {
-   "name": "Shoushan Zoo",
+   "name": "서우산 동물원",
    "cat": "관광",
    "area": "구산구",
    "lat": 22.63461,
    "lng": 120.27495,
-   "wd": "Q9097841"
+   "wd": "Q9097841",
+   "aliases": [
+    "Shoushan Zoo"
+   ]
   },
   {
    "name": "가오슝 요새",
@@ -164,124 +193,158 @@
    "wd": "Q11673246"
   },
   {
-   "name": "War and Peace Memorial Park and Theme Hall",
+   "name": "전쟁과 평화 기념공원",
    "cat": "관광",
    "area": "치진구",
    "lat": 22.59119,
    "lng": 120.28289,
-   "wd": "Q34264071"
+   "wd": "Q34264071",
+   "aliases": [
+    "War and Peace Memorial Park and Theme Hall"
+   ]
   },
   {
-   "name": "Asia-Pacific Financial Plaza",
-   "cat": "관광",
-   "area": "링야구",
-   "lat": 22.6117,
-   "lng": 120.30191,
-   "wd": "Q6352461"
-  },
-  {
-   "name": "Water Tower Park",
+   "name": "물탑 공원",
    "cat": "관광",
    "area": "링야구",
    "lat": 22.6273,
    "lng": 120.315,
-   "wd": "Q7212684"
+   "wd": "Q7212684",
+   "aliases": [
+    "Water Tower Park"
+   ]
   },
   {
-   "name": "Kaisyuan Night Market",
+   "name": "카이쉬안 야시장",
    "cat": "쇼핑",
    "area": "첸전구",
    "lat": 22.5992,
    "lng": 120.321,
-   "wd": "Q15930265"
+   "wd": "Q15930265",
+   "aliases": [
+    "Kaisyuan Night Market"
+   ]
   },
   {
-   "name": "Hamasen Museum of Taiwan Railway",
+   "name": "하마센 대만철도관",
    "cat": "관광",
    "area": "옌청구",
    "lat": 22.62069,
    "lng": 120.27859,
-   "wd": "Q28682583"
+   "wd": "Q28682583",
+   "aliases": [
+    "Hamasen Museum of Taiwan Railway"
+   ]
   },
   {
-   "name": "North Gate of Xiong Town",
+   "name": "슝전 북문",
    "cat": "관광",
    "area": "구산구",
    "lat": 22.6176,
    "lng": 120.266,
-   "wd": "Q7197041"
+   "wd": "Q7197041",
+   "aliases": [
+    "North Gate of Xiong Town"
+   ]
   },
   {
-   "name": "Central Park",
+   "name": "중앙공원",
    "cat": "관광",
    "area": "첸진구",
    "lat": 22.6249,
    "lng": 120.299,
-   "wd": "Q7262010"
+   "wd": "Q7262010",
+   "aliases": [
+    "Central Park"
+   ]
   },
   {
-   "name": "Kaohsiung Museum of Labor",
+   "name": "가오슝 노동박물관",
    "cat": "관광",
    "area": "첸진구",
    "lat": 22.62028,
    "lng": 120.28167,
-   "wd": "Q13518183"
+   "wd": "Q13518183",
+   "aliases": [
+    "Kaohsiung Museum of Labor"
+   ]
   },
   {
-   "name": "Kaohsiung Harbor Museum",
+   "name": "가오슝 항구박물관",
    "cat": "관광",
    "area": "구산구",
    "lat": 22.6183,
    "lng": 120.279,
-   "wd": "Q15927117"
+   "wd": "Q15927117",
+   "aliases": [
+    "Kaohsiung Harbor Museum"
+   ]
   },
   {
-   "name": "Former Sanhe Bank",
+   "name": "구 산허 은행",
    "cat": "관광",
    "area": "구산구",
    "lat": 22.62233,
    "lng": 120.27436,
-   "wd": "Q15929187"
+   "wd": "Q15929187",
+   "aliases": [
+    "Former Sanhe Bank"
+   ]
   },
   {
-   "name": "Kaohsiung Park",
+   "name": "가오슝 공원",
    "cat": "관광",
    "area": "Daling Village",
    "lat": 22.56889,
    "lng": 120.34611,
-   "wd": "Q15911159"
+   "wd": "Q15911159",
+   "aliases": [
+    "Kaohsiung Park"
+   ]
   },
   {
-   "name": "Kaohsiung Metropolitan Park",
+   "name": "가오슝 대도시공원",
    "cat": "관광",
    "area": "Huifeng Village",
    "lat": 22.73306,
    "lng": 120.31583,
-   "wd": "Q15906211"
+   "wd": "Q15906211",
+   "aliases": [
+    "Kaohsiung Metropolitan Park"
+   ]
   },
   {
-   "name": "Wude Martial Arts Center",
+   "name": "우더전 무도관",
    "cat": "관광",
    "area": "Hui'an Village",
    "lat": 22.62466,
    "lng": 120.2724,
-   "wd": "Q15921908"
+   "wd": "Q15921908",
+   "aliases": [
+    "Wude Martial Arts Center"
+   ]
   },
   {
-   "name": "Cide Palace",
+   "name": "츠더궁",
    "cat": "관광",
    "area": "쭤잉구",
    "lat": 22.68461,
    "lng": 120.29094,
-   "wd": "Q30949200"
+   "wd": "Q30949200",
+   "aliases": [
+    "Cide Palace"
+   ]
   },
   {
-   "name": "Hanshin Arena Shopping Plaza",
+   "name": "한신 아레나 쇼핑플라자",
    "cat": "쇼핑",
    "area": "가오슝시",
    "lat": 22.66981,
    "lng": 120.3023,
-   "wd": "Q15940036"
+   "wd": "Q15940036",
+   "aliases": [
+    "Hanshin Arena Shopping Plaza"
+   ]
   },
   {
    "name": "E SKY LAND",
@@ -289,223 +352,296 @@
    "area": "가오슝시",
    "lat": 22.65661,
    "lng": 120.30658,
-   "wd": "Q16078653"
+   "wd": "Q16078653",
+   "aliases": [
+    "E SKY LAND"
+   ]
   },
   {
-   "name": "Kaohsiung Film Archive",
+   "name": "가오슝 영화관",
    "cat": "관광",
    "area": "가오슝시",
    "lat": 22.6276,
    "lng": 120.287,
-   "wd": "Q16929443"
+   "wd": "Q16929443",
+   "aliases": [
+    "Kaohsiung Film Archive"
+   ]
   },
   {
-   "name": "Wujia Longcheng Temple",
+   "name": "우자 룽청궁",
    "cat": "관광",
    "area": "펑산구",
    "lat": 22.59445,
    "lng": 120.32843,
-   "wd": "Q9384975"
+   "wd": "Q9384975",
+   "aliases": [
+    "Wujia Longcheng Temple"
+   ]
   },
   {
-   "name": "Qijin Memorial Park for Women Laborers",
+   "name": "치진 여성노동자 기념공원",
    "cat": "관광",
    "area": "치진구",
    "lat": 22.5945,
    "lng": 120.2811,
-   "wd": "Q10901421"
+   "wd": "Q10901421",
+   "aliases": [
+    "Qijin Memorial Park for Women Laborers"
+   ]
   },
   {
-   "name": "Zhonghua Street Night Market",
+   "name": "중화가 야시장",
    "cat": "쇼핑",
    "area": "펑산구",
    "lat": 22.6268,
    "lng": 120.356,
-   "wd": "Q16928839"
+   "wd": "Q16928839",
+   "aliases": [
+    "Zhonghua Street Night Market"
+   ]
   },
   {
-   "name": "Cijin Shell Museum",
+   "name": "치진 조개박물관",
    "cat": "관광",
    "area": "치진구",
    "lat": 22.6013,
    "lng": 120.274,
-   "wd": "Q16975948"
+   "wd": "Q16975948",
+   "aliases": [
+    "Cijin Shell Museum"
+   ]
   },
   {
-   "name": "Youchang Forest Park",
+   "name": "유창 삼림공원",
    "cat": "관광",
    "area": "난쯔구",
    "lat": 22.71983,
    "lng": 120.29372,
-   "wd": "Q21714359"
+   "wd": "Q21714359",
+   "aliases": [
+    "Youchang Forest Park"
+   ]
   },
   {
-   "name": "Yang Family Historical Residence",
+   "name": "양가 고택",
    "cat": "관광",
    "area": "난쯔구",
    "lat": 22.71289,
    "lng": 120.28812,
-   "wd": "Q27824061"
+   "wd": "Q27824061",
+   "aliases": [
+    "Yang Family Historical Residence"
+   ]
   },
   {
-   "name": "Niaosong Wetland Park",
+   "name": "냐오쑹 습지공원",
    "cat": "관광",
    "area": "냐오쑹구",
    "lat": 22.65239,
    "lng": 120.35061,
-   "wd": "Q11173677"
+   "wd": "Q11173677",
+   "aliases": [
+    "Niaosong Wetland Park"
+   ]
   },
   {
-   "name": "Hong Fa Temple",
+   "name": "훙파사",
    "cat": "관광",
    "area": "신싱구",
    "lat": 22.6352,
    "lng": 120.308,
-   "wd": "Q16892397"
+   "wd": "Q16892397",
+   "aliases": [
+    "Hong Fa Temple"
+   ]
   },
   {
-   "name": "Tomb of Chen Jhong-he",
+   "name": "천중허 묘",
    "cat": "관광",
    "area": "링야구",
    "lat": 22.6283,
    "lng": 120.328,
-   "wd": "Q16929422"
+   "wd": "Q16929422",
+   "aliases": [
+    "Tomb of Chen Jhong-he"
+   ]
   },
   {
-   "name": "Chen Jhong-he Memorial Hall",
+   "name": "천중허 기념관",
    "cat": "관광",
    "area": "링야구",
    "lat": 22.61347,
    "lng": 120.29569,
-   "wd": "Q16929423"
+   "wd": "Q16929423",
+   "aliases": [
+    "Chen Jhong-he Memorial Hall"
+   ]
   },
   {
-   "name": "Gushan Daitian Temple",
+   "name": "구산 다이톈궁",
    "cat": "관광",
    "area": "구산구",
    "lat": 22.62236,
    "lng": 120.27125,
-   "wd": "Q28951245"
+   "wd": "Q28951245",
+   "aliases": [
+    "Gushan Daitian Temple"
+   ]
   },
   {
-   "name": "Tower of Light",
+   "name": "빛의 탑",
    "cat": "관광",
    "area": "싼민구",
    "lat": 22.6515,
    "lng": 120.296,
-   "wd": "Q10890030"
+   "wd": "Q10890030",
+   "aliases": [
+    "Tower of Light"
+   ]
   },
   {
-   "name": "Kaohsiung Vision Museum",
+   "name": "가오슝 비전 박물관",
    "cat": "관광",
    "area": "싼민구",
    "lat": 22.63807,
    "lng": 120.30231,
-   "wd": "Q15914647"
+   "wd": "Q15914647",
+   "aliases": [
+    "Kaohsiung Vision Museum"
+   ]
   },
   {
-   "name": "Labor Park",
+   "name": "노동 공원",
    "cat": "관광",
    "area": "Lianghe Village",
    "lat": 22.60712,
    "lng": 120.30731,
-   "wd": "Q22098665"
+   "wd": "Q22098665",
+   "aliases": [
+    "Labor Park"
+   ]
   },
   {
-   "name": "Spring and Autumn Pavilions",
+   "name": "춘추각",
    "cat": "관광",
    "area": "쭤잉구",
    "lat": 22.68225,
    "lng": 120.29278,
-   "wd": "Q7580756"
+   "wd": "Q7580756",
+   "aliases": [
+    "Spring and Autumn Pavilions"
+   ]
   },
   {
-   "name": "Sunfong Temple",
+   "name": "쑨펑궁",
    "cat": "관광",
    "area": "Xingde Village",
    "lat": 22.63584,
    "lng": 120.29416,
-   "wd": "Q9383278"
+   "wd": "Q9383278",
+   "aliases": [
+    "Sunfong Temple"
+   ]
   },
   {
-   "name": "Fengshan Tiangong Temple",
+   "name": "펑산 톈궁묘",
    "cat": "관광",
    "area": "Guangming Village",
    "lat": 22.62519,
    "lng": 120.35975,
-   "wd": "Q11173756"
+   "wd": "Q11173756",
+   "aliases": [
+    "Fengshan Tiangong Temple"
+   ]
   },
   {
-   "name": "Weiwuying Metropolitan Park",
+   "name": "웨이우잉 도시공원",
    "cat": "관광",
    "area": "Xinqiang Village",
    "lat": 22.6198,
    "lng": 120.34,
-   "wd": "Q15900250"
+   "wd": "Q15900250",
+   "aliases": [
+    "Weiwuying Metropolitan Park"
+   ]
   },
   {
-   "name": "Qing Shui Temple",
+   "name": "칭수이사",
    "cat": "관광",
    "area": "쭤잉구",
    "lat": 22.6841,
    "lng": 120.2996,
-   "wd": "Q17014675"
+   "wd": "Q17014675",
+   "aliases": [
+    "Qing Shui Temple"
+   ]
   },
   {
-   "name": "Red-haired Port Security Hall",
+   "name": "훙마오강 보안당",
    "cat": "관광",
    "area": "Nancheng Village",
    "lat": 22.5879,
    "lng": 120.3394,
-   "wd": "Q17500565"
+   "wd": "Q17500565",
+   "aliases": [
+    "Red-haired Port Security Hall"
+   ]
   },
   {
-   "name": "Zuoying Ciji Temple",
+   "name": "쭤잉 츠지궁",
    "cat": "관광",
    "area": "Bidong Village",
    "lat": 22.68083,
    "lng": 120.29083,
-   "wd": "Q19852447"
+   "wd": "Q19852447",
+   "aliases": [
+    "Zuoying Ciji Temple"
+   ]
   },
   {
-   "name": "International Market",
+   "name": "국제시장",
    "cat": "쇼핑",
    "area": "",
    "lat": 22.62496,
    "lng": 120.28106,
-   "wd": "Q13178022"
+   "wd": "Q13178022",
+   "aliases": [
+    "International Market"
+   ]
   },
   {
-   "name": "Treasure Island Shopping Center",
+   "name": "보물섬 쇼핑센터",
    "cat": "쇼핑",
    "area": "",
    "lat": 22.5985,
    "lng": 120.3196,
-   "wd": "Q15929749"
+   "wd": "Q15929749",
+   "aliases": [
+    "Treasure Island Shopping Center"
+   ]
   },
   {
-   "name": "Guanshan Mazu Temple",
+   "name": "관산 마쭈묘",
    "cat": "관광",
    "area": "",
    "lat": 22.61041,
    "lng": 120.32196,
-   "wd": "Q30943930"
+   "wd": "Q30943930",
+   "aliases": [
+    "Guanshan Mazu Temple"
+   ]
   },
   {
-   "name": "Joy Plaza",
+   "name": "조이 플라자",
    "cat": "쇼핑",
    "area": "",
    "lat": 22.65659,
    "lng": 120.31525,
-   "wd": "Q48919929"
-  },
-  {
-   "name": "Kuo Cheng 2020",
-   "cat": "관광",
-   "area": "",
-   "lat": 22.60623,
-   "lng": 120.30519,
-   "wd": "Q105617082"
+   "wd": "Q48919929",
+   "aliases": [
+    "Joy Plaza"
+   ]
   }
  ]
 }

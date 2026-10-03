@@ -298,12 +298,15 @@
    "wd": "Q778686"
   },
   {
-   "name": "Gellért Hill Cave",
+   "name": "겔레르트 언덕 동굴 교회",
    "cat": "관광",
    "area": "우이부더",
    "lat": 47.48492,
    "lng": 19.05217,
-   "wd": "Q839142"
+   "wd": "Q839142",
+   "aliases": [
+    "Gellért Hill Cave"
+   ]
   },
   {
    "name": "뮈퍼 부다페스트",
@@ -372,68 +375,92 @@
    "wd": "Q920826"
   },
   {
-   "name": "Kálvin tér",
+   "name": "칼빈 광장",
    "cat": "관광",
    "area": "페렌츠바로시",
    "lat": 47.48969,
    "lng": 19.06182,
-   "wd": "Q934011"
+   "wd": "Q934011",
+   "aliases": [
+    "Kálvin tér"
+   ]
   },
   {
-   "name": "Batthyány Square",
+   "name": "바차니 광장",
    "cat": "관광",
    "area": "바르케륄레트",
    "lat": 47.50622,
    "lng": 19.03861,
-   "wd": "Q791408"
+   "wd": "Q791408",
+   "aliases": [
+    "Batthyány Square"
+   ]
   },
   {
-   "name": "Tomb of Gül Baba",
+   "name": "귈 바바 무덤",
    "cat": "관광",
    "area": "부다페스트",
    "lat": 47.516,
    "lng": 19.0349,
-   "wd": "Q692020"
+   "wd": "Q692020",
+   "aliases": [
+    "Tomb of Gül Baba"
+   ]
   },
   {
-   "name": "Erkel Theatre",
+   "name": "에르켈 극장",
    "cat": "관광",
    "area": "요제프바로시",
    "lat": 47.49694,
    "lng": 19.07667,
-   "wd": "Q727749"
+   "wd": "Q727749",
+   "aliases": [
+    "Erkel Theatre"
+   ]
   },
   {
-   "name": "Holocaust Memorial Center",
+   "name": "홀로코스트 기념관",
    "cat": "관광",
    "area": "페렌츠바로시",
    "lat": 47.48374,
    "lng": 19.07378,
-   "wd": "Q1625053"
+   "wd": "Q1625053",
+   "aliases": [
+    "Holocaust Memorial Center"
+   ]
   },
   {
-   "name": "Comedy Theatre of Budapest",
+   "name": "부다페스트 희극 극장",
    "cat": "관광",
    "area": "부다페스트 13구",
    "lat": 47.5125,
    "lng": 19.05139,
-   "wd": "Q897802"
+   "wd": "Q897802",
+   "aliases": [
+    "Comedy Theatre of Budapest"
+   ]
   },
   {
-   "name": "Széll Kálmán tér",
+   "name": "셀 칼만 광장",
    "cat": "관광",
    "area": "바르케륄레트",
    "lat": 47.50708,
    "lng": 19.02419,
-   "wd": "Q767163"
+   "wd": "Q767163",
+   "aliases": [
+    "Széll Kálmán tér"
+   ]
   },
   {
-   "name": "Móricz Zsigmond körtér",
+   "name": "모리츠 지그몬드 광장",
    "cat": "관광",
    "area": "우이부더",
    "lat": 47.47716,
    "lng": 19.04678,
-   "wd": "Q720901"
+   "wd": "Q720901",
+   "aliases": [
+    "Móricz Zsigmond körtér"
+   ]
   },
   {
    "name": "부다페스트 역사박물관",
@@ -458,20 +485,26 @@
    "wd": "Q718126"
   },
   {
-   "name": "Inner City Parish Church",
+   "name": "도심 교구 성당",
    "cat": "관광",
    "area": "벨바로시리포트바로시",
    "lat": 47.49214,
    "lng": 19.05222,
-   "wd": "Q792586"
+   "wd": "Q792586",
+   "aliases": [
+    "Inner City Parish Church"
+   ]
   },
   {
-   "name": "Ferenciek tere",
+   "name": "페렌치에크 광장",
    "cat": "관광",
    "area": "벨바로시리포트바로시",
    "lat": 47.49307,
    "lng": 19.05599,
-   "wd": "Q837275"
+   "wd": "Q837275",
+   "aliases": [
+    "Ferenciek tere"
+   ]
   },
   {
    "name": "독일 점령 희생자 기념물",
@@ -485,372 +518,466 @@
    "wd": "Q17395483"
   },
   {
-   "name": "Connective Railway Bridge",
-   "cat": "관광",
-   "area": "부다페스트",
-   "lat": 47.46843,
-   "lng": 19.06733,
-   "wd": "Q548354"
-  },
-  {
-   "name": "People's Park",
+   "name": "민중 공원",
    "cat": "관광",
    "area": "쾨바녀",
    "lat": 47.47806,
    "lng": 19.10694,
-   "wd": "Q1221287"
+   "wd": "Q1221287",
+   "aliases": [
+    "People's Park"
+   ]
   },
   {
-   "name": "Hospital in the Rock Nuclear Bunker Museum",
+   "name": "바위 병원 핵벙커 박물관",
    "cat": "관광",
    "area": "바르케륄레트",
    "lat": 47.50085,
    "lng": 19.03143,
-   "wd": "Q1298262"
+   "wd": "Q1298262",
+   "aliases": [
+    "Hospital in the Rock Nuclear Bunker Museum"
+   ]
   },
   {
-   "name": "Glass House",
+   "name": "유리의 집",
    "cat": "관광",
    "area": "벨바로시리포트바로시",
    "lat": 47.50569,
    "lng": 19.05363,
-   "wd": "Q5567049"
+   "wd": "Q5567049",
+   "aliases": [
+    "Glass House"
+   ]
   },
   {
-   "name": "Danube Palace",
+   "name": "도나우 궁전",
    "cat": "관광",
    "area": "벨바로시리포트바로시",
    "lat": 47.50028,
    "lng": 19.04917,
-   "wd": "Q18150365"
+   "wd": "Q18150365",
+   "aliases": [
+    "Danube Palace"
+   ]
   },
   {
-   "name": "Újpest railway bridge",
-   "cat": "관광",
-   "area": "부다페스트",
-   "lat": 47.56306,
-   "lng": 19.0675,
-   "wd": "Q259220"
-  },
-  {
-   "name": "Kossuth Bridge",
+   "name": "코슈트 다리",
    "cat": "관광",
    "area": "부다페스트",
    "lat": 47.50639,
    "lng": 19.045,
-   "wd": "Q427273"
+   "wd": "Q427273",
+   "aliases": [
+    "Kossuth Bridge"
+   ]
   },
   {
-   "name": "Pentecostal church, Kőbánya",
-   "cat": "관광",
-   "area": "쾨바녀",
-   "lat": 47.48122,
-   "lng": 19.13084,
-   "wd": "Q922186"
-  },
-  {
-   "name": "Millennium Monument",
+   "name": "밀레니엄 기념탑",
    "cat": "관광",
    "area": "주글로",
    "lat": 47.515,
    "lng": 19.0779,
-   "wd": "Q1177277"
+   "wd": "Q1177277",
+   "aliases": [
+    "Millennium Monument"
+   ]
   },
   {
-   "name": "Aquincum Museum",
+   "name": "아퀸쿰 박물관",
    "cat": "관광",
    "area": "오부더베카스메제르",
    "lat": 47.56563,
    "lng": 19.04982,
-   "wd": "Q722554"
+   "wd": "Q722554",
+   "aliases": [
+    "Aquincum Museum"
+   ]
   },
   {
-   "name": "Church of Saint Mary Magdalene",
+   "name": "막달라 마리아 탑",
    "cat": "관광",
    "area": "바르케륄레트",
    "lat": 47.50392,
    "lng": 19.0291,
-   "wd": "Q784852"
+   "wd": "Q784852",
+   "aliases": [
+    "Church of Saint Mary Magdalene"
+   ]
   },
   {
-   "name": "Semmelweis Museum of Medical History",
+   "name": "젬멜바이스 의학사 박물관",
    "cat": "관광",
    "area": "바르케륄레트",
    "lat": 47.49335,
    "lng": 19.04321,
-   "wd": "Q1434400"
+   "wd": "Q1434400",
+   "aliases": [
+    "Semmelweis Museum of Medical History"
+   ]
   },
   {
-   "name": "Westend",
+   "name": "웨스트엔드 시티센터",
    "cat": "쇼핑",
    "area": "테레즈바로시",
    "lat": 47.5133,
    "lng": 19.0594,
-   "wd": "Q721104"
+   "wd": "Q721104",
+   "aliases": [
+    "Westend"
+   ]
   },
   {
-   "name": "Church of Stigmatisation of Saint Francis of Assisi",
+   "name": "성 프란치스코 오상 성당",
    "cat": "관광",
    "area": "바르케륄레트",
    "lat": 47.50734,
    "lng": 19.03831,
-   "wd": "Q23002536"
+   "wd": "Q23002536",
+   "aliases": [
+    "Church of Stigmatisation of Saint Francis of Assisi"
+   ]
   },
   {
-   "name": "Nativity of Virgin Mary church",
+   "name": "성모 탄생 성당",
    "cat": "관광",
    "area": "벨바로시리포트바로시",
    "lat": 47.49095,
    "lng": 19.05809,
-   "wd": "Q463335"
+   "wd": "Q463335",
+   "aliases": [
+    "Nativity of Virgin Mary church"
+   ]
   },
   {
-   "name": "Cathedral of the Assumption",
+   "name": "성모승천 대성당",
    "cat": "관광",
    "area": "벨바로시리포트바로시",
    "lat": 47.49333,
    "lng": 19.05083,
-   "wd": "Q4478052"
+   "wd": "Q4478052",
+   "aliases": [
+    "Cathedral of the Assumption"
+   ]
   },
   {
-   "name": "Petőfi Csarnok",
+   "name": "페퇴피 홀",
    "cat": "관광",
    "area": "부다페스트",
    "lat": 47.51444,
    "lng": 19.08806,
-   "wd": "Q599908"
+   "wd": "Q599908",
+   "aliases": [
+    "Petőfi Csarnok"
+   ]
   },
   {
-   "name": "Ludwig Museum Budapest",
+   "name": "루트비히 미술관",
    "cat": "관광",
    "area": "페렌츠바로시",
    "lat": 47.46974,
    "lng": 19.0713,
-   "wd": "Q958750"
+   "wd": "Q958750",
+   "aliases": [
+    "Ludwig Museum Budapest"
+   ]
   },
   {
-   "name": "Aquincum military amphitheatre",
+   "name": "아퀸쿰 군사 원형극장",
    "cat": "관광",
    "area": "오부더베카스메제르",
    "lat": 47.53278,
    "lng": 19.03889,
-   "wd": "Q774580"
+   "wd": "Q774580",
+   "aliases": [
+    "Aquincum military amphitheatre"
+   ]
   },
   {
-   "name": "Saint Catherine of Alexandria Church, Tabán",
+   "name": "성 카타리나 성당(타반)",
    "cat": "관광",
    "area": "바르케륄레트",
    "lat": 47.49222,
    "lng": 19.04396,
-   "wd": "Q16540894"
+   "wd": "Q16540894",
+   "aliases": [
+    "Saint Catherine of Alexandria Church, Tabán"
+   ]
   },
   {
-   "name": "Church of the Visitation in Újlak",
+   "name": "성모 방문 성당(우이라크)",
    "cat": "관광",
    "area": "부다페스트 2구",
    "lat": 47.52744,
    "lng": 19.03714,
-   "wd": "Q16540837"
+   "wd": "Q16540837",
+   "aliases": [
+    "Church of the Visitation in Újlak"
+   ]
   },
   {
-   "name": "Palace of Justice",
+   "name": "법무 궁전",
    "cat": "관광",
    "area": "",
    "lat": 47.50781,
    "lng": 19.04842,
-   "wd": "Q16520678"
+   "wd": "Q16520678",
+   "aliases": [
+    "Palace of Justice"
+   ]
   },
   {
-   "name": "Castle Bazaar",
+   "name": "왕궁 정원 바자르",
    "cat": "관광",
    "area": "부다페스트",
    "lat": 47.4949,
    "lng": 19.0426,
-   "wd": "Q1462038"
+   "wd": "Q1462038",
+   "aliases": [
+    "Castle Bazaar"
+   ]
   },
   {
-   "name": "Kiscell Museum",
+   "name": "키슈첼 박물관",
    "cat": "관광",
    "area": "오부더베카스메제르",
    "lat": 47.5381,
    "lng": 19.028,
-   "wd": "Q1110575"
+   "wd": "Q1110575",
+   "aliases": [
+    "Kiscell Museum"
+   ]
   },
   {
-   "name": "Arena Mall",
+   "name": "아레나 몰",
    "cat": "쇼핑",
    "area": "요제프바로시",
    "lat": 47.49826,
    "lng": 19.08895,
-   "wd": "Q579809"
+   "wd": "Q579809",
+   "aliases": [
+    "Arena Mall"
+   ]
   },
   {
-   "name": "Ferenc Hopp Museum of Asiatic Arts",
+   "name": "호프 페렌츠 아시아 미술관",
    "cat": "관광",
    "area": "테레즈바로시",
    "lat": 47.51139,
    "lng": 19.07303,
-   "wd": "Q1055054"
+   "wd": "Q1055054",
+   "aliases": [
+    "Ferenc Hopp Museum of Asiatic Arts"
+   ]
   },
   {
-   "name": "Adam Clark Square",
+   "name": "아담 클라크 광장",
    "cat": "관광",
    "area": "바르케륄레트",
    "lat": 47.4984,
    "lng": 19.0405,
-   "wd": "Q240284"
+   "wd": "Q240284",
+   "aliases": [
+    "Adam Clark Square"
+   ]
   },
   {
-   "name": "Koller Gallery and Auction House",
+   "name": "콜러 갤러리",
    "cat": "관광",
    "area": "바르케륄레트",
    "lat": 47.50367,
    "lng": 19.03317,
-   "wd": "Q1115292"
+   "wd": "Q1115292",
+   "aliases": [
+    "Koller Gallery and Auction House"
+   ]
   },
   {
-   "name": "Holy Trinity column",
+   "name": "삼위일체 기념주",
    "cat": "관광",
    "area": "바르케륄레트",
    "lat": 47.50169,
    "lng": 19.03351,
-   "wd": "Q1296916"
+   "wd": "Q1296916",
+   "aliases": [
+    "Holy Trinity column"
+   ]
   },
   {
-   "name": "Szentháromság Square",
+   "name": "삼위일체 광장",
    "cat": "관광",
    "area": "바르케륄레트",
    "lat": 47.5019,
    "lng": 19.0338,
-   "wd": "Q1296943"
+   "wd": "Q1296943",
+   "aliases": [
+    "Szentháromság Square"
+   ]
   },
   {
-   "name": "Palace Chapel of Buda",
+   "name": "부다 왕궁 예배당",
    "cat": "관광",
    "area": "바르케륄레트",
    "lat": 47.4957,
    "lng": 19.04076,
-   "wd": "Q7126155"
+   "wd": "Q7126155",
+   "aliases": [
+    "Palace Chapel of Buda"
+   ]
   },
   {
-   "name": "Saint Elizabeth of Hungary Church, Alsó-Víziváros",
+   "name": "성 엘리자베스 성당",
    "cat": "관광",
    "area": "바르케륄레트",
    "lat": 47.50222,
    "lng": 19.03861,
-   "wd": "Q20479643"
+   "wd": "Q20479643",
+   "aliases": [
+    "Saint Elizabeth of Hungary Church, Alsó-Víziváros"
+   ]
   },
   {
-   "name": "Batthyány's sanctuary lamp",
+   "name": "바차니 영원의 등불",
    "cat": "관광",
    "area": "벨바로시리포트바로시",
    "lat": 47.50601,
    "lng": 19.05196,
-   "wd": "Q791378"
+   "wd": "Q791378",
+   "aliases": [
+    "Batthyány's sanctuary lamp"
+   ]
   },
   {
-   "name": "Pál-völgy Cave",
+   "name": "팔뵐지 동굴",
    "cat": "관광",
    "area": "부다페스트 2구",
    "lat": 47.53327,
    "lng": 19.0159,
-   "wd": "Q1241947"
+   "wd": "Q1241947",
+   "aliases": [
+    "Pál-völgy Cave"
+   ]
   },
   {
-   "name": "Kisstadion",
-   "cat": "관광",
-   "area": "부다페스트",
-   "lat": 47.50475,
-   "lng": 19.09456,
-   "wd": "Q735115"
-  },
-  {
-   "name": "Military History Institute and Museum",
+   "name": "군사역사박물관",
    "cat": "관광",
    "area": "부다페스트",
    "lat": 47.50417,
    "lng": 19.02722,
-   "wd": "Q1032469"
+   "wd": "Q1032469",
+   "aliases": [
+    "Military History Institute and Museum"
+   ]
   },
   {
-   "name": "Queen of the Rosary Church (Budapest)",
+   "name": "묵주의 여왕 성당",
    "cat": "관광",
    "area": "주글로",
    "lat": 47.50597,
    "lng": 19.09087,
-   "wd": "Q20479770"
+   "wd": "Q20479770",
+   "aliases": [
+    "Queen of the Rosary Church (Budapest)"
+   ]
   },
   {
-   "name": "Ják Chapel",
+   "name": "야크 예배당",
    "cat": "관광",
    "area": "주글로",
    "lat": 47.51556,
    "lng": 19.08278,
-   "wd": "Q105419222"
+   "wd": "Q105419222",
+   "aliases": [
+    "Ják Chapel"
+   ]
   },
   {
-   "name": "House of Music Hungary",
+   "name": "헝가리 음악의 집",
    "cat": "관광",
    "area": "주글로",
    "lat": 47.51264,
    "lng": 19.08186,
-   "wd": "Q108325313"
+   "wd": "Q108325313",
+   "aliases": [
+    "House of Music Hungary"
+   ]
   },
   {
-   "name": "Fővám tér",
+   "name": "푀밤 광장",
    "cat": "관광",
    "area": "페렌츠바로시",
    "lat": 47.4875,
    "lng": 19.0575,
-   "wd": "Q254193"
+   "wd": "Q254193",
+   "aliases": [
+    "Fővám tér"
+   ]
   },
   {
-   "name": "Saint Francis of Assisi Church of Ferencváros (Budapest)",
+   "name": "페렌츠바로시 성 프란치스코 성당",
    "cat": "관광",
    "area": "페렌츠바로시",
    "lat": 47.48341,
    "lng": 19.06723,
-   "wd": "Q778986"
+   "wd": "Q778986",
+   "aliases": [
+    "Saint Francis of Assisi Church of Ferencváros (Budapest)"
+   ]
   },
   {
-   "name": "Magyar Theatre",
+   "name": "마자르 극장",
    "cat": "관광",
    "area": "에르제베트바로시",
    "lat": 47.5034,
    "lng": 19.07266,
-   "wd": "Q1233423"
+   "wd": "Q1233423",
+   "aliases": [
+    "Magyar Theatre"
+   ]
   },
   {
-   "name": "Saint Emeric Cistercian Church in Budapest 11",
+   "name": "성 이므레 시토회 성당",
    "cat": "관광",
    "area": "우이부더",
    "lat": 47.47869,
    "lng": 19.04225,
-   "wd": "Q12354009"
+   "wd": "Q12354009",
+   "aliases": [
+    "Saint Emeric Cistercian Church in Budapest 11"
+   ]
   },
   {
-   "name": "Textilmúzeum",
+   "name": "직물 박물관",
    "cat": "관광",
    "area": "오부더베카스메제르",
    "lat": 47.53583,
    "lng": 19.04333,
-   "wd": "Q1318859"
+   "wd": "Q1318859",
+   "aliases": [
+    "Textilmúzeum"
+   ]
   },
   {
-   "name": "Thália Theater",
+   "name": "탈리아 극장",
    "cat": "관광",
    "area": "테레즈바로시",
    "lat": 47.50373,
    "lng": 19.05986,
-   "wd": "Q15633242"
+   "wd": "Q15633242",
+   "aliases": [
+    "Thália Theater"
+   ]
   },
   {
-   "name": "Uránia National Movie Theater",
+   "name": "우라니아 국립영화관",
    "cat": "관광",
    "area": "요제프바로시",
    "lat": 47.49534,
    "lng": 19.06501,
-   "wd": "Q20439850"
+   "wd": "Q20439850",
+   "aliases": [
+    "Uránia National Movie Theater"
+   ]
   },
   {
    "name": "리스트 페렌츠 기념 박물관",
@@ -864,52 +991,70 @@
    "wd": "Q28732523"
   },
   {
-   "name": "Vérmező Park",
+   "name": "베르메죄 공원",
    "cat": "관광",
    "area": "바르케륄레트",
    "lat": 47.50089,
    "lng": 19.0272,
-   "wd": "Q1462614"
+   "wd": "Q1462614",
+   "aliases": [
+    "Vérmező Park"
+   ]
   },
   {
-   "name": "Chapel of Alexandra Pavlovna in Üröm",
+   "name": "알렉산드라 파블로브나 예배당",
    "cat": "관광",
    "area": "Üröm",
    "lat": 47.597,
    "lng": 19.0118,
-   "wd": "Q9187516"
+   "wd": "Q9187516",
+   "aliases": [
+    "Chapel of Alexandra Pavlovna in Üröm"
+   ]
   },
   {
-   "name": "Labyrinth of Buda Castle",
+   "name": "부다 왕궁 미로",
    "cat": "관광",
    "area": "바르케륄레트",
    "lat": 47.50016,
    "lng": 19.0341,
-   "wd": "Q25452144"
+   "wd": "Q25452144",
+   "aliases": [
+    "Labyrinth of Buda Castle"
+   ]
   },
   {
-   "name": "Széchenyi István Square",
+   "name": "세체니 이슈트반 광장",
    "cat": "관광",
    "area": "벨바로시리포트바로시",
    "lat": 47.4997,
    "lng": 19.048,
-   "wd": "Q755089"
+   "wd": "Q755089",
+   "aliases": [
+    "Széchenyi István Square"
+   ]
   },
   {
-   "name": "Erzsébet tér",
+   "name": "에르제베트 광장",
    "cat": "관광",
    "area": "벨바로시리포트바로시",
    "lat": 47.4984,
    "lng": 19.0532,
-   "wd": "Q934453"
+   "wd": "Q934453",
+   "aliases": [
+    "Erzsébet tér"
+   ]
   },
   {
-   "name": "Church of the Nativity of the Virgin Mary in Máriaremete",
+   "name": "마리아레메테 성모 탄생 성당",
    "cat": "관광",
    "area": "헤지비데크",
    "lat": 47.56078,
    "lng": 18.9449,
-   "wd": "Q1110116"
+   "wd": "Q1110116",
+   "aliases": [
+    "Church of the Nativity of the Virgin Mary in Máriaremete"
+   ]
   }
  ]
 }

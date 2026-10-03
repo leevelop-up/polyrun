@@ -36,12 +36,15 @@
    "wd": "Q2709506"
   },
   {
-   "name": "The Helix Bridge",
+   "name": "헬릭스 브리지",
    "cat": "관광",
    "area": "Downtown Core",
    "lat": 1.28762,
    "lng": 103.861,
-   "wd": "Q2681107"
+   "wd": "Q2681107",
+   "aliases": [
+    "The Helix Bridge"
+   ]
   },
   {
    "name": "주롱 새공원",
@@ -134,12 +137,15 @@
    "wd": "Q559113"
   },
   {
-   "name": "ArtScience Museum",
+   "name": "아트사이언스 뮤지엄",
    "cat": "관광",
    "area": "Downtown Core",
    "lat": 1.28611,
    "lng": 103.859,
-   "wd": "Q2744014"
+   "wd": "Q2744014",
+   "aliases": [
+    "ArtScience Museum"
+   ]
   },
   {
    "name": "싱가포르 미술관",
@@ -153,20 +159,26 @@
    "wd": "Q2032637"
   },
   {
-   "name": "Asian Civilisations Museum",
+   "name": "아시아 문명 박물관",
    "cat": "관광",
    "area": "Downtown Core",
    "lat": 1.2875,
    "lng": 103.85139,
-   "wd": "Q633033"
+   "wd": "Q633033",
+   "aliases": [
+    "Asian Civilisations Museum"
+   ]
   },
   {
-   "name": "Lau Pa Sat",
+   "name": "라우파삿",
    "cat": "관광",
    "area": "틀록아예르가",
    "lat": 1.28061,
    "lng": 103.85041,
-   "wd": "Q7697795"
+   "wd": "Q7697795",
+   "aliases": [
+    "Lau Pa Sat"
+   ]
   },
   {
    "name": "이스타나 왕궁",
@@ -192,20 +204,26 @@
    "wd": "Q3521764"
   },
   {
-   "name": "Masjid Jamae",
+   "name": "자마에 모스크",
    "cat": "관광",
    "area": "차이나타운",
    "lat": 1.28319,
    "lng": 103.8455,
-   "wd": "Q2993428"
+   "wd": "Q2993428",
+   "aliases": [
+    "Masjid Jamae"
+   ]
   },
   {
-   "name": "Masjid Abdul Gaffoor",
+   "name": "압둘 가푸르 모스크",
    "cat": "관광",
    "area": "리틀인디아",
    "lat": 1.30444,
    "lng": 103.854,
-   "wd": "Q2477287"
+   "wd": "Q2477287",
+   "aliases": [
+    "Masjid Abdul Gaffoor"
+   ]
   },
   {
    "name": "주얼 창이 에어포트",
@@ -219,28 +237,37 @@
    "wd": "Q28419359"
   },
   {
-   "name": "Masjid Hajjah Fatimah",
+   "name": "하자 파티마 모스크",
    "cat": "관광",
    "area": "칼랑",
    "lat": 1.30289,
    "lng": 103.863,
-   "wd": "Q2667415"
+   "wd": "Q2667415",
+   "aliases": [
+    "Masjid Hajjah Fatimah"
+   ]
   },
   {
-   "name": "Masjid Malabar",
+   "name": "말라바르 모스크",
    "cat": "관광",
    "area": "Rochor",
    "lat": 1.30556,
    "lng": 103.85972,
-   "wd": "Q2477275"
+   "wd": "Q2477275",
+   "aliases": [
+    "Masjid Malabar"
+   ]
   },
   {
-   "name": "Armenian Church of Saint Gregory the Illuminator",
+   "name": "아르메니아 교회",
    "cat": "관광",
    "area": "Bras Basah",
    "lat": 1.29306,
    "lng": 103.84931,
-   "wd": "Q2660779"
+   "wd": "Q2660779",
+   "aliases": [
+    "Armenian Church of Saint Gregory the Illuminator"
+   ]
   },
   {
    "name": "천복궁",
@@ -254,12 +281,15 @@
    "wd": "Q2158122"
   },
   {
-   "name": "Sri Srinivasa Perumal Temple, Singapore",
+   "name": "스리 스리니바사 페루말 사원",
    "cat": "관광",
    "area": "Lavender",
    "lat": 1.31328,
    "lng": 103.85619,
-   "wd": "Q3536077"
+   "wd": "Q3536077",
+   "aliases": [
+    "Sri Srinivasa Perumal Temple, Singapore"
+   ]
   },
   {
    "name": "스리 테마섹",
@@ -273,20 +303,26 @@
    "wd": "Q7586295"
   },
   {
-   "name": "Masjid Omar Kampong Melaka",
+   "name": "오마르 캄퐁 믈라카 모스크",
    "cat": "관광",
    "area": "싱가포르강",
    "lat": 1.28789,
    "lng": 103.844,
-   "wd": "Q2478845"
+   "wd": "Q2478845",
+   "aliases": [
+    "Masjid Omar Kampong Melaka"
+   ]
   },
   {
-   "name": "Kent Ridge Park",
+   "name": "켄트 릿지 공원",
    "cat": "관광",
    "area": "Kent Ridge",
    "lat": 1.28639,
    "lng": 103.79,
-   "wd": "Q647955"
+   "wd": "Q647955",
+   "aliases": [
+    "Kent Ridge Park"
+   ]
   },
   {
    "name": "나이트 사파리",
@@ -300,36 +336,48 @@
    "wd": "Q2234723"
   },
   {
-   "name": "Peranakan Museum",
+   "name": "페라나칸 박물관",
    "cat": "관광",
    "area": "Bras Basah",
    "lat": 1.29422,
    "lng": 103.849,
-   "wd": "Q3078303"
+   "wd": "Q3078303",
+   "aliases": [
+    "Peranakan Museum"
+   ]
   },
   {
-   "name": "Buddha Tooth Relic Temple and Museum",
+   "name": "불아사",
    "cat": "관광",
    "area": "차이나타운",
    "lat": 1.28155,
    "lng": 103.844,
-   "wd": "Q839965"
+   "wd": "Q839965",
+   "aliases": [
+    "Buddha Tooth Relic Temple and Museum"
+   ]
   },
   {
-   "name": "Fort Siloso",
+   "name": "실로소 요새",
    "cat": "관광",
    "area": "센토사섬",
    "lat": 1.25889,
    "lng": 103.80806,
-   "wd": "Q4419293"
+   "wd": "Q4419293",
+   "aliases": [
+    "Fort Siloso"
+   ]
   },
   {
-   "name": "Masjid Al-Ansar",
+   "name": "알안사르 모스크",
    "cat": "관광",
    "area": "Bedok",
    "lat": 1.3269,
    "lng": 103.9264,
-   "wd": "Q2477258"
+   "wd": "Q2477258",
+   "aliases": [
+    "Masjid Al-Ansar"
+   ]
   },
   {
    "name": "호파빌라",
@@ -343,92 +391,125 @@
    "wd": "Q1018484"
   },
   {
-   "name": "Masjid Ahmad",
+   "name": "아마드 모스크",
    "cat": "관광",
    "area": "Queenstown",
    "lat": 1.28086,
    "lng": 103.79008,
-   "wd": "Q6783326"
+   "wd": "Q6783326",
+   "aliases": [
+    "Masjid Ahmad"
+   ]
   },
   {
-   "name": "Fort Canning Hill",
+   "name": "포트 캐닝 힐",
    "cat": "관광",
    "area": "",
    "lat": 1.29444,
    "lng": 103.847,
-   "wd": "Q1438470"
+   "wd": "Q1438470",
+   "aliases": [
+    "Fort Canning Hill"
+   ]
   },
   {
-   "name": "Chinese Garden, Singapore",
+   "name": "중국 정원",
    "cat": "관광",
    "area": "Jurong East",
    "lat": 1.33861,
    "lng": 103.73,
-   "wd": "Q5100456"
+   "wd": "Q5100456",
+   "aliases": [
+    "Chinese Garden, Singapore"
+   ]
   },
   {
-   "name": "Masjid Al-Mawaddah",
+   "name": "알마와다 모스크",
    "cat": "관광",
    "area": "Compassvale",
    "lat": 1.38406,
    "lng": 103.891,
-   "wd": "Q1088320"
+   "wd": "Q1088320",
+   "aliases": [
+    "Masjid Al-Mawaddah"
+   ]
   },
   {
-   "name": "Sri Veeramakaliamman Temple",
+   "name": "스리 비라마칼리암만 사원",
    "cat": "관광",
    "area": "Farrer Park",
    "lat": 1.30787,
    "lng": 103.85249,
-   "wd": "Q7586311"
+   "wd": "Q7586311",
+   "aliases": [
+    "Sri Veeramakaliamman Temple"
+   ]
   },
   {
-   "name": "Masjid Al-Istiqamah",
+   "name": "알이스티카마 모스크",
    "cat": "관광",
    "area": "Serangoon Garden",
    "lat": 1.36922,
    "lng": 103.876,
-   "wd": "Q712057"
+   "wd": "Q712057",
+   "aliases": [
+    "Masjid Al-Istiqamah"
+   ]
   },
   {
-   "name": "Masjid Ahmad Ibrahim",
+   "name": "아마드 이브라힘 모스크",
    "cat": "관광",
    "area": "Yishun",
    "lat": 1.4066,
    "lng": 103.8204,
-   "wd": "Q1087696"
+   "wd": "Q1087696",
+   "aliases": [
+    "Masjid Ahmad Ibrahim"
+   ]
   },
   {
-   "name": "Masjid Darul Ghufran",
+   "name": "다룰 구프란 모스크",
    "cat": "관광",
    "area": "Tampines West",
    "lat": 1.3554,
    "lng": 103.9398,
-   "wd": "Q4262113"
+   "wd": "Q4262113",
+   "aliases": [
+    "Masjid Darul Ghufran"
+   ]
   },
   {
-   "name": "Cathedral of the Good Shepherd",
+   "name": "선한 목자 대성당",
    "cat": "관광",
    "area": "Museum Planning Area",
    "lat": 1.29596,
    "lng": 103.85131,
-   "wd": "Q4425936"
+   "wd": "Q4425936",
+   "aliases": [
+    "Cathedral of the Good Shepherd"
+   ]
   },
   {
-   "name": "Masjid Al-Abrar",
+   "name": "알아브라르 모스크",
    "cat": "관광",
    "area": "차이나타운",
    "lat": 1.28031,
    "lng": 103.84726,
-   "wd": "Q4022275"
+   "wd": "Q4022275",
+   "aliases": [
+    "Masjid Al-Abrar"
+   ]
   },
   {
-   "name": "Masjid Al-Iman",
+   "name": "알이만 모스크",
    "cat": "관광",
    "area": "Bukit Panjang",
    "lat": 1.37812,
    "lng": 103.77277,
-   "wd": "Q6783331"
+   "wd": "Q6783331",
+   "aliases": [
+    "Masjid Al-Iman"
+   ]
   },
   {
    "name": "클라크키",
@@ -442,20 +523,26 @@
    "wd": "Q1095828"
   },
   {
-   "name": "Masjid Yusof Ishak",
+   "name": "유소프 이삭 모스크",
    "cat": "관광",
    "area": "Woodlands",
    "lat": 1.4265,
    "lng": 103.7963,
-   "wd": "Q19595579"
+   "wd": "Q19595579",
+   "aliases": [
+    "Masjid Yusof Ishak"
+   ]
   },
   {
-   "name": "Anderson Bridge",
+   "name": "앤더슨 다리",
    "cat": "관광",
    "area": "Downtown Core",
    "lat": 1.28728,
    "lng": 103.853,
-   "wd": "Q491477"
+   "wd": "Q491477",
+   "aliases": [
+    "Anderson Bridge"
+   ]
   },
   {
    "name": "빅토리아 극장 및 콘서트 홀",
@@ -481,36 +568,48 @@
    "wd": "Q5359041"
   },
   {
-   "name": "Masjid Bencoolen",
+   "name": "벤쿨렌 모스크",
    "cat": "관광",
    "area": "Rochor",
    "lat": 1.29943,
    "lng": 103.84979,
-   "wd": "Q6783333"
+   "wd": "Q6783333",
+   "aliases": [
+    "Masjid Bencoolen"
+   ]
   },
   {
-   "name": "Masjid Al-Firdaus",
+   "name": "알피르다우스 모스크",
    "cat": "관광",
    "area": "Western Water Catchment",
    "lat": 1.37486,
    "lng": 103.71641,
-   "wd": "Q12497267"
+   "wd": "Q12497267",
+   "aliases": [
+    "Masjid Al-Firdaus"
+   ]
   },
   {
-   "name": "Masjid Darul Makmur",
+   "name": "다룰 마크무르 모스크",
    "cat": "관광",
    "area": "Yishun",
    "lat": 1.43682,
    "lng": 103.83435,
-   "wd": "Q4022366"
+   "wd": "Q4022366",
+   "aliases": [
+    "Masjid Darul Makmur"
+   ]
   },
   {
-   "name": "Masjid Al-Huda",
+   "name": "알후다 모스크",
    "cat": "관광",
    "area": "Bukit Timah",
    "lat": 1.32319,
    "lng": 103.79471,
-   "wd": "Q6783328"
+   "wd": "Q6783328",
+   "aliases": [
+    "Masjid Al-Huda"
+   ]
   },
   {
    "name": "비보시티",
@@ -524,28 +623,37 @@
    "wd": "Q7937930"
   },
   {
-   "name": "Cavenagh Bridge",
+   "name": "카베나 다리",
    "cat": "관광",
    "area": "",
    "lat": 1.28659,
    "lng": 103.85239,
-   "wd": "Q4261649"
+   "wd": "Q4261649",
+   "aliases": [
+    "Cavenagh Bridge"
+   ]
   },
   {
-   "name": "Masjid Taha",
+   "name": "타하 모스크",
    "cat": "관광",
    "area": "게일랑",
    "lat": 1.3137,
    "lng": 103.898,
-   "wd": "Q3720047"
+   "wd": "Q3720047",
+   "aliases": [
+    "Masjid Taha"
+   ]
   },
   {
-   "name": "Saint Joseph's Church",
+   "name": "성 요셉 성당",
    "cat": "관광",
    "area": "중앙 주",
    "lat": 1.29822,
    "lng": 103.85319,
-   "wd": "Q2575658"
+   "wd": "Q2575658",
+   "aliases": [
+    "Saint Joseph's Church"
+   ]
   },
   {
    "name": "콩멩산포각시 사원",
@@ -559,20 +667,26 @@
    "wd": "Q2890360"
   },
   {
-   "name": "Siong Lim Temple",
+   "name": "쌍림사",
    "cat": "관광",
    "area": "Toa Payoh",
    "lat": 1.33028,
    "lng": 103.8575,
-   "wd": "Q2985111"
+   "wd": "Q2985111",
+   "aliases": [
+    "Siong Lim Temple"
+   ]
   },
   {
-   "name": "Masjid Al-Istighfar",
+   "name": "알이스티그파르 모스크",
    "cat": "관광",
    "area": "Pasir Ris",
    "lat": 1.37113,
    "lng": 103.964,
-   "wd": "Q4262158"
+   "wd": "Q4262158",
+   "aliases": [
+    "Masjid Al-Istighfar"
+   ]
   },
   {
    "name": "크랜지 전쟁기념관",
@@ -597,76 +711,103 @@
    "wd": "Q5124736"
   },
   {
-   "name": "Malay Heritage Centre",
+   "name": "말레이 문화유산센터",
    "cat": "관광",
    "area": "Kampong Glam",
    "lat": 1.30222,
    "lng": 103.86028,
-   "wd": "Q6741538"
+   "wd": "Q6741538",
+   "aliases": [
+    "Malay Heritage Centre"
+   ]
   },
   {
-   "name": "Fountain of Wealth",
+   "name": "부의 분수",
    "cat": "관광",
    "area": "Marina Centre",
    "lat": 1.29478,
    "lng": 103.859,
-   "wd": "Q1442165"
+   "wd": "Q1442165",
+   "aliases": [
+    "Fountain of Wealth"
+   ]
   },
   {
-   "name": "Masjid Al-Abdul Razak",
+   "name": "알압둘 라작 모스크",
    "cat": "관광",
    "area": "Kembangan",
    "lat": 1.32334,
    "lng": 103.9073,
-   "wd": "Q4262083"
+   "wd": "Q4262083",
+   "aliases": [
+    "Masjid Al-Abdul Razak"
+   ]
   },
   {
-   "name": "Church of Our Lady of Lourdes",
+   "name": "루르드 성모 성당",
    "cat": "관광",
    "area": "Rochor",
    "lat": 1.30315,
    "lng": 103.85605,
-   "wd": "Q1105770"
+   "wd": "Q1105770",
+   "aliases": [
+    "Church of Our Lady of Lourdes"
+   ]
   },
   {
-   "name": "Masjid An-Nahdhah",
+   "name": "안나다 모스크",
    "cat": "관광",
    "area": "Bishan East",
    "lat": 1.35351,
    "lng": 103.851,
-   "wd": "Q4261602"
+   "wd": "Q4261602",
+   "aliases": [
+    "Masjid An-Nahdhah"
+   ]
   },
   {
-   "name": "Masjid En-Naeem",
+   "name": "엔나임 모스크",
    "cat": "관광",
    "area": "Hougang",
    "lat": 1.36106,
    "lng": 103.892,
-   "wd": "Q6783344"
+   "wd": "Q6783344",
+   "aliases": [
+    "Masjid En-Naeem"
+   ]
   },
   {
-   "name": "Elgin Bridge",
+   "name": "엘긴 다리",
    "cat": "관광",
    "area": "싱가포르강",
    "lat": 1.28911,
    "lng": 103.84929,
-   "wd": "Q3396527"
+   "wd": "Q3396527",
+   "aliases": [
+    "Elgin Bridge"
+   ]
   },
   {
-   "name": "Masjid Al-Amin",
+   "name": "알아민 모스크",
    "cat": "관광",
    "area": "Maritime Square (subzone)",
    "lat": 1.2755,
    "lng": 103.8192,
-   "wd": "Q3719915"
+   "wd": "Q3719915",
+   "aliases": [
+    "Masjid Al-Amin"
+   ]
   },
   {
-   "name": "Masjid Temenggong Daeng Ibrahim",
+   "name": "트므응공 다엥 이브라힘 모스크",
    "cat": "관광",
    "area": "Maritime Square (subzone)",
    "lat": 1.26635,
    "lng": 103.8243,
-   "wd": "Q6783343"
+   "wd": "Q6783343",
+   "aliases": [
+    "Masjid Temenggong Daeng Ibrahim"
+   ]
   },
   {
    "name": "리버 사파리",
@@ -680,92 +821,125 @@
    "wd": "Q7337785"
   },
   {
-   "name": "Marine Life Park",
+   "name": "마린 라이프 파크",
    "cat": "관광",
    "area": "센토사섬",
    "lat": 1.2587,
    "lng": 103.8186,
-   "wd": "Q3082977"
+   "wd": "Q3082977",
+   "aliases": [
+    "Marine Life Park"
+   ]
   },
   {
-   "name": "Masjid Sallim Mattar",
+   "name": "살림 마타르 모스크",
    "cat": "관광",
    "area": "게일랑",
    "lat": 1.32575,
    "lng": 103.881,
-   "wd": "Q4022214"
+   "wd": "Q4022214",
+   "aliases": [
+    "Masjid Sallim Mattar"
+   ]
   },
   {
-   "name": "Masjid Abdul Hamid",
+   "name": "압둘 하미드 모스크",
    "cat": "관광",
    "area": "Novena",
    "lat": 1.32,
    "lng": 103.841,
-   "wd": "Q12497249"
+   "wd": "Q12497249",
+   "aliases": [
+    "Masjid Abdul Hamid"
+   ]
   },
   {
-   "name": "Tekka Centre",
+   "name": "테카 센터",
    "cat": "관광",
    "area": "리틀인디아",
    "lat": 1.3062,
    "lng": 103.851,
-   "wd": "Q7695362"
+   "wd": "Q7695362",
+   "aliases": [
+    "Tekka Centre"
+   ]
   },
   {
-   "name": "Changi Beach Park",
+   "name": "창이 비치 공원",
    "cat": "관광",
    "area": "창이",
    "lat": 1.38333,
    "lng": 104.00167,
-   "wd": "Q5071985"
+   "wd": "Q5071985",
+   "aliases": [
+    "Changi Beach Park"
+   ]
   },
   {
-   "name": "Hong Lim Park",
+   "name": "홍림 공원",
    "cat": "관광",
    "area": "싱가포르강",
    "lat": 1.28659,
    "lng": 103.84639,
-   "wd": "Q5895617"
+   "wd": "Q5895617",
+   "aliases": [
+    "Hong Lim Park"
+   ]
   },
   {
-   "name": "Masjid Al-Muttaqin",
+   "name": "알무타킨 모스크",
    "cat": "관광",
    "area": "Ang Mo Kio",
    "lat": 1.37049,
    "lng": 103.846,
-   "wd": "Q6783332"
+   "wd": "Q6783332",
+   "aliases": [
+    "Masjid Al-Muttaqin"
+   ]
   },
   {
-   "name": "Mount Faber",
+   "name": "마운트 페이버",
    "cat": "관광",
    "area": "Bukit Merah",
    "lat": 1.27222,
    "lng": 103.82083,
-   "wd": "Q6920714"
+   "wd": "Q6920714",
+   "aliases": [
+    "Mount Faber"
+   ]
   },
   {
-   "name": "Yueh Hai Ching Temple",
+   "name": "월해청묘",
    "cat": "관광",
    "area": "Downtown Core",
    "lat": 1.2845,
    "lng": 103.84933,
-   "wd": "Q1094954"
+   "wd": "Q1094954",
+   "aliases": [
+    "Yueh Hai Ching Temple"
+   ]
   },
   {
-   "name": "Esplanade Bridge",
+   "name": "에스플러네이드 다리",
    "cat": "관광",
    "area": "Downtown Core",
    "lat": 1.28778,
    "lng": 103.85389,
-   "wd": "Q1368284"
+   "wd": "Q1368284",
+   "aliases": [
+    "Esplanade Bridge"
+   ]
   },
   {
-   "name": "Istana Kampong Glam",
+   "name": "이스타나 캄퐁 글람",
    "cat": "관광",
    "area": "Kampong Glam",
    "lat": 1.30278,
    "lng": 103.86,
-   "wd": "Q1674820"
+   "wd": "Q1674820",
+   "aliases": [
+    "Istana Kampong Glam"
+   ]
   },
   {
    "name": "국회의사당",
@@ -779,116 +953,158 @@
    "wd": "Q7138913"
   },
   {
-   "name": "Masjid Haji Yusoff",
+   "name": "하지 유소프 모스크",
    "cat": "관광",
    "area": "Kovan",
    "lat": 1.35572,
    "lng": 103.88,
-   "wd": "Q6783346"
+   "wd": "Q6783346",
+   "aliases": [
+    "Masjid Haji Yusoff"
+   ]
   },
   {
-   "name": "Church of Saints Peter and Paul",
+   "name": "성 베드로·바오로 성당",
    "cat": "관광",
    "area": "Rochor",
    "lat": 1.29778,
    "lng": 103.85139,
-   "wd": "Q1105780"
+   "wd": "Q1105780",
+   "aliases": [
+    "Church of Saints Peter and Paul"
+   ]
   },
   {
-   "name": "ION Orchard",
+   "name": "아이온 오차드",
    "cat": "쇼핑",
    "area": "Orchard",
    "lat": 1.30444,
    "lng": 103.832,
-   "wd": "Q3146786"
+   "wd": "Q3146786",
+   "aliases": [
+    "ION Orchard"
+   ]
   },
   {
-   "name": "City Harvest Church",
+   "name": "시티 하베스트 교회",
    "cat": "관광",
    "area": "",
    "lat": 1.29376,
    "lng": 103.85745,
-   "wd": "Q3238227"
+   "wd": "Q3238227",
+   "aliases": [
+    "City Harvest Church"
+   ]
   },
   {
-   "name": "Raffles Lighthouse",
+   "name": "래플스 등대",
    "cat": "관광",
    "area": "",
    "lat": 1.1601,
    "lng": 103.74008,
-   "wd": "Q3652320"
+   "wd": "Q3652320",
+   "aliases": [
+    "Raffles Lighthouse"
+   ]
   },
   {
-   "name": "Sri Vadapathira Kaliamman Temple",
+   "name": "스리 바다파티라 칼리암만 사원",
    "cat": "관광",
    "area": "",
    "lat": 1.31543,
    "lng": 103.858,
-   "wd": "Q7586300"
+   "wd": "Q7586300",
+   "aliases": [
+    "Sri Vadapathira Kaliamman Temple"
+   ]
   },
   {
-   "name": "Jurong Falls",
+   "name": "주롱 폭포",
    "cat": "관광",
    "area": "",
    "lat": 1.31765,
    "lng": 103.70561,
-   "wd": "Q37685"
+   "wd": "Q37685",
+   "aliases": [
+    "Jurong Falls"
+   ]
   },
   {
-   "name": "Changi Chapel and Museum",
+   "name": "창이 예배당·박물관",
    "cat": "관광",
    "area": "싱가포르",
    "lat": 1.36219,
    "lng": 103.974,
-   "wd": "Q5072000"
+   "wd": "Q5072000",
+   "aliases": [
+    "Changi Chapel and Museum"
+   ]
   },
   {
-   "name": "Underwater World, Singapore",
+   "name": "언더워터 월드",
    "cat": "관광",
    "area": "센토사섬",
    "lat": 1.25857,
    "lng": 103.81121,
-   "wd": "Q2125883"
+   "wd": "Q2125883",
+   "aliases": [
+    "Underwater World, Singapore"
+   ]
   },
   {
-   "name": "Burmese Buddhist Temple",
+   "name": "미얀마 불교사원",
    "cat": "관광",
    "area": "Novena",
    "lat": 1.32842,
    "lng": 103.847,
-   "wd": "Q4999418"
+   "wd": "Q4999418",
+   "aliases": [
+    "Burmese Buddhist Temple"
+   ]
   },
   {
-   "name": "Bishan-Ang Mo Kio Park",
+   "name": "비샨-앙모키오 공원",
    "cat": "관광",
    "area": "Bishan",
    "lat": 1.36667,
    "lng": 103.83333,
-   "wd": "Q866299"
+   "wd": "Q866299",
+   "aliases": [
+    "Bishan-Ang Mo Kio Park"
+   ]
   },
   {
-   "name": "Indian Heritage Centre",
+   "name": "인도 문화유산센터",
    "cat": "관광",
    "area": "리틀인디아",
    "lat": 1.30556,
    "lng": 103.85222,
-   "wd": "Q25551594"
+   "wd": "Q25551594",
+   "aliases": [
+    "Indian Heritage Centre"
+   ]
   },
   {
-   "name": "Bedok Lighthouse",
+   "name": "베독 등대",
    "cat": "관광",
    "area": "Bedok",
    "lat": 1.30908,
    "lng": 103.93275,
-   "wd": "Q4879337"
+   "wd": "Q4879337",
+   "aliases": [
+    "Bedok Lighthouse"
+   ]
   },
   {
-   "name": "Benjamin Sheares Bridge",
+   "name": "벤저민 시어스 다리",
    "cat": "관광",
    "area": "칼랑",
    "lat": 1.2926,
    "lng": 103.86206,
-   "wd": "Q817687"
+   "wd": "Q817687",
+   "aliases": [
+    "Benjamin Sheares Bridge"
+   ]
   }
  ]
 }

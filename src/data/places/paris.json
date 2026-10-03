@@ -218,12 +218,15 @@
    "wd": "Q638423"
   },
   {
-   "name": "Château de Vincennes",
+   "name": "뱅센 성",
    "cat": "관광",
    "area": "뱅센",
    "lat": 48.84278,
    "lng": 2.43583,
-   "wd": "Q663673"
+   "wd": "Q663673",
+   "aliases": [
+    "Château de Vincennes"
+   ]
   },
   {
    "name": "국립 자연사 박물관",
@@ -376,12 +379,15 @@
    "wd": "Q730948"
   },
   {
-   "name": "Musée de l'Air",
+   "name": "항공우주박물관",
    "cat": "관광",
    "area": "르부르제",
    "lat": 48.94715,
    "lng": 2.43491,
-   "wd": "Q1189955"
+   "wd": "Q1189955",
+   "aliases": [
+    "Musée de l'Air"
+   ]
   },
   {
    "name": "생퇴스타슈 교회",
@@ -426,20 +432,26 @@
    "wd": "Q246448"
   },
   {
-   "name": "Le Chat Noir",
+   "name": "르 샤 누아르",
    "cat": "관광",
    "area": "파리",
    "lat": 48.88359,
    "lng": 2.33413,
-   "wd": "Q1138922"
+   "wd": "Q1138922",
+   "aliases": [
+    "Le Chat Noir"
+   ]
   },
   {
-   "name": "Palais des congrès de Paris",
+   "name": "파리 국제회의장",
    "cat": "쇼핑",
    "area": "파리 17구",
    "lat": 48.87916,
    "lng": 2.28347,
-   "wd": "Q1781591"
+   "wd": "Q1781591",
+   "aliases": [
+    "Palais des congrès de Paris"
+   ]
   },
   {
    "name": "레퓌블리크 광장",
@@ -544,12 +556,15 @@
    "wd": "Q1431547"
   },
   {
-   "name": "Musée Jacquemart-André",
+   "name": "자크마르 앙드레 미술관",
    "cat": "관광",
    "area": "파리 8구",
    "lat": 48.87543,
    "lng": 2.31051,
-   "wd": "Q1165526"
+   "wd": "Q1165526",
+   "aliases": [
+    "Musée Jacquemart-André"
+   ]
   },
   {
    "name": "아클리마타시옹 정원",
@@ -566,12 +581,15 @@
    "wd": "Q3090513"
   },
   {
-   "name": "Château de Malmaison",
+   "name": "말메종 성",
    "cat": "관광",
    "area": "뤼에유말메종",
    "lat": 48.8708,
    "lng": 2.16685,
-   "wd": "Q684846"
+   "wd": "Q684846",
+   "aliases": [
+    "Château de Malmaison"
+   ]
   },
   {
    "name": "빅투아르 광장",
@@ -585,12 +603,15 @@
    "wd": "Q1362670"
   },
   {
-   "name": "Théâtre du Châtelet",
+   "name": "샤틀레 극장",
    "cat": "관광",
    "area": "파리 1구",
    "lat": 48.85778,
    "lng": 2.34639,
-   "wd": "Q1469315"
+   "wd": "Q1469315",
+   "aliases": [
+    "Théâtre du Châtelet"
+   ]
   },
   {
    "name": "생테티엔뒤몽 교회",
@@ -604,20 +625,15 @@
    "wd": "Q583251"
   },
   {
-   "name": "Cœur Défense",
-   "cat": "관광",
-   "area": "쿠르브부아",
-   "lat": 48.89095,
-   "lng": 2.24413,
-   "wd": "Q2349903"
-  },
-  {
-   "name": "Place du Châtelet",
+   "name": "샤틀레 광장",
    "cat": "관광",
    "area": "파리",
    "lat": 48.8575,
    "lng": 2.34722,
-   "wd": "Q1422975"
+   "wd": "Q1422975",
+   "aliases": [
+    "Place du Châtelet"
+   ]
   },
   {
    "name": "주 드 폼 국립미술관",
@@ -708,20 +724,26 @@
    "wd": "Q644398"
   },
   {
-   "name": "Saint-Gervais-Saint-Protais",
+   "name": "생 제르베 생 프로테 성당",
    "cat": "관광",
    "area": "파리 4구",
    "lat": 48.85556,
    "lng": 2.35444,
-   "wd": "Q427340"
+   "wd": "Q427340",
+   "aliases": [
+    "Saint-Gervais-Saint-Protais"
+   ]
   },
   {
-   "name": "Petit-Pont-Cardinal-Lustiger",
+   "name": "프티 퐁",
    "cat": "관광",
    "area": "파리 4구",
    "lat": 48.85333,
    "lng": 2.34694,
-   "wd": "Q1323635"
+   "wd": "Q1323635",
+   "aliases": [
+    "Petit-Pont-Cardinal-Lustiger"
+   ]
   },
   {
    "name": "마욜 미술관",
@@ -732,12 +754,15 @@
    "wd": "Q946883"
   },
   {
-   "name": "place Dauphine",
+   "name": "도핀 광장",
    "cat": "관광",
    "area": "생제르맹로세루아",
    "lat": 48.85654,
    "lng": 2.34243,
-   "wd": "Q1810430"
+   "wd": "Q1810430",
+   "aliases": [
+    "place Dauphine"
+   ]
   },
   {
    "name": "파리 동물원",

@@ -15,12 +15,15 @@
    "wd": "Q873769"
   },
   {
-   "name": "Bangkok National Museum",
+   "name": "방콕 국립박물관",
    "cat": "관광",
    "area": "Phra Borom Maha Ratchawang",
    "lat": 13.75783,
    "lng": 100.49231,
-   "wd": "Q1255815"
+   "wd": "Q1255815",
+   "aliases": [
+    "Bangkok National Museum"
+   ]
   },
   {
    "name": "라마 8세교",
@@ -45,12 +48,15 @@
    "wd": "Q1813523"
   },
   {
-   "name": "Dusit Palace",
+   "name": "두싯 궁전",
    "cat": "관광",
    "area": "Dusit",
    "lat": 13.77405,
    "lng": 100.51246,
-   "wd": "Q2089016"
+   "wd": "Q2089016",
+   "aliases": [
+    "Dusit Palace"
+   ]
   },
   {
    "name": "사남루앙",
@@ -119,12 +125,15 @@
    "wd": "Q949446"
   },
   {
-   "name": "Dusit Zoo",
+   "name": "두싯 동물원",
    "cat": "관광",
    "area": "Dusit",
    "lat": 13.7725,
    "lng": 100.51639,
-   "wd": "Q1267646"
+   "wd": "Q1267646",
+   "aliases": [
+    "Dusit Zoo"
+   ]
   },
   {
    "name": "사파 야-사파 사탄",
@@ -171,28 +180,37 @@
    "wd": "Q1519969"
   },
   {
-   "name": "National Art Gallery",
+   "name": "국립 미술관",
    "cat": "관광",
    "area": "Chana Songkhram",
    "lat": 13.75895,
    "lng": 100.49384,
-   "wd": "Q1968373"
+   "wd": "Q1968373",
+   "aliases": [
+    "National Art Gallery"
+   ]
   },
   {
-   "name": "Sri Maha Mariamman Temple, Bangkok",
+   "name": "스리 마하 마리암만 사원",
    "cat": "관광",
    "area": "Si Lom",
    "lat": 13.7242,
    "lng": 100.5229,
-   "wd": "Q6761807"
+   "wd": "Q6761807",
+   "aliases": [
+    "Sri Maha Mariamman Temple, Bangkok"
+   ]
   },
   {
-   "name": "Nana Plaza",
+   "name": "나나 플라자",
    "cat": "관광",
    "area": "",
    "lat": 13.74136,
    "lng": 100.55317,
-   "wd": "Q441839"
+   "wd": "Q441839",
+   "aliases": [
+    "Nana Plaza"
+   ]
   },
   {
    "name": "라마 6세교",
@@ -239,20 +257,24 @@
    "wd": "Q1813551"
   },
   {
-   "name": "Siam Square",
+   "name": "시암 스퀘어",
    "cat": "쇼핑",
    "area": "Pathum Wan Subdistrict",
    "lat": 13.74442,
    "lng": 100.53314,
-   "wd": "Q1856401"
+   "wd": "Q1856401",
+   "aliases": [
+    "Siam Square"
+   ]
   },
   {
-   "name": "Wang Suan Pakkard",
+   "name": "수안 팍깟 궁전",
    "cat": "관광",
    "area": "",
    "lat": 13.75684,
    "lng": 100.53712,
    "aliases": [
+    "Wang Suan Pakkard",
     "Suan Pakkad Palace"
    ],
    "wd": "Q493505"
@@ -269,12 +291,15 @@
    "wd": "Q1538356"
   },
   {
-   "name": "Devasathan",
+   "name": "데와사탄 사원",
    "cat": "관광",
    "area": "Sao Chingcha",
    "lat": 13.75226,
    "lng": 100.50059,
-   "wd": "Q1206639"
+   "wd": "Q1206639",
+   "aliases": [
+    "Devasathan"
+   ]
   },
   {
    "name": "싸얌 센터",
@@ -310,44 +335,59 @@
    "wd": "Q1608431"
   },
   {
-   "name": "Ton Son Mosque",
+   "name": "똔손 모스크",
    "cat": "관광",
    "area": "Wat Arun",
    "lat": 13.74004,
    "lng": 100.48868,
-   "wd": "Q13018915"
+   "wd": "Q13018915",
+   "aliases": [
+    "Ton Son Mosque"
+   ]
   },
   {
-   "name": "Holy Rosary Church",
+   "name": "성 로사리오 성당",
    "cat": "관광",
    "area": "Talat Noi",
    "lat": 13.73123,
    "lng": 100.51349,
-   "wd": "Q18658070"
+   "wd": "Q18658070",
+   "aliases": [
+    "Holy Rosary Church"
+   ]
   },
   {
-   "name": "Queen Sirikit Park",
+   "name": "시리킷 왕비 공원",
    "cat": "관광",
    "area": "방콕",
    "lat": 13.80667,
    "lng": 100.55,
-   "wd": "Q2915575"
+   "wd": "Q2915575",
+   "aliases": [
+    "Queen Sirikit Park"
+   ]
   },
   {
-   "name": "Jewelry Trade Center",
+   "name": "주얼리 트레이드 센터",
    "cat": "쇼핑",
    "area": "방콕",
    "lat": 13.72278,
    "lng": 100.52,
-   "wd": "Q3104836"
+   "wd": "Q3104836",
+   "aliases": [
+    "Jewelry Trade Center"
+   ]
   },
   {
-   "name": "Haroon Mosque",
+   "name": "하룬 모스크",
    "cat": "관광",
    "area": "방락",
    "lat": 13.72551,
    "lng": 100.51451,
-   "wd": "Q85998738"
+   "wd": "Q85998738",
+   "aliases": [
+    "Haroon Mosque"
+   ]
   },
   {
    "name": "벤짜낏띠 공원",
@@ -361,172 +401,235 @@
    "wd": "Q13022388"
   },
   {
-   "name": "Bangkok Aquarium",
+   "name": "방콕 수족관",
    "cat": "관광",
    "area": "Lat Yao",
    "lat": 13.84259,
    "lng": 100.57559,
-   "wd": "Q546844"
+   "wd": "Q546844",
+   "aliases": [
+    "Bangkok Aquarium"
+   ]
   },
   {
-   "name": "Central Embassy",
+   "name": "센트럴 엠바시",
    "cat": "쇼핑",
    "area": "Lumphini",
    "lat": 13.74382,
    "lng": 100.54641,
-   "wd": "Q13024979"
+   "wd": "Q13024979",
+   "aliases": [
+    "Central Embassy"
+   ]
   },
   {
-   "name": "Emporium",
+   "name": "엠포리움",
    "cat": "쇼핑",
    "area": "Khlong Tan",
    "lat": 13.7307,
    "lng": 100.5689,
-   "wd": "Q2521716"
+   "wd": "Q2521716",
+   "aliases": [
+    "Emporium"
+   ]
   },
   {
-   "name": "Pata Zoo",
+   "name": "파타 동물원",
    "cat": "관광",
    "area": "Bang Yi Khan",
    "lat": 13.77131,
    "lng": 100.48403,
-   "wd": "Q13022377"
+   "wd": "Q13022377",
+   "aliases": [
+    "Pata Zoo"
+   ]
   },
   {
-   "name": "Bang Luang Mosque",
+   "name": "방루앙 모스크",
    "cat": "관광",
    "area": "Wat Kanlaya",
    "lat": 13.73805,
    "lng": 100.48936,
-   "wd": "Q20425066"
+   "wd": "Q20425066",
+   "aliases": [
+    "Bang Luang Mosque"
+   ]
   },
   {
-   "name": "Sea Life Bangkok Ocean World",
+   "name": "시라이프 방콕 오션월드",
    "cat": "관광",
    "area": "방콕",
    "lat": 13.7458,
    "lng": 100.5353,
-   "wd": "Q6636970"
+   "wd": "Q6636970",
+   "aliases": [
+    "Sea Life Bangkok Ocean World"
+   ]
   },
   {
-   "name": "Gaysorn",
+   "name": "게이손",
    "cat": "쇼핑",
    "area": "Lumphini",
    "lat": 13.74514,
    "lng": 100.54076,
-   "wd": "Q1021951"
+   "wd": "Q1021951",
+   "aliases": [
+    "Gaysorn"
+   ]
   },
   {
-   "name": "Indonesia Mosque",
+   "name": "인도네시아 모스크",
    "cat": "관광",
    "area": "Lumphini",
    "lat": 13.73363,
    "lng": 100.5492,
-   "wd": "Q135741904"
+   "wd": "Q135741904",
+   "aliases": [
+    "Indonesia Mosque"
+   ]
   },
   {
-   "name": "Chakraphong Mosque",
+   "name": "짝끄라퐁 모스크",
    "cat": "관광",
    "area": "Chana Songkhram",
    "lat": 13.76185,
    "lng": 100.49696,
-   "wd": "Q65040176"
+   "wd": "Q65040176",
+   "aliases": [
+    "Chakraphong Mosque"
+   ]
   },
   {
-   "name": "Wat Bowon Sathan Suthawat",
+   "name": "왓 보원사탄 수타왓",
    "cat": "관광",
    "area": "Phra Borom Maha Ratchawang",
    "lat": 13.75968,
    "lng": 100.49169,
-   "wd": "Q16004311"
+   "wd": "Q16004311",
+   "aliases": [
+    "Wat Bowon Sathan Suthawat"
+   ]
   },
   {
-   "name": "Phaya Thai Palace",
+   "name": "파야타이 궁전",
    "cat": "관광",
    "area": "Thung Phaya Thai",
    "lat": 13.76861,
    "lng": 100.53292,
-   "wd": "Q2548250"
+   "wd": "Q2548250",
+   "aliases": [
+    "Phaya Thai Palace"
+   ]
   },
   {
-   "name": "Pantip Plaza",
+   "name": "판팁 플라자",
    "cat": "쇼핑",
    "area": "Thanon Phetchaburi",
    "lat": 13.75,
    "lng": 100.5375,
-   "wd": "Q2800701"
+   "wd": "Q2800701",
+   "aliases": [
+    "Pantip Plaza"
+   ]
   },
   {
-   "name": "Jawa Mosque",
+   "name": "자와 모스크",
    "cat": "관광",
    "area": "Yan Nawa",
    "lat": 13.71579,
    "lng": 100.52214,
-   "wd": "Q20426606"
+   "wd": "Q20426606",
+   "aliases": [
+    "Jawa Mosque"
+   ]
   },
   {
-   "name": "Immaculate Conception Church",
+   "name": "무염시태 성당",
    "cat": "관광",
    "area": "Wachira Phayaban",
    "lat": 13.77696,
    "lng": 100.50367,
-   "wd": "Q6004353"
+   "wd": "Q6004353",
+   "aliases": [
+    "Immaculate Conception Church"
+   ]
   },
   {
-   "name": "Bank of Thailand Museum",
+   "name": "태국은행 박물관",
    "cat": "관광",
    "area": "",
    "lat": 13.76833,
    "lng": 100.49944,
-   "wd": "Q4856189"
+   "wd": "Q4856189",
+   "aliases": [
+    "Bank of Thailand Museum"
+   ]
   },
   {
-   "name": "Benjasiri Park",
+   "name": "벤짜시리 공원",
    "cat": "관광",
    "area": "",
    "lat": 13.73034,
    "lng": 100.56732,
-   "wd": "Q4889510"
+   "wd": "Q4889510",
+   "aliases": [
+    "Benjasiri Park"
+   ]
   },
   {
-   "name": "Museum of Contemporary Art",
+   "name": "방콕 현대미술관(MOCA)",
    "cat": "관광",
    "area": "",
    "lat": 13.85194,
    "lng": 100.5625,
-   "wd": "Q65100079"
+   "wd": "Q65100079",
+   "aliases": [
+    "Museum of Contemporary Art"
+   ]
   },
   {
-   "name": "Queen Sirikit Gallery",
+   "name": "시리킷 왕비 갤러리",
    "cat": "관광",
    "area": "방콕",
    "lat": 13.75674,
    "lng": 100.50505,
-   "wd": "Q4921882"
+   "wd": "Q4921882",
+   "aliases": [
+    "Queen Sirikit Gallery"
+   ]
   },
   {
-   "name": "Chulalongkorn University Museum of Natural History",
+   "name": "쭐랄롱꼰대학 자연사박물관",
    "cat": "관광",
    "area": "방콕",
    "lat": 13.7375,
    "lng": 100.53,
-   "wd": "Q13018177"
+   "wd": "Q13018177",
+   "aliases": [
+    "Chulalongkorn University Museum of Natural History"
+   ]
   },
   {
-   "name": "Saint Nicholas Orthodox church in Bangkok",
+   "name": "성 니콜라스 정교회",
    "cat": "관광",
    "area": "프라카농",
    "lat": 13.68333,
    "lng": 100.62561,
-   "wd": "Q28671266"
+   "wd": "Q28671266",
+   "aliases": [
+    "Saint Nicholas Orthodox church in Bangkok"
+   ]
   },
   {
-   "name": "Parliament House of Thailand",
+   "name": "태국 국회의사당",
    "cat": "관광",
    "area": "두싯",
    "lat": 13.7744,
    "lng": 100.514,
-   "wd": "Q6647892"
+   "wd": "Q6647892",
+   "aliases": [
+    "Parliament House of Thailand"
+   ]
   },
   {
    "name": "판파릴랏 다리",
@@ -540,108 +643,147 @@
    "wd": "Q13022447"
   },
   {
-   "name": "Holy Redeemer Church",
+   "name": "성 구속자 성당",
    "cat": "관광",
    "area": "Lumphini",
    "lat": 13.735,
    "lng": 100.54861,
-   "wd": "Q22666742"
+   "wd": "Q22666742",
+   "aliases": [
+    "Holy Redeemer Church"
+   ]
   },
   {
-   "name": "The Esplanade",
+   "name": "에스플러네이드",
    "cat": "쇼핑",
    "area": "Din Daeng",
    "lat": 13.7667,
    "lng": 100.57,
-   "wd": "Q1021955"
+   "wd": "Q1021955",
+   "aliases": [
+    "The Esplanade"
+   ]
   },
   {
-   "name": "Sa Pathum palace",
+   "name": "사빠툼 궁전",
    "cat": "관광",
    "area": "Pathum Wan Subdistrict",
    "lat": 13.74806,
    "lng": 100.53282,
-   "wd": "Q2315094"
+   "wd": "Q2315094",
+   "aliases": [
+    "Sa Pathum palace"
+   ]
   },
   {
-   "name": "Windsor Palace",
+   "name": "윈저 궁전",
    "cat": "관광",
    "area": "Wang Mai",
    "lat": 13.745,
    "lng": 100.526,
-   "wd": "Q6630236"
+   "wd": "Q6630236",
+   "aliases": [
+    "Windsor Palace"
+   ]
   },
   {
-   "name": "Kudi Charoenphat",
+   "name": "꾸디찐 마을",
    "cat": "관광",
    "area": "Wat Arun",
    "lat": 13.73679,
    "lng": 100.48686,
-   "wd": "Q20574331"
+   "wd": "Q20574331",
+   "aliases": [
+    "Kudi Charoenphat"
+   ]
   },
   {
-   "name": "Leng Buai Ia Shrine",
+   "name": "렝부아이이아 사당",
    "cat": "관광",
    "area": "Samphanthawong",
    "lat": 13.74194,
    "lng": 100.50917,
-   "wd": "Q2357415"
+   "wd": "Q2357415",
+   "aliases": [
+    "Leng Buai Ia Shrine"
+   ]
   },
   {
-   "name": "Varadis Palace",
+   "name": "와라딧 궁전",
    "cat": "관광",
    "area": "Wat Sommanat",
    "lat": 13.75556,
    "lng": 100.51327,
-   "wd": "Q2510561"
+   "wd": "Q2510561",
+   "aliases": [
+    "Varadis Palace"
+   ]
   },
   {
-   "name": "Santa Cruz Church",
+   "name": "산타크루스 성당",
    "cat": "관광",
    "area": "Wat Kanlaya",
    "lat": 13.73904,
    "lng": 100.49377,
-   "wd": "Q19884805"
+   "wd": "Q19884805",
+   "aliases": [
+    "Santa Cruz Church"
+   ]
   },
   {
-   "name": "Phitsanulok Mansion",
+   "name": "피사눌록 저택",
    "cat": "관광",
    "area": "Si Yaek Mahanak",
    "lat": 13.75849,
    "lng": 100.51814,
-   "wd": "Q13016474"
+   "wd": "Q13016474",
+   "aliases": [
+    "Phitsanulok Mansion"
+   ]
   },
   {
-   "name": "Pak Khlong Talat",
+   "name": "빡크롱 딸랏(꽃시장)",
    "cat": "쇼핑",
    "area": "",
    "lat": 13.74221,
    "lng": 100.49657,
-   "wd": "Q4924395"
+   "wd": "Q4924395",
+   "aliases": [
+    "Pak Khlong Talat"
+   ]
   },
   {
-   "name": "Children's Discovery Museum",
+   "name": "어린이 디스커버리 박물관",
    "cat": "관광",
    "area": "",
    "lat": 13.80316,
    "lng": 100.55136,
-   "wd": "Q5098070"
+   "wd": "Q5098070",
+   "aliases": [
+    "Children's Discovery Museum"
+   ]
   },
   {
-   "name": "Siriraj Medical Museum",
+   "name": "시리랏 의학박물관",
    "cat": "관광",
    "area": "",
    "lat": 13.75793,
    "lng": 100.48585,
-   "wd": "Q7530338"
+   "wd": "Q7530338",
+   "aliases": [
+    "Siriraj Medical Museum"
+   ]
   },
   {
-   "name": "Bobae Market",
+   "name": "보베 시장",
    "cat": "쇼핑",
    "area": "",
    "lat": 13.75347,
    "lng": 100.51594,
-   "wd": "Q50972308"
+   "wd": "Q50972308",
+   "aliases": [
+    "Bobae Market"
+   ]
   }
  ]
 }

@@ -102,12 +102,15 @@
    "wd": "Q860188"
   },
   {
-   "name": "Niujie Mosque",
+   "name": "뉴제 모스크",
    "cat": "관광",
    "area": "Niujie Subdistrict",
    "lat": 39.88444,
    "lng": 116.35806,
-   "wd": "Q603256"
+   "wd": "Q603256",
+   "aliases": [
+    "Niujie Mosque"
+   ]
   },
   {
    "name": "징산 공원",
@@ -235,12 +238,15 @@
    "wd": "Q1189666"
   },
   {
-   "name": "Temple of Earth",
+   "name": "지단(지단 공원)",
    "cat": "관광",
    "area": "Hepingli Subdistrict",
    "lat": 39.95139,
    "lng": 116.40972,
-   "wd": "Q615178"
+   "wd": "Q615178",
+   "aliases": [
+    "Temple of Earth"
+   ]
   },
   {
    "name": "중국미술관",
@@ -279,12 +285,15 @@
    "wd": "Q20745708"
   },
   {
-   "name": "White Cloud Temple",
+   "name": "백운관",
    "cat": "관광",
    "area": "Yuetan Subdistrict",
    "lat": 39.8989,
    "lng": 116.338,
-   "wd": "Q804054"
+   "wd": "Q804054",
+   "aliases": [
+    "White Cloud Temple"
+   ]
   },
   {
    "name": "베이징 공묘",
@@ -298,20 +307,26 @@
    "wd": "Q1064580"
   },
   {
-   "name": "Temple of the Sun",
+   "name": "일단 공원",
    "cat": "관광",
    "area": "Chaowai Subdistrict",
    "lat": 39.91442,
    "lng": 116.43811,
-   "wd": "Q964720"
+   "wd": "Q964720",
+   "aliases": [
+    "Temple of the Sun"
+   ]
   },
   {
-   "name": "Temple of the Moon",
+   "name": "월단 공원",
    "cat": "관광",
    "area": "Yuetan Subdistrict",
    "lat": 39.91587,
    "lng": 116.34601,
-   "wd": "Q680679"
+   "wd": "Q680679",
+   "aliases": [
+    "Temple of the Moon"
+   ]
   },
   {
    "name": "중국인민혁명군사박물관",
@@ -326,12 +341,15 @@
    "wd": "Q1789184"
   },
   {
-   "name": "Miaoying Temple",
+   "name": "묘응사 백탑",
    "cat": "관광",
    "area": "시청구",
    "lat": 39.924,
    "lng": 116.357,
-   "wd": "Q2298526"
+   "wd": "Q2298526",
+   "aliases": [
+    "Miaoying Temple"
+   ]
   },
   {
    "name": "공왕부",
@@ -345,36 +363,48 @@
    "wd": "Q2666344"
   },
   {
-   "name": "Zhongshan Park (Beijing, China)",
+   "name": "중산 공원",
    "cat": "관광",
    "area": "Donghuamen Subdistrict",
    "lat": 39.9083,
    "lng": 116.388,
-   "wd": "Q970561"
+   "wd": "Q970561",
+   "aliases": [
+    "Zhongshan Park (Beijing, China)"
+   ]
   },
   {
-   "name": "Hall of Supreme Harmony",
+   "name": "태화전",
    "cat": "관광",
    "area": "Donghuamen Subdistrict",
    "lat": 39.91589,
    "lng": 116.39067,
-   "wd": "Q3393365"
+   "wd": "Q3393365",
+   "aliases": [
+    "Hall of Supreme Harmony"
+   ]
   },
   {
-   "name": "Deshengmen",
+   "name": "더성먼",
    "cat": "관광",
    "area": "Desheng Subdistrict",
    "lat": 39.94846,
    "lng": 116.37337,
-   "wd": "Q1200624"
+   "wd": "Q1200624",
+   "aliases": [
+    "Deshengmen"
+   ]
   },
   {
-   "name": "Dongsi Mosque",
+   "name": "둥쓰 모스크",
    "cat": "관광",
    "area": "Donghuamen Subdistrict",
    "lat": 39.92194,
    "lng": 116.41083,
-   "wd": "Q176719"
+   "wd": "Q176719",
+   "aliases": [
+    "Dongsi Mosque"
+   ]
   },
   {
    "name": "스차하이",
@@ -389,12 +419,15 @@
    "wd": "Q1136851"
   },
   {
-   "name": "Yongdingmen",
+   "name": "융딩먼",
    "cat": "관광",
    "area": "",
    "lat": 39.87097,
    "lng": 116.393,
-   "wd": "Q1808040"
+   "wd": "Q1808040",
+   "aliases": [
+    "Yongdingmen"
+   ]
   },
   {
    "name": "오문",
@@ -419,12 +452,15 @@
    "wd": "Q2263304"
   },
   {
-   "name": "Beijing Chaoyang Park",
+   "name": "차오양 공원",
    "cat": "관광",
    "area": "Maizidian Subdistrict",
    "lat": 39.94556,
    "lng": 116.47944,
-   "wd": "Q1062603"
+   "wd": "Q1062603",
+   "aliases": [
+    "Beijing Chaoyang Park"
+   ]
   },
   {
    "name": "시즈먼 천주당",
@@ -449,124 +485,169 @@
    "wd": "Q7126241"
   },
   {
-   "name": "Andingmen",
+   "name": "안딩먼",
    "cat": "관광",
    "area": "둥청구",
    "lat": 39.94715,
    "lng": 116.40032,
-   "wd": "Q1890808"
+   "wd": "Q1890808",
+   "aliases": [
+    "Andingmen"
+   ]
   },
   {
-   "name": "Big Bell Temple",
+   "name": "대종사",
    "cat": "관광",
    "area": "Zhongguancun Subdistrict",
    "lat": 39.96783,
    "lng": 116.33196,
-   "wd": "Q1242684"
+   "wd": "Q1242684",
+   "aliases": [
+    "Big Bell Temple"
+   ]
   },
   {
-   "name": "National Natural History Museum of China",
+   "name": "국가자연박물관",
    "cat": "관광",
    "area": "Tiantan Subdistrict",
    "lat": 39.88165,
    "lng": 116.39365,
-   "wd": "Q846583"
+   "wd": "Q846583",
+   "aliases": [
+    "National Natural History Museum of China"
+   ]
   },
   {
-   "name": "Guangji Temple",
+   "name": "광제사",
    "cat": "관광",
    "area": "Xinjiekou Subdistrict",
    "lat": 39.92361,
    "lng": 116.36583,
-   "wd": "Q1536965"
+   "wd": "Q1536965",
+   "aliases": [
+    "Guangji Temple"
+   ]
   },
   {
-   "name": "Guanghua Temple",
+   "name": "광화사",
    "cat": "관광",
    "area": "베이징시",
    "lat": 39.94022,
    "lng": 116.38438,
-   "wd": "Q379381"
+   "wd": "Q379381",
+   "aliases": [
+    "Guanghua Temple"
+   ]
   },
   {
-   "name": "China Science and Technology Museum",
+   "name": "중국과학기술관",
    "cat": "관광",
    "area": "베이징시",
    "lat": 40.005,
    "lng": 116.39244,
-   "wd": "Q1074292"
+   "wd": "Q1074292",
+   "aliases": [
+    "China Science and Technology Museum"
+   ]
   },
   {
-   "name": "Wanshou Temple",
+   "name": "만수사",
    "cat": "관광",
    "area": "Zizhuyuan Subdistrict",
    "lat": 39.94528,
    "lng": 116.30523,
-   "wd": "Q2063448"
+   "wd": "Q2063448",
+   "aliases": [
+    "Wanshou Temple"
+   ]
   },
   {
-   "name": "Wanping Fortress",
+   "name": "완핑 성",
    "cat": "관광",
    "area": "Wanping Subdistrict",
    "lat": 39.85,
    "lng": 116.22,
-   "wd": "Q1538571"
+   "wd": "Q1538571",
+   "aliases": [
+    "Wanping Fortress"
+   ]
   },
   {
-   "name": "Tianning Temple",
+   "name": "천녕사",
    "cat": "관광",
    "area": "Guanganmenwai Subdistrict",
    "lat": 39.89371,
    "lng": 116.33994,
-   "wd": "Q2046257"
+   "wd": "Q2046257",
+   "aliases": [
+    "Tianning Temple"
+   ]
   },
   {
-   "name": "Taoranting Park",
+   "name": "타오란팅 공원",
    "cat": "관광",
    "area": "Taoranting Subdistrict",
    "lat": 39.87244,
    "lng": 116.37546,
-   "wd": "Q835886"
+   "wd": "Q835886",
+   "aliases": [
+    "Taoranting Park"
+   ]
   },
   {
-   "name": "Baliqiao",
+   "name": "바리차오",
    "cat": "관광",
    "area": "베이징시",
    "lat": 39.90667,
    "lng": 116.61417,
-   "wd": "Q2566752"
+   "wd": "Q2566752",
+   "aliases": [
+    "Baliqiao"
+   ]
   },
   {
-   "name": "Purple Bamboo Park",
+   "name": "쯔주위안 공원",
    "cat": "관광",
    "area": "Zizhuyuan Subdistrict",
    "lat": 39.94137,
    "lng": 116.31314,
-   "wd": "Q7261399"
+   "wd": "Q7261399",
+   "aliases": [
+    "Purple Bamboo Park"
+   ]
   },
   {
-   "name": "Zhenjue Temple",
+   "name": "진각사",
    "cat": "관광",
    "area": "Beixiaguan Subdistrict",
    "lat": 39.94417,
    "lng": 116.32417,
-   "wd": "Q1208573"
+   "wd": "Q1208573",
+   "aliases": [
+    "Zhenjue Temple"
+   ]
   },
   {
-   "name": "Zhihua Temple",
+   "name": "지화사",
    "cat": "관광",
    "area": "Chaoyangmen Subdistrict",
    "lat": 39.91611,
    "lng": 116.42583,
-   "wd": "Q197781"
+   "wd": "Q197781",
+   "aliases": [
+    "Zhihua Temple"
+   ]
   },
   {
-   "name": "Jade Belt Bridge",
+   "name": "옥대교",
    "cat": "관광",
    "area": "Qinglongqiao Subdistrict",
    "lat": 39.99211,
    "lng": 116.26104,
-   "wd": "Q3397261"
+   "wd": "Q3397261",
+   "aliases": [
+    "Jade Belt Bridge"
+   ]
   },
   {
    "name": "석경산유락원",
@@ -580,12 +661,15 @@
    "wd": "Q814725"
   },
   {
-   "name": "Paleozoological Museum of China",
+   "name": "중국고동물관",
    "cat": "관광",
    "area": "Zhanlanlu Subdistrict",
    "lat": 39.93625,
    "lng": 116.32778,
-   "wd": "Q846592"
+   "wd": "Q846592",
+   "aliases": [
+    "Paleozoological Museum of China"
+   ]
   },
   {
    "name": "베이징 세계공원",
@@ -599,100 +683,136 @@
    "wd": "Q814727"
   },
   {
-   "name": "Marble Boat",
+   "name": "석방(청안방)",
    "cat": "관광",
    "area": "",
    "lat": 39.99678,
    "lng": 116.26358,
-   "wd": "Q2636083"
+   "wd": "Q2636083",
+   "aliases": [
+    "Marble Boat"
+   ]
   },
   {
-   "name": "Chongwenmen",
+   "name": "충원먼",
    "cat": "관광",
    "area": "베이징시",
    "lat": 39.8982,
    "lng": 116.41762,
-   "wd": "Q4567915"
+   "wd": "Q4567915",
+   "aliases": [
+    "Chongwenmen"
+   ]
   },
   {
-   "name": "Dahui Temple",
+   "name": "대혜사",
    "cat": "관광",
    "area": "Beixiaguan Subdistrict",
    "lat": 39.95222,
    "lng": 116.32667,
-   "wd": "Q1157508"
+   "wd": "Q1157508",
+   "aliases": [
+    "Dahui Temple"
+   ]
   },
   {
-   "name": "Madian Mosque",
+   "name": "마뎬 모스크",
    "cat": "관광",
    "area": "Huayuanlu Subdistrict",
    "lat": 39.96811,
    "lng": 116.37256,
-   "wd": "Q19854061"
+   "wd": "Q19854061",
+   "aliases": [
+    "Madian Mosque"
+   ]
   },
   {
-   "name": "Xihuang Temple",
+   "name": "서황사",
    "cat": "관광",
    "area": "Anzhen Subdistrict",
    "lat": 39.96306,
    "lng": 116.38417,
-   "wd": "Q1378964"
+   "wd": "Q1378964",
+   "aliases": [
+    "Xihuang Temple"
+   ]
   },
   {
-   "name": "Beijing Planetarium",
+   "name": "베이징 천문관",
    "cat": "관광",
    "area": "Zhanlanlu Subdistrict",
    "lat": 39.9362,
    "lng": 116.3304,
-   "wd": "Q4348118"
+   "wd": "Q4348118",
+   "aliases": [
+    "Beijing Planetarium"
+   ]
   },
   {
-   "name": "Longtan Park",
+   "name": "룽탄 공원",
    "cat": "관광",
    "area": "Longtan Subdistrict",
    "lat": 39.87694,
    "lng": 116.43556,
-   "wd": "Q130899"
+   "wd": "Q130899",
+   "aliases": [
+    "Longtan Park"
+   ]
   },
   {
-   "name": "Ullens Center for Contemporary Art",
+   "name": "UCCA 현대미술센터",
    "cat": "관광",
    "area": "베이징시",
    "lat": 39.9891,
    "lng": 116.488,
-   "wd": "Q605463"
+   "wd": "Q605463",
+   "aliases": [
+    "Ullens Center for Contemporary Art"
+   ]
   },
   {
-   "name": "Tongjiao Temple",
+   "name": "통교사",
    "cat": "관광",
    "area": "베이징시",
    "lat": 39.94277,
    "lng": 116.42007,
-   "wd": "Q2441688"
+   "wd": "Q2441688",
+   "aliases": [
+    "Tongjiao Temple"
+   ]
   },
   {
-   "name": "Beijing Olympic Tower",
+   "name": "베이징 올림픽 타워",
    "cat": "관광",
    "area": "베이징시",
    "lat": 40.00651,
    "lng": 116.38784,
-   "wd": "Q18638370"
+   "wd": "Q18638370",
+   "aliases": [
+    "Beijing Olympic Tower"
+   ]
   },
   {
-   "name": "Changchun Temple",
+   "name": "장춘사",
    "cat": "관광",
    "area": "시청구",
    "lat": 39.89139,
    "lng": 116.35806,
-   "wd": "Q2436168"
+   "wd": "Q2436168",
+   "aliases": [
+    "Changchun Temple"
+   ]
   },
   {
-   "name": "Chaoyangmen",
+   "name": "차오양먼",
    "cat": "관광",
    "area": "둥청구",
    "lat": 39.92385,
    "lng": 116.43359,
-   "wd": "Q985767"
+   "wd": "Q985767",
+   "aliases": [
+    "Chaoyangmen"
+   ]
   },
   {
    "name": "둥지먼",
@@ -707,28 +827,37 @@
    "wd": "Q3431711"
   },
   {
-   "name": "Beijing Shejitan",
+   "name": "사직단",
    "cat": "관광",
    "area": "Donghuamen Subdistrict",
    "lat": 39.91042,
    "lng": 116.38861,
-   "wd": "Q1361047"
+   "wd": "Q1361047",
+   "aliases": [
+    "Beijing Shejitan"
+   ]
   },
   {
-   "name": "Linked Hybrid",
+   "name": "링크드 하이브리드",
    "cat": "관광",
    "area": "Dongzhimen Subdistrict",
    "lat": 39.94931,
    "lng": 116.43153,
-   "wd": "Q3241606"
+   "wd": "Q3241606",
+   "aliases": [
+    "Linked Hybrid"
+   ]
   },
   {
-   "name": "Beijing Planning Exhibition Hall",
+   "name": "베이징 도시계획 전시관",
    "cat": "관광",
    "area": "Qianmen Subdistrict",
    "lat": 39.89842,
    "lng": 116.39503,
-   "wd": "Q1126265"
+   "wd": "Q1126265",
+   "aliases": [
+    "Beijing Planning Exhibition Hall"
+   ]
   },
   {
    "name": "베이징 환러구",
@@ -743,20 +872,26 @@
    "wd": "Q3127206"
   },
   {
-   "name": "Temple of Agriculture",
+   "name": "선농단",
    "cat": "관광",
    "area": "Tianqiao Subdistrict",
    "lat": 39.87685,
    "lng": 116.38623,
-   "wd": "Q341718"
+   "wd": "Q341718",
+   "aliases": [
+    "Temple of Agriculture"
+   ]
   },
   {
-   "name": "Xiancantan",
+   "name": "선잠단",
    "cat": "관광",
    "area": "베이징시",
    "lat": 39.9311,
    "lng": 116.386,
-   "wd": "Q434483"
+   "wd": "Q434483",
+   "aliases": [
+    "Xiancantan"
+   ]
   },
   {
    "name": "광안문",
@@ -770,28 +905,37 @@
    "wd": "Q5613603"
   },
   {
-   "name": "Fayuan Mosque",
+   "name": "파위안 모스크",
    "cat": "관광",
    "area": "시청구",
    "lat": 39.952,
    "lng": 116.38022,
-   "wd": "Q11143640"
+   "wd": "Q11143640",
+   "aliases": [
+    "Fayuan Mosque"
+   ]
   },
   {
-   "name": "Bailin Temple",
+   "name": "백림사",
    "cat": "관광",
    "area": "Beixinqiao Subdistrict",
    "lat": 39.94501,
    "lng": 116.41373,
-   "wd": "Q746736"
+   "wd": "Q746736",
+   "aliases": [
+    "Bailin Temple"
+   ]
   },
   {
-   "name": "Nandouya Mosque",
+   "name": "난더우야 모스크",
    "cat": "관광",
    "area": "Dongsi Subdistrict",
    "lat": 39.92675,
    "lng": 116.42609,
-   "wd": "Q19852020"
+   "wd": "Q19852020",
+   "aliases": [
+    "Nandouya Mosque"
+   ]
   },
   {
    "name": "중국인민항일전쟁기념관",
@@ -805,12 +949,15 @@
    "wd": "Q700376"
   },
   {
-   "name": "Haidian Mosque",
+   "name": "하이뎬 모스크",
    "cat": "관광",
    "area": "Haidian Subdistrict",
    "lat": 39.97757,
    "lng": 116.29974,
-   "wd": "Q19853031"
+   "wd": "Q19853031",
+   "aliases": [
+    "Haidian Mosque"
+   ]
   },
   {
    "name": "하이딩당",
@@ -824,36 +971,48 @@
    "wd": "Q1056869"
   },
   {
-   "name": "Fuchengmen",
+   "name": "푸청먼",
    "cat": "관광",
    "area": "",
    "lat": 39.92222,
    "lng": 116.35,
-   "wd": "Q4567923"
+   "wd": "Q4567923",
+   "aliases": [
+    "Fuchengmen"
+   ]
   },
   {
-   "name": "Gate of Divine Might",
+   "name": "신무문",
    "cat": "관광",
    "area": "",
    "lat": 39.92094,
    "lng": 116.39042,
-   "wd": "Q5527018"
+   "wd": "Q5527018",
+   "aliases": [
+    "Gate of Divine Might"
+   ]
   },
   {
-   "name": "Xuanwumen",
+   "name": "쉬안우먼",
    "cat": "관광",
    "area": "",
    "lat": 39.89972,
    "lng": 116.37431,
-   "wd": "Q7236988"
+   "wd": "Q7236988",
+   "aliases": [
+    "Xuanwumen"
+   ]
   },
   {
-   "name": "Beijing Grand Bridge",
+   "name": "베이징 대교",
    "cat": "관광",
    "area": "베이징시",
    "lat": 39.83744,
    "lng": 116.33125,
-   "wd": "Q3114849"
+   "wd": "Q3114849",
+   "aliases": [
+    "Beijing Grand Bridge"
+   ]
   },
   {
    "name": "영수궁",
@@ -867,76 +1026,92 @@
    "wd": "Q15903427"
   },
   {
-   "name": "Bayi Building",
-   "cat": "관광",
-   "area": "하이뎬구",
-   "lat": 39.9075,
-   "lng": 116.321,
-   "wd": "Q10891869"
-  },
-  {
-   "name": "Yuyuantan Park",
+   "name": "위위안탄 공원",
    "cat": "관광",
    "area": "Ganjiakou Subdistrict",
    "lat": 39.91569,
    "lng": 116.31399,
-   "wd": "Q12011122"
+   "wd": "Q12011122",
+   "aliases": [
+    "Yuyuantan Park"
+   ]
   },
   {
-   "name": "Beijing Ming City Wall Ruins Park",
+   "name": "명성벽 유적공원",
    "cat": "관광",
    "area": "Donghuashi Subdistrict",
    "lat": 39.90014,
    "lng": 116.42914,
-   "wd": "Q17010215"
+   "wd": "Q17010215",
+   "aliases": [
+    "Beijing Ming City Wall Ruins Park"
+   ]
   },
   {
-   "name": "Leeza Soho",
+   "name": "리자 소호",
    "cat": "관광",
    "area": "Taipingqiao Subdistrict",
    "lat": 39.86556,
    "lng": 116.32417,
-   "wd": "Q37914917"
+   "wd": "Q37914917",
+   "aliases": [
+    "Leeza Soho"
+   ]
   },
   {
-   "name": "Hall of Mental Cultivation",
+   "name": "양심전",
    "cat": "관광",
    "area": "베이징시",
    "lat": 39.91835,
    "lng": 116.3894,
-   "wd": "Q5642706"
+   "wd": "Q5642706",
+   "aliases": [
+    "Hall of Mental Cultivation"
+   ]
   },
   {
-   "name": "Guanfu Museum",
+   "name": "관푸 박물관",
    "cat": "관광",
    "area": "베이징시",
    "lat": 40.00594,
    "lng": 116.52816,
-   "wd": "Q15310035"
+   "wd": "Q15310035",
+   "aliases": [
+    "Guanfu Museum"
+   ]
   },
   {
-   "name": "Tuan Cheng Fortress",
+   "name": "퇀청 연무장",
    "cat": "관광",
    "area": "하이뎬구",
    "lat": 39.98389,
    "lng": 116.20306,
-   "wd": "Q822338"
+   "wd": "Q822338",
+   "aliases": [
+    "Tuan Cheng Fortress"
+   ]
   },
   {
-   "name": "Zhengyici Peking Opera Theatre",
+   "name": "정을사 경극극장",
    "cat": "관광",
    "area": "시청구",
    "lat": 39.8974,
    "lng": 116.37985,
-   "wd": "Q4570093"
+   "wd": "Q4570093",
+   "aliases": [
+    "Zhengyici Peking Opera Theatre"
+   ]
   },
   {
-   "name": "Beijing Daguan Yuan",
+   "name": "베이징 대관원",
    "cat": "관광",
    "area": "시청구",
    "lat": 39.87021,
    "lng": 116.35002,
-   "wd": "Q10902197"
+   "wd": "Q10902197",
+   "aliases": [
+    "Beijing Daguan Yuan"
+   ]
   }
  ]
 }

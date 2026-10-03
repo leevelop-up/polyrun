@@ -14,12 +14,15 @@
    "wd": "Q3397006"
   },
   {
-   "name": "Tunku Abdul Rahman National Park",
+   "name": "툰구 압둘 라만 해양공원",
    "cat": "관광",
    "area": "사바주",
    "lat": 5.96667,
    "lng": 116,
-   "wd": "Q1097024"
+   "wd": "Q1097024",
+   "aliases": [
+    "Tunku Abdul Rahman National Park"
+   ]
   },
   {
    "name": "사바 박물관",
@@ -44,36 +47,48 @@
    "wd": "Q3394882"
   },
   {
-   "name": "Atkinson Clock Tower",
+   "name": "앳킨슨 시계탑",
    "cat": "관광",
    "area": "",
    "lat": 5.98219,
    "lng": 116.07733,
-   "wd": "Q4281727"
+   "wd": "Q4281727",
+   "aliases": [
+    "Atkinson Clock Tower"
+   ]
   },
   {
-   "name": "Sacred Heart Cathedral, Kota Kinabalu",
+   "name": "코타키나발루 성심 대성당",
    "cat": "관광",
    "area": "코타키나발루",
    "lat": 5.965,
    "lng": 116.072,
-   "wd": "Q15274240"
+   "wd": "Q15274240",
+   "aliases": [
+    "Sacred Heart Cathedral, Kota Kinabalu"
+   ]
   },
   {
-   "name": "Petagas War Memorial",
+   "name": "프타가스 전쟁기념비",
    "cat": "관광",
    "area": "Petagas",
    "lat": 5.92112,
    "lng": 116.05458,
-   "wd": "Q1786431"
+   "wd": "Q1786431",
+   "aliases": [
+    "Petagas War Memorial"
+   ]
   },
   {
-   "name": "1Borneo Hypermall",
+   "name": "원보르네오 하이퍼몰",
    "cat": "쇼핑",
    "area": "코타키나발루",
    "lat": 6.03611,
    "lng": 116.12944,
-   "wd": "Q4595873"
+   "wd": "Q4595873",
+   "aliases": [
+    "1Borneo Hypermall"
+   ]
   },
   {
    "name": "사바 미술관",
@@ -87,44 +102,59 @@
    "wd": "Q14545591"
   },
   {
-   "name": "St. Michael's Church, Penampang",
+   "name": "성 미카엘 성당",
    "cat": "관광",
    "area": "피남팡",
    "lat": 5.90769,
    "lng": 116.10979,
-   "wd": "Q1464088"
+   "wd": "Q1464088",
+   "aliases": [
+    "St. Michael's Church, Penampang"
+   ]
   },
   {
-   "name": "Double Six Monument",
+   "name": "더블 식스 기념비",
    "cat": "관광",
    "area": "",
    "lat": 5.96222,
    "lng": 116.06181,
-   "wd": "Q2754389"
+   "wd": "Q2754389",
+   "aliases": [
+    "Double Six Monument"
+   ]
   },
   {
-   "name": "Sutera Harbour",
+   "name": "수트라 하버",
    "cat": "관광",
    "area": "사바주",
    "lat": 5.96944,
    "lng": 116.05833,
-   "wd": "Q12518239"
+   "wd": "Q12518239",
+   "aliases": [
+    "Sutera Harbour"
+   ]
   },
   {
-   "name": "Pu Tuo Si Temple",
+   "name": "보타사",
    "cat": "관광",
    "area": "코타키나발루",
    "lat": 5.99278,
    "lng": 116.11667,
-   "wd": "Q28187444"
+   "wd": "Q28187444",
+   "aliases": [
+    "Pu Tuo Si Temple"
+   ]
   },
   {
-   "name": "Peak Nam Toong Temple",
+   "name": "픽남통 사원",
    "cat": "관광",
    "area": "코타키나발루",
    "lat": 5.95028,
    "lng": 116.07583,
-   "wd": "Q65080760"
+   "wd": "Q65080760",
+   "aliases": [
+    "Peak Nam Toong Temple"
+   ]
   },
   {
    "name": "사바 이슬람 문명 박물관",
@@ -138,36 +168,48 @@
    "wd": "Q64827925"
   },
   {
-   "name": "Tun Datu Mustapha Memorial",
+   "name": "툰 다투 무스타파 기념비",
    "cat": "관광",
    "area": "사바주",
    "lat": 5.89954,
    "lng": 116.06015,
-   "wd": "Q1781720"
+   "wd": "Q1781720",
+   "aliases": [
+    "Tun Datu Mustapha Memorial"
+   ]
   },
   {
-   "name": "Suria Sabah",
+   "name": "수리아 사바",
    "cat": "쇼핑",
    "area": "코타키나발루",
    "lat": 5.98741,
    "lng": 116.07722,
-   "wd": "Q12496276"
+   "wd": "Q12496276",
+   "aliases": [
+    "Suria Sabah"
+   ]
   },
   {
-   "name": "North Borneo War Memorial",
+   "name": "북보르네오 전쟁기념비",
    "cat": "관광",
    "area": "코타키나발루",
    "lat": 5.98167,
    "lng": 116.01777,
-   "wd": "Q14545056"
+   "wd": "Q14545056",
+   "aliases": [
+    "North Borneo War Memorial"
+   ]
   },
   {
-   "name": "Sabah Tourism Board",
+   "name": "사바 관광청(옛 우체국)",
    "cat": "관광",
    "area": "코타키나발루",
    "lat": 5.98543,
    "lng": 116.078,
-   "wd": "Q27910289"
+   "wd": "Q27910289",
+   "aliases": [
+    "Sabah Tourism Board"
+   ]
   },
   {
    "name": "이마고 KK 타임스퀘어",
@@ -181,180 +223,169 @@
    "wd": "Q28219530"
   },
   {
-   "name": "Wisma Tun Fuad Stephens",
-   "cat": "관광",
-   "area": "사바주",
-   "lat": 5.96833,
-   "lng": 116.07444,
-   "wd": "Q28219542"
-  },
-  {
-   "name": "Jesselton Freemason Hall",
+   "name": "제셀턴 프리메이슨 홀",
    "cat": "관광",
    "area": "",
    "lat": 5.97246,
    "lng": 116.07347,
-   "wd": "Q65074310"
+   "wd": "Q65074310",
+   "aliases": [
+    "Jesselton Freemason Hall"
+   ]
   },
   {
-   "name": "The Green Connection",
+   "name": "그린 커넥션 수족관",
    "cat": "관광",
    "area": "",
    "lat": 5.97769,
    "lng": 116.088,
-   "wd": "Q29208"
+   "wd": "Q29208",
+   "aliases": [
+    "The Green Connection"
+   ]
   },
   {
-   "name": "One Jesselton Waterfront",
+   "name": "원 제셀턴 워터프런트",
    "cat": "관광",
    "area": "사바주",
    "lat": 5.9907,
    "lng": 116.0791,
-   "wd": "Q11102806"
+   "wd": "Q11102806",
+   "aliases": [
+    "One Jesselton Waterfront"
+   ]
   },
   {
-   "name": "Wisma Merdeka",
+   "name": "위스마 므르데카",
    "cat": "쇼핑",
    "area": "코타키나발루",
    "lat": 5.98556,
    "lng": 116.07556,
-   "wd": "Q28219535"
+   "wd": "Q28219535",
+   "aliases": [
+    "Wisma Merdeka"
+   ]
   },
   {
-   "name": "Aeropod",
-   "cat": "관광",
-   "area": "사바주",
-   "lat": 5.94722,
-   "lng": 116.05889,
-   "wd": "Q28219554"
-  },
-  {
-   "name": "Jesselton Residences",
-   "cat": "관광",
-   "area": "사바주",
-   "lat": 5.98889,
-   "lng": 116.07806,
-   "wd": "Q28219562"
-  },
-  {
-   "name": "Jesselton Quay",
+   "name": "제셀턴 키",
    "cat": "관광",
    "area": "사바주",
    "lat": 5.99167,
    "lng": 116.08056,
-   "wd": "Q28219560"
+   "wd": "Q28219560",
+   "aliases": [
+    "Jesselton Quay"
+   ]
   },
   {
-   "name": "1Sulaman",
+   "name": "원술라만",
    "cat": "관광",
    "area": "사바주",
    "lat": 6.04639,
    "lng": 116.14778,
-   "wd": "Q28219571"
+   "wd": "Q28219571",
+   "aliases": [
+    "1Sulaman"
+   ]
   },
   {
-   "name": "Plaza Shell",
-   "cat": "관광",
-   "area": "사바주",
-   "lat": 5.97694,
-   "lng": 116.07444,
-   "wd": "Q28219605"
-  },
-  {
-   "name": "Malaysia Monument",
+   "name": "말레이시아 기념비",
    "cat": "관광",
    "area": "코타키나발루",
    "lat": 5.98222,
    "lng": 116.07559,
-   "wd": "Q125891430"
+   "wd": "Q125891430",
+   "aliases": [
+    "Malaysia Monument"
+   ]
   },
   {
-   "name": "Lok Kawi Wildlife Park",
+   "name": "록카위 야생동물공원",
    "cat": "관광",
    "area": "Putatan District",
    "lat": 5.84747,
    "lng": 116.06867,
-   "wd": "Q7445905"
+   "wd": "Q7445905",
+   "aliases": [
+    "Lok Kawi Wildlife Park"
+   ]
   },
   {
-   "name": "Pogunon Community Museum",
+   "name": "포구논 마을박물관",
    "cat": "관광",
    "area": "",
    "lat": 5.91333,
    "lng": 116.145,
-   "wd": "Q64819591"
+   "wd": "Q64819591",
+   "aliases": [
+    "Pogunon Community Museum"
+   ]
   },
   {
-   "name": "Jesselton Twin Towers",
-   "cat": "관광",
-   "area": "",
-   "lat": 5.9662,
-   "lng": 116.0979,
-   "wd": "Q111169786"
-  },
-  {
-   "name": "Mari Mari Cultural Village",
+   "name": "마리마리 문화마을",
    "cat": "관광",
    "area": "",
    "lat": 5.97389,
    "lng": 116.20366,
-   "wd": "Q136653239"
+   "wd": "Q136653239",
+   "aliases": [
+    "Mari Mari Cultural Village"
+   ]
   },
   {
-   "name": "Karamunsing Complex",
+   "name": "카라문싱 콤플렉스",
    "cat": "쇼핑",
    "area": "코타키나발루",
    "lat": 5.97056,
    "lng": 116.075,
-   "wd": "Q28219539"
+   "wd": "Q28219539",
+   "aliases": [
+    "Karamunsing Complex"
+   ]
   },
   {
-   "name": "Grand Merdeka",
+   "name": "그랜드 므르데카",
    "cat": "관광",
    "area": "사바주",
    "lat": 6.06056,
    "lng": 116.17944,
-   "wd": "Q28219592"
+   "wd": "Q28219592",
+   "aliases": [
+    "Grand Merdeka"
+   ]
   },
   {
-   "name": "Kota Kinabalu Convention City",
-   "cat": "관광",
-   "area": "사바주",
-   "lat": 5.99472,
-   "lng": 116.08278,
-   "wd": "Q28219608"
-  },
-  {
-   "name": "Che Sui Khor Moral Uplifting Society",
+   "name": "제수이커 덕교회",
    "cat": "관광",
    "area": "코타키나발루",
    "lat": 5.97217,
    "lng": 116.08275,
-   "wd": "Q101786935"
+   "wd": "Q101786935",
+   "aliases": [
+    "Che Sui Khor Moral Uplifting Society"
+   ]
   },
   {
-   "name": "Gurudwara Sahib Kota Kinabalu",
+   "name": "코타키나발루 구루드와라",
    "cat": "관광",
    "area": "코타키나발루",
    "lat": 5.95674,
    "lng": 116.06549,
-   "wd": "Q14545681"
+   "wd": "Q14545681",
+   "aliases": [
+    "Gurudwara Sahib Kota Kinabalu"
+   ]
   },
   {
-   "name": "Sabah State Administrative Centre",
-   "cat": "관광",
-   "area": "코타키나발루",
-   "lat": 6.015,
-   "lng": 116.11083,
-   "wd": "Q16964907"
-  },
-  {
-   "name": "Centre Point",
+   "name": "센터포인트",
    "cat": "쇼핑",
    "area": "코타키나발루",
    "lat": 5.97806,
    "lng": 116.07167,
-   "wd": "Q28219533"
+   "wd": "Q28219533",
+   "aliases": [
+    "Centre Point"
+   ]
   },
   {
    "name": "탄중아루 해변",
@@ -368,68 +399,92 @@
    "wd": "Q877363"
   },
   {
-   "name": "Centre Point Sabah",
+   "name": "센터포인트 사바",
    "cat": "쇼핑",
    "area": "",
    "lat": 5.97806,
    "lng": 116.07167,
-   "wd": "Q65091640"
+   "wd": "Q65091640",
+   "aliases": [
+    "Centre Point Sabah"
+   ]
   },
   {
-   "name": "Oceanus Waterfront Mall",
+   "name": "오셔너스 워터프런트 몰",
    "cat": "쇼핑",
    "area": "코타키나발루",
    "lat": 5.97694,
    "lng": 116.06861,
-   "wd": "Q28219551"
+   "wd": "Q28219551",
+   "aliases": [
+    "Oceanus Waterfront Mall"
+   ]
   },
   {
-   "name": "Warisan Square Kota Kinabalu",
+   "name": "와리산 스퀘어",
    "cat": "쇼핑",
    "area": "코타키나발루",
    "lat": 5.97861,
    "lng": 116.07083,
-   "wd": "Q42404836"
+   "wd": "Q42404836",
+   "aliases": [
+    "Warisan Square Kota Kinabalu"
+   ]
   },
   {
-   "name": "Sabah Hakka Complex",
+   "name": "사바 객가회관",
    "cat": "관광",
    "area": "코타키나발루",
    "lat": 5.99475,
    "lng": 116.08836,
-   "wd": "Q85847112"
+   "wd": "Q85847112",
+   "aliases": [
+    "Sabah Hakka Complex"
+   ]
   },
   {
-   "name": "Warriors' Mausoleum",
+   "name": "용사 묘역",
    "cat": "관광",
    "area": "사바주",
    "lat": 5.96012,
    "lng": 116.06666,
-   "wd": "Q112275646"
+   "wd": "Q112275646",
+   "aliases": [
+    "Warriors' Mausoleum"
+   ]
   },
   {
-   "name": "Hongkod Koisaan",
+   "name": "홍꼿 꼬이산 문화마을",
    "cat": "관광",
    "area": "Penampang District",
    "lat": 5.92324,
    "lng": 116.09025,
-   "wd": "Q126282176"
+   "wd": "Q126282176",
+   "aliases": [
+    "Hongkod Koisaan"
+   ]
   },
   {
-   "name": "Mega Long Mall",
+   "name": "메가 롱 몰",
    "cat": "쇼핑",
    "area": "",
    "lat": 5.9125,
    "lng": 116.10361,
-   "wd": "Q28219548"
+   "wd": "Q28219548",
+   "aliases": [
+    "Mega Long Mall"
+   ]
   },
   {
-   "name": "Likas Beach",
+   "name": "리카스 비치",
    "cat": "관광",
    "area": "",
    "lat": 5.99461,
    "lng": 116.10339,
-   "wd": "Q33327291"
+   "wd": "Q33327291",
+   "aliases": [
+    "Likas Beach"
+   ]
   }
  ]
 }

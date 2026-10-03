@@ -3,20 +3,26 @@
  "builtAt": "2026-10-03",
  "picks": [
   {
-   "name": "Fort San Pedro",
+   "name": "산페드로 요새",
    "cat": "관광",
    "area": "세부",
    "lat": 10.29253,
    "lng": 123.90586,
-   "wd": "Q1472845"
+   "wd": "Q1472845",
+   "aliases": [
+    "Fort San Pedro"
+   ]
   },
   {
-   "name": "Cebu Metropolitan Cathedral",
+   "name": "세부 메트로폴리탄 대성당",
    "cat": "관광",
    "area": "세부",
    "lat": 10.29581,
    "lng": 123.90287,
-   "wd": "Q2692999"
+   "wd": "Q2692999",
+   "aliases": [
+    "Cebu Metropolitan Cathedral"
+   ]
   },
   {
    "name": "마젤란의 십자가",
@@ -30,12 +36,15 @@
    "wd": "Q772656"
   },
   {
-   "name": "Marcelo Fernan Bridge",
+   "name": "마르셀로 페르난 대교",
    "cat": "관광",
    "area": "",
    "lat": 10.32656,
    "lng": 123.9665,
-   "wd": "Q2692495"
+   "wd": "Q2692495",
+   "aliases": [
+    "Marcelo Fernan Bridge"
+   ]
   },
   {
    "name": "도교 사원",
@@ -49,244 +58,312 @@
    "wd": "Q1869800"
   },
   {
-   "name": "Museo Sugbo",
+   "name": "세부 박물관(무세오 수그보)",
    "cat": "관광",
    "area": "세부",
    "lat": 10.30361,
    "lng": 123.90639,
-   "wd": "Q2110972"
+   "wd": "Q2110972",
+   "aliases": [
+    "Museo Sugbo"
+   ]
   },
   {
-   "name": "Cebu City Philippines Temple",
+   "name": "세부 필리핀 성전",
    "cat": "관광",
    "area": "세부",
    "lat": 10.32923,
    "lng": 123.89927,
-   "wd": "Q5055803"
+   "wd": "Q5055803",
+   "aliases": [
+    "Cebu City Philippines Temple"
+   ]
   },
   {
-   "name": "Cebu–Cordova Link Expressway",
-   "cat": "관광",
-   "area": "세부주",
-   "lat": 10.28168,
-   "lng": 123.90434,
-   "wd": "Q30594240"
-  },
-  {
-   "name": "Mactan-Mandaue Bridge",
+   "name": "막탄-만다웨 대교",
    "cat": "관광",
    "area": "",
    "lat": 10.31983,
    "lng": 123.95564,
-   "wd": "Q130245"
+   "wd": "Q130245",
+   "aliases": [
+    "Mactan-Mandaue Bridge"
+   ]
   },
   {
-   "name": "SM City Cebu",
+   "name": "SM 시티 세부",
    "cat": "쇼핑",
    "area": "세부",
    "lat": 10.31111,
    "lng": 123.91806,
-   "wd": "Q3198873"
+   "wd": "Q3198873",
+   "aliases": [
+    "SM City Cebu"
+   ]
   },
   {
-   "name": "Carbon Market",
+   "name": "카본 마켓",
    "cat": "쇼핑",
    "area": "세부",
    "lat": 10.29139,
    "lng": 123.89889,
-   "wd": "Q5037917"
+   "wd": "Q5037917",
+   "aliases": [
+    "Carbon Market"
+   ]
   },
   {
-   "name": "Magellan Monument",
+   "name": "마젤란 기념비",
    "cat": "관광",
    "area": "Mactan",
    "lat": 10.31083,
    "lng": 124.01528,
-   "wd": "Q84046"
+   "wd": "Q84046",
+   "aliases": [
+    "Magellan Monument"
+   ]
   },
   {
-   "name": "Bagacay Point Lighthouse",
+   "name": "바가카이 포인트 등대",
    "cat": "관광",
    "area": "",
    "lat": 10.38317,
    "lng": 124.01856,
-   "wd": "Q107316436"
+   "wd": "Q107316436",
+   "aliases": [
+    "Bagacay Point Lighthouse"
+   ]
   },
   {
-   "name": "Lapulapu Monument",
+   "name": "라푸라푸 기념비",
    "cat": "관광",
    "area": "Mactan",
    "lat": 10.31106,
    "lng": 124.01524,
-   "wd": "Q11983227"
+   "wd": "Q11983227",
+   "aliases": [
+    "Lapulapu Monument"
+   ]
   },
   {
-   "name": "Rizal Memorial Library and Museum",
+   "name": "리살 기념 도서관·박물관",
    "cat": "관광",
    "area": "",
    "lat": 10.31229,
    "lng": 123.89202,
-   "wd": "Q65068930"
+   "wd": "Q65068930",
+   "aliases": [
+    "Rizal Memorial Library and Museum"
+   ]
   },
   {
-   "name": "Cathedral Museum of Cebu",
+   "name": "세부 대성당 박물관",
    "cat": "관광",
    "area": "",
    "lat": 10.29606,
    "lng": 123.90344,
-   "wd": "Q5052254"
+   "wd": "Q5052254",
+   "aliases": [
+    "Cathedral Museum of Cebu"
+   ]
   },
   {
-   "name": "SM Seaside City",
+   "name": "SM 시사이드 시티",
    "cat": "쇼핑",
    "area": "",
    "lat": 10.28039,
    "lng": 123.88183,
-   "wd": "Q7391504"
+   "wd": "Q7391504",
+   "aliases": [
+    "SM Seaside City"
+   ]
   },
   {
-   "name": "Plaza Independencia",
+   "name": "독립 광장",
    "cat": "관광",
    "area": "세부",
    "lat": 10.29306,
    "lng": 123.90472,
-   "wd": "Q56062211"
+   "wd": "Q56062211",
+   "aliases": [
+    "Plaza Independencia"
+   ]
   },
   {
-   "name": "Ayala Center Cebu",
+   "name": "아얄라 센터 세부",
    "cat": "쇼핑",
    "area": "세부",
    "lat": 10.31778,
    "lng": 123.905,
-   "wd": "Q4830868"
+   "wd": "Q4830868",
+   "aliases": [
+    "Ayala Center Cebu"
+   ]
   },
   {
-   "name": "Cebu Business Park",
-   "cat": "관광",
-   "area": "세부",
-   "lat": 10.31583,
-   "lng": 123.91139,
-   "wd": "Q5055796"
-  },
-  {
-   "name": "Matilda L. Bradford Memorial Church",
+   "name": "마틸다 브래드포드 기념교회",
    "cat": "관광",
    "area": "세부",
    "lat": 10.30585,
    "lng": 123.89511,
-   "wd": "Q46866266"
+   "wd": "Q46866266",
+   "aliases": [
+    "Matilda L. Bradford Memorial Church"
+   ]
   },
   {
-   "name": "Crocolandia Foundation",
+   "name": "크로콜란디아",
    "cat": "관광",
    "area": "탈리사이",
    "lat": 10.24672,
    "lng": 123.83383,
-   "wd": "Q5187417"
+   "wd": "Q5187417",
+   "aliases": [
+    "Crocolandia Foundation"
+   ]
   },
   {
-   "name": "Liberty Shrine",
+   "name": "자유의 성지(라푸라푸 성지)",
    "cat": "관광",
    "area": "Mactan",
    "lat": 10.31096,
    "lng": 124.01527,
-   "wd": "Q46509377"
+   "wd": "Q46509377",
+   "aliases": [
+    "Liberty Shrine"
+   ]
   },
   {
-   "name": "Archdiocesan Shrine of Santa Teresa de Avila",
+   "name": "산타 테레사 데 아빌라 성지",
    "cat": "관광",
    "area": "탈리사이",
    "lat": 10.244,
    "lng": 123.84786,
-   "wd": "Q65045031"
+   "wd": "Q65045031",
+   "aliases": [
+    "Archdiocesan Shrine of Santa Teresa de Avila"
+   ]
   },
   {
-   "name": "SM City Consolacion",
+   "name": "SM 시티 콘솔라시온",
    "cat": "쇼핑",
    "area": "",
    "lat": 10.38383,
    "lng": 123.96418,
-   "wd": "Q7391461"
+   "wd": "Q7391461",
+   "aliases": [
+    "SM City Consolacion"
+   ]
   },
   {
-   "name": "Anjo World",
+   "name": "안조 월드",
    "cat": "관광",
    "area": "",
    "lat": 10.24932,
    "lng": 123.80007,
-   "wd": "Q65079922"
+   "wd": "Q65079922",
+   "aliases": [
+    "Anjo World"
+   ]
   },
   {
-   "name": "Yap-San Diego House",
+   "name": "얍-산디에고 고택",
    "cat": "관광",
    "area": "",
    "lat": 10.29927,
    "lng": 123.90394,
-   "wd": "Q137776754"
+   "wd": "Q137776754",
+   "aliases": [
+    "Yap-San Diego House"
+   ]
   },
   {
-   "name": "Compania Maritima",
+   "name": "콤파니아 마리티마 유적",
    "cat": "관광",
    "area": "세부",
    "lat": 10.2915,
    "lng": 123.90224,
-   "wd": "Q65069703"
+   "wd": "Q65069703",
+   "aliases": [
+    "Compania Maritima"
+   ]
   },
   {
-   "name": "Ayala Malls Central Bloc",
+   "name": "아얄라 몰 센트럴 블록",
    "cat": "쇼핑",
    "area": "세부",
    "lat": 10.33056,
    "lng": 123.90722,
-   "wd": "Q85744451"
+   "wd": "Q85744451",
+   "aliases": [
+    "Ayala Malls Central Bloc"
+   ]
   },
   {
-   "name": "Gaisano Mall of Cebu",
+   "name": "가이사노 몰",
    "cat": "쇼핑",
    "area": "세부",
    "lat": 10.30863,
    "lng": 123.91185,
-   "wd": "Q115725969"
+   "wd": "Q115725969",
+   "aliases": [
+    "Gaisano Mall of Cebu"
+   ]
   },
   {
-   "name": "Plaza Sugbu",
+   "name": "플라자 수그부",
    "cat": "관광",
    "area": "San Roque",
    "lat": 10.29342,
    "lng": 123.90188,
-   "wd": "Q106491731"
+   "wd": "Q106491731",
+   "aliases": [
+    "Plaza Sugbu"
+   ]
   },
   {
-   "name": "Mandaue Church",
+   "name": "만다웨 성당",
    "cat": "관광",
    "area": "만다우에",
    "lat": 10.32722,
    "lng": 123.94222,
-   "wd": "Q39055340"
+   "wd": "Q39055340",
+   "aliases": [
+    "Mandaue Church"
+   ]
   },
   {
-   "name": "Parkmall",
+   "name": "파크몰",
    "cat": "쇼핑",
    "area": "만다우에",
    "lat": 10.32527,
    "lng": 123.9347,
-   "wd": "Q105811750"
+   "wd": "Q105811750",
+   "aliases": [
+    "Parkmall"
+   ]
   },
   {
-   "name": "SM J Mall",
+   "name": "SM J 몰",
    "cat": "쇼핑",
    "area": "만다우에",
    "lat": 10.33517,
    "lng": 123.93384,
-   "wd": "Q130639566"
+   "wd": "Q130639566",
+   "aliases": [
+    "SM J Mall"
+   ]
   },
   {
-   "name": "Muelle Osmeña Lighthouse",
+   "name": "무엘레 오스메냐 등대",
    "cat": "관광",
    "area": "세부주",
    "lat": 10.31353,
    "lng": 123.948,
-   "wd": "Q47485994"
+   "wd": "Q47485994",
+   "aliases": [
+    "Muelle Osmeña Lighthouse"
+   ]
   },
   {
    "name": "산 카를로스 대학 박물관",
@@ -300,140 +377,158 @@
    "wd": "Q7896231"
   },
   {
-   "name": "Horizons 101",
-   "cat": "관광",
-   "area": "",
-   "lat": 10.31054,
-   "lng": 123.89744,
-   "wd": "Q28449356"
-  },
-  {
-   "name": "Robinsons Galleria Cebu",
+   "name": "로빈슨 갤러리아 세부",
    "cat": "쇼핑",
    "area": "",
    "lat": 10.30451,
    "lng": 123.91121,
-   "wd": "Q28859359"
+   "wd": "Q28859359",
+   "aliases": [
+    "Robinsons Galleria Cebu"
+   ]
   },
   {
-   "name": "CityMall Bacalso",
+   "name": "시티몰 바칼소",
    "cat": "쇼핑",
    "area": "",
    "lat": 10.29806,
    "lng": 123.89444,
-   "wd": "Q69882650"
+   "wd": "Q69882650",
+   "aliases": [
+    "CityMall Bacalso"
+   ]
   },
   {
-   "name": "Elizabeth Mall Cebu",
+   "name": "엘리자베스 몰",
    "cat": "쇼핑",
    "area": "",
    "lat": 10.29806,
    "lng": 123.89528,
-   "wd": "Q85758998"
+   "wd": "Q85758998",
+   "aliases": [
+    "Elizabeth Mall Cebu"
+   ]
   },
   {
-   "name": "Cansaga Bay Bridge",
+   "name": "칸사가 만 대교",
    "cat": "관광",
    "area": "",
    "lat": 10.3495,
    "lng": 123.9685,
-   "wd": "Q104867934"
+   "wd": "Q104867934",
+   "aliases": [
+    "Cansaga Bay Bridge"
+   ]
   },
   {
-   "name": "Temple of Leah",
+   "name": "레아 신전",
    "cat": "관광",
    "area": "",
    "lat": 10.36891,
    "lng": 123.87334,
-   "wd": "Q141580856"
+   "wd": "Q141580856",
+   "aliases": [
+    "Temple of Leah"
+   ]
   },
   {
-   "name": "Mactan Island Aquarium",
+   "name": "막탄 섬 수족관",
    "cat": "관광",
    "area": "",
    "lat": 10.28528,
    "lng": 123.99694,
-   "wd": "Q28820"
+   "wd": "Q28820",
+   "aliases": [
+    "Mactan Island Aquarium"
+   ]
   },
   {
-   "name": "Lauis Ledge Lighthouse",
+   "name": "라우이스 레지 등대",
    "cat": "관광",
    "area": "세부",
    "lat": 10.235,
    "lng": 123.89167,
-   "wd": "Q31809283"
+   "wd": "Q31809283",
+   "aliases": [
+    "Lauis Ledge Lighthouse"
+   ]
   },
   {
-   "name": "Cebu Ocean Park",
+   "name": "세부 오션파크",
    "cat": "관광",
    "area": "세부",
    "lat": 10.28105,
    "lng": 123.87834,
-   "wd": "Q85751065"
+   "wd": "Q85751065",
+   "aliases": [
+    "Cebu Ocean Park"
+   ]
   },
   {
-   "name": "Nustar Resort and Casino",
+   "name": "누스타 리조트 카지노",
    "cat": "쇼핑",
    "area": "세부",
    "lat": 10.27123,
    "lng": 123.88096,
-   "wd": "Q85770127"
+   "wd": "Q85770127",
+   "aliases": [
+    "Nustar Resort and Casino"
+   ]
   },
   {
-   "name": "Bantolinao Point Lighthouse",
+   "name": "반톨리나오 포인트 등대",
    "cat": "관광",
    "area": "라푸라푸시",
    "lat": 10.335,
    "lng": 123.98667,
-   "wd": "Q31832362"
+   "wd": "Q31832362",
+   "aliases": [
+    "Bantolinao Point Lighthouse"
+   ]
   },
   {
-   "name": "Mandaue Presidencia",
+   "name": "만다웨 시청사",
    "cat": "관광",
    "area": "만다우에",
    "lat": 10.32747,
    "lng": 123.9431,
-   "wd": "Q6747916"
+   "wd": "Q6747916",
+   "aliases": [
+    "Mandaue Presidencia"
+   ]
   },
   {
-   "name": "Central Cebu National Park",
+   "name": "중앙 세부 국립공원",
    "cat": "관광",
    "area": "세부주",
    "lat": 10.44139,
    "lng": 123.75972,
-   "wd": "Q31540471"
+   "wd": "Q31540471",
+   "aliases": [
+    "Central Cebu National Park"
+   ]
   },
   {
-   "name": "Crown Regency Hotel and Towers",
-   "cat": "관광",
-   "area": "",
-   "lat": 10.30803,
-   "lng": 123.89398,
-   "wd": "Q5189458"
-  },
-  {
-   "name": "International Eucharistic Congress Pavilion",
+   "name": "성체대회 기념관",
    "cat": "관광",
    "area": "",
    "lat": 10.32167,
    "lng": 123.90833,
-   "wd": "Q22678092"
+   "wd": "Q22678092",
+   "aliases": [
+    "International Eucharistic Congress Pavilion"
+   ]
   },
   {
-   "name": "Senior Citizens' Park Chapel",
+   "name": "시니어 시티즌 공원 예배당",
    "cat": "관광",
    "area": "",
    "lat": 10.29209,
    "lng": 123.90155,
-   "wd": "Q115813464"
-  },
-  {
-   "name": "Mactan–Mandaue Bridge",
-   "cat": "관광",
-   "area": "",
-   "lat": 10.31983,
-   "lng": 123.95564,
-   "wd": "Q137838319"
+   "wd": "Q115813464",
+   "aliases": [
+    "Senior Citizens' Park Chapel"
+   ]
   }
  ]
 }

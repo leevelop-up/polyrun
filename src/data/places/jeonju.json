@@ -3,12 +3,15 @@
  "builtAt": "2026-10-03",
  "picks": [
   {
-   "name": "Jeonju Abu Bakr Al-Seddiq Mosque",
+   "name": "전주 아부바크르 모스크",
    "cat": "관광",
    "area": "전주시",
    "lat": 35.84914,
    "lng": 127.15039,
-   "wd": "Q20425104"
+   "wd": "Q20425104",
+   "aliases": [
+    "Jeonju Abu Bakr Al-Seddiq Mosque"
+   ]
   },
   {
    "name": "동고산성",

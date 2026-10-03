@@ -14,28 +14,37 @@
    "wd": "Q515253"
   },
   {
-   "name": "Sanur Beach",
+   "name": "사누르 비치",
    "cat": "관광",
    "area": "발리주",
    "lat": -8.68333,
    "lng": 115.26667,
-   "wd": "Q1789991"
+   "wd": "Q1789991",
+   "aliases": [
+    "Sanur Beach"
+   ]
   },
   {
-   "name": "Goa Gajah",
+   "name": "고아 가자",
    "cat": "관광",
    "area": "기안일",
    "lat": -8.52339,
    "lng": 115.28633,
-   "wd": "Q2037360"
+   "wd": "Q2037360",
+   "aliases": [
+    "Goa Gajah"
+   ]
   },
   {
-   "name": "Tirta Empul Temple",
+   "name": "띠르따 엠풀 사원",
    "cat": "관광",
    "area": "기안일",
    "lat": -8.41639,
    "lng": 115.315,
-   "wd": "Q7809287"
+   "wd": "Q7809287",
+   "aliases": [
+    "Tirta Empul Temple"
+   ]
   },
   {
    "name": "타만 아윤 사원",
@@ -49,20 +58,26 @@
    "wd": "Q1028566"
   },
   {
-   "name": "Garuda Wisnu Kencana",
+   "name": "가루다 위스누 끈짜나 공원",
    "cat": "관광",
    "area": "바둥군",
    "lat": -8.80981,
    "lng": 115.16805,
-   "wd": "Q1132052"
+   "wd": "Q1132052",
+   "aliases": [
+    "Garuda Wisnu Kencana"
+   ]
   },
   {
-   "name": "Big Vishnu",
+   "name": "비슈누 대형 석상",
    "cat": "관광",
    "area": "Ungasan",
    "lat": -8.8141,
    "lng": 115.16661,
-   "wd": "Q12498977"
+   "wd": "Q12498977",
+   "aliases": [
+    "Big Vishnu"
+   ]
   },
   {
    "name": "우붓 몽키 포레스트",
@@ -87,20 +102,26 @@
    "wd": "Q1992789"
   },
   {
-   "name": "Gunung Kawi",
+   "name": "구눙 카위",
    "cat": "관광",
    "area": "Tampaksiring",
    "lat": -8.42336,
    "lng": 115.31233,
-   "wd": "Q2605109"
+   "wd": "Q2605109",
+   "aliases": [
+    "Gunung Kawi"
+   ]
   },
   {
-   "name": "Pura Kehen",
+   "name": "끄헨 사원",
    "cat": "관광",
    "area": "Bangli",
    "lat": -8.44183,
    "lng": 115.3599,
-   "wd": "Q43389200"
+   "wd": "Q43389200",
+   "aliases": [
+    "Pura Kehen"
+   ]
   },
   {
    "name": "우붓 왕궁",
@@ -114,12 +135,15 @@
    "wd": "Q19646466"
   },
   {
-   "name": "Bajra Sandhi Monument",
+   "name": "바즈라 산디 기념탑",
    "cat": "관광",
    "area": "덴파사르",
    "lat": -8.67167,
    "lng": 115.23389,
-   "wd": "Q4848938"
+   "wd": "Q4848938",
+   "aliases": [
+    "Bajra Sandhi Monument"
+   ]
   },
   {
    "name": "발리 만다라 고속도로",
@@ -133,212 +157,290 @@
    "wd": "Q15071570"
   },
   {
-   "name": "Pura Maospahit",
+   "name": "마오스파힛 사원",
    "cat": "관광",
    "area": "덴파사르",
    "lat": -8.65379,
    "lng": 115.21009,
-   "wd": "Q48730124"
+   "wd": "Q48730124",
+   "aliases": [
+    "Pura Maospahit"
+   ]
   },
   {
-   "name": "Holy Spirit Cathedral",
+   "name": "성령 대성당",
    "cat": "관광",
    "area": "Sumerta Kelod",
    "lat": -8.67402,
    "lng": 115.22985,
-   "wd": "Q19745990"
+   "wd": "Q19745990",
+   "aliases": [
+    "Holy Spirit Cathedral"
+   ]
   },
   {
-   "name": "Pura Dalem Agung Padangtegal",
+   "name": "달름 아궁 빠당뜨갈 사원(몽키 포레스트)",
    "cat": "관광",
    "area": "기안일",
    "lat": -8.51882,
    "lng": 115.25838,
-   "wd": "Q7260781"
+   "wd": "Q7260781",
+   "aliases": [
+    "Pura Dalem Agung Padangtegal"
+   ]
   },
   {
-   "name": "Puri Lukisan Museum",
+   "name": "뿌리 루키산 미술관",
    "cat": "관광",
    "area": "기안일",
    "lat": -8.5051,
    "lng": 115.26028,
-   "wd": "Q7261229"
+   "wd": "Q7261229",
+   "aliases": [
+    "Puri Lukisan Museum"
+   ]
   },
   {
-   "name": "Pura Penataran Sasih",
+   "name": "쁘나따란 사시 사원",
    "cat": "관광",
    "area": "기안일",
    "lat": -8.51377,
    "lng": 115.29347,
-   "wd": "Q19595604"
+   "wd": "Q19595604",
+   "aliases": [
+    "Pura Penataran Sasih"
+   ]
   },
   {
-   "name": "Agung Rai Museum of Art",
+   "name": "아궁 라이 미술관",
    "cat": "관광",
    "area": "기안일",
    "lat": -8.51835,
    "lng": 115.26208,
-   "wd": "Q398622"
+   "wd": "Q398622",
+   "aliases": [
+    "Agung Rai Museum of Art"
+   ]
   },
   {
-   "name": "Neka Art Museum",
+   "name": "네카 미술관",
    "cat": "관광",
    "area": "기안일",
    "lat": -8.48899,
    "lng": 115.25364,
-   "wd": "Q924394"
+   "wd": "Q924394",
+   "aliases": [
+    "Neka Art Museum"
+   ]
   },
   {
-   "name": "Le Mayeur Museum",
+   "name": "르 메이외르 박물관",
    "cat": "관광",
    "area": "덴파사르",
    "lat": -8.67501,
    "lng": 115.26373,
-   "wd": "Q6507227"
+   "wd": "Q6507227",
+   "aliases": [
+    "Le Mayeur Museum"
+   ]
   },
   {
-   "name": "Pura Dalem Sakenan",
+   "name": "달름 사끄난 사원",
    "cat": "관광",
    "area": "세랑안섬",
    "lat": -8.72513,
    "lng": 115.2294,
-   "wd": "Q19752612"
+   "wd": "Q19752612",
+   "aliases": [
+    "Pura Dalem Sakenan"
+   ]
   },
   {
-   "name": "Bali Bird Park",
+   "name": "발리 버드 파크",
    "cat": "관광",
    "area": "",
    "lat": -8.6,
    "lng": 115.251,
-   "wd": "Q16744229"
+   "wd": "Q16744229",
+   "aliases": [
+    "Bali Bird Park"
+   ]
   },
   {
-   "name": "Istana Tampaksiring",
+   "name": "땀빡시링 궁전",
    "cat": "관광",
    "area": "",
    "lat": -8.4156,
    "lng": 115.3124,
-   "wd": "Q19752904"
+   "wd": "Q19752904",
+   "aliases": [
+    "Istana Tampaksiring"
+   ]
   },
   {
-   "name": "Museum Pasifika",
+   "name": "파시피카 박물관",
    "cat": "관광",
    "area": "South Kuta",
    "lat": -8.8,
    "lng": 115.2306,
-   "wd": "Q6940675"
+   "wd": "Q6940675",
+   "aliases": [
+    "Museum Pasifika"
+   ]
   },
   {
-   "name": "Pantai Kuta",
+   "name": "꾸따 비치",
    "cat": "관광",
    "area": "쿠타",
    "lat": -8.72083,
    "lng": 115.16917,
-   "wd": "Q7475907"
+   "wd": "Q7475907",
+   "aliases": [
+    "Pantai Kuta"
+   ]
   },
   {
-   "name": "Blanco Renaissance Museum",
+   "name": "블랑코 르네상스 박물관",
    "cat": "관광",
    "area": "우붓",
    "lat": -8.5058,
    "lng": 115.2543,
-   "wd": "Q4924960"
+   "wd": "Q4924960",
+   "aliases": [
+    "Blanco Renaissance Museum"
+   ]
   },
   {
-   "name": "Pura Taman Saraswati",
+   "name": "따만 사라스와티 사원",
    "cat": "관광",
    "area": "Ubud",
    "lat": -8.50595,
    "lng": 115.26149,
-   "wd": "Q48841813"
+   "wd": "Q48841813",
+   "aliases": [
+    "Pura Taman Saraswati"
+   ]
   },
   {
-   "name": "Museum Rudana",
+   "name": "루다나 박물관",
    "cat": "관광",
    "area": "기안일",
    "lat": -8.52964,
    "lng": 115.27128,
-   "wd": "Q6940689"
+   "wd": "Q6940689",
+   "aliases": [
+    "Museum Rudana"
+   ]
   },
   {
-   "name": "Pura Kebo Edan",
+   "name": "끄보 에단 사원",
    "cat": "관광",
    "area": "기안일",
    "lat": -8.51779,
    "lng": 115.29259,
-   "wd": "Q56391208"
+   "wd": "Q56391208",
+   "aliases": [
+    "Pura Kebo Edan"
+   ]
   },
   {
-   "name": "Taman Safari Bali (Bali Safari)",
+   "name": "발리 사파리",
    "cat": "관광",
    "area": "기안일",
    "lat": -8.581,
    "lng": 115.3441,
-   "wd": "Q4850846"
+   "wd": "Q4850846",
+   "aliases": [
+    "Taman Safari Bali (Bali Safari)"
+   ]
   },
   {
-   "name": "Tegenungan Waterfall",
+   "name": "뜨그눙안 폭포",
    "cat": "관광",
    "area": "기안일",
    "lat": -8.57523,
    "lng": 115.2907,
-   "wd": "Q25462922"
+   "wd": "Q25462922",
+   "aliases": [
+    "Tegenungan Waterfall"
+   ]
   },
   {
-   "name": "Purbakala Archaeological Museum",
+   "name": "고고학 박물관",
    "cat": "관광",
    "area": "기안일",
    "lat": -8.51943,
    "lng": 115.29312,
-   "wd": "Q7260864"
+   "wd": "Q7260864",
+   "aliases": [
+    "Purbakala Archaeological Museum"
+   ]
   },
   {
-   "name": "Pura Petitenget",
+   "name": "쁘띠뜽엣 사원",
    "cat": "관광",
    "area": "바둥군",
    "lat": -8.68184,
    "lng": 115.15243,
-   "wd": "Q56247112"
+   "wd": "Q56247112",
+   "aliases": [
+    "Pura Petitenget"
+   ]
   },
   {
-   "name": "Pantai Seminyak",
+   "name": "스미냑 비치",
    "cat": "관광",
    "area": "발리주",
    "lat": -8.6925,
    "lng": 115.15861,
-   "wd": "Q12502896"
+   "wd": "Q12502896",
+   "aliases": [
+    "Pantai Seminyak"
+   ]
   },
   {
-   "name": "Satya Dharma Temple",
+   "name": "사트야 다르마 사원",
    "cat": "관광",
    "area": "Benoa",
    "lat": -8.72098,
    "lng": 115.21424,
-   "wd": "Q21175556"
+   "wd": "Q21175556",
+   "aliases": [
+    "Satya Dharma Temple"
+   ]
   },
   {
-   "name": "Sangeh",
+   "name": "상에 원숭이숲",
    "cat": "관광",
    "area": "바둥군",
    "lat": -8.4817,
    "lng": 115.2068,
-   "wd": "Q13096785"
+   "wd": "Q13096785",
+   "aliases": [
+    "Sangeh"
+   ]
   },
   {
-   "name": "Mengening Temple",
+   "name": "믕으닝 사원",
    "cat": "관광",
    "area": "기안일",
    "lat": -8.42002,
    "lng": 115.31203,
-   "wd": "Q66582204"
+   "wd": "Q66582204",
+   "aliases": [
+    "Mengening Temple"
+   ]
   },
   {
-   "name": "Taman Pujaan Bangsa Margarana",
+   "name": "마르가라나 영웅기념공원",
    "cat": "관광",
    "area": "발리주",
    "lat": -8.46578,
    "lng": 115.16345,
-   "wd": "Q31174050"
+   "wd": "Q31174050",
+   "aliases": [
+    "Taman Pujaan Bangsa Margarana"
+   ]
   }
  ]
 }

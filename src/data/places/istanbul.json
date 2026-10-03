@@ -186,12 +186,15 @@
    "wd": "Q736676"
   },
   {
-   "name": "Fatih Istanbul Mosque",
+   "name": "파티흐 모스크",
    "cat": "관광",
    "area": "파티흐",
    "lat": 41.01972,
    "lng": 28.94972,
-   "wd": "Q756189"
+   "wd": "Q756189",
+   "aliases": [
+    "Fatih Istanbul Mosque"
+   ]
   },
   {
    "name": "뷔윅 메지디예 모스크",
@@ -227,12 +230,15 @@
    "wd": "Q636978"
   },
   {
-   "name": "Rumeli Hisarı",
+   "name": "루멜리 히사르",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.08472,
    "lng": 29.05611,
-   "wd": "Q90801"
+   "wd": "Q90801",
+   "aliases": [
+    "Rumeli Hisarı"
+   ]
   },
   {
    "name": "소콜루 메흐메트 파샤 모스크",
@@ -312,12 +318,15 @@
    "wd": "Q1551419"
   },
   {
-   "name": "Anadoluhisarı",
+   "name": "아나돌루 히사르",
    "cat": "관광",
    "area": "Beykoz",
    "lat": 41.08214,
    "lng": 29.06703,
-   "wd": "Q81650"
+   "wd": "Q81650",
+   "aliases": [
+    "Anadoluhisarı"
+   ]
   },
   {
    "name": "랄렐리 모스크",
@@ -353,20 +362,26 @@
    "wd": "Q763854"
   },
   {
-   "name": "Mihrimah Edirnekapı Mosque",
+   "name": "미흐리마흐 술탄 모스크(에디르네카프)",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.02917,
    "lng": 28.93583,
-   "wd": "Q1581190"
+   "wd": "Q1581190",
+   "aliases": [
+    "Mihrimah Edirnekapı Mosque"
+   ]
   },
   {
-   "name": "Pammakaristos Church",
+   "name": "팜마카리스토스 교회(페티예 모스크)",
    "cat": "관광",
    "area": "파티흐",
    "lat": 41.02917,
    "lng": 28.94639,
-   "wd": "Q1420984"
+   "wd": "Q1420984",
+   "aliases": [
+    "Pammakaristos Church"
+   ]
   },
   {
    "name": "누루오스마니예 모스크",
@@ -380,28 +395,37 @@
    "wd": "Q1430090"
   },
   {
-   "name": "Church of the Holy Apostles",
+   "name": "성 사도 교회",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.01972,
    "lng": 28.94972,
-   "wd": "Q586568"
+   "wd": "Q586568",
+   "aliases": [
+    "Church of the Holy Apostles"
+   ]
   },
   {
-   "name": "Dolmabahçe Mosque",
+   "name": "돌마바흐체 모스크",
    "cat": "관광",
    "area": "베이욜루",
    "lat": 41.03673,
    "lng": 28.99529,
-   "wd": "Q2086068"
+   "wd": "Q2086068",
+   "aliases": [
+    "Dolmabahçe Mosque"
+   ]
   },
   {
-   "name": "Eyüp Sultan Mosque",
+   "name": "에윕 술탄 모스크",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.04795,
    "lng": 28.93379,
-   "wd": "Q956677"
+   "wd": "Q956677",
+   "aliases": [
+    "Eyüp Sultan Mosque"
+   ]
   },
   {
    "name": "콘스탄티노폴리스 대궁전",
@@ -426,12 +450,15 @@
    "wd": "Q525939"
   },
   {
-   "name": "Çamlıca Mosque",
+   "name": "차믈르자 모스크",
    "cat": "관광",
    "area": "위스퀴다르",
    "lat": 41.0343,
    "lng": 29.0704,
-   "wd": "Q18341384"
+   "wd": "Q18341384",
+   "aliases": [
+    "Çamlıca Mosque"
+   ]
   },
   {
    "name": "부콜레온 궁전",
@@ -456,20 +483,26 @@
    "wd": "Q1560106"
   },
   {
-   "name": "Armenian Patriarchate of Constantinople",
+   "name": "아르메니아 총대주교청",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.00479,
    "lng": 28.96084,
-   "wd": "Q545383"
+   "wd": "Q545383",
+   "aliases": [
+    "Armenian Patriarchate of Constantinople"
+   ]
   },
   {
-   "name": "Kafes",
+   "name": "카페스",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.01379,
    "lng": 28.98355,
-   "wd": "Q1721042"
+   "wd": "Q1721042",
+   "aliases": [
+    "Kafes"
+   ]
   },
   {
    "name": "순수박물관",
@@ -483,44 +516,59 @@
    "wd": "Q15961492"
   },
   {
-   "name": "Bodrum Mosque",
+   "name": "보드룸 모스크",
    "cat": "관광",
    "area": "파티흐",
    "lat": 41.00861,
    "lng": 28.95556,
-   "wd": "Q2305473"
+   "wd": "Q2305473",
+   "aliases": [
+    "Bodrum Mosque"
+   ]
   },
   {
-   "name": "Arab Istanbul Mosque",
+   "name": "아랍 모스크",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.02444,
    "lng": 28.97083,
-   "wd": "Q642478"
+   "wd": "Q642478",
+   "aliases": [
+    "Arab Istanbul Mosque"
+   ]
   },
   {
-   "name": "Eski Imaret Mosque",
+   "name": "에스키 이마레트 모스크",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.02167,
    "lng": 28.955,
-   "wd": "Q2410449"
+   "wd": "Q2410449",
+   "aliases": [
+    "Eski Imaret Mosque"
+   ]
   },
   {
-   "name": "Fenari Isa Mosque",
+   "name": "페나리 이사 모스크",
    "cat": "관광",
    "area": "파티흐",
    "lat": 41.01538,
    "lng": 28.944,
-   "wd": "Q2424612"
+   "wd": "Q2424612",
+   "aliases": [
+    "Fenari Isa Mosque"
+   ]
   },
   {
-   "name": "Yavuz Selim Mosque",
+   "name": "야부즈 셀림 모스크",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.0266,
    "lng": 28.9513,
-   "wd": "Q2565329"
+   "wd": "Q2565329",
+   "aliases": [
+    "Yavuz Selim Mosque"
+   ]
   },
   {
    "name": "탁심 게지 공원",
@@ -534,68 +582,92 @@
    "wd": "Q6048634"
   },
   {
-   "name": "Yeni Üsküdar Mosque",
+   "name": "예니 위스퀴다르 모스크",
    "cat": "관광",
    "area": "위스퀴다르",
    "lat": 41.02479,
    "lng": 29.01511,
-   "wd": "Q2334567"
+   "wd": "Q2334567",
+   "aliases": [
+    "Yeni Üsküdar Mosque"
+   ]
   },
   {
-   "name": "Yıldız Hamidi Mosque",
+   "name": "이을드즈 하미디예 모스크",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.04941,
    "lng": 29.00994,
-   "wd": "Q1573438"
+   "wd": "Q1573438",
+   "aliases": [
+    "Yıldız Hamidi Mosque"
+   ]
   },
   {
-   "name": "Palace of the Porphyrogenitus",
+   "name": "테크푸르 궁전",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.03389,
    "lng": 28.94028,
-   "wd": "Q1472490"
+   "wd": "Q1472490",
+   "aliases": [
+    "Palace of the Porphyrogenitus"
+   ]
   },
   {
-   "name": "Gül Mosque",
+   "name": "귈 모스크",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.02682,
    "lng": 28.95618,
-   "wd": "Q2334536"
+   "wd": "Q2334536",
+   "aliases": [
+    "Gül Mosque"
+   ]
   },
   {
-   "name": "Pertevniyal Mosque",
+   "name": "페르테브니얄 모스크",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.01,
    "lng": 28.95306,
-   "wd": "Q2719785"
+   "wd": "Q2719785",
+   "aliases": [
+    "Pertevniyal Mosque"
+   ]
   },
   {
-   "name": "İstanbul Modern",
+   "name": "이스탄불 현대미술관",
    "cat": "관광",
    "area": "베이욜루",
    "lat": 41.026,
    "lng": 28.98294,
-   "wd": "Q1463961"
+   "wd": "Q1463961",
+   "aliases": [
+    "İstanbul Modern"
+   ]
   },
   {
-   "name": "Kalenderhane Mosque",
+   "name": "칼렌데르하네 모스크",
    "cat": "관광",
    "area": "파티흐",
    "lat": 41.01313,
    "lng": 28.9603,
-   "wd": "Q1758501"
+   "wd": "Q1758501",
+   "aliases": [
+    "Kalenderhane Mosque"
+   ]
   },
   {
-   "name": "Sinan Pasha Mosque",
+   "name": "시난 파샤 모스크",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.04234,
    "lng": 29.00624,
-   "wd": "Q1572395"
+   "wd": "Q1572395",
+   "aliases": [
+    "Sinan Pasha Mosque"
+   ]
   },
   {
    "name": "블라케르나이 궁전",
@@ -609,12 +681,15 @@
    "wd": "Q879941"
   },
   {
-   "name": "Çiçek Pasajı",
+   "name": "치첵 파사주",
    "cat": "쇼핑",
    "area": "이스탄불",
    "lat": 41.03394,
    "lng": 28.97792,
-   "wd": "Q595289"
+   "wd": "Q595289",
+   "aliases": [
+    "Çiçek Pasajı"
+   ]
   },
   {
    "name": "콘스탄틴 오벨리스크",
@@ -628,116 +703,158 @@
    "wd": "Q742474"
   },
   {
-   "name": "Hirami Ahmed Pasha Mosque",
+   "name": "히라미 아흐메드 파샤 모스크",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.02786,
    "lng": 28.94579,
-   "wd": "Q1572506"
+   "wd": "Q1572506",
+   "aliases": [
+    "Hirami Ahmed Pasha Mosque"
+   ]
   },
   {
-   "name": "Pera Museum",
+   "name": "페라 박물관",
    "cat": "관광",
    "area": "베이욜루",
    "lat": 41.03181,
    "lng": 28.97519,
-   "wd": "Q1662392"
+   "wd": "Q1662392",
+   "aliases": [
+    "Pera Museum"
+   ]
   },
   {
-   "name": "Mihrimah Üsküdar Mosque",
+   "name": "미흐리마흐 술탄 모스크(위스퀴다르)",
    "cat": "관광",
    "area": "위스퀴다르",
    "lat": 41.02679,
    "lng": 29.01598,
-   "wd": "Q2537376"
+   "wd": "Q2537376",
+   "aliases": [
+    "Mihrimah Üsküdar Mosque"
+   ]
   },
   {
-   "name": "Koça Mustafa Pasha Mosque",
+   "name": "코자 무스타파 파샤 모스크",
    "cat": "관광",
    "area": "파티흐",
    "lat": 41.0034,
    "lng": 28.9286,
-   "wd": "Q608787"
+   "wd": "Q608787",
+   "aliases": [
+    "Koça Mustafa Pasha Mosque"
+   ]
   },
   {
-   "name": "Kılıç Ali Pasha Mosque",
+   "name": "클르치 알리 파샤 모스크",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.02637,
    "lng": 28.98093,
-   "wd": "Q862848"
+   "wd": "Q862848",
+   "aliases": [
+    "Kılıç Ali Pasha Mosque"
+   ]
   },
   {
-   "name": "The Stone of Million",
+   "name": "밀리온 이정표",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.00804,
    "lng": 28.97807,
-   "wd": "Q1187329"
+   "wd": "Q1187329",
+   "aliases": [
+    "The Stone of Million"
+   ]
   },
   {
-   "name": "Forum of Constantine",
+   "name": "콘스탄티누스 광장(체벌리타쉬)",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.009,
    "lng": 28.971,
-   "wd": "Q1231380"
+   "wd": "Q1231380",
+   "aliases": [
+    "Forum of Constantine"
+   ]
   },
   {
-   "name": "Miniatürk",
+   "name": "미니아튀르크",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.06,
    "lng": 28.94861,
-   "wd": "Q1085952"
+   "wd": "Q1085952",
+   "aliases": [
+    "Miniatürk"
+   ]
   },
   {
-   "name": "Sancaktar Hayrettin Mosque",
+   "name": "산자크타르 하이레틴 모스크",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.00275,
    "lng": 28.93467,
-   "wd": "Q514563"
+   "wd": "Q514563",
+   "aliases": [
+    "Sancaktar Hayrettin Mosque"
+   ]
   },
   {
-   "name": "Republic Monument",
+   "name": "공화국 기념비",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.03694,
    "lng": 28.985,
-   "wd": "Q1143790"
+   "wd": "Q1143790",
+   "aliases": [
+    "Republic Monument"
+   ]
   },
   {
-   "name": "Zeynep Sultan Mosque",
+   "name": "제이넵 술탄 모스크",
    "cat": "관광",
    "area": "파티흐",
    "lat": 41.01007,
    "lng": 28.97841,
-   "wd": "Q1153320"
+   "wd": "Q1153320",
+   "aliases": [
+    "Zeynep Sultan Mosque"
+   ]
   },
   {
-   "name": "Şakirin Mosque",
+   "name": "샤키린 모스크",
    "cat": "관광",
    "area": "위스퀴다르",
    "lat": 41.0131,
    "lng": 29.0244,
-   "wd": "Q2705343"
+   "wd": "Q2705343",
+   "aliases": [
+    "Şakirin Mosque"
+   ]
   },
   {
-   "name": "Cathedral of the Holy Spirit",
+   "name": "성령 대성당",
    "cat": "관광",
    "area": "Şişli",
    "lat": 41.0447,
    "lng": 28.9857,
-   "wd": "Q79154"
+   "wd": "Q79154",
+   "aliases": [
+    "Cathedral of the Holy Spirit"
+   ]
   },
   {
-   "name": "Zal Mahmud Pasha Mosque",
+   "name": "잘 마흐무트 파샤 모스크",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.04478,
    "lng": 28.93582,
-   "wd": "Q1572457"
+   "wd": "Q1572457",
+   "aliases": [
+    "Zal Mahmud Pasha Mosque"
+   ]
   },
   {
    "name": "퀴취크수 궁전",
@@ -751,12 +868,15 @@
    "wd": "Q1755906"
   },
   {
-   "name": "Nusretiye Mosque",
+   "name": "누스레티예 모스크",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.02733,
    "lng": 28.98316,
-   "wd": "Q614237"
+   "wd": "Q614237",
+   "aliases": [
+    "Nusretiye Mosque"
+   ]
   },
   {
    "name": "유스티니아누스의 기둥",
@@ -770,12 +890,15 @@
    "wd": "Q1231440"
   },
   {
-   "name": "Gazi Atik Ali Pasha Mosque",
+   "name": "가지 아틱 알리 파샤 모스크",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.00872,
    "lng": 28.97055,
-   "wd": "Q1572481"
+   "wd": "Q1572481",
+   "aliases": [
+    "Gazi Atik Ali Pasha Mosque"
+   ]
   },
   {
    "name": "바예지드 타워",
@@ -789,12 +912,15 @@
    "wd": "Q853029"
   },
   {
-   "name": "Molla Gürani Mosque",
+   "name": "몰라 귀라니 모스크",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.01628,
    "lng": 28.9603,
-   "wd": "Q246275"
+   "wd": "Q246275",
+   "aliases": [
+    "Molla Gürani Mosque"
+   ]
   },
   {
    "name": "네아 에클레시아",
@@ -808,116 +934,158 @@
    "wd": "Q3119702"
   },
   {
-   "name": "Firuz Ağa Mosque",
+   "name": "피루즈 아아 모스크",
    "cat": "관광",
    "area": "파티흐",
    "lat": 41.00771,
    "lng": 28.97629,
-   "wd": "Q2565317"
+   "wd": "Q2565317",
+   "aliases": [
+    "Firuz Ağa Mosque"
+   ]
   },
   {
-   "name": "Yıldız Park",
+   "name": "이을드즈 공원",
    "cat": "관광",
    "area": "베식타시",
    "lat": 41.04833,
    "lng": 29.01556,
-   "wd": "Q1818005"
+   "wd": "Q1818005",
+   "aliases": [
+    "Yıldız Park"
+   ]
   },
   {
-   "name": "Atik Mustafa Pasha Mosque",
+   "name": "아틱 무스타파 파샤 모스크",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.0386,
    "lng": 28.944,
-   "wd": "Q2706762"
+   "wd": "Q2706762",
+   "aliases": [
+    "Atik Mustafa Pasha Mosque"
+   ]
   },
   {
-   "name": "Church of St. Mary of the Spring",
+   "name": "생명의 샘 성모 교회",
    "cat": "관광",
    "area": "Zeytinburnu",
    "lat": 41.0065,
    "lng": 28.9157,
-   "wd": "Q3020134"
+   "wd": "Q3020134",
+   "aliases": [
+    "Church of St. Mary of the Spring"
+   ]
   },
   {
-   "name": "Şemsi Pasha Mosque",
+   "name": "솀시 파샤 모스크",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.02594,
    "lng": 29.01137,
-   "wd": "Q1572431"
+   "wd": "Q1572431",
+   "aliases": [
+    "Şemsi Pasha Mosque"
+   ]
   },
   {
-   "name": "Phanar Greek Orthodox College",
+   "name": "파나르 그리스 정교회 학교",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.02921,
    "lng": 28.94936,
-   "wd": "Q3555000"
+   "wd": "Q3555000",
+   "aliases": [
+    "Phanar Greek Orthodox College"
+   ]
   },
   {
-   "name": "Taksim Mosque",
+   "name": "탁심 모스크",
    "cat": "관광",
    "area": "베이욜루",
    "lat": 41.037,
    "lng": 28.98411,
-   "wd": "Q31190329"
+   "wd": "Q31190329",
+   "aliases": [
+    "Taksim Mosque"
+   ]
   },
   {
-   "name": "Tiled Kiosk",
+   "name": "타일 별궁(치닐리 쾨쉬크)",
    "cat": "관광",
    "area": "이스탄불주",
    "lat": 41.01203,
    "lng": 28.9812,
-   "wd": "Q3294735"
+   "wd": "Q3294735",
+   "aliases": [
+    "Tiled Kiosk"
+   ]
   },
   {
-   "name": "Bulgarian St. Stephen Church",
+   "name": "불가리아 성 스테판 교회",
    "cat": "관광",
    "area": "파티흐",
    "lat": 41.03181,
    "lng": 28.94969,
-   "wd": "Q2094950"
+   "wd": "Q2094950",
+   "aliases": [
+    "Bulgarian St. Stephen Church"
+   ]
   },
   {
-   "name": "Church of St. Mary of the Mongols",
+   "name": "몽골의 성모 교회",
    "cat": "관광",
    "area": "Fener",
    "lat": 41.02972,
    "lng": 28.94889,
-   "wd": "Q1950180"
+   "wd": "Q1950180",
+   "aliases": [
+    "Church of St. Mary of the Mongols"
+   ]
   },
   {
-   "name": "Şişli Mosque",
+   "name": "시실리 모스크",
    "cat": "관광",
    "area": "Şişli",
    "lat": 41.06139,
    "lng": 28.98778,
-   "wd": "Q6061170"
+   "wd": "Q6061170",
+   "aliases": [
+    "Şişli Mosque"
+   ]
   },
   {
-   "name": "Sakıp Sabancı Museum",
+   "name": "사크프 사반즈 박물관",
    "cat": "관광",
    "area": "이스탄불주",
    "lat": 41.09912,
    "lng": 29.0537,
-   "wd": "Q3395851"
+   "wd": "Q3395851",
+   "aliases": [
+    "Sakıp Sabancı Museum"
+   ]
   },
   {
-   "name": "Molla Çelebi Mosque",
+   "name": "몰라 첼레비 모스크",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.0321,
    "lng": 28.9906,
-   "wd": "Q2719788"
+   "wd": "Q2719788",
+   "aliases": [
+    "Molla Çelebi Mosque"
+   ]
   },
   {
-   "name": "Golden Horn Metro Bridge",
+   "name": "골든혼 메트로 다리",
    "cat": "관광",
    "area": "이스탄불",
    "lat": 41.0225,
    "lng": 28.96653,
-   "wd": "Q6076527"
+   "wd": "Q6076527",
+   "aliases": [
+    "Golden Horn Metro Bridge"
+   ]
   },
   {
    "name": "터키 유대인 박물관",
@@ -931,12 +1099,15 @@
    "wd": "Q1059699"
   },
   {
-   "name": "Forum of Theodosius",
+   "name": "테오도시우스 광장",
    "cat": "관광",
    "area": "이스탄불주",
    "lat": 41.00972,
    "lng": 28.96361,
-   "wd": "Q1247291"
+   "wd": "Q1247291",
+   "aliases": [
+    "Forum of Theodosius"
+   ]
   }
  ]
 }

@@ -38,20 +38,26 @@
    "wd": "Q1357421"
   },
   {
-   "name": "Tokugawa Art Museum",
+   "name": "도쿠가와 미술관",
    "cat": "관광",
    "area": "Tokugawachō",
    "lat": 35.18369,
    "lng": 136.93319,
-   "wd": "Q3077236"
+   "wd": "Q3077236",
+   "aliases": [
+    "Tokugawa Art Museum"
+   ]
   },
   {
-   "name": "Nagoya Mosque",
+   "name": "나고야 모스크",
    "cat": "관광",
    "area": "나고야시",
    "lat": 35.17742,
    "lng": 136.87114,
-   "wd": "Q11414850"
+   "wd": "Q11414850",
+   "aliases": [
+    "Nagoya Mosque"
+   ]
   },
   {
    "name": "나고야시 미술관",
@@ -65,12 +71,15 @@
    "wd": "Q469573"
   },
   {
-   "name": "Higashiyama Zoo and Botanical Gardens",
+   "name": "히가시야마 동식물원",
    "cat": "관광",
    "area": "지쿠사구",
    "lat": 35.15833,
    "lng": 136.97778,
-   "wd": "Q3295344"
+   "wd": "Q3295344",
+   "aliases": [
+    "Higashiyama Zoo and Botanical Gardens"
+   ]
   },
   {
    "name": "나고야시 과학관",
@@ -95,28 +104,37 @@
    "wd": "Q3594052"
   },
   {
-   "name": "Port of Nagoya Public Aquarium",
+   "name": "나고야항 수족관",
    "cat": "관광",
    "area": "Minato-machi",
    "lat": 35.0906,
    "lng": 136.8782,
-   "wd": "Q7231211"
+   "wd": "Q7231211",
+   "aliases": [
+    "Port of Nagoya Public Aquarium"
+   ]
   },
   {
-   "name": "The Japan Mosque",
+   "name": "재팬 모스크",
    "cat": "관광",
    "area": "쓰시마시",
    "lat": 35.18611,
    "lng": 136.77278,
-   "wd": "Q26964771"
+   "wd": "Q26964771",
+   "aliases": [
+    "The Japan Mosque"
+   ]
   },
   {
-   "name": "Nittai-ji Temple",
+   "name": "닛타이지",
    "cat": "관광",
    "area": "지쿠사구",
    "lat": 35.17167,
    "lng": 136.95528,
-   "wd": "Q3342235"
+   "wd": "Q3342235",
+   "aliases": [
+    "Nittai-ji Temple"
+   ]
   },
   {
    "name": "반쇼지",
@@ -131,52 +149,59 @@
    "wd": "Q608994"
   },
   {
-   "name": "Nunoike Church",
+   "name": "누노이케 교회",
    "cat": "관광",
    "area": "Aoi 1-chōme",
    "lat": 35.17284,
    "lng": 136.92389,
-   "wd": "Q7069906"
+   "wd": "Q7069906",
+   "aliases": [
+    "Nunoike Church"
+   ]
   },
   {
-   "name": "Showa Museum of Art",
+   "name": "쇼와 미술관",
    "cat": "관광",
    "area": "나고야시",
    "lat": 35.14031,
    "lng": 136.94839,
-   "wd": "Q11514132"
+   "wd": "Q11514132",
+   "aliases": [
+    "Showa Museum of Art"
+   ]
   },
   {
-   "name": "Kasadera Kannon Temple",
+   "name": "가사데라 관음",
    "cat": "관광",
    "area": "아이치현",
    "lat": 35.09954,
    "lng": 136.93669,
-   "wd": "Q3193655"
+   "wd": "Q3193655",
+   "aliases": [
+    "Kasadera Kannon Temple"
+   ]
   },
   {
-   "name": "Arako Kannon Temple",
+   "name": "아라코 관음",
    "cat": "관광",
    "area": "나카가와구",
    "lat": 35.13657,
    "lng": 136.85823,
-   "wd": "Q2859467"
+   "wd": "Q2859467",
+   "aliases": [
+    "Arako Kannon Temple"
+   ]
   },
   {
-   "name": "Tōgan-ji Temple",
+   "name": "도간지",
    "cat": "관광",
    "area": "Yotsuya-tōri",
    "lat": 35.1613,
    "lng": 136.965,
-   "wd": "Q3547068"
-  },
-  {
-   "name": "Solae",
-   "cat": "관광",
-   "area": "Hishi-machi",
-   "lat": 35.245,
-   "lng": 136.81931,
-   "wd": "Q7555649"
+   "wd": "Q3547068",
+   "aliases": [
+    "Tōgan-ji Temple"
+   ]
   },
   {
    "name": "도요타 산업기술 기념관",
@@ -202,20 +227,26 @@
    "wd": "Q846681"
   },
   {
-   "name": "Jimoku-ji Temple",
+   "name": "진모쿠지",
    "cat": "관광",
    "area": "아마시",
    "lat": 35.19514,
    "lng": 136.82289,
-   "wd": "Q4160865"
+   "wd": "Q4160865",
+   "aliases": [
+    "Jimoku-ji Temple"
+   ]
   },
   {
-   "name": "Toyokuni Shrine",
+   "name": "도요쿠니 신사",
    "cat": "관광",
    "area": "나카무라구",
    "lat": 35.17425,
    "lng": 136.85454,
-   "wd": "Q11633364"
+   "wd": "Q11633364",
+   "aliases": [
+    "Toyokuni Shrine"
+   ]
   },
   {
    "name": "히사야오도리 공원",
@@ -229,20 +260,26 @@
    "wd": "Q872549"
   },
   {
-   "name": "Money & Ukiyo-e Museum",
+   "name": "화폐·우키요에 박물관",
    "cat": "관광",
    "area": "Nishiki 3-chōme",
    "lat": 35.16934,
    "lng": 136.90262,
-   "wd": "Q4856192"
+   "wd": "Q4856192",
+   "aliases": [
+    "Money & Ukiyo-e Museum"
+   ]
   },
   {
-   "name": "Hongan-ji Nagoya Betsu-in Temple",
+   "name": "혼간지 나고야 별원",
    "cat": "관광",
    "area": "Monzen-chō",
    "lat": 35.15722,
    "lng": 136.89944,
-   "wd": "Q3140102"
+   "wd": "Q3140102",
+   "aliases": [
+    "Hongan-ji Nagoya Betsu-in Temple"
+   ]
   },
   {
    "name": "나고야항 이탈리아무라",
@@ -256,100 +293,136 @@
    "wd": "Q3155850"
   },
   {
-   "name": "Kōshō-ji Temple",
+   "name": "고쇼지",
    "cat": "관광",
    "area": "Yagoto-hommachi",
    "lat": 35.14056,
    "lng": 136.9625,
-   "wd": "Q3201314"
+   "wd": "Q3201314",
+   "aliases": [
+    "Kōshō-ji Temple"
+   ]
   },
   {
-   "name": "Nagoya City Museum",
+   "name": "나고야 시립박물관",
    "cat": "관광",
    "area": "1, Mizuho-tōri, Nagoya",
    "lat": 35.13639,
    "lng": 136.93489,
-   "wd": "Q10990728"
+   "wd": "Q10990728",
+   "aliases": [
+    "Nagoya City Museum"
+   ]
   },
   {
-   "name": "Owari Ōkunitama Shrine",
+   "name": "오와리 오쿠니타마 신사",
    "cat": "관광",
    "area": "일본",
    "lat": 35.25594,
    "lng": 136.80562,
-   "wd": "Q11465296"
+   "wd": "Q11465296",
+   "aliases": [
+    "Owari Ōkunitama Shrine"
+   ]
   },
   {
-   "name": "Kawahara Shrine, Nagoya",
+   "name": "가와하라 신사",
    "cat": "관광",
    "area": "오와리국",
    "lat": 35.15136,
    "lng": 136.94464,
-   "wd": "Q3194327"
+   "wd": "Q3194327",
+   "aliases": [
+    "Kawahara Shrine, Nagoya"
+   ]
   },
   {
-   "name": "Wakamiya Hachiman Shrine",
+   "name": "와카미야 하치만 신사",
    "cat": "관광",
    "area": "오와리국",
    "lat": 35.16347,
    "lng": 136.90344,
-   "wd": "Q11616255"
+   "wd": "Q11616255",
+   "aliases": [
+    "Wakamiya Hachiman Shrine"
+   ]
   },
   {
-   "name": "International Design Centre Nagoya",
+   "name": "국제디자인센터 나고야",
    "cat": "관광",
    "area": "나카구",
    "lat": 35.16547,
    "lng": 136.90525,
-   "wd": "Q6050127"
+   "wd": "Q6050127",
+   "aliases": [
+    "International Design Centre Nagoya"
+   ]
   },
   {
-   "name": "Shōman-ji Temple",
+   "name": "쇼만지",
    "cat": "관광",
    "area": "나카구",
    "lat": 35.16327,
    "lng": 136.90614,
-   "wd": "Q20983125"
+   "wd": "Q20983125",
+   "aliases": [
+    "Shōman-ji Temple"
+   ]
   },
   {
-   "name": "Honkō-ji Temple",
+   "name": "혼코지",
    "cat": "관광",
    "area": "고타정",
    "lat": 35.18472,
    "lng": 136.89944,
-   "wd": "Q11519864"
+   "wd": "Q11519864",
+   "aliases": [
+    "Honkō-ji Temple"
+   ]
   },
   {
-   "name": "Seigan-ji Temple",
+   "name": "세이간지",
    "cat": "관광",
    "area": "아쓰타구",
    "lat": 35.1268,
    "lng": 136.90627,
-   "wd": "Q17220718"
+   "wd": "Q17220718",
+   "aliases": [
+    "Seigan-ji Temple"
+   ]
   },
   {
-   "name": "Aichi Gokoku Shrine",
+   "name": "아이치 고코쿠 신사",
    "cat": "관광",
    "area": "Sannomaru 1-chōme",
    "lat": 35.17944,
    "lng": 136.89972,
-   "wd": "Q4696584"
+   "wd": "Q4696584",
+   "aliases": [
+    "Aichi Gokoku Shrine"
+   ]
   },
   {
-   "name": "Chunichi Building",
+   "name": "주니치 빌딩",
    "cat": "관광",
    "area": "Sakae 4-chōme",
    "lat": 35.16833,
    "lng": 136.90972,
-   "wd": "Q5116422"
+   "wd": "Q5116422",
+   "aliases": [
+    "Chunichi Building"
+   ]
   },
   {
-   "name": "Electricity Museum, Nagoya",
+   "name": "나고야 전기박물관",
    "cat": "관광",
    "area": "Sakae 2-chōme",
    "lat": 35.16783,
    "lng": 136.89928,
-   "wd": "Q5357802"
+   "wd": "Q5357802",
+   "aliases": [
+    "Electricity Museum, Nagoya"
+   ]
   },
   {
    "name": "오아시스 21",
@@ -363,28 +436,37 @@
    "wd": "Q5359224"
   },
   {
-   "name": "Chōraku-ji Temple",
+   "name": "조라쿠지",
    "cat": "관광",
    "area": "Yobitsugi 4-chōme",
    "lat": 35.10586,
    "lng": 136.93188,
-   "wd": "Q11653108"
+   "wd": "Q11653108",
+   "aliases": [
+    "Chōraku-ji Temple"
+   ]
   },
   {
-   "name": "Kuwayama Art Museum",
+   "name": "구와야마 미술관",
    "cat": "관광",
    "area": "Yamanaka-chō",
    "lat": 35.1484,
    "lng": 136.9535,
-   "wd": "Q47461613"
+   "wd": "Q47461613",
+   "aliases": [
+    "Kuwayama Art Museum"
+   ]
   },
   {
-   "name": "Suehiro-za",
+   "name": "스에히로자",
    "cat": "관광",
    "area": "Suehiro-chō",
    "lat": 35.16298,
    "lng": 136.90257,
-   "wd": "Q104637710"
+   "wd": "Q104637710",
+   "aliases": [
+    "Suehiro-za"
+   ]
   },
   {
    "name": "아이치현 예술 극장",
@@ -398,44 +480,59 @@
    "wd": "Q11256826"
   },
   {
-   "name": "Brother Museum",
+   "name": "브라더 뮤지엄",
    "cat": "관광",
    "area": "Shioiri-chō",
    "lat": 35.11894,
    "lng": 136.92081,
-   "wd": "Q11334476"
+   "wd": "Q11334476",
+   "aliases": [
+    "Brother Museum"
+   ]
   },
   {
-   "name": "Nagoya Shrine",
+   "name": "나고야 신사",
    "cat": "관광",
    "area": "3, Marunouchi 2-chōme, Nagoya",
    "lat": 35.1775,
    "lng": 136.89972,
-   "wd": "Q3335115"
+   "wd": "Q3335115",
+   "aliases": [
+    "Nagoya Shrine"
+   ]
   },
   {
-   "name": "Nagoya Tōshō-gū",
+   "name": "나고야 도쇼구",
    "cat": "관광",
    "area": "3, Marunouchi 2-chōme, Nagoya",
    "lat": 35.17756,
    "lng": 136.89931,
-   "wd": "Q3335117"
+   "wd": "Q3335117",
+   "aliases": [
+    "Nagoya Tōshō-gū"
+   ]
   },
   {
-   "name": "Yamada Tenmangū",
+   "name": "야마다 덴만구",
    "cat": "관광",
    "area": "Yamada-chō, Kita-ku, Nagoya",
    "lat": 35.1958,
    "lng": 136.938,
-   "wd": "Q3571407"
+   "wd": "Q3571407",
+   "aliases": [
+    "Yamada Tenmangū"
+   ]
   },
   {
-   "name": "Catholic Chikaramachi Church",
+   "name": "지카라마치 성당",
    "cat": "관광",
    "area": "Chikara-machi 3-chōme, Nagoya",
    "lat": 35.18083,
    "lng": 136.91444,
-   "wd": "Q5053109"
+   "wd": "Q5053109",
+   "aliases": [
+    "Catholic Chikaramachi Church"
+   ]
   },
   {
    "name": "노리타케의 숲",
@@ -449,20 +546,26 @@
    "wd": "Q7051341"
   },
   {
-   "name": "Tsuruma Park",
+   "name": "쓰루마 공원",
    "cat": "관광",
    "area": "Tsurumai 1-chōme",
    "lat": 35.15567,
    "lng": 136.91847,
-   "wd": "Q7850284"
+   "wd": "Q7850284",
+   "aliases": [
+    "Tsuruma Park"
+   ]
   },
   {
-   "name": "Shiroyama Hachimangū",
+   "name": "시로야마 하치만구",
    "cat": "관광",
    "area": "",
    "lat": 35.1675,
    "lng": 136.95972,
-   "wd": "Q3482375"
+   "wd": "Q3482375",
+   "aliases": [
+    "Shiroyama Hachimangū"
+   ]
   },
   {
    "name": "평화공원",
@@ -476,12 +579,15 @@
    "wd": "Q6149037"
   },
   {
-   "name": "Hoshizaki Castle",
+   "name": "호시자키성",
    "cat": "관광",
    "area": "",
    "lat": 35.08994,
    "lng": 136.93481,
-   "wd": "Q2969408"
+   "wd": "Q2969408",
+   "aliases": [
+    "Hoshizaki Castle"
+   ]
   },
   {
    "name": "모리야마성",
@@ -495,108 +601,147 @@
    "wd": "Q11240758"
   },
   {
-   "name": "Chunichi Theatre",
+   "name": "주니치 극장",
    "cat": "관광",
    "area": "",
    "lat": 35.16841,
    "lng": 136.90965,
-   "wd": "Q11365081"
+   "wd": "Q11365081",
+   "aliases": [
+    "Chunichi Theatre"
+   ]
   },
   {
-   "name": "Gokiso Hachiman-gū",
+   "name": "고키소 하치만구",
    "cat": "관광",
    "area": "나고야시",
    "lat": 35.14564,
    "lng": 136.92341,
-   "wd": "Q3109957"
+   "wd": "Q3109957",
+   "aliases": [
+    "Gokiso Hachiman-gū"
+   ]
   },
   {
-   "name": "Meijō Park",
+   "name": "메이조 공원",
    "cat": "관광",
    "area": "나고야시",
    "lat": 35.186,
    "lng": 136.9,
-   "wd": "Q6810044"
+   "wd": "Q6810044",
+   "aliases": [
+    "Meijō Park"
+   ]
   },
   {
-   "name": "Nagoya University Museum",
+   "name": "나고야대학 박물관",
    "cat": "관광",
    "area": "나고야시",
    "lat": 35.1531,
    "lng": 136.96699,
-   "wd": "Q11414911"
+   "wd": "Q11414911",
+   "aliases": [
+    "Nagoya University Museum"
+   ]
   },
   {
-   "name": "Sunshine Sakae",
+   "name": "선샤인 사카에",
    "cat": "관광",
    "area": "아이치현",
    "lat": 35.1694,
    "lng": 136.906,
-   "wd": "Q1106616"
+   "wd": "Q1106616",
+   "aliases": [
+    "Sunshine Sakae"
+   ]
   },
   {
-   "name": "Hakken-gū",
+   "name": "핫켄구",
    "cat": "관광",
    "area": "오와리국",
    "lat": 35.1235,
    "lng": 136.90827,
-   "wd": "Q55533377"
+   "wd": "Q55533377",
+   "aliases": [
+    "Hakken-gū"
+   ]
   },
   {
-   "name": "Kaigarayama Shell Mound",
+   "name": "가이가라야마 패총",
    "cat": "관광",
    "area": "기요스시",
    "lat": 35.21861,
    "lng": 136.85139,
-   "wd": "Q132755226"
+   "wd": "Q132755226",
+   "aliases": [
+    "Kaigarayama Shell Mound"
+   ]
   },
   {
-   "name": "Asahi Site",
+   "name": "아사히 유적",
    "cat": "관광",
    "area": "기요스시",
    "lat": 35.2215,
    "lng": 136.855,
-   "wd": "Q11517606"
+   "wd": "Q11517606",
+   "aliases": [
+    "Asahi Site"
+   ]
   },
   {
-   "name": "Kiyosu City Haruhi Art Museum",
+   "name": "기요스시 하루히 미술관",
    "cat": "관광",
    "area": "기요스시",
    "lat": 35.23551,
    "lng": 136.84076,
-   "wd": "Q11561458"
+   "wd": "Q11561458",
+   "aliases": [
+    "Kiyosu City Haruhi Art Museum"
+   ]
   },
   {
-   "name": "Hitsuji Shrine (Nagoya)",
+   "name": "히쓰지 신사",
    "cat": "관광",
    "area": "오와리국",
    "lat": 35.2074,
    "lng": 136.92646,
-   "wd": "Q22120105"
+   "wd": "Q22120105",
+   "aliases": [
+    "Hitsuji Shrine (Nagoya)"
+   ]
   },
   {
-   "name": "Kenchū-ji Temple",
+   "name": "겐추지",
    "cat": "관광",
    "area": "히가시구",
    "lat": 35.17939,
    "lng": 136.928,
-   "wd": "Q11486614"
+   "wd": "Q11486614",
+   "aliases": [
+    "Kenchū-ji Temple"
+   ]
   },
   {
-   "name": "The Showa Era Lifestyle Museum",
+   "name": "쇼와 일상박물관",
    "cat": "관광",
    "area": "기타나고야시",
    "lat": 35.25,
    "lng": 136.88556,
-   "wd": "Q11514080"
+   "wd": "Q11514080",
+   "aliases": [
+    "The Showa Era Lifestyle Museum"
+   ]
   },
   {
-   "name": "Kōjaku-in Temple",
+   "name": "고자쿠인",
    "cat": "관광",
    "area": "쇼와구",
    "lat": 35.14674,
    "lng": 136.95724,
-   "wd": "Q11667696"
+   "wd": "Q11667696",
+   "aliases": [
+    "Kōjaku-in Temple"
+   ]
   },
   {
    "name": "나고야시 미즈호 공원",
@@ -611,52 +756,70 @@
    "wd": "Q11415011"
   },
   {
-   "name": "Seishū-ji Temple",
+   "name": "세이슈지",
    "cat": "관광",
    "area": "나카구",
    "lat": 35.16304,
    "lng": 136.90494,
-   "wd": "Q11499176"
+   "wd": "Q11499176",
+   "aliases": [
+    "Seishū-ji Temple"
+   ]
   },
   {
-   "name": "Japan Spinning Top Museum",
+   "name": "일본 팽이박물관",
    "cat": "관광",
    "area": "미나토구",
    "lat": 35.09583,
    "lng": 136.87088,
-   "wd": "Q15229358"
+   "wd": "Q15229358",
+   "aliases": [
+    "Japan Spinning Top Museum"
+   ]
   },
   {
-   "name": "Fuji Sengen Shrine, Nagoya",
+   "name": "후지센겐 신사",
    "cat": "관광",
    "area": "오스",
    "lat": 35.15917,
    "lng": 136.90083,
-   "wd": "Q5507355"
+   "wd": "Q5507355",
+   "aliases": [
+    "Fuji Sengen Shrine, Nagoya"
+   ]
   },
   {
-   "name": "Nagoya/Boston Museum of Fine Arts",
+   "name": "나고야 보스턴 미술관",
    "cat": "관광",
    "area": "Kanayama",
    "lat": 35.14268,
    "lng": 136.9,
-   "wd": "Q6958940"
+   "wd": "Q6958940",
+   "aliases": [
+    "Nagoya/Boston Museum of Fine Arts"
+   ]
   },
   {
-   "name": "Ryūsen-ji Temple",
+   "name": "류센지",
    "cat": "관광",
    "area": "Ryūsenji",
    "lat": 35.22324,
    "lng": 136.98454,
-   "wd": "Q11679274"
+   "wd": "Q11679274",
+   "aliases": [
+    "Ryūsen-ji Temple"
+   ]
   },
   {
-   "name": "Chambalin Temple",
+   "name": "참발린 사원",
    "cat": "관광",
    "area": "Aoyamadai",
    "lat": 35.22578,
    "lng": 136.99256,
-   "wd": "Q26828299"
+   "wd": "Q26828299",
+   "aliases": [
+    "Chambalin Temple"
+   ]
   },
   {
    "name": "시라카와 공원",
@@ -670,20 +833,26 @@
    "wd": "Q11579701"
   },
   {
-   "name": "Shōtoku-ji Temple",
+   "name": "쇼토쿠지",
    "cat": "관광",
    "area": "Yagotoyama",
    "lat": 35.13461,
    "lng": 136.97164,
-   "wd": "Q11611005"
+   "wd": "Q11611005",
+   "aliases": [
+    "Shōtoku-ji Temple"
+   ]
   },
   {
-   "name": "Hisaya Ōdori Garden Flarie",
+   "name": "히사야오도리 가든 플라리에",
    "cat": "관광",
    "area": "Ōsu 4-chōme",
    "lat": 35.15779,
    "lng": 136.91843,
-   "wd": "Q7290607"
+   "wd": "Q7290607",
+   "aliases": [
+    "Hisaya Ōdori Garden Flarie"
+   ]
   },
   {
    "name": "아이치현 미술관",
@@ -697,28 +866,37 @@
    "wd": "Q11256823"
   },
   {
-   "name": "Nagoya City Sewerage Science Museum",
+   "name": "나고야시 하수도과학관",
    "cat": "관광",
    "area": "Meijō 1-chōme",
    "lat": 35.19214,
    "lng": 136.90286,
-   "wd": "Q11361063"
+   "wd": "Q11361063",
+   "aliases": [
+    "Nagoya City Sewerage Science Museum"
+   ]
   },
   {
-   "name": "Toyoda Auditorium",
+   "name": "도요타 강당",
    "cat": "관광",
    "area": "Furōchō",
    "lat": 35.15333,
    "lng": 136.96806,
-   "wd": "Q11414917"
+   "wd": "Q11414917",
+   "aliases": [
+    "Toyoda Auditorium"
+   ]
   },
   {
-   "name": "Nagoya St.Matthew's Church",
+   "name": "나고야 성마태 교회",
    "cat": "관광",
    "area": "Meigetsu-chō",
    "lat": 35.14684,
    "lng": 136.93277,
-   "wd": "Q11415235"
+   "wd": "Q11415235",
+   "aliases": [
+    "Nagoya St.Matthew's Church"
+   ]
   },
   {
    "name": "아쓰타 신궁 공원",
@@ -732,28 +910,26 @@
    "wd": "Q11569114"
   },
   {
-   "name": "Narumi Stadium",
+   "name": "나루미 경기장",
    "cat": "관광",
    "area": "Bungi, Narumi-chō, Nagoya",
    "lat": 35.08334,
    "lng": 136.95587,
-   "wd": "Q11675374"
+   "wd": "Q11675374",
+   "aliases": [
+    "Narumi Stadium"
+   ]
   },
   {
-   "name": "Nagoya Noh Theater",
+   "name": "나고야 노가쿠당",
    "cat": "관광",
    "area": "",
    "lat": 35.19052,
    "lng": 136.90371,
-   "wd": "Q11415238"
-  },
-  {
-   "name": "Shōnai Greens",
-   "cat": "관광",
-   "area": "",
-   "lat": 35.20917,
-   "lng": 136.88222,
-   "wd": "Q7506180"
+   "wd": "Q11415238",
+   "aliases": [
+    "Nagoya Noh Theater"
+   ]
   },
   {
    "name": "이와쿠라성",
@@ -767,12 +943,15 @@
    "wd": "Q11266401"
   },
   {
-   "name": "Ōguruwa Shell Midden",
+   "name": "오구루와 패총",
    "cat": "관광",
    "area": "",
    "lat": 35.123,
    "lng": 136.94289,
-   "wd": "Q11435815"
+   "wd": "Q11435815",
+   "aliases": [
+    "Ōguruwa Shell Midden"
+   ]
   }
  ]
 }

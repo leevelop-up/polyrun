@@ -80,20 +80,26 @@
    "wd": "Q426339"
   },
   {
-   "name": "Villa of the Papyri",
+   "name": "파피루스 별장",
    "cat": "관광",
    "area": "에르콜라노",
    "lat": 40.80667,
    "lng": 14.34556,
-   "wd": "Q1347586"
+   "wd": "Q1347586",
+   "aliases": [
+    "Villa of the Papyri"
+   ]
   },
   {
-   "name": "Castel dell'Ovo",
+   "name": "카스텔 델로보",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.82832,
    "lng": 14.24766,
-   "wd": "Q645041"
+   "wd": "Q645041",
+   "aliases": [
+    "Castel dell'Ovo"
+   ]
   },
   {
    "name": "산 마르티노 수도원",
@@ -107,36 +113,48 @@
    "wd": "Q859732"
   },
   {
-   "name": "Castel Sant'Elmo",
+   "name": "산텔모 성",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.84362,
    "lng": 14.23933,
-   "wd": "Q1048627"
+   "wd": "Q1048627",
+   "aliases": [
+    "Castel Sant'Elmo"
+   ]
   },
   {
-   "name": "San Francesco di Paola",
+   "name": "산 프란체스코 디 파올라 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.8353,
    "lng": 14.2475,
-   "wd": "Q241410"
+   "wd": "Q241410",
+   "aliases": [
+    "San Francesco di Paola"
+   ]
   },
   {
-   "name": "Cappella Sansevero",
+   "name": "산세베로 예배당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.84919,
    "lng": 14.25488,
-   "wd": "Q897839"
+   "wd": "Q897839",
+   "aliases": [
+    "Cappella Sansevero"
+   ]
   },
   {
-   "name": "Galleria Umberto I",
+   "name": "움베르토 1세 갤러리",
    "cat": "쇼핑",
    "area": "나폴리",
    "lat": 40.83844,
    "lng": 14.24948,
-   "wd": "Q1007726"
+   "wd": "Q1007726",
+   "aliases": [
+    "Galleria Umberto I"
+   ]
   },
   {
    "name": "산타 키아라 성당",
@@ -161,676 +179,906 @@
    "wd": "Q1047594"
   },
   {
-   "name": "House of the Faun",
+   "name": "파우누스의 집",
    "cat": "관광",
    "area": "폼페이 (캄파니아 주)",
    "lat": 40.75125,
    "lng": 14.48458,
-   "wd": "Q1547308"
+   "wd": "Q1547308",
+   "aliases": [
+    "House of the Faun"
+   ]
   },
   {
-   "name": "Castel Capuano",
+   "name": "카푸아노 성",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.85354,
    "lng": 14.26444,
-   "wd": "Q858940"
+   "wd": "Q858940",
+   "aliases": [
+    "Castel Capuano"
+   ]
   },
   {
-   "name": "Shrine of the Virgin of the Rosary of Pompei",
+   "name": "폼페이 로사리오 성모 성지",
    "cat": "관광",
    "area": "폼페이 (캄파니아 주)",
    "lat": 40.75,
    "lng": 14.50056,
-   "wd": "Q980745"
+   "wd": "Q980745",
+   "aliases": [
+    "Shrine of the Virgin of the Rosary of Pompei"
+   ]
   },
   {
-   "name": "Palace of Capodimonte",
+   "name": "카포디몬테 궁전",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.86701,
    "lng": 14.25053,
-   "wd": "Q4115652"
+   "wd": "Q4115652",
+   "aliases": [
+    "Palace of Capodimonte"
+   ]
   },
   {
-   "name": "Palace of Portici",
+   "name": "포르티치 궁전",
    "cat": "관광",
    "area": "포르티치",
    "lat": 40.81125,
    "lng": 14.34267,
-   "wd": "Q1041792"
+   "wd": "Q1041792",
+   "aliases": [
+    "Palace of Portici"
+   ]
   },
   {
-   "name": "Temple of Apollo",
+   "name": "아폴론 신전(폼페이)",
    "cat": "관광",
    "area": "폼페이 (캄파니아 주)",
    "lat": 40.7492,
    "lng": 14.4844,
-   "wd": "Q2699249"
+   "wd": "Q2699249",
+   "aliases": [
+    "Temple of Apollo"
+   ]
   },
   {
-   "name": "San Lorenzo Maggiore",
+   "name": "산 로렌초 마조레 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.85093,
    "lng": 14.25812,
-   "wd": "Q1084608"
+   "wd": "Q1084608",
+   "aliases": [
+    "San Lorenzo Maggiore"
+   ]
   },
   {
-   "name": "Astronomical Observatory of Capodimonte",
+   "name": "카포디몬테 천문대",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.86286,
    "lng": 14.25506,
-   "wd": "Q2034636"
+   "wd": "Q2034636",
+   "aliases": [
+    "Astronomical Observatory of Capodimonte"
+   ]
   },
   {
-   "name": "House of the Vettii",
+   "name": "베티의 집",
    "cat": "관광",
    "area": "폼페이 (캄파니아 주)",
    "lat": 40.75208,
    "lng": 14.48458,
-   "wd": "Q1590855"
+   "wd": "Q1590855",
+   "aliases": [
+    "House of the Vettii"
+   ]
   },
   {
-   "name": "piazza Dante",
+   "name": "단테 광장",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.84902,
    "lng": 14.25007,
-   "wd": "Q926401"
+   "wd": "Q926401",
+   "aliases": [
+    "piazza Dante"
+   ]
   },
   {
-   "name": "Temple of Isis",
+   "name": "이시스 신전(폼페이)",
    "cat": "관광",
    "area": "폼페이 (캄파니아 주)",
    "lat": 40.7492,
    "lng": 14.4883,
-   "wd": "Q3517528"
+   "wd": "Q3517528",
+   "aliases": [
+    "Temple of Isis"
+   ]
   },
   {
-   "name": "Stazione Zoologica Anton Dohrn",
+   "name": "안톤 도른 수족관",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.8327,
    "lng": 14.23577,
-   "wd": "Q220221"
+   "wd": "Q220221",
+   "aliases": [
+    "Stazione Zoologica Anton Dohrn"
+   ]
   },
   {
-   "name": "San Giorgio Maggiore, Naples",
+   "name": "산 조르조 마조레 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.84971,
    "lng": 14.26075,
-   "wd": "Q281957"
+   "wd": "Q281957",
+   "aliases": [
+    "San Giorgio Maggiore, Naples"
+   ]
   },
   {
-   "name": "Santa Maria della Sanità, Naples",
+   "name": "산타 마리아 델라 사니타 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.85968,
    "lng": 14.24893,
-   "wd": "Q514901"
+   "wd": "Q514901",
+   "aliases": [
+    "Santa Maria della Sanità, Naples"
+   ]
   },
   {
-   "name": "Santa Maria del Carmine",
+   "name": "카르미네 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.84677,
    "lng": 14.26823,
-   "wd": "Q717930"
+   "wd": "Q717930",
+   "aliases": [
+    "Santa Maria del Carmine"
+   ]
   },
   {
-   "name": "Gesù Nuovo",
+   "name": "제수 누오보 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.84762,
    "lng": 14.2518,
-   "wd": "Q718774"
+   "wd": "Q718774",
+   "aliases": [
+    "Gesù Nuovo"
+   ]
   },
   {
-   "name": "Ospedale L'Albergo Reale dei Poveri",
+   "name": "레알레 데이 포베리 구빈원",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.86346,
    "lng": 14.26546,
-   "wd": "Q221640"
+   "wd": "Q221640",
+   "aliases": [
+    "Ospedale L'Albergo Reale dei Poveri"
+   ]
   },
   {
-   "name": "Porta Capuana",
+   "name": "포르타 카푸아나",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.8544,
    "lng": 14.26543,
-   "wd": "Q834089"
+   "wd": "Q834089",
+   "aliases": [
+    "Porta Capuana"
+   ]
   },
   {
-   "name": "Church of San Ferdinando, Naples",
+   "name": "산 페르디난도 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.8376,
    "lng": 14.2487,
-   "wd": "Q1255667"
+   "wd": "Q1255667",
+   "aliases": [
+    "Church of San Ferdinando, Naples"
+   ]
   },
   {
-   "name": "Palazzo dello Spagnolo",
+   "name": "스파뇰로 궁전",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.8568,
    "lng": 14.2544,
-   "wd": "Q3361360"
+   "wd": "Q3361360",
+   "aliases": [
+    "Palazzo dello Spagnolo"
+   ]
   },
   {
-   "name": "Casa del Menandro",
+   "name": "메난드로스의 집",
    "cat": "관광",
    "area": "폼페이 (캄파니아 주)",
    "lat": 40.74972,
    "lng": 14.49,
-   "wd": "Q1590905"
+   "wd": "Q1590905",
+   "aliases": [
+    "Casa del Menandro"
+   ]
   },
   {
-   "name": "Temple of Jupiter",
+   "name": "유피테르 신전(폼페이)",
    "cat": "관광",
    "area": "폼페이 (캄파니아 주)",
    "lat": 40.7499,
    "lng": 14.4845,
-   "wd": "Q3309400"
+   "wd": "Q3309400",
+   "aliases": [
+    "Temple of Jupiter"
+   ]
   },
   {
-   "name": "House of the Tragic Poet",
+   "name": "비극 시인의 집",
    "cat": "관광",
    "area": "폼페이 (캄파니아 주)",
    "lat": 40.75067,
    "lng": 14.48381,
-   "wd": "Q4177608"
+   "wd": "Q4177608",
+   "aliases": [
+    "House of the Tragic Poet"
+   ]
   },
   {
-   "name": "House of Julia Felix",
+   "name": "율리아 펠릭스의 집",
    "cat": "관광",
    "area": "폼페이 (캄파니아 주)",
    "lat": 40.7519,
    "lng": 14.4933,
-   "wd": "Q5915068"
+   "wd": "Q5915068",
+   "aliases": [
+    "House of Julia Felix"
+   ]
   },
   {
-   "name": "Girolamini",
+   "name": "지롤라미니 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.85193,
    "lng": 14.25848,
-   "wd": "Q289414"
+   "wd": "Q289414",
+   "aliases": [
+    "Girolamini"
+   ]
   },
   {
-   "name": "Crypta Neapolitana",
+   "name": "크립타 네아폴리타나",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.83105,
    "lng": 14.21756,
-   "wd": "Q977606"
+   "wd": "Q977606",
+   "aliases": [
+    "Crypta Neapolitana"
+   ]
   },
   {
-   "name": "Port'Alba, Naples",
+   "name": "포르트알바",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.8494,
    "lng": 14.2518,
-   "wd": "Q1239540"
+   "wd": "Q1239540",
+   "aliases": [
+    "Port'Alba, Naples"
+   ]
   },
   {
-   "name": "Santissima Annunziata Maggiore, Naples",
+   "name": "안눈치아타 마조레 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.85114,
    "lng": 14.26523,
-   "wd": "Q1256490"
+   "wd": "Q1256490",
+   "aliases": [
+    "Santissima Annunziata Maggiore, Naples"
+   ]
   },
   {
-   "name": "Capuan Venus",
-   "cat": "관광",
-   "area": "",
-   "lat": 40.8534,
-   "lng": 14.2505,
-   "wd": "Q2364240"
-  },
-  {
-   "name": "Archbishop's Palace",
+   "name": "대주교 궁전",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.8533,
    "lng": 14.25926,
-   "wd": "Q576746"
+   "wd": "Q576746",
+   "aliases": [
+    "Archbishop's Palace"
+   ]
   },
   {
-   "name": "San Giovanni a Carbonara",
+   "name": "산 조반니 아 카르보나라 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.85612,
    "lng": 14.26005,
-   "wd": "Q580446"
+   "wd": "Q580446",
+   "aliases": [
+    "San Giovanni a Carbonara"
+   ]
   },
   {
-   "name": "Church of Sant'Antonio Abate",
+   "name": "산탄토니오 아바테 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.8612,
    "lng": 14.2651,
-   "wd": "Q616403"
+   "wd": "Q616403",
+   "aliases": [
+    "Church of Sant'Antonio Abate"
+   ]
   },
   {
-   "name": "Palazzo Cellammare",
+   "name": "첼라마레 궁전",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.83605,
    "lng": 14.24217,
-   "wd": "Q655949"
+   "wd": "Q655949",
+   "aliases": [
+    "Palazzo Cellammare"
+   ]
   },
   {
-   "name": "Palazzo San Giacomo",
+   "name": "산 자코모 궁전",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.8403,
    "lng": 14.25006,
-   "wd": "Q673296"
+   "wd": "Q673296",
+   "aliases": [
+    "Palazzo San Giacomo"
+   ]
   },
   {
-   "name": "Villa Pignatelli",
+   "name": "피냐텔리 별장",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.8349,
    "lng": 14.2335,
-   "wd": "Q682173"
+   "wd": "Q682173",
+   "aliases": [
+    "Villa Pignatelli"
+   ]
   },
   {
-   "name": "San Gregorio Armeno",
+   "name": "산 그레고리오 아르메노 거리",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.85018,
    "lng": 14.25764,
-   "wd": "Q1255785"
+   "wd": "Q1255785",
+   "aliases": [
+    "San Gregorio Armeno"
+   ]
   },
   {
-   "name": "Sant'Anna dei Lombardi",
+   "name": "산탄나 데이 롬바르디 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.84482,
    "lng": 14.25052,
-   "wd": "Q1256559"
+   "wd": "Q1256559",
+   "aliases": [
+    "Sant'Anna dei Lombardi"
+   ]
   },
   {
-   "name": "Villa Comunale",
+   "name": "빌라 코무날레 공원",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.833,
    "lng": 14.2322,
-   "wd": "Q1415098"
+   "wd": "Q1415098",
+   "aliases": [
+    "Villa Comunale"
+   ]
   },
   {
-   "name": "Catacombs of San Gennaro",
+   "name": "산 젠나로 카타콤",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.86418,
    "lng": 14.24762,
-   "wd": "Q3663206"
+   "wd": "Q3663206",
+   "aliases": [
+    "Catacombs of San Gennaro"
+   ]
   },
   {
-   "name": "Teatro Mercadante",
+   "name": "메르카단테 극장",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.8398,
    "lng": 14.2542,
-   "wd": "Q3982061"
+   "wd": "Q3982061",
+   "aliases": [
+    "Teatro Mercadante"
+   ]
   },
   {
-   "name": "Macellum of Pompeii",
+   "name": "폼페이 마켈룸",
    "cat": "관광",
    "area": "폼페이 (캄파니아 주)",
    "lat": 40.75006,
    "lng": 14.48505,
-   "wd": "Q1882599"
+   "wd": "Q1882599",
+   "aliases": [
+    "Macellum of Pompeii"
+   ]
   },
   {
-   "name": "Santa Caterina a Formiello",
+   "name": "산타 카테리나 아 포르미엘로 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.85448,
    "lng": 14.26481,
-   "wd": "Q525329"
+   "wd": "Q525329",
+   "aliases": [
+    "Santa Caterina a Formiello"
+   ]
   },
   {
-   "name": "Santa Maria degli Angeli a Pizzofalcone",
+   "name": "산타 마리아 데리 안젤리 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.83533,
    "lng": 14.24459,
-   "wd": "Q719093"
+   "wd": "Q719093",
+   "aliases": [
+    "Santa Maria degli Angeli a Pizzofalcone"
+   ]
   },
   {
-   "name": "Coral Jewellery Museum",
+   "name": "산호 보석 박물관",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.83798,
    "lng": 14.24948,
-   "wd": "Q729943"
+   "wd": "Q729943",
+   "aliases": [
+    "Coral Jewellery Museum"
+   ]
   },
   {
-   "name": "Santa Maria La Nova",
+   "name": "산타 마리아 라 노바 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.84367,
    "lng": 14.25297,
-   "wd": "Q832228"
+   "wd": "Q832228",
+   "aliases": [
+    "Santa Maria La Nova"
+   ]
   },
   {
-   "name": "Fontana del Gigante",
+   "name": "거인의 분수",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.82967,
    "lng": 14.25008,
-   "wd": "Q1002734"
+   "wd": "Q1002734",
+   "aliases": [
+    "Fontana del Gigante"
+   ]
   },
   {
-   "name": "Palazzo Spinelli di Laurino",
+   "name": "스피넬리 디 라우리노 궁전",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.85012,
    "lng": 14.25557,
-   "wd": "Q1228253"
+   "wd": "Q1228253",
+   "aliases": [
+    "Palazzo Spinelli di Laurino"
+   ]
   },
   {
-   "name": "Piazza Bellini",
+   "name": "벨리니 광장",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.84958,
    "lng": 14.25212,
-   "wd": "Q1235318"
+   "wd": "Q1235318",
+   "aliases": [
+    "Piazza Bellini"
+   ]
   },
   {
-   "name": "Porta Nolana",
+   "name": "포르타 놀라나",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.85028,
    "lng": 14.26792,
-   "wd": "Q1239397"
+   "wd": "Q1239397",
+   "aliases": [
+    "Porta Nolana"
+   ]
   },
   {
-   "name": "Santa Maria Egiziaca a Pizzofalcone, Naples",
+   "name": "산타 마리아 에지치아카 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.83415,
    "lng": 14.247,
-   "wd": "Q1256222"
+   "wd": "Q1256222",
+   "aliases": [
+    "Santa Maria Egiziaca a Pizzofalcone, Naples"
+   ]
   },
   {
-   "name": "Santi Filippo e Giacomo, Naples",
+   "name": "산티 필리포 에 자코모 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.84883,
    "lng": 14.25719,
-   "wd": "Q1256446"
+   "wd": "Q1256446",
+   "aliases": [
+    "Santi Filippo e Giacomo, Naples"
+   ]
   },
   {
-   "name": "Santa Restituta",
+   "name": "산타 레스티투타 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.85286,
    "lng": 14.25939,
-   "wd": "Q2887134"
+   "wd": "Q2887134",
+   "aliases": [
+    "Santa Restituta"
+   ]
   },
   {
-   "name": "Pio Monte della Misericordia",
+   "name": "피오 몬테 델라 미세리코르디아",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.85187,
    "lng": 14.26043,
-   "wd": "Q3737242"
+   "wd": "Q3737242",
+   "aliases": [
+    "Pio Monte della Misericordia"
+   ]
   },
   {
-   "name": "Royal Chapel of the Treasure of San Gennaro",
+   "name": "산 젠나로 보물 예배당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.85236,
    "lng": 14.25953,
-   "wd": "Q3931105"
+   "wd": "Q3931105",
+   "aliases": [
+    "Royal Chapel of the Treasure of San Gennaro"
+   ]
   },
   {
-   "name": "Parthenope",
-   "cat": "관광",
-   "area": "",
-   "lat": 40.83333,
-   "lng": 14.25,
-   "wd": "Q1383830"
-  },
-  {
-   "name": "House of Sallust",
+   "name": "살루스티우스의 집",
    "cat": "관광",
    "area": "폼페이 (캄파니아 주)",
    "lat": 40.7512,
    "lng": 14.4826,
-   "wd": "Q3495598"
+   "wd": "Q3495598",
+   "aliases": [
+    "House of Sallust"
+   ]
   },
   {
-   "name": "Santa Lucia a Mare",
+   "name": "산타 루치아 아 마레 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.83359,
    "lng": 14.25052,
-   "wd": "Q278605"
+   "wd": "Q278605",
+   "aliases": [
+    "Santa Lucia a Mare"
+   ]
   },
   {
-   "name": "San Carlo alle Mortelle",
+   "name": "산 카를로 알레 모르텔레 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.83865,
    "lng": 14.24127,
-   "wd": "Q278768"
+   "wd": "Q278768",
+   "aliases": [
+    "San Carlo alle Mortelle"
+   ]
   },
   {
-   "name": "Palazzo di Sangro di Casacalenda, Naples",
+   "name": "디 상그로 궁전",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.84823,
    "lng": 14.25502,
-   "wd": "Q608398"
+   "wd": "Q608398",
+   "aliases": [
+    "Palazzo di Sangro di Casacalenda, Naples"
+   ]
   },
   {
-   "name": "Santa Maria di Caravaggio",
+   "name": "산타 마리아 디 카라바조 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.85007,
    "lng": 14.24963,
-   "wd": "Q718599"
+   "wd": "Q718599",
+   "aliases": [
+    "Santa Maria di Caravaggio"
+   ]
   },
   {
-   "name": "San Michele Arcangelo",
+   "name": "산 미켈레 아르칸젤로 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.8483,
    "lng": 14.24976,
-   "wd": "Q718623"
+   "wd": "Q718623",
+   "aliases": [
+    "San Michele Arcangelo"
+   ]
   },
   {
-   "name": "Santa Maria di Costantinopoli",
+   "name": "산타 마리아 디 코스탄티노폴리 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.85279,
    "lng": 14.25122,
-   "wd": "Q718751"
+   "wd": "Q718751",
+   "aliases": [
+    "Santa Maria di Costantinopoli"
+   ]
   },
   {
-   "name": "Santa Maria di Piedigrotta",
+   "name": "피에디그로타 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.8306,
    "lng": 14.21916,
-   "wd": "Q718777"
+   "wd": "Q718777",
+   "aliases": [
+    "Santa Maria di Piedigrotta"
+   ]
   },
   {
-   "name": "Palazzo Doria d'Angri",
+   "name": "도리아 단그리 궁전",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.84687,
    "lng": 14.24961,
-   "wd": "Q718801"
+   "wd": "Q718801",
+   "aliases": [
+    "Palazzo Doria d'Angri"
+   ]
   },
   {
-   "name": "Sant'Anna di Palazzo",
+   "name": "산탄나 디 팔라초 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.83825,
    "lng": 14.246,
-   "wd": "Q719100"
+   "wd": "Q719100",
+   "aliases": [
+    "Sant'Anna di Palazzo"
+   ]
   },
   {
-   "name": "Santa Maria ad Ogni Bene dei Sette Dolori",
+   "name": "세테 돌로리 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.84497,
    "lng": 14.24505,
-   "wd": "Q741174"
+   "wd": "Q741174",
+   "aliases": [
+    "Santa Maria ad Ogni Bene dei Sette Dolori"
+   ]
   },
   {
-   "name": "Santa Maria della Concezione a Montecalvario, Naples",
+   "name": "몬테칼바리오 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.84282,
    "lng": 14.2461,
-   "wd": "Q868687"
+   "wd": "Q868687",
+   "aliases": [
+    "Santa Maria della Concezione a Montecalvario, Naples"
+   ]
   },
   {
-   "name": "Palazzo del Panormita",
+   "name": "파노르미타 궁전",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.8488,
    "lng": 14.2561,
-   "wd": "Q920930"
+   "wd": "Q920930",
+   "aliases": [
+    "Palazzo del Panormita"
+   ]
   },
   {
-   "name": "Palazzo Marigliano",
+   "name": "마릴리아노 궁전",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.84963,
    "lng": 14.25885,
-   "wd": "Q922996"
+   "wd": "Q922996",
+   "aliases": [
+    "Palazzo Marigliano"
+   ]
   },
   {
-   "name": "Palazzo San Felice",
+   "name": "산 펠리체 궁전",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.8576,
    "lng": 14.2514,
-   "wd": "Q936555"
+   "wd": "Q936555",
+   "aliases": [
+    "Palazzo San Felice"
+   ]
   },
   {
-   "name": "Piazza dei Martiri",
+   "name": "순교자 광장",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.8343,
    "lng": 14.2418,
-   "wd": "Q958145"
+   "wd": "Q958145",
+   "aliases": [
+    "Piazza dei Martiri"
+   ]
   },
   {
-   "name": "Palazzo Orsini di Gravina",
+   "name": "오르시니 디 그라비나 궁전",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.84524,
    "lng": 14.25146,
-   "wd": "Q1228217"
+   "wd": "Q1228217",
+   "aliases": [
+    "Palazzo Orsini di Gravina"
+   ]
   },
   {
-   "name": "Palazzo Venezia",
+   "name": "베네치아 궁전",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.84798,
    "lng": 14.25387,
-   "wd": "Q1228270"
+   "wd": "Q1228270",
+   "aliases": [
+    "Palazzo Venezia"
+   ]
   },
   {
-   "name": "San Gennaro all’Olmo, Naples",
+   "name": "산 젠나로 알올모 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.84958,
    "lng": 14.25829,
-   "wd": "Q1255716"
+   "wd": "Q1255716",
+   "aliases": [
+    "San Gennaro all’Olmo, Naples"
+   ]
   },
   {
-   "name": "Santa Caterina a Chiaia",
+   "name": "산타 카테리나 아 키아이아 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.83511,
    "lng": 14.24204,
-   "wd": "Q1256144"
+   "wd": "Q1256144",
+   "aliases": [
+    "Santa Caterina a Chiaia"
+   ]
   },
   {
-   "name": "Santa Maria Assunta dei Pignatelli",
+   "name": "산타 마리아 아순타 데이 피냐텔리 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.84875,
    "lng": 14.25601,
-   "wd": "Q1256194"
+   "wd": "Q1256194",
+   "aliases": [
+    "Santa Maria Assunta dei Pignatelli"
+   ]
   },
   {
-   "name": "Santa Donna Regina Nuova",
+   "name": "산타 돈나 레지나 누오바 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.854,
    "lng": 14.25869,
-   "wd": "Q1256212"
+   "wd": "Q1256212",
+   "aliases": [
+    "Santa Donna Regina Nuova"
+   ]
   },
   {
-   "name": "Santa Maria della Pace, Naples",
+   "name": "산타 마리아 델라 파체 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.85231,
    "lng": 14.26192,
-   "wd": "Q1256324"
+   "wd": "Q1256324",
+   "aliases": [
+    "Santa Maria della Pace, Naples"
+   ]
   },
   {
-   "name": "Purgatorio ad Arco, Naples",
+   "name": "푸르가토리오 아드 아르코 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.8506,
    "lng": 14.2557,
-   "wd": "Q1256356"
+   "wd": "Q1256356",
+   "aliases": [
+    "Purgatorio ad Arco, Naples"
+   ]
   },
   {
-   "name": "Santi Apostoli",
+   "name": "산티 아포스톨리 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.85457,
    "lng": 14.26045,
-   "wd": "Q1256429"
+   "wd": "Q1256429",
+   "aliases": [
+    "Santi Apostoli"
+   ]
   },
   {
-   "name": "Sant'Eligio Maggiore",
+   "name": "산텔리조 마조레 성당",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.84676,
    "lng": 14.26448,
-   "wd": "Q1256586"
+   "wd": "Q1256586",
+   "aliases": [
+    "Sant'Eligio Maggiore"
+   ]
   },
   {
-   "name": "Palazzo Zevallos Stigliano",
+   "name": "체발로스 스티리아노 궁전",
    "cat": "관광",
    "area": "나폴리",
    "lat": 40.83973,
    "lng": 14.24861,
-   "wd": "Q3891121"
+   "wd": "Q3891121",
+   "aliases": [
+    "Palazzo Zevallos Stigliano"
+   ]
   },
   {
-   "name": "Fontana del Carciofo (Napoli)",
+   "name": "아티초크 분수",
    "cat": "관광",
    "area": "",
    "lat": 40.8372,
    "lng": 14.2487,
-   "wd": "Q3747349"
+   "wd": "Q3747349",
+   "aliases": [
+    "Fontana del Carciofo (Napoli)"
+   ]
   },
   {
-   "name": "Nile God Statue, Naples",
+   "name": "나일강 신 조각상",
    "cat": "관광",
    "area": "",
    "lat": 40.8488,
    "lng": 14.2561,
-   "wd": "Q3968659"
+   "wd": "Q3968659",
+   "aliases": [
+    "Nile God Statue, Naples"
+   ]
   }
  ]
 }

@@ -3,52 +3,70 @@
  "builtAt": "2026-10-03",
  "picks": [
   {
-   "name": "Phu Quoc National Park",
+   "name": "푸꾸옥 국립공원",
    "cat": "관광",
    "area": "",
    "lat": 10.325,
    "lng": 103.95,
-   "wd": "Q1749599"
+   "wd": "Q1749599",
+   "aliases": [
+    "Phu Quoc National Park"
+   ]
   },
   {
-   "name": "Grand World",
+   "name": "그랜드 월드",
    "cat": "관광",
    "area": "",
    "lat": 10.3291,
    "lng": 103.8615,
-   "wd": "Q123376181"
+   "wd": "Q123376181",
+   "aliases": [
+    "Grand World"
+   ]
   },
   {
-   "name": "Bãi Cửa Cạn",
+   "name": "끄어깐 해변",
    "cat": "관광",
    "area": "",
    "lat": 10.26667,
    "lng": 103.91667,
-   "wd": "Q32173987"
+   "wd": "Q32173987",
+   "aliases": [
+    "Bãi Cửa Cạn"
+   ]
   },
   {
-   "name": "Bãi Thơm",
+   "name": "바이텀 해변",
    "cat": "관광",
    "area": "",
    "lat": 10.40611,
    "lng": 104.04972,
-   "wd": "Q32174146"
+   "wd": "Q32174146",
+   "aliases": [
+    "Bãi Thơm"
+   ]
   },
   {
-   "name": "Bãi Vòng",
+   "name": "바이봉 해변",
    "cat": "관광",
    "area": "",
    "lat": 10.15,
    "lng": 104.05,
-   "wd": "Q32174315"
+   "wd": "Q32174315",
+   "aliases": [
+    "Bãi Vòng"
+   ]
   },
   {
-   "name": "Bãi Đại",
+   "name": "바이다이 해변",
    "cat": "관광",
    "area": "",
    "lat": 10.33333,
    "lng": 103.85,
-   "wd": "Q32174355"
+   "wd": "Q32174355",
+   "aliases": [
+    "Bãi Đại"
+   ]
   }
  ]
 }

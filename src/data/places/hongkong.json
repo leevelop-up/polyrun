@@ -61,12 +61,15 @@
    "wd": "Q692288"
   },
   {
-   "name": "Jamia Mosque",
+   "name": "자미아 모스크",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.2802,
    "lng": 114.152,
-   "wd": "Q4022264"
+   "wd": "Q4022264",
+   "aliases": [
+    "Jamia Mosque"
+   ]
   },
   {
    "name": "주룽 공원",
@@ -116,12 +119,15 @@
    "wd": "Q5894671"
   },
   {
-   "name": "Stonecutters Bridge",
+   "name": "스톤커터스 대교",
    "cat": "관광",
    "area": "쿠이칭구",
    "lat": 22.32611,
    "lng": 114.11833,
-   "wd": "Q1587288"
+   "wd": "Q1587288",
+   "aliases": [
+    "Stonecutters Bridge"
+   ]
   },
   {
    "name": "홍콩 역사박물관",
@@ -160,12 +166,15 @@
    "wd": "Q908224"
   },
   {
-   "name": "Cathedral of the Immaculate Conception",
+   "name": "홍콩 무염시태 대성당",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.27868,
    "lng": 114.15389,
-   "wd": "Q1195474"
+   "wd": "Q1195474",
+   "aliases": [
+    "Cathedral of the Immaculate Conception"
+   ]
   },
   {
    "name": "빅토리아 공원",
@@ -204,52 +213,59 @@
    "wd": "Q598086"
   },
   {
-   "name": "King's College",
-   "cat": "관광",
-   "area": "중시구",
-   "lat": 22.2844,
-   "lng": 114.14,
-   "wd": "Q838926"
-  },
-  {
-   "name": "Ting Kau Bridge",
+   "name": "팅카우 대교",
    "cat": "관광",
    "area": "쿠이칭구",
    "lat": 22.36428,
    "lng": 114.07986,
-   "wd": "Q179329"
+   "wd": "Q179329",
+   "aliases": [
+    "Ting Kau Bridge"
+   ]
   },
   {
-   "name": "Wong Tai Sin Temple",
+   "name": "웡타이신 사원",
    "cat": "관광",
    "area": "웡다이신구",
    "lat": 22.34247,
    "lng": 114.19354,
-   "wd": "Q1116359"
+   "wd": "Q1116359",
+   "aliases": [
+    "Wong Tai Sin Temple"
+   ]
   },
   {
-   "name": "Kap Shui Mun Bridge",
+   "name": "깝수이문 대교",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.34425,
    "lng": 114.05536,
-   "wd": "Q3236838"
+   "wd": "Q3236838",
+   "aliases": [
+    "Kap Shui Mun Bridge"
+   ]
   },
   {
-   "name": "Stanley Mosque",
+   "name": "스탠리 모스크",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.215,
    "lng": 114.219,
-   "wd": "Q16242214"
+   "wd": "Q16242214",
+   "aliases": [
+    "Stanley Mosque"
+   ]
   },
   {
-   "name": "Hong Kong Science Museum",
+   "name": "홍콩 과학관",
    "cat": "관광",
    "area": "야우짐웡구",
    "lat": 22.30095,
    "lng": 114.17758,
-   "wd": "Q836319"
+   "wd": "Q836319",
+   "aliases": [
+    "Hong Kong Science Museum"
+   ]
   },
   {
    "name": "홍콩오션파크",
@@ -264,84 +280,114 @@
    "wd": "Q1207908"
   },
   {
-   "name": "Statue of Bruce Lee",
+   "name": "이소룡 동상",
    "cat": "관광",
    "area": "",
    "lat": 22.29562,
    "lng": 114.17642,
-   "wd": "Q4353553"
+   "wd": "Q4353553",
+   "aliases": [
+    "Statue of Bruce Lee"
+   ]
   },
   {
-   "name": "Rosary Church",
+   "name": "로사리 성당",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.3026,
    "lng": 114.176,
-   "wd": "Q4672514"
+   "wd": "Q4672514",
+   "aliases": [
+    "Rosary Church"
+   ]
   },
   {
-   "name": "Ammar Mosque and Osman Ramju Sadick Islamic Centre",
+   "name": "구룡 모스크",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.27742,
    "lng": 114.17883,
-   "wd": "Q15043712"
+   "wd": "Q15043712",
+   "aliases": [
+    "Ammar Mosque and Osman Ramju Sadick Islamic Centre"
+   ]
   },
   {
-   "name": "Chai Wan Mosque",
+   "name": "차이완 모스크",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.25944,
    "lng": 114.23306,
-   "wd": "Q15043716"
+   "wd": "Q15043716",
+   "aliases": [
+    "Chai Wan Mosque"
+   ]
   },
   {
-   "name": "Hong Kong Zoological and Botanical Gardens",
+   "name": "홍콩 동식물공원",
    "cat": "관광",
    "area": "중시구",
    "lat": 22.27778,
    "lng": 114.15639,
-   "wd": "Q220207"
+   "wd": "Q220207",
+   "aliases": [
+    "Hong Kong Zoological and Botanical Gardens"
+   ]
   },
   {
-   "name": "The Cenotaph",
+   "name": "홍콩 전몰자 기념비",
    "cat": "관광",
    "area": "중시구",
    "lat": 22.28163,
    "lng": 114.16058,
-   "wd": "Q986377"
+   "wd": "Q986377",
+   "aliases": [
+    "The Cenotaph"
+   ]
   },
   {
-   "name": "Hong Kong Museum of the War of Resistance and Coastal Defence",
+   "name": "홍콩 해방박물관",
    "cat": "관광",
    "area": "둥구",
    "lat": 22.28194,
    "lng": 114.23556,
-   "wd": "Q2918620"
+   "wd": "Q2918620",
+   "aliases": [
+    "Hong Kong Museum of the War of Resistance and Coastal Defence"
+   ]
   },
   {
-   "name": "Tamar Park",
+   "name": "타마르 공원",
    "cat": "관광",
    "area": "중시구",
    "lat": 22.2816,
    "lng": 114.166,
-   "wd": "Q11153720"
+   "wd": "Q11153720",
+   "aliases": [
+    "Tamar Park"
+   ]
   },
   {
-   "name": "Kadoorie Farm and Botanic Garden",
+   "name": "카두리 농장 식물원",
    "cat": "관광",
    "area": "위안랑구",
    "lat": 22.4335,
    "lng": 114.118,
-   "wd": "Q838392"
+   "wd": "Q838392",
+   "aliases": [
+    "Kadoorie Farm and Botanic Garden"
+   ]
   },
   {
-   "name": "M+",
+   "name": "M+ 미술관",
    "cat": "관광",
    "area": "West Kowloon Cultural District",
    "lat": 22.30096,
    "lng": 114.15964,
-   "wd": "Q10851500"
+   "wd": "Q10851500",
+   "aliases": [
+    "M+"
+   ]
   },
   {
    "name": "타임스 스퀘어",
@@ -355,12 +401,15 @@
    "wd": "Q836051"
   },
   {
-   "name": "Hong Kong China Temple",
+   "name": "홍콩 중국 성전",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.3404,
    "lng": 114.17732,
-   "wd": "Q3235464"
+   "wd": "Q3235464",
+   "aliases": [
+    "Hong Kong China Temple"
+   ]
   },
   {
    "name": "스카이100",
@@ -374,36 +423,48 @@
    "wd": "Q7537147"
   },
   {
-   "name": "Ibrahim Mosque",
+   "name": "이브라힘 모스크",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.3094,
    "lng": 114.165,
-   "wd": "Q16846334"
+   "wd": "Q16846334",
+   "aliases": [
+    "Ibrahim Mosque"
+   ]
   },
   {
-   "name": "Dr Sun Yat-sen Museum",
+   "name": "쑨원 기념관",
    "cat": "관광",
    "area": "중시구",
    "lat": 22.282,
    "lng": 114.151,
-   "wd": "Q856430"
+   "wd": "Q856430",
+   "aliases": [
+    "Dr Sun Yat-sen Museum"
+   ]
   },
   {
-   "name": "Golden Bauhinia Square",
+   "name": "골든 보히니아 광장",
    "cat": "관광",
    "area": "완자이구",
    "lat": 22.28427,
    "lng": 114.17376,
-   "wd": "Q5579185"
+   "wd": "Q5579185",
+   "aliases": [
+    "Golden Bauhinia Square"
+   ]
   },
   {
-   "name": "Statue Square",
+   "name": "황후상 광장",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.28165,
    "lng": 114.16004,
-   "wd": "Q840577"
+   "wd": "Q840577",
+   "aliases": [
+    "Statue Square"
+   ]
   },
   {
    "name": "홍콩해사박물관",
@@ -428,12 +489,15 @@
    "wd": "Q1595391"
   },
   {
-   "name": "General Post Office",
+   "name": "홍콩 중앙우체국",
    "cat": "관광",
    "area": "중완",
    "lat": 22.28342,
    "lng": 114.15959,
-   "wd": "Q840868"
+   "wd": "Q840868",
+   "aliases": [
+    "General Post Office"
+   ]
   },
   {
    "name": "종심법원대루",
@@ -480,111 +544,148 @@
    "wd": "Q842535"
   },
   {
-   "name": "Pinewood Battery",
+   "name": "파인우드 포대",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.2777,
    "lng": 114.136,
-   "wd": "Q2891719"
+   "wd": "Q2891719",
+   "aliases": [
+    "Pinewood Battery"
+   ]
   },
   {
-   "name": "iSQUARE",
+   "name": "아이스퀘어",
    "cat": "쇼핑",
    "area": "홍콩",
    "lat": 22.2969,
    "lng": 114.172,
    "aliases": [
+    "iSQUARE",
     "ISQUARE"
    ],
    "wd": "Q3010006"
   },
   {
-   "name": "Cheung Tsing Bridge",
+   "name": "청칭 대교",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.34944,
    "lng": 114.11344,
-   "wd": "Q3537417"
+   "wd": "Q3537417",
+   "aliases": [
+    "Cheung Tsing Bridge"
+   ]
   },
   {
-   "name": "Ap Lei Chau Bridge",
+   "name": "압레이차우 대교",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.2458,
    "lng": 114.16,
-   "wd": "Q3537427"
+   "wd": "Q3537427",
+   "aliases": [
+    "Ap Lei Chau Bridge"
+   ]
   },
   {
-   "name": "Law Uk Folk Museum",
+   "name": "로욱 민속관",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.2642,
    "lng": 114.236,
-   "wd": "Q6503119"
+   "wd": "Q6503119",
+   "aliases": [
+    "Law Uk Folk Museum"
+   ]
   },
   {
-   "name": "Wong Nai Chung Reservoir Park",
+   "name": "웡나이청 저수지 공원",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.2568,
    "lng": 114.195,
-   "wd": "Q6575655"
+   "wd": "Q6575655",
+   "aliases": [
+    "Wong Nai Chung Reservoir Park"
+   ]
   },
   {
-   "name": "Liu To Bridge",
+   "name": "라우토 대교",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.35152,
    "lng": 114.09803,
-   "wd": "Q6653756"
+   "wd": "Q6653756",
+   "aliases": [
+    "Liu To Bridge"
+   ]
   },
   {
-   "name": "Tai Po Waterfront Park",
+   "name": "타이포 해변공원",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.4524,
    "lng": 114.188,
-   "wd": "Q7675822"
+   "wd": "Q7675822",
+   "aliases": [
+    "Tai Po Waterfront Park"
+   ]
   },
   {
-   "name": "MegaBox",
+   "name": "메가박스",
    "cat": "쇼핑",
    "area": "홍콩",
    "lat": 22.3198,
    "lng": 114.208,
-   "wd": "Q8427777"
+   "wd": "Q8427777",
+   "aliases": [
+    "MegaBox"
+   ]
   },
   {
-   "name": "Khalsa Diwan Sikh Temple",
+   "name": "칼사 디완 시크 사원",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.2745,
    "lng": 114.178,
-   "wd": "Q12060993"
+   "wd": "Q12060993",
+   "aliases": [
+    "Khalsa Diwan Sikh Temple"
+   ]
   },
   {
-   "name": "Silverstrand Beach",
+   "name": "실버스트랜드 비치",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.32288,
    "lng": 114.2719,
-   "wd": "Q14475870"
+   "wd": "Q14475870",
+   "aliases": [
+    "Silverstrand Beach"
+   ]
   },
   {
-   "name": "Hong Kong Palace Museum",
+   "name": "홍콩 고궁박물관",
    "cat": "관광",
    "area": "야우짐웡구",
    "lat": 22.3021,
    "lng": 114.1556,
-   "wd": "Q28121712"
+   "wd": "Q28121712",
+   "aliases": [
+    "Hong Kong Palace Museum"
+   ]
   },
   {
-   "name": "Sunbeam Theatre",
+   "name": "선빔 극장",
    "cat": "관광",
    "area": "둥구",
    "lat": 22.2913,
    "lng": 114.2,
-   "wd": "Q2113185"
+   "wd": "Q2113185",
+   "aliases": [
+    "Sunbeam Theatre"
+   ]
   },
   {
    "name": "서항성",
@@ -631,116 +732,114 @@
    "wd": "Q7638632"
   },
   {
-   "name": "Amoy Gardens",
-   "cat": "쇼핑",
-   "area": "군통구",
-   "lat": 22.3244,
-   "lng": 114.217,
-   "wd": "Q4748011"
-  },
-  {
-   "name": "Morse Park",
+   "name": "모스 공원",
    "cat": "관광",
    "area": "웡다이신구",
    "lat": 22.3384,
    "lng": 114.191,
-   "wd": "Q863317"
+   "wd": "Q863317",
+   "aliases": [
+    "Morse Park"
+   ]
   },
   {
-   "name": "Nan Lian Garden",
+   "name": "난리안 가든",
    "cat": "관광",
    "area": "웡다이신구",
    "lat": 22.3391,
    "lng": 114.205,
-   "wd": "Q3531719"
+   "wd": "Q3531719",
+   "aliases": [
+    "Nan Lian Garden"
+   ]
   },
   {
-   "name": "Kwai Tsing Theatre",
+   "name": "콰이칭 극장",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.3569,
    "lng": 114.126,
-   "wd": "Q606350"
+   "wd": "Q606350",
+   "aliases": [
+    "Kwai Tsing Theatre"
+   ]
   },
   {
-   "name": "Lai Chi Kok Bridge",
+   "name": "라이치콕 대교",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.3374,
    "lng": 114.137,
-   "wd": "Q837014"
+   "wd": "Q837014",
+   "aliases": [
+    "Lai Chi Kok Bridge"
+   ]
   },
   {
-   "name": "Quarry Bay Park",
+   "name": "쿼리베이 공원",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.2889,
    "lng": 114.217,
-   "wd": "Q842529"
+   "wd": "Q842529",
+   "aliases": [
+    "Quarry Bay Park"
+   ]
   },
   {
-   "name": "Lei Cheng Uk Han Tomb Museum",
+   "name": "레이청욱 한묘 박물관",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.33809,
    "lng": 114.16002,
-   "wd": "Q843955"
+   "wd": "Q843955",
+   "aliases": [
+    "Lei Cheng Uk Han Tomb Museum"
+   ]
   },
   {
-   "name": "Che Kung Miu",
+   "name": "체쿵 사원",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.37348,
    "lng": 114.18289,
-   "wd": "Q877141"
+   "wd": "Q877141",
+   "aliases": [
+    "Che Kung Miu"
+   ]
   },
   {
-   "name": "Nam Cheong Park",
+   "name": "남청 공원",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.3241,
    "lng": 114.1573,
-   "wd": "Q1115491"
+   "wd": "Q1115491",
+   "aliases": [
+    "Nam Cheong Park"
+   ]
   },
   {
-   "name": "Fan Sin Temple",
+   "name": "판신 사원",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.4369,
    "lng": 114.164,
-   "wd": "Q2794106"
+   "wd": "Q2794106",
+   "aliases": [
+    "Fan Sin Temple"
+   ]
   },
   {
-   "name": "Wanchai Tower",
-   "cat": "관광",
-   "area": "홍콩",
-   "lat": 22.28,
-   "lng": 114.172,
-   "wd": "Q3052019"
-  },
-  {
-   "name": "CITIC Tower",
-   "cat": "관광",
-   "area": "홍콩",
-   "lat": 22.2807,
-   "lng": 114.16715,
-   "wd": "Q5011918"
-  },
-  {
-   "name": "China Hong Kong City",
+   "name": "차이나 홍콩 시티",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.3004,
    "lng": 114.168,
-   "wd": "Q5099721"
-  },
-  {
-   "name": "Connaught Place",
-   "cat": "관광",
-   "area": "홍콩",
-   "lat": 22.28361,
-   "lng": 114.15894,
-   "wd": "Q5161334"
+   "wd": "Q5099721",
+   "aliases": [
+    "China Hong Kong City"
+   ]
   },
   {
    "name": "홍콩의학박물관",
@@ -754,92 +853,92 @@
    "wd": "Q5894874"
   },
   {
-   "name": "Hong Kong Planning and Infrastructure Exhibition Gallery",
+   "name": "홍콩 도시계획 전시관",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.28246,
    "lng": 114.16196,
-   "wd": "Q5894932"
+   "wd": "Q5894932",
+   "aliases": [
+    "Hong Kong Planning and Infrastructure Exhibition Gallery"
+   ]
   },
   {
-   "name": "Lo Pan Temple",
+   "name": "로판 사원",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.283,
    "lng": 114.132,
-   "wd": "Q6663168"
+   "wd": "Q6663168",
+   "aliases": [
+    "Lo Pan Temple"
+   ]
   },
   {
-   "name": "Old Wan Chai Post Office",
+   "name": "옛 완차이 우체국",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.2743,
    "lng": 114.173,
-   "wd": "Q7085386"
+   "wd": "Q7085386",
+   "aliases": [
+    "Old Wan Chai Post Office"
+   ]
   },
   {
-   "name": "Opus Hong Kong",
-   "cat": "관광",
-   "area": "홍콩",
-   "lat": 22.2697,
-   "lng": 114.174,
-   "wd": "Q7099120"
-  },
-  {
-   "name": "Pak Tsz Lane Park",
+   "name": "팍치레인 공원",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.2834,
    "lng": 114.153,
-   "wd": "Q7125399"
+   "wd": "Q7125399",
+   "aliases": [
+    "Pak Tsz Lane Park"
+   ]
   },
   {
-   "name": "St Andrew's Church",
+   "name": "세인트앤드루 교회",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.3019,
    "lng": 114.172,
-   "wd": "Q7586837"
+   "wd": "Q7586837",
+   "aliases": [
+    "St Andrew's Church"
+   ]
   },
   {
-   "name": "Star House",
-   "cat": "쇼핑",
-   "area": "홍콩",
-   "lat": 22.2947,
-   "lng": 114.169,
-   "wd": "Q7600753"
-  },
-  {
-   "name": "The ONE",
+   "name": "더 원",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.2998,
    "lng": 114.172,
-   "wd": "Q7754563"
+   "wd": "Q7754563",
+   "aliases": [
+    "The ONE"
+   ]
   },
   {
-   "name": "All Saints' Cathedral",
+   "name": "모든 성인 대성당",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.31738,
    "lng": 114.1735,
-   "wd": "Q13358355"
+   "wd": "Q13358355",
+   "aliases": [
+    "All Saints' Cathedral"
+   ]
   },
   {
-   "name": "Our Lady of Mount Carmel Church (Wan Chai)",
+   "name": "갈멜산 성모 성당",
    "cat": "관광",
    "area": "홍콩",
    "lat": 22.27589,
    "lng": 114.16851,
-   "wd": "Q15905605"
-  },
-  {
-   "name": "China Resources Building",
-   "cat": "관광",
-   "area": "홍콩",
-   "lat": 22.2802,
-   "lng": 114.175,
-   "wd": "Q15909631"
+   "wd": "Q15905605",
+   "aliases": [
+    "Our Lady of Mount Carmel Church (Wan Chai)"
+   ]
   },
   {
    "name": "패션 워크",
@@ -853,12 +952,15 @@
    "wd": "Q23888262"
   },
   {
-   "name": "New Town Plaza",
+   "name": "뉴타운 플라자",
    "cat": "쇼핑",
    "area": "사톈구",
    "lat": 22.3819,
    "lng": 114.188,
-   "wd": "Q7012146"
+   "wd": "Q7012146",
+   "aliases": [
+    "New Town Plaza"
+   ]
   },
   {
    "name": "하버시티",
@@ -872,36 +974,48 @@
    "wd": "Q5654807"
   },
   {
-   "name": "Yaumati Theatre",
+   "name": "야우마테이 극장",
    "cat": "관광",
    "area": "야우짐웡구",
    "lat": 22.3124,
    "lng": 114.169,
-   "wd": "Q8050344"
+   "wd": "Q8050344",
+   "aliases": [
+    "Yaumati Theatre"
+   ]
   },
   {
-   "name": "Kowloon Union Church",
+   "name": "구룡 연합교회",
    "cat": "관광",
    "area": "야우짐웡구",
    "lat": 22.30556,
    "lng": 114.17278,
-   "wd": "Q10879085"
+   "wd": "Q10879085",
+   "aliases": [
+    "Kowloon Union Church"
+   ]
   },
   {
-   "name": "Salisbury Garden",
+   "name": "솔즈베리 가든",
    "cat": "관광",
    "area": "야우짐웡구",
    "lat": 22.29399,
    "lng": 114.1729,
-   "wd": "Q11116058"
+   "wd": "Q11116058",
+   "aliases": [
+    "Salisbury Garden"
+   ]
   },
   {
-   "name": "Victoria Dockside",
+   "name": "빅토리아 독사이드",
    "cat": "관광",
    "area": "야우짐웡구",
    "lat": 22.29496,
    "lng": 114.17543,
-   "wd": "Q18118478"
+   "wd": "Q18118478",
+   "aliases": [
+    "Victoria Dockside"
+   ]
   },
   {
    "name": "드래건 센터",

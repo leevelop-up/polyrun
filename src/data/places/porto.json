@@ -14,12 +14,15 @@
    "wd": "Q1322447"
   },
   {
-   "name": "Casa da Música",
+   "name": "카사 다 무지카",
    "cat": "관광",
    "area": "포르투",
    "lat": 41.15889,
    "lng": -8.63071,
-   "wd": "Q917274"
+   "wd": "Q917274",
+   "aliases": [
+    "Casa da Música"
+   ]
   },
   {
    "name": "포르투 대성당",
@@ -89,220 +92,268 @@
    "wd": "Q18642"
   },
   {
-   "name": "Arrábida Bridge",
+   "name": "아라비다 다리",
    "cat": "관광",
    "area": "Santa Marinha e São Pedro da Afurada",
    "lat": 41.14747,
    "lng": -8.64034,
-   "wd": "Q1785740"
+   "wd": "Q1785740",
+   "aliases": [
+    "Arrábida Bridge"
+   ]
   },
   {
-   "name": "Igreja de Santa Clara",
+   "name": "산타 클라라 성당",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.1425,
    "lng": -8.60917,
-   "wd": "Q3819477"
+   "wd": "Q3819477",
+   "aliases": [
+    "Igreja de Santa Clara"
+   ]
   },
   {
-   "name": "National Museum Soares dos Reis",
+   "name": "소아르스 두스 헤이스 국립미술관",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.14778,
    "lng": -8.62167,
-   "wd": "Q1141468"
+   "wd": "Q1141468",
+   "aliases": [
+    "National Museum Soares dos Reis"
+   ]
   },
   {
-   "name": "Freixo Bridge",
-   "cat": "관광",
-   "area": "Campanhã",
-   "lat": 41.14171,
-   "lng": -8.58087,
-   "wd": "Q951109"
-  },
-  {
-   "name": "Kadoorie Synagogue",
+   "name": "카도리 시나고그",
    "cat": "관광",
    "area": "Lordelo do Ouro e Massarelos",
    "lat": 41.15592,
    "lng": -8.63688,
-   "wd": "Q1140204"
+   "wd": "Q1140204",
+   "aliases": [
+    "Kadoorie Synagogue"
+   ]
   },
   {
-   "name": "Ponte de São João",
-   "cat": "관광",
-   "area": "Bonfim",
-   "lat": 41.13889,
-   "lng": -8.59528,
-   "wd": "Q7228153"
-  },
-  {
-   "name": "Factory House",
+   "name": "팩토리 하우스",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.14152,
    "lng": -8.61367,
-   "wd": "Q1402131"
+   "wd": "Q1402131",
+   "aliases": [
+    "Factory House"
+   ]
   },
   {
-   "name": "Serralves Museum of Contemporary Art",
+   "name": "세하우베스 현대미술관",
    "cat": "관광",
    "area": "Lordelo do Ouro e Massarelos",
    "lat": 41.15913,
    "lng": -8.65945,
-   "wd": "Q1954380"
+   "wd": "Q1954380",
+   "aliases": [
+    "Serralves Museum of Contemporary Art"
+   ]
   },
   {
-   "name": "Ribeira Square",
+   "name": "히베이라 광장",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.1407,
    "lng": -8.613,
-   "wd": "Q7322292"
+   "wd": "Q7322292",
+   "aliases": [
+    "Ribeira Square"
+   ]
   },
   {
-   "name": "Clerigos tower",
+   "name": "클레리구스 탑",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.14569,
    "lng": -8.61462,
-   "wd": "Q20986654"
+   "wd": "Q20986654",
+   "aliases": [
+    "Clerigos tower"
+   ]
   },
   {
-   "name": "Episcopal Palace, Porto",
+   "name": "주교 궁전",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.142,
    "lng": -8.6116,
-   "wd": "Q1107442"
+   "wd": "Q1107442",
+   "aliases": [
+    "Episcopal Palace, Porto"
+   ]
   },
   {
-   "name": "São João National Theatre",
+   "name": "상 주앙 국립극장",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.14463,
    "lng": -8.60746,
-   "wd": "Q1109226"
+   "wd": "Q1109226",
+   "aliases": [
+    "São João National Theatre"
+   ]
   },
   {
-   "name": "Fort of São Francisco do Queijo",
+   "name": "상 프란시스쿠 두 케이주 요새",
    "cat": "관광",
    "area": "Aldoar, Foz do Douro e Nevogilde",
    "lat": 41.16862,
    "lng": -8.68999,
-   "wd": "Q1438936"
+   "wd": "Q1438936",
+   "aliases": [
+    "Fort of São Francisco do Queijo"
+   ]
   },
   {
-   "name": "Casa de Serralves",
+   "name": "세하우베스 저택",
    "cat": "관광",
    "area": "Lordelo do Ouro e Massarelos",
    "lat": 41.15949,
    "lng": -8.65637,
-   "wd": "Q2940773"
+   "wd": "Q2940773",
+   "aliases": [
+    "Casa de Serralves"
+   ]
   },
   {
-   "name": "Palácio do Freixo",
+   "name": "프레이슈 궁전",
    "cat": "관광",
    "area": "Campanhã",
    "lat": 41.14252,
    "lng": -8.57479,
-   "wd": "Q9054487"
+   "wd": "Q9054487",
+   "aliases": [
+    "Palácio do Freixo"
+   ]
   },
   {
-   "name": "Infante Dom Henrique bridge",
+   "name": "인판트 동 엔히크 다리",
    "cat": "관광",
    "area": "Bonfim",
    "lat": 41.14111,
    "lng": -8.60167,
-   "wd": "Q9064482"
+   "wd": "Q9064482",
+   "aliases": [
+    "Infante Dom Henrique bridge"
+   ]
   },
   {
-   "name": "Liberdade Square",
+   "name": "리베르다드 광장",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.1465,
    "lng": -8.6114,
-   "wd": "Q6541071"
+   "wd": "Q6541071",
+   "aliases": [
+    "Liberdade Square"
+   ]
   },
   {
-   "name": "Rotunda da Boavista",
+   "name": "보아비스타 로터리",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.15813,
    "lng": -8.62915,
-   "wd": "Q7370714"
+   "wd": "Q7370714",
+   "aliases": [
+    "Rotunda da Boavista"
+   ]
   },
   {
-   "name": "Igreja da Misericórdia do Porto",
+   "name": "미제리코르디아 성당",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.14359,
    "lng": -8.61464,
-   "wd": "Q10300284"
+   "wd": "Q10300284",
+   "aliases": [
+    "Igreja da Misericórdia do Porto"
+   ]
   },
   {
-   "name": "Fountain of the Virtues",
+   "name": "미덕의 분수",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.14466,
    "lng": -8.61896,
-   "wd": "Q1058768"
+   "wd": "Q1058768",
+   "aliases": [
+    "Fountain of the Virtues"
+   ]
   },
   {
-   "name": "Super Bock Group",
-   "cat": "관광",
-   "area": "Custóias, Leça do Balio e Guifões",
-   "lat": 41.21474,
-   "lng": -8.62542,
-   "wd": "Q1430249"
-  },
-  {
-   "name": "Batalha Square",
+   "name": "바탈랴 광장",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.1453,
    "lng": -8.6071,
-   "wd": "Q4868561"
+   "wd": "Q4868561",
+   "aliases": [
+    "Batalha Square"
+   ]
   },
   {
-   "name": "Fountain of São Miguel",
+   "name": "상 미겔 분수",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.14306,
    "lng": -8.61083,
-   "wd": "Q5066770"
+   "wd": "Q5066770",
+   "aliases": [
+    "Fountain of São Miguel"
+   ]
   },
   {
-   "name": "Capela das Almas",
+   "name": "알마스 예배당",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.14986,
    "lng": -8.60556,
-   "wd": "Q9695712"
+   "wd": "Q9695712",
+   "aliases": [
+    "Capela das Almas"
+   ]
   },
   {
-   "name": "Igreja da Trindade",
+   "name": "트린다드 성당",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.15109,
    "lng": -8.61034,
-   "wd": "Q10300304"
+   "wd": "Q10300304",
+   "aliases": [
+    "Igreja da Trindade"
+   ]
   },
   {
-   "name": "Gardens of the Palácio de Cristal",
+   "name": "수정궁 정원",
    "cat": "관광",
    "area": "Lordelo do Ouro e Massarelos",
    "lat": 41.14706,
    "lng": -8.62646,
-   "wd": "Q10306385"
+   "wd": "Q10306385",
+   "aliases": [
+    "Gardens of the Palácio de Cristal"
+   ]
   },
   {
-   "name": "Fernandine Wall (Porto)",
+   "name": "페르난디나 성벽",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.14283,
    "lng": -8.60842,
-   "wd": "Q10333266"
+   "wd": "Q10333266",
+   "aliases": [
+    "Fernandine Wall (Porto)"
+   ]
   },
   {
    "name": "포르투 포도주 박물관",
@@ -316,516 +367,631 @@
    "wd": "Q81792536"
   },
   {
-   "name": "Monument to Pedro IV (Porto)",
+   "name": "페드루 4세 기념비",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.1465,
    "lng": -8.61136,
-   "wd": "Q11783"
+   "wd": "Q11783",
+   "aliases": [
+    "Monument to Pedro IV (Porto)"
+   ]
   },
   {
-   "name": "Holocaust Museum of Oporto",
+   "name": "포르투 홀로코스트 박물관",
    "cat": "관광",
    "area": "포르투",
    "lat": 41.15298,
    "lng": -8.63772,
-   "wd": "Q106689700"
+   "wd": "Q106689700",
+   "aliases": [
+    "Holocaust Museum of Oporto"
+   ]
   },
   {
-   "name": "Church of the Sacred Heart of Jesus",
+   "name": "예수 성심 성당",
    "cat": "관광",
    "area": "포르투현",
    "lat": 41.2078,
    "lng": -8.55236,
-   "wd": "Q15286880"
+   "wd": "Q15286880",
+   "aliases": [
+    "Church of the Sacred Heart of Jesus"
+   ]
   },
   {
-   "name": "Igreja paroquial de Matosinhos, incluindo o seu recheio",
+   "name": "마토지뉴스 교구 성당",
    "cat": "관광",
    "area": "Matosinhos e Leça da Palmeira",
    "lat": 41.18678,
    "lng": -8.68396,
-   "wd": "Q5486304"
+   "wd": "Q5486304",
+   "aliases": [
+    "Igreja paroquial de Matosinhos, incluindo o seu recheio"
+   ]
   },
   {
-   "name": "Boa Nova Lighthouse",
+   "name": "보아 노바 등대",
    "cat": "관광",
    "area": "Matosinhos e Leça da Palmeira",
    "lat": 41.20132,
    "lng": -8.71212,
-   "wd": "Q10280159"
+   "wd": "Q10280159",
+   "aliases": [
+    "Boa Nova Lighthouse"
+   ]
   },
   {
-   "name": "King Charles Albert chapel",
+   "name": "카를로 알베르토 왕 예배당",
    "cat": "관광",
    "area": "Lordelo do Ouro e Massarelos",
    "lat": 41.14605,
    "lng": -8.62684,
-   "wd": "Q127708"
+   "wd": "Q127708",
+   "aliases": [
+    "King Charles Albert chapel"
+   ]
   },
   {
-   "name": "Café Guarany",
+   "name": "카페 과라니",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.14785,
    "lng": -8.6114,
-   "wd": "Q977178"
+   "wd": "Q977178",
+   "aliases": [
+    "Café Guarany"
+   ]
   },
   {
-   "name": "Igreja de São Miguel de Nevogilde",
+   "name": "네보질드 상 미겔 성당",
    "cat": "관광",
    "area": "Aldoar, Foz do Douro e Nevogilde",
    "lat": 41.1641,
    "lng": -8.67679,
-   "wd": "Q1269368"
+   "wd": "Q1269368",
+   "aliases": [
+    "Igreja de São Miguel de Nevogilde"
+   ]
   },
   {
-   "name": "Sea Life Porto",
+   "name": "씨라이프 포르투",
    "cat": "관광",
    "area": "Aldoar, Foz do Douro e Nevogilde",
    "lat": 41.16812,
    "lng": -8.68722,
-   "wd": "Q1439061"
+   "wd": "Q1439061",
+   "aliases": [
+    "Sea Life Porto"
+   ]
   },
   {
-   "name": "Coliseu do Porto",
+   "name": "콜리세우 두 포르투",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.1469,
    "lng": -8.60551,
-   "wd": "Q2982699"
+   "wd": "Q2982699",
+   "aliases": [
+    "Coliseu do Porto"
+   ]
   },
   {
-   "name": "Church of São Martinho de Cedofeita",
+   "name": "세도페이타 상 마르티뉴 성당",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.15579,
    "lng": -8.6217,
-   "wd": "Q3780685"
+   "wd": "Q3780685",
+   "aliases": [
+    "Church of São Martinho de Cedofeita"
+   ]
   },
   {
-   "name": "Rivoli Theatre",
+   "name": "히볼리 극장",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.14776,
    "lng": -8.60972,
-   "wd": "Q3826131"
+   "wd": "Q3826131",
+   "aliases": [
+    "Rivoli Theatre"
+   ]
   },
   {
-   "name": "Ponte pênsil D. Maria II",
+   "name": "도나 마리아 2세 현수교",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.14066,
    "lng": -8.60992,
-   "wd": "Q4679099"
+   "wd": "Q4679099",
+   "aliases": [
+    "Ponte pênsil D. Maria II"
+   ]
   },
   {
-   "name": "Chafariz da Colher",
+   "name": "콜례르 분수",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.14369,
    "lng": -8.6214,
-   "wd": "Q5066766"
+   "wd": "Q5066766",
+   "aliases": [
+    "Chafariz da Colher"
+   ]
   },
   {
-   "name": "Fountain of Rua das Taipas",
+   "name": "타이파스 거리 분수",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.14306,
    "lng": -8.61778,
-   "wd": "Q5066769"
+   "wd": "Q5066769",
+   "aliases": [
+    "Fountain of Rua das Taipas"
+   ]
   },
   {
-   "name": "Torre de Pedro-Sem",
+   "name": "페드루 셍 탑",
    "cat": "관광",
    "area": "Lordelo do Ouro e Massarelos",
    "lat": 41.1492,
    "lng": -8.625,
-   "wd": "Q7826991"
+   "wd": "Q7826991",
+   "aliases": [
+    "Torre de Pedro-Sem"
+   ]
   },
   {
-   "name": "Igreja do Carmo",
+   "name": "카르무 성당",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.14749,
    "lng": -8.61627,
-   "wd": "Q10300891"
+   "wd": "Q10300891",
+   "aliases": [
+    "Igreja do Carmo"
+   ]
   },
   {
-   "name": "Igreja dos Congregados",
+   "name": "콩그레가두스 성당",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.14627,
    "lng": -8.61074,
-   "wd": "Q10300949"
+   "wd": "Q10300949",
+   "aliases": [
+    "Igreja dos Congregados"
+   ]
   },
   {
-   "name": "Jardim Botânico do Porto",
+   "name": "포르투 식물원",
    "cat": "관광",
    "area": "Lordelo do Ouro e Massarelos",
    "lat": 41.15333,
    "lng": -8.64308,
-   "wd": "Q10305543"
+   "wd": "Q10305543",
+   "aliases": [
+    "Jardim Botânico do Porto"
+   ]
   },
   {
-   "name": "Torre do Lidador",
+   "name": "리다도르 탑",
    "cat": "관광",
    "area": "Freguesia de Cidade da Maia",
    "lat": 41.23341,
    "lng": -8.62209,
-   "wd": "Q10383765"
+   "wd": "Q10383765",
+   "aliases": [
+    "Torre do Lidador"
+   ]
   },
   {
-   "name": "Fountain of the Lions (Porto)",
+   "name": "사자 분수",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.14714,
    "lng": -8.61559,
-   "wd": "Q66814756"
+   "wd": "Q66814756",
+   "aliases": [
+    "Fountain of the Lions (Porto)"
+   ]
   },
   {
-   "name": "City walls of Porto",
+   "name": "포르투 성벽",
    "cat": "관광",
    "area": "포르투",
    "lat": 41.14262,
    "lng": -8.61137,
-   "wd": "Q10333277"
+   "wd": "Q10333277",
+   "aliases": [
+    "City walls of Porto"
+   ]
   },
   {
-   "name": "NorteShopping",
+   "name": "노르테쇼핑",
    "cat": "쇼핑",
    "area": "São Mamede de Infesta e Senhora da Hora",
    "lat": 41.1806,
    "lng": -8.65564,
-   "wd": "Q3344070"
+   "wd": "Q3344070",
+   "aliases": [
+    "NorteShopping"
+   ]
   },
   {
-   "name": "Igreja Paroquial de Gondomar",
+   "name": "곤도마르 교구 성당",
    "cat": "관광",
    "area": "Gondomar (São Cosme), Valbom e Jovim",
    "lat": 41.13521,
    "lng": -8.53273,
-   "wd": "Q1412412"
+   "wd": "Q1412412",
+   "aliases": [
+    "Igreja Paroquial de Gondomar"
+   ]
   },
   {
-   "name": "Praça de Gonçalves Zarco",
+   "name": "곤살베스 자르쿠 광장",
    "cat": "관광",
    "area": "Aldoar, Foz do Douro e Nevogilde",
    "lat": 41.16791,
    "lng": -8.68862,
-   "wd": "Q2108144"
+   "wd": "Q2108144",
+   "aliases": [
+    "Praça de Gonçalves Zarco"
+   ]
   },
   {
-   "name": "Capela dos Alfaiates",
+   "name": "재단사 예배당",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.14326,
    "lng": -8.6074,
-   "wd": "Q3818151"
+   "wd": "Q3818151",
+   "aliases": [
+    "Capela dos Alfaiates"
+   ]
   },
   {
-   "name": "Casa da Câmara",
-   "cat": "관광",
-   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
-   "lat": 41.14306,
-   "lng": -8.61155,
-   "wd": "Q4774734"
-  },
-  {
-   "name": "English Club of Porto",
-   "cat": "관광",
-   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
-   "lat": 41.14333,
-   "lng": -8.61806,
-   "wd": "Q4774755"
-  },
-  {
-   "name": "Fountain of Passeio Alegre",
+   "name": "파세이우 알레그르 분수",
    "cat": "관광",
    "area": "Aldoar, Foz do Douro e Nevogilde",
    "lat": 41.14861,
    "lng": -8.6725,
-   "wd": "Q5066768"
+   "wd": "Q5066768",
+   "aliases": [
+    "Fountain of Passeio Alegre"
+   ]
   },
   {
-   "name": "Cinema Batalha (Porto)",
+   "name": "바탈랴 영화관",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.14556,
    "lng": -8.60694,
-   "wd": "Q5120699"
+   "wd": "Q5120699",
+   "aliases": [
+    "Cinema Batalha (Porto)"
+   ]
   },
   {
-   "name": "Igreja dos Grilos",
+   "name": "그릴루스 성당",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.14197,
    "lng": -8.6124,
-   "wd": "Q5994345"
+   "wd": "Q5994345",
+   "aliases": [
+    "Igreja dos Grilos"
+   ]
   },
   {
-   "name": "Carrancas Palace",
+   "name": "카랑카스 궁전",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.14774,
    "lng": -8.62154,
-   "wd": "Q7128893"
+   "wd": "Q7128893",
+   "aliases": [
+    "Carrancas Palace"
+   ]
   },
   {
-   "name": "Tower of D. Pedro Pitões",
+   "name": "동 페드루 피통이스 탑",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.14278,
    "lng": -8.61217,
-   "wd": "Q7826968"
+   "wd": "Q7826968",
+   "aliases": [
+    "Tower of D. Pedro Pitões"
+   ]
   },
   {
-   "name": "São Miguel-o-Anjo Lighthouse",
+   "name": "상 미겔 우 안주 등대",
    "cat": "관광",
    "area": "Aldoar, Foz do Douro e Nevogilde",
    "lat": 41.147,
    "lng": -8.66667,
-   "wd": "Q10280175"
+   "wd": "Q10280175",
+   "aliases": [
+    "São Miguel-o-Anjo Lighthouse"
+   ]
   },
   {
-   "name": "Felgueiras Lighthouse",
+   "name": "펠게이라스 등대",
    "cat": "관광",
    "area": "Aldoar, Foz do Douro e Nevogilde",
    "lat": 41.14674,
    "lng": -8.67729,
-   "wd": "Q10280208"
+   "wd": "Q10280208",
+   "aliases": [
+    "Felgueiras Lighthouse"
+   ]
   },
   {
-   "name": "Igreja da Ordem do Terço",
+   "name": "테르수 성당",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.14467,
    "lng": -8.60817,
-   "wd": "Q10300296"
+   "wd": "Q10300296",
+   "aliases": [
+    "Igreja da Ordem do Terço"
+   ]
   },
   {
-   "name": "Igreja dos Carmelitas Descalços",
+   "name": "맨발 가르멜회 성당",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.14747,
    "lng": -8.61646,
-   "wd": "Q10300948"
+   "wd": "Q10300948",
+   "aliases": [
+    "Igreja dos Carmelitas Descalços"
+   ]
   },
   {
-   "name": "Monumento aos Heróis da Guerra Peninsular",
+   "name": "반도전쟁 영웅 기념비",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.15794,
    "lng": -8.62907,
-   "wd": "Q10332160"
+   "wd": "Q10332160",
+   "aliases": [
+    "Monumento aos Heróis da Guerra Peninsular"
+   ]
   },
   {
-   "name": "Parque da Cidade do Porto",
+   "name": "포르투 시티 파크",
    "cat": "관광",
    "area": "Aldoar, Foz do Douro e Nevogilde",
    "lat": 41.16861,
    "lng": -8.67833,
-   "wd": "Q10345423"
+   "wd": "Q10345423",
+   "aliases": [
+    "Parque da Cidade do Porto"
+   ]
   },
   {
-   "name": "Parque de Serralves",
+   "name": "세하우베스 공원",
    "cat": "관광",
    "area": "Lordelo do Ouro e Massarelos",
    "lat": 41.15778,
    "lng": -8.65722,
-   "wd": "Q10345496"
+   "wd": "Q10345496",
+   "aliases": [
+    "Parque de Serralves"
+   ]
   },
   {
-   "name": "Gabinete de Numismática",
-   "cat": "관광",
-   "area": "",
-   "lat": 41.14909,
-   "lng": -8.61529,
-   "wd": "Q10287828"
-  },
-  {
-   "name": "Igreja de Nossa Senhora do Ó de Águas Santas",
+   "name": "아과스 산타스 성모 성당",
    "cat": "관광",
    "area": "Águas Santas",
    "lat": 41.21043,
    "lng": -8.57725,
-   "wd": "Q5994135"
+   "wd": "Q5994135",
+   "aliases": [
+    "Igreja de Nossa Senhora do Ó de Águas Santas"
+   ]
   },
   {
-   "name": "Igreja Matriz do Bonfim",
+   "name": "봉핑 교구 성당",
    "cat": "관광",
    "area": "Bonfim",
    "lat": 41.15167,
    "lng": -8.59306,
-   "wd": "Q10300136"
+   "wd": "Q10300136",
+   "aliases": [
+    "Igreja Matriz do Bonfim"
+   ]
   },
   {
-   "name": "Casa Museu Fernando de Castro",
+   "name": "페르난두 드 카스트루 저택 박물관",
    "cat": "관광",
    "area": "Paranhos",
    "lat": 41.1664,
    "lng": -8.59585,
-   "wd": "Q19903755"
+   "wd": "Q19903755",
+   "aliases": [
+    "Casa Museu Fernando de Castro"
+   ]
   },
   {
-   "name": "Alameda Shop & Spot",
+   "name": "알라메다 쇼핑",
    "cat": "쇼핑",
    "area": "Campanhã",
    "lat": 41.164,
    "lng": -8.58377,
-   "wd": "Q3033866"
+   "wd": "Q3033866",
+   "aliases": [
+    "Alameda Shop & Spot"
+   ]
   },
   {
-   "name": "Museu Militar do Porto",
+   "name": "포르투 군사박물관",
    "cat": "관광",
    "area": "Bonfim",
    "lat": 41.14593,
    "lng": -8.59528,
-   "wd": "Q6940603"
+   "wd": "Q6940603",
+   "aliases": [
+    "Museu Militar do Porto"
+   ]
   },
   {
-   "name": "Fort of Leça de Palmeira",
+   "name": "레사 다 팔메이라 요새",
    "cat": "관광",
    "area": "Matosinhos e Leça da Palmeira",
    "lat": 41.18761,
    "lng": -8.70228,
-   "wd": "Q5472482"
+   "wd": "Q5472482",
+   "aliases": [
+    "Fort of Leça de Palmeira"
+   ]
   },
   {
-   "name": "Praia de Valadares",
+   "name": "발라다르스 해변",
    "cat": "관광",
    "area": "Gulpilhares e Valadares",
    "lat": 41.08689,
    "lng": -8.65656,
-   "wd": "Q7237781"
+   "wd": "Q7237781",
+   "aliases": [
+    "Praia de Valadares"
+   ]
   },
   {
-   "name": "Jardim do Morro",
+   "name": "모후 정원",
    "cat": "관광",
    "area": "Santa Marinha e São Pedro da Afurada",
    "lat": 41.13713,
    "lng": -8.60941,
-   "wd": "Q10306339"
+   "wd": "Q10306339",
+   "aliases": [
+    "Jardim do Morro"
+   ]
   },
   {
-   "name": "Praça da Galiza",
+   "name": "갈리자 광장",
    "cat": "관광",
    "area": "Lordelo do Ouro e Massarelos",
    "lat": 41.15248,
    "lng": -8.62675,
-   "wd": "Q932334"
+   "wd": "Q932334",
+   "aliases": [
+    "Praça da Galiza"
+   ]
   },
   {
-   "name": "Quiosque do Serviço de Transportes Colectivos do Porto",
-   "cat": "관광",
-   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
-   "lat": 41.14654,
-   "lng": -8.61169,
-   "wd": "Q954483"
-  },
-  {
-   "name": "Olympia Cinema",
-   "cat": "관광",
-   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
-   "lat": 41.14692,
-   "lng": -8.60593,
-   "wd": "Q1092433"
-  },
-  {
-   "name": "Praça da Cidade do Salvador",
+   "name": "사우바도르 시티 광장",
    "cat": "관광",
    "area": "Aldoar, Foz do Douro e Nevogilde",
    "lat": 41.17338,
    "lng": -8.68871,
-   "wd": "Q1304335"
+   "wd": "Q1304335",
+   "aliases": [
+    "Praça da Cidade do Salvador"
+   ]
   },
   {
-   "name": "Fundação Dr. António Cupertino de Miranda",
+   "name": "쿠페르티누 드 미란다 재단",
    "cat": "관광",
    "area": "Aldoar, Foz do Douro e Nevogilde",
    "lat": 41.16494,
    "lng": -8.67321,
-   "wd": "Q1474153"
+   "wd": "Q1474153",
+   "aliases": [
+    "Fundação Dr. António Cupertino de Miranda"
+   ]
   },
   {
-   "name": "Praça de Carlos Alberto",
+   "name": "카를루스 알베르투 광장",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.14844,
    "lng": -8.61586,
-   "wd": "Q2108138"
+   "wd": "Q2108138",
+   "aliases": [
+    "Praça de Carlos Alberto"
+   ]
   },
   {
-   "name": "Monumento a Almeida Garrett",
+   "name": "알메이다 가헤트 기념비",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.14969,
    "lng": -8.61071,
-   "wd": "Q2649664"
+   "wd": "Q2649664",
+   "aliases": [
+    "Monumento a Almeida Garrett"
+   ]
   },
   {
-   "name": "College of the Marists",
-   "cat": "관광",
-   "area": "Lordelo do Ouro e Massarelos",
-   "lat": 41.16,
-   "lng": -8.63972,
-   "wd": "Q5150419"
-  },
-  {
-   "name": "Palacete of the Visconts of Balsemão",
+   "name": "발제망 자작 저택",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.14889,
    "lng": -8.61528,
-   "wd": "Q7126293"
+   "wd": "Q7126293",
+   "aliases": [
+    "Palacete of the Visconts of Balsemão"
+   ]
   },
   {
-   "name": "Museu Aurélia e Sofia de Souza",
+   "name": "아우렐리아·소피아 드 소우자 박물관",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.15944,
    "lng": -8.62538,
-   "wd": "Q9698020"
+   "wd": "Q9698020",
+   "aliases": [
+    "Museu Aurélia e Sofia de Souza"
+   ]
   },
   {
-   "name": "Casa do Cabido da Sé do Porto",
-   "cat": "관광",
-   "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
-   "lat": 41.14257,
-   "lng": -8.61157,
-   "wd": "Q9698782"
-  },
-  {
-   "name": "Senhora da Luz Lighthouse",
+   "name": "세뇨라 다 루스 등대",
    "cat": "관광",
    "area": "Aldoar, Foz do Douro e Nevogilde",
    "lat": 41.15444,
    "lng": -8.67748,
-   "wd": "Q10280141"
+   "wd": "Q10280141",
+   "aliases": [
+    "Senhora da Luz Lighthouse"
+   ]
   },
   {
-   "name": "Forte de São João Baptista da Foz",
+   "name": "포즈 상 주앙 바티스타 요새",
    "cat": "관광",
    "area": "Aldoar, Foz do Douro e Nevogilde",
    "lat": 41.14889,
    "lng": -8.67444,
-   "wd": "Q10284015"
+   "wd": "Q10284015",
+   "aliases": [
+    "Forte de São João Baptista da Foz"
+   ]
   },
   {
-   "name": "Igreja da Lapa",
+   "name": "라파 성당",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.15711,
    "lng": -8.61212,
-   "wd": "Q10300248"
+   "wd": "Q10300248",
+   "aliases": [
+    "Igreja da Lapa"
+   ]
   },
   {
-   "name": "Igreja de Nossa Senhora da Esperança",
+   "name": "에스페란사 성모 성당",
    "cat": "관광",
    "area": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
    "lat": 41.1454,
    "lng": -8.60239,
-   "wd": "Q10300386"
+   "wd": "Q10300386",
+   "aliases": [
+    "Igreja de Nossa Senhora da Esperança"
+   ]
   }
  ]
 }
