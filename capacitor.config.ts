@@ -2,7 +2,7 @@ import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'com.polyrun.app',
-  appName: '폴리트립',
+  appName: '런플리',
   webDir: 'dist',
   plugins: {
     AdMob: {
