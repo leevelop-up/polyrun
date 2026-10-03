@@ -34,7 +34,7 @@ const NavCard: React.FC<{ nav: NavState; trip: Trip }> = ({ nav, trip }) => {
           <div style={{ flexShrink: 0, width: 24, height: 24, boxSizing: 'border-box', border: '2px solid #14162B', borderRadius: 5, background: CAT_COLORS[target.cat][0], color: CAT_COLORS[target.cat][1], display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: "'DM Mono', monospace", fontSize: 12, fontWeight: 500 }}>{num}</div>
         )}
         <div style={{ flexGrow: 1, minWidth: 0, fontFamily: "'Black Han Sans', sans-serif", fontSize: 18, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{headline}</div>
-        {nav.leg && nav.status === 'moving' && (
+        {nav.leg && !nav.leg.far && nav.status === 'moving' && (
           <div style={{ flexShrink: 0, padding: '2px 8px', border: '2px solid #14162B', borderRadius: 999, background: movingModeOf(nav) === 'car' ? '#2F3CF0' : '#7BD4A0', color: movingModeOf(nav) === 'car' ? '#FFFFFF' : INK, fontSize: 12, fontWeight: 700 }}>{movingModeOf(nav) === 'car' ? '차량' : '도보'}</div>
         )}
       </div>
@@ -48,7 +48,12 @@ const NavCard: React.FC<{ nav: NavState; trip: Trip }> = ({ nav, trip }) => {
         <Walker size={26} mood={mood} style={{ position: 'absolute', bottom: 6, left: 'calc(' + progress * 100 + '% - 13px)', transition: 'left 0.9s linear' }} />
       </div>
 
-      {nav.status === 'moving' && r && (
+      {nav.status === 'moving' && nav.leg?.far && (
+        <div style={{ fontSize: 13, color: '#4A4D66', lineHeight: 1.5 }}>
+          목적지까지 {fmtKm(r ? r.m : nav.leg.total)} 떨어져 있어요. 여행지에 도착하면 길 안내를 시작해요.
+        </div>
+      )}
+      {nav.status === 'moving' && r && !nav.leg?.far && (
         <div style={{ display: 'flex', alignItems: 'baseline', justifyContent: 'space-between', gap: 8 }}>
           <div style={{ fontFamily: "'DM Mono', monospace", fontSize: 20, fontWeight: 500 }}>
             {r.min}분 <span style={{ fontSize: 13, color: '#4A4D66' }}>· {fmtKm(r.m)} 남음</span>
@@ -61,7 +66,7 @@ const NavCard: React.FC<{ nav: NavState; trip: Trip }> = ({ nav, trip }) => {
           {nextPlace ? '다음은 ' + nextPlace.name + ' · 출발하면 자동으로 안내해요' : '오늘의 마지막 장소예요'}
         </div>
       )}
-      {nav.leg?.straight && nav.status === 'moving' && <div style={{ fontSize: 12, color: '#4A4D66' }}>길 정보를 받지 못해 직선 거리로 안내해요</div>}
+      {nav.leg?.straight && !nav.leg.far && nav.status === 'moving' && <div style={{ fontSize: 12, color: '#4A4D66' }}>길 정보를 받지 못해 직선 거리로 안내해요</div>}
       {nav.error && <div style={{ fontSize: 12, fontWeight: 700, color: '#FF5A3C' }}>{nav.error}</div>}
 
       <div style={{ display: 'flex', gap: 8 }}>

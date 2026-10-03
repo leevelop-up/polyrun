@@ -43,6 +43,8 @@ const MapPage: React.FC = () => {
   const [locateMsg, setLocateMsg] = useState<string | null>(null);
   const [day, setDay] = useState(() => readDayParam(location.search, activeTrip ? activeTrip.days.length : 1));
   const [grid, setGrid] = useState(false);
+  // 지도 크게 보기 (화면 전체)
+  const [bigMap, setBigMap] = useState(false);
   const swipeStart = useRef({ x: 0, y: 0 });
 
   const mapElRef = useRef<HTMLDivElement>(null);
@@ -277,6 +279,38 @@ const MapPage: React.FC = () => {
     return () => cancelAnimationFrame(raf);
   }, [navAlong, navLeg, navMood, mapGen]);
 
+  // 크게 보기를 켜고 끄면 지도 크기가 바뀌므로 Leaflet 에 알려 주고 그날 장소(이동 안내 중이면 구간)에 다시 맞춘다
+  useEffect(() => {
+    const map = mapInstanceRef.current;
+    if (!map) return;
+    const t = setTimeout(() => {
+      map.invalidateSize();
+      if (navLeg) {
+        const bounds = L.latLngBounds(navLeg.path);
+        coordsRef.current.forEach((c) => bounds.extend(c));
+        map.fitBounds(bounds, { padding: [36, 36], maxZoom: 16, animate: false });
+        spreadMarkers(map);
+      } else renderMarkers(map, list);
+    }, 60);
+    return () => clearTimeout(t);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [bigMap]);
+
+  // 크게 보기 중에는 뒤로가기가 먼저 크게 보기를 닫는다 (위 페이지로 가는 처리보다 우선)
+  useEffect(() => {
+    if (!bigMap) return;
+    const onBack = (ev: Event) => {
+      (ev as CustomEvent<{ register: (priority: number, handler: () => void) => void }>).detail.register(20, () => setBigMap(false));
+    };
+    document.addEventListener('ionBackButton', onBack);
+    return () => document.removeEventListener('ionBackButton', onBack);
+  }, [bigMap]);
+
+  // 다른 화면으로 나가면 크게 보기를 푼다
+  useEffect(() => {
+    if (location.pathname !== '/map') setBigMap(false);
+  }, [location.pathname]);
+
   if (!activeTrip) {
     return (
       <div style={{ width: '100%', maxWidth: 390, height: 'calc(100vh - var(--ad-h, 0px))', maxHeight: 844, margin: '0 auto', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: 16, background: PAPER, padding: 20, boxSizing: 'border-box' }}>
@@ -383,6 +417,8 @@ const MapPage: React.FC = () => {
 
   return (
     <div style={{ width: '100%', maxWidth: 390, height: 'calc(100vh - var(--ad-h, 0px))', maxHeight: 844, margin: '0 auto', boxSizing: 'border-box', background: PAPER, display: 'flex', flexDirection: 'column', overflow: 'hidden' }}>
+      {!bigMap && (
+      <>
       <div style={{ flexShrink: 0, background: '#2F3CF0', borderBottom: '2px solid #14162B', padding: '14px 20px 18px', display: 'flex', flexDirection: 'column', gap: 8, color: '#FFFFFF' }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginLeft: -10 }}>
           <button type="button" aria-label="뒤로" onClick={() => history.push('/my-trips')} style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', width: 44, height: 44, border: 0, background: 'transparent', cursor: 'pointer' }}>
@@ -400,8 +436,22 @@ const MapPage: React.FC = () => {
         <button type="button" onClick={() => history.push('/itinerary?day=' + day)} style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', height: 44, borderRight: '2px solid #14162B', background: '#FFFFFF', color: INK, fontFamily: "'Black Han Sans', sans-serif", fontSize: 16, cursor: 'pointer' }}>목록</button>
         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', height: 44, background: '#FFD84A', color: INK, fontFamily: "'Black Han Sans', sans-serif", fontSize: 16 }}>지도</div>
       </div>
+      </>
+      )}
 
-      <div style={{ flexShrink: 0, display: 'flex', alignItems: 'center', gap: 8, padding: '14px 20px 0' }}>
+      <div style={{ flexShrink: 0, display: 'flex', alignItems: 'center', gap: 8, padding: bigMap ? '10px 12px 0' : '14px 20px 0' }}>
+        {bigMap && (
+          <button
+            type="button"
+            aria-label="지도 작게 보기"
+            onClick={() => setBigMap(false)}
+            style={{ flexShrink: 0, width: 44, height: 44, marginBottom: 6, border: '2px solid #14162B', borderRadius: 8, background: INK, cursor: 'pointer', display: 'flex', alignItems: 'center', justifyContent: 'center' }}
+          >
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#FFD84A" strokeWidth={2.6} strokeLinecap="square" aria-hidden="true">
+              <path d="M5 5l14 14M19 5L5 19" />
+            </svg>
+          </button>
+        )}
         <div style={{ flexGrow: 1, minWidth: 0, display: 'flex', gap: 8, overflowX: 'auto', padding: '2px 2px 8px' }}>
           {days.map((_, i) => (
             <button
@@ -414,6 +464,7 @@ const MapPage: React.FC = () => {
             </button>
           ))}
         </div>
+        {!bigMap && (
         <button
           type="button"
           aria-label="전체 일차 보기"
@@ -424,17 +475,31 @@ const MapPage: React.FC = () => {
             <rect x="3" y="3" width="7" height="7" /><rect x="14" y="3" width="7" height="7" /><rect x="3" y="14" width="7" height="7" /><rect x="14" y="14" width="7" height="7" />
           </svg>
         </button>
+        )}
       </div>
 
       {!grid && (
         <div style={{ flexGrow: 1, minHeight: 0, display: 'flex', flexDirection: 'column' }}>
-          <div style={{ position: 'relative', flexShrink: 0, height: navHere ? 250 : 330, margin: '0 20px', border: '2px solid #14162B', borderRadius: 10, overflow: 'hidden', background: '#F2EFE9' }}>
+          <div style={{ position: 'relative', ...(bigMap ? { flexGrow: 1, minHeight: 0, margin: '0 12px 12px' } : { flexShrink: 0, height: navHere ? 250 : 330, margin: '0 20px' }), border: '2px solid #14162B', borderRadius: 10, overflow: 'hidden', background: '#F2EFE9' }}>
             <div ref={mapElRef} style={{ position: 'absolute', left: 0, top: 0, right: 0, bottom: 0 }} />
             {list.length > 0 && list.every((p) => typeof p.lat !== 'number') && (
               <div style={{ position: 'absolute', left: '50%', top: '50%', transform: 'translate(-50%, -50%)', padding: '8px 14px', border: '2px solid #14162B', borderRadius: 8, background: '#FFFFFF', fontSize: 12, fontWeight: 700, whiteSpace: 'nowrap', pointerEvents: 'none', zIndex: 1000 }}>
                 이 날의 장소에 위치 정보가 없어요
               </div>
             )}
+            <button
+              type="button"
+              aria-label={bigMap ? '지도 작게 보기' : '지도 크게 보기'}
+              onClick={() => {
+                setGrid(false);
+                setBigMap((b) => !b);
+              }}
+              style={{ position: 'absolute', left: 8, top: 8, width: 44, height: 44, border: '2px solid #14162B', borderRadius: 8, background: '#FFFFFF', cursor: 'pointer', display: 'flex', alignItems: 'center', justifyContent: 'center', zIndex: 1000 }}
+            >
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#14162B" strokeWidth={2.4} strokeLinecap="square" aria-hidden="true">
+                {bigMap ? <path d="M9 4v5H4M15 4v5h5M9 20v-5H4M15 20v-5h5" /> : <path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5" />}
+              </svg>
+            </button>
             <div style={{ position: 'absolute', right: 8, top: 8, display: 'flex', flexDirection: 'column', border: '2px solid #14162B', borderRadius: 8, overflow: 'hidden', background: '#FFFFFF', zIndex: 1000 }}>
               <button type="button" aria-label="지도 확대" onClick={() => mapInstanceRef.current?.zoomIn()} style={{ width: 44, height: 44, border: 0, borderBottom: '2px solid #14162B', background: '#FFFFFF', color: INK, fontSize: 22, cursor: 'pointer' }}>+</button>
               <button type="button" aria-label="지도 축소" onClick={() => mapInstanceRef.current?.zoomOut()} style={{ width: 44, height: 44, border: 0, background: '#FFFFFF', color: INK, fontSize: 22, cursor: 'pointer' }}>−</button>
@@ -458,7 +523,7 @@ const MapPage: React.FC = () => {
               </div>
             )}
           </div>
-          {missing.length > 0 && (
+          {!bigMap && missing.length > 0 && (
             <div style={{ display: 'flex', alignItems: 'center', gap: 8, margin: '10px 20px 0', padding: '8px 8px 8px 12px', border: '2px dashed #14162B', borderRadius: 8, background: '#FFFFFF' }}>
               <div style={{ flexGrow: 1, fontSize: 13, fontWeight: 700 }}>위치가 없는 장소 {missing.length}곳은 지도에 안 보여요</div>
               <button type="button" onClick={locateMissing} disabled={locating} style={{ flexShrink: 0, height: 36, padding: '0 12px', border: '2px solid #14162B', borderRadius: 6, background: '#FFD84A', color: INK, fontFamily: "'Black Han Sans', sans-serif", fontSize: 14, cursor: locating ? 'default' : 'pointer', opacity: locating ? 0.6 : 1 }}>
@@ -466,34 +531,26 @@ const MapPage: React.FC = () => {
               </button>
             </div>
           )}
-          {locateMsg && <div style={{ margin: '6px 20px 0', fontSize: 12, fontWeight: 700, color: '#4A4D66' }}>{locateMsg}</div>}
-          {navHere && <NavCard nav={navHere} trip={activeTrip} />}
-          {!navHere && nav && (
+          {!bigMap && locateMsg && <div style={{ margin: '6px 20px 0', fontSize: 12, fontWeight: 700, color: '#4A4D66' }}>{locateMsg}</div>}
+          {navHere && <div style={{ flexShrink: 0, paddingBottom: bigMap ? 12 : 0 }}><NavCard nav={navHere} trip={activeTrip} /></div>}
+          {!bigMap && !navHere && nav && (
             <button type="button" onClick={() => setDay(nav.day)} style={{ margin: '12px 20px 0', height: 44, border: '2px solid #14162B', borderRadius: 8, background: '#FFD84A', color: INK, fontFamily: "'Black Han Sans', sans-serif", fontSize: 15, cursor: 'pointer' }}>
               {nav.tripId === activeTrip.id ? nav.day + 1 + '일차 이동 안내 중 · 보기' : '다른 일정의 이동 안내 중이에요'}
             </button>
           )}
-          {!nav && canNav && (
+          {!bigMap && !nav && canNav && (
             <button type="button" onClick={onStartNav} style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 6, margin: '12px 20px 0', height: 48, border: '2px solid #14162B', borderRadius: 10, background: INK, boxShadow: '3px 3px 0 #FFD84A', color: '#FFD84A', fontFamily: "'Black Han Sans', sans-serif", fontSize: 17, cursor: 'pointer' }}>
               <span aria-hidden="true">🚶</span> 이동 시작
             </button>
           )}
-          {navMsg && <div style={{ margin: '8px 20px 0', fontSize: 13, fontWeight: 700, color: '#FF5A3C' }}>{navMsg}</div>}
+          {!bigMap && navMsg && <div style={{ margin: '8px 20px 0', fontSize: 13, fontWeight: 700, color: '#FF5A3C' }}>{navMsg}</div>}
           {/* 스와이프는 지도 아래 영역에서만 받는다 (지도를 끌어 이동할 때 일차가 바뀌지 않도록) */}
-          <div style={{ flexGrow: 1, minHeight: 0, overflowY: 'auto', display: 'flex', flexDirection: 'column', touchAction: 'pan-y', userSelect: 'none' }} onTouchStart={onSwipeStart} onTouchEnd={onSwipeEnd} onMouseDown={onSwipeStart} onMouseUp={onSwipeEnd}>
+          <div style={{ flexGrow: 1, minHeight: 0, overflowY: 'auto', display: bigMap ? 'none' : 'flex', flexDirection: 'column', touchAction: 'pan-y', userSelect: 'none' }} onTouchStart={onSwipeStart} onTouchEnd={onSwipeEnd} onMouseDown={onSwipeStart} onMouseUp={onSwipeEnd}>
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: 8, padding: '8px 20px 4px' }}>
             <div style={{ display: 'flex', flexDirection: 'column', gap: 2, minWidth: 0 }}>
               <div style={{ fontSize: 15, fontWeight: 700 }}>{day + 1}일차</div>
               <div style={{ fontFamily: "'DM Mono', monospace", fontSize: 11, color: '#4A4D66' }}>{dayDateLabel}</div>
             </div>
-            <button
-              type="button"
-              aria-label={day + 1 + '일차에 장소 추가'}
-              onClick={() => history.push('/add-place?day=' + day)}
-              style={{ flexShrink: 0, display: 'flex', alignItems: 'center', height: 44, padding: '0 14px', border: '2px dashed #14162B', borderRadius: 8, color: INK, fontFamily: "'Black Han Sans', sans-serif", fontSize: 15, background: 'transparent', cursor: 'pointer' }}
-            >
-              + 장소 추가
-            </button>
           </div>
           <div style={{ display: 'flex', flexDirection: 'column', gap: 6, padding: '0 20px' }}>
             {list.map((p, k) => (

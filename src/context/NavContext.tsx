@@ -18,6 +18,8 @@ const LEAVE_M = 200;
 const OFF_ROUTE_M = 60;
 const REROUTE_MS = 20000;
 const NOTICE_MS = 8000;
+// 이보다 멀면(아직 여행지에 가기 전) 길을 찾지 않고 "여행지에 도착하면 안내"로 보여 준다
+const FAR_M = 300000;
 // 안내를 켜기 전 이동 감지: 처음 위치에서 이만큼 움직이면 "이동을 기록할까요?"
 const MOVE_M = 150;
 // "아니요"나 안내 종료 후 이 시간 동안은 다시 묻지 않는다
@@ -38,6 +40,8 @@ export interface NavLeg {
   mode: 'walk' | 'car';
   // 길을 못 받아 직선으로 그린 구간
   straight: boolean;
+  // 목적지가 너무 멀어(다른 도시·나라) 길을 찾지 않은 구간: 여행지에 도착하면 안내한다
+  far?: boolean;
 }
 
 export interface NavState {
@@ -114,6 +118,8 @@ export const NavProvider: React.FC<{ children: React.ReactNode }> = ({ children 
   tripsRef.current = trips;
   const stopperRef = useRef<(() => Promise<void>) | null>(null);
   const routeSeq = useRef(0);
+  // 길을 찾는 중인지 (위치를 받기 전에 목적지가 정해졌으면 위치가 들어올 때 찾는다)
+  const planning = useRef(false);
   const lastRouteAt = useRef(0);
   const lastNotice = useRef({ text: '', at: 0, status: '' });
   // 실제 속도 계산용: 최근 위치마다 길 위에서 온 거리
@@ -159,7 +165,10 @@ export const NavProvider: React.FC<{ children: React.ReactNode }> = ({ children 
       body = '';
     } else if (target) {
       const r = remainingOf(n);
-      if (r) {
+      if (r && n.leg?.far) {
+        title = '📍 ' + target.name + '까지 ' + fmtKm(r.m);
+        body = '여행지에 도착하면 길 안내를 시작해요';
+      } else if (r) {
         title = '🚶 ' + target.name + '까지 ' + r.min + '분';
         body = fmtKm(r.m) + ' 남음 · ' + (movingModeOf(n) === 'car' ? '차량' : '도보') + (n.speed === null ? ' 예상' : ' · 실제 속도 기준');
       }
@@ -178,7 +187,13 @@ export const NavProvider: React.FC<{ children: React.ReactNode }> = ({ children 
       const seq = ++routeSeq.current;
       lastRouteAt.current = Date.now();
       if (!navRef.current?.leg) patch({ status: 'routing' });
+      planning.current = true;
       let leg: NavLeg;
+      if (distM(from, target) > FAR_M) {
+        const coords: [number, number][] = [[from.lat, from.lng], [target.lat, target.lng]];
+        const cum = cumulative(coords);
+        leg = { path: coords, cum, total: cum[1], duration: 0, mode: 'car', straight: true, far: true };
+      } else
       try {
         // 걸어서 20분 넘게 걸리면 차량 길로 (시간표의 도보/차량 기준과 같게)
         let path = await fetchPath(from, target, 'foot');
@@ -197,6 +212,7 @@ export const NavProvider: React.FC<{ children: React.ReactNode }> = ({ children 
         const cum = cumulative(coords);
         leg = { path: coords, cum, total: cum[1], duration: cum[1] / 1.25, mode: 'walk', straight: true };
       }
+      if (seq === routeSeq.current) planning.current = false;
       if (seq !== routeSeq.current || !navRef.current || navRef.current.targetId !== target.id) return;
       // 같은 목적지로 길만 다시 찾은 경우엔 속도 기록을 이어 간다 (길 위 거리는 새 길 기준이 아니라 버리고 직선 거리만 씀)
       const sameTarget = lastLegTarget.current === target.id;
@@ -270,7 +286,17 @@ export const NavProvider: React.FC<{ children: React.ReactNode }> = ({ children 
         if (toTarget > LEAVE_M) next();
         return;
       }
+      // 목적지는 정해졌는데 아직 길을 안 찾았으면(위치를 받기 전에 목적지가 정해진 경우) 지금 찾는다
+      if (n.status === 'routing' && !planning.current) {
+        planLeg(f, target);
+        return;
+      }
       if (n.status !== 'moving' || !n.leg) return;
+      // 멀리 있다가(여행 전) 여행지 가까이 오면 그때 길을 찾는다
+      if (n.leg.far) {
+        if (toTarget <= FAR_M && Date.now() - lastRouteAt.current > REROUTE_MS) planLeg(f, target);
+        return;
+      }
 
       if (toTarget < ARRIVE_M + Math.min(f.accuracy || 0, 60)) {
         patch({ status: 'arrived', along: n.leg.total });

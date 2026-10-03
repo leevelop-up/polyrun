@@ -60,7 +60,7 @@ export type RoutePath = { coords: [number, number][]; distance: number; duration
 
 export const fetchPath = async (a: { lat: number; lng: number }, b: { lat: number; lng: number }, profile: 'foot' | 'car', signal?: AbortSignal): Promise<RoutePath> => {
   const q = [a, b].map((p) => p.lat.toFixed(5) + ',' + p.lng.toFixed(5)).join(';');
-  const res = await fetch(`${API_BASE}/api/path?points=${encodeURIComponent(q)}&profile=${profile}`, { signal });
+  const res = await fetch(`${API_BASE}/api/path?points=${encodeURIComponent(q)}&profile=${profile}`, { signal: signal ?? AbortSignal.timeout(12000) });
   if (!res.ok) throw new Error('path failed');
   return (await res.json()) as RoutePath;
 };
