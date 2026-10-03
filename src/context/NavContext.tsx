@@ -3,7 +3,7 @@ import { Place, Trip, useTrip } from './TripContext';
 import { fetchPath } from '../api/geo';
 import { cumulative, distM, fmtKm, LatLng, project } from '../utils/nav';
 import { clearMoveNotice, Fix, hasLocationPermission, notifyMoveDetected, startTracking, updateNotice, watchQuietly } from '../native/tracking';
-import { dayDate, WALK_MAX_MIN } from '../utils/trip';
+import { CAR_TRAFFIC_FACTOR, dayDate, WALK_MAX_MIN } from '../utils/trip';
 
 // 이동 안내: 실제 위치를 따라 지금 구간(현재 위치 → 다음 장소)을 얼마나 왔는지 계산한다.
 // 화면을 옮기거나 앱이 백그라운드로 가도(안드로이드 포그라운드 서비스) 계속 돈다.
@@ -22,6 +22,11 @@ const NOTICE_MS = 8000;
 const MOVE_M = 150;
 // "아니요"나 안내 종료 후 이 시간 동안은 다시 묻지 않는다
 const SNOOZE_MS = 30 * 60 * 1000;
+// 실제 이동 속도: 최근 이 시간 동안 길 위에서 나아간 거리로 잰다 (최소 SPEED_MIN_MS 이상 쌓여야 씀)
+const SPEED_WINDOW_MS = 120000;
+const SPEED_MIN_MS = 30000;
+// 이 속도(시속 약 8km)를 넘으면 걷는 게 아니라 탈것으로 이동 중이라고 본다
+const WALK_MAX_SPEED = 2.2;
 
 export type NavStatus = 'locating' | 'routing' | 'moving' | 'arrived' | 'done';
 
@@ -43,6 +48,8 @@ export interface NavState {
   fix: Fix | null;
   leg: NavLeg | null;
   along: number; // 구간 시작점부터 온 거리(m)
+  // 최근 실제 이동 속도(m/s). 아직 모르면 null
+  speed: number | null;
   error: string | null;
 }
 
@@ -68,7 +75,6 @@ const hasCoord = (p: Place): p is Located => typeof p.lat === 'number' && typeof
 export const placesOf = (trips: Trip[], nav: Pick<NavState, 'tripId' | 'day'>): Located[] =>
   (trips.find((t) => t.id === nav.tripId)?.days[nav.day] || []).filter(hasCoord);
 
-// 남은 거리(m)와 시간(분)
 // 오늘이 여행의 몇 일차인지 (여행 날이 아니면 -1)
 const todayIndex = (trip: Trip): number => {
   const now = new Date();
@@ -78,11 +84,23 @@ const todayIndex = (trip: Trip): number => {
   });
 };
 
+// 남은 거리(m)와 시간(분). 실제 이동 속도를 알면 그 속도로 계산한다
+// (신호 대기 같은 잠깐 멈춤에 크게 흔들리지 않게 예상 속도의 0.3~3배로 묶는다)
 export const remainingOf = (nav: NavState): { m: number; min: number } | null => {
   const leg = nav.leg;
   if (!leg) return null;
   const m = Math.max(0, leg.total - nav.along);
-  return { m, min: leg.total > 0 ? Math.ceil((leg.duration / 60) * (m / leg.total)) : 0 };
+  if (leg.total <= 0 || leg.duration <= 0) return { m, min: 0 };
+  const planned = leg.total / leg.duration;
+  const speed = nav.speed === null ? planned : Math.min(planned * 3, Math.max(planned * 0.3, nav.speed));
+  return { m, min: Math.ceil(m / speed / 60) };
+};
+
+// 지금 이동 수단: 실제 속도를 알면 그걸로, 아니면 경로를 받을 때 정한 수단
+export const movingModeOf = (nav: NavState): 'walk' | 'car' | null => {
+  if (!nav.leg) return null;
+  if (nav.speed === null) return nav.leg.mode;
+  return nav.speed > WALK_MAX_SPEED ? 'car' : 'walk';
 };
 
 export const NavProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
@@ -98,6 +116,9 @@ export const NavProvider: React.FC<{ children: React.ReactNode }> = ({ children 
   const routeSeq = useRef(0);
   const lastRouteAt = useRef(0);
   const lastNotice = useRef({ text: '', at: 0, status: '' });
+  // 실제 속도 계산용: 최근 위치마다 길 위에서 온 거리
+  const samples = useRef<{ t: number; along: number; lat: number; lng: number }[]>([]);
+  const lastLegTarget = useRef<string | null>(null);
 
   const patch = useCallback((p: Partial<NavState> | null) => {
     navRef.current = p === null || !navRef.current ? null : { ...navRef.current, ...p };
@@ -140,7 +161,7 @@ export const NavProvider: React.FC<{ children: React.ReactNode }> = ({ children 
       const r = remainingOf(n);
       if (r) {
         title = '🚶 ' + target.name + '까지 ' + r.min + '분';
-        body = fmtKm(r.m) + ' 남음 · ' + (n.leg?.mode === 'car' ? '차량' : '도보') + ' 기준';
+        body = fmtKm(r.m) + ' 남음 · ' + (movingModeOf(n) === 'car' ? '차량' : '도보') + (n.speed === null ? ' 예상' : ' · 실제 속도 기준');
       }
     }
     const text = title + '|' + body;
@@ -168,7 +189,8 @@ export const NavProvider: React.FC<{ children: React.ReactNode }> = ({ children 
         }
         const coords = path.coords.length >= 2 ? path.coords : ([[from.lat, from.lng], [target.lat, target.lng]] as [number, number][]);
         const cum = cumulative(coords);
-        leg = { path: coords, cum, total: cum[cum.length - 1], duration: path.duration, mode, straight: false };
+        const duration = mode === 'car' ? path.duration * CAR_TRAFFIC_FACTOR : path.duration;
+        leg = { path: coords, cum, total: cum[cum.length - 1], duration, mode, straight: false };
       } catch {
         // 길찾기 서버가 안 되면 직선으로 그리고 걷는 속도(시속 4.5km)로 어림
         const coords: [number, number][] = [[from.lat, from.lng], [target.lat, target.lng]];
@@ -176,7 +198,11 @@ export const NavProvider: React.FC<{ children: React.ReactNode }> = ({ children 
         leg = { path: coords, cum, total: cum[1], duration: cum[1] / 1.25, mode: 'walk', straight: true };
       }
       if (seq !== routeSeq.current || !navRef.current || navRef.current.targetId !== target.id) return;
-      patch({ leg, along: 0, status: 'moving' });
+      // 같은 목적지로 길만 다시 찾은 경우엔 속도 기록을 이어 간다 (길 위 거리는 새 길 기준이 아니라 버리고 직선 거리만 씀)
+      const sameTarget = lastLegTarget.current === target.id;
+      lastLegTarget.current = target.id;
+      samples.current = sameTarget ? samples.current.map((x) => ({ ...x, along: NaN })) : [];
+      patch({ leg, along: 0, speed: sameTarget ? navRef.current.speed : null, status: 'moving' });
       notify(navRef.current);
     },
     [patch, notify]
@@ -253,7 +279,15 @@ export const NavProvider: React.FC<{ children: React.ReactNode }> = ({ children 
       }
       const { along, off } = project(n.leg.path, n.leg.cum, f);
       // GPS 가 잠깐 튀어 뒤로 가는 것처럼 보이지 않게 조금만 뒤로 허용
-      patch({ along: Math.max(along, n.along - 30) });
+      const nextAlong = Math.max(along, n.along - 30);
+      // 최근 2분 동안의 실제 속도: 길 위에서 나아간 거리와 실제로 움직인 직선 거리 중 큰 쪽
+      // (길을 정확히 따라가지 않아도 느리게 잡히지 않게. 처음·끝 위치 거리라 제자리 GPS 흔들림은 거의 안 잡힘)
+      const now = f.at || Date.now();
+      samples.current = samples.current.filter((s) => now - s.t <= SPEED_WINDOW_MS).concat([{ t: now, along: nextAlong, lat: f.lat, lng: f.lng }]);
+      const first = samples.current[0];
+      const secs = (now - first.t) / 1000;
+      const speed = secs * 1000 >= SPEED_MIN_MS ? Math.max(0, Number.isNaN(first.along) ? 0 : nextAlong - first.along, distM(first, f)) / secs : n.speed;
+      patch({ along: nextAlong, speed });
       if (off > OFF_ROUTE_M && (f.accuracy || 0) < 50 && Date.now() - lastRouteAt.current > REROUTE_MS) planLeg(f, target);
       notify(navRef.current!);
     },
@@ -263,7 +297,7 @@ export const NavProvider: React.FC<{ children: React.ReactNode }> = ({ children 
   const startNav = useCallback(
     async (tripId: string, day: number) => {
       endSession();
-      navRef.current = { tripId, day, targetId: null, status: 'locating', fix: null, leg: null, along: 0, error: null };
+      navRef.current = { tripId, day, targetId: null, status: 'locating', fix: null, leg: null, along: 0, speed: null, error: null };
       setNav(navRef.current);
       lastNotice.current = { text: '', at: 0, status: '' };
       try {

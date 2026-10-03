@@ -1,6 +1,6 @@
 import React from 'react';
 import { Trip } from '../context/TripContext';
-import { NavState, placesOf, remainingOf, useNav } from '../context/NavContext';
+import { movingModeOf, NavState, placesOf, remainingOf, useNav } from '../context/NavContext';
 import { CAT_COLORS, INK } from '../theme/palette';
 import { fmtKm } from '../utils/nav';
 import Walker from './Walker';
@@ -35,7 +35,7 @@ const NavCard: React.FC<{ nav: NavState; trip: Trip }> = ({ nav, trip }) => {
         )}
         <div style={{ flexGrow: 1, minWidth: 0, fontFamily: "'Black Han Sans', sans-serif", fontSize: 18, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{headline}</div>
         {nav.leg && nav.status === 'moving' && (
-          <div style={{ flexShrink: 0, padding: '2px 8px', border: '2px solid #14162B', borderRadius: 999, background: nav.leg.mode === 'car' ? '#2F3CF0' : '#7BD4A0', color: nav.leg.mode === 'car' ? '#FFFFFF' : INK, fontSize: 12, fontWeight: 700 }}>{nav.leg.mode === 'car' ? '차량' : '도보'}</div>
+          <div style={{ flexShrink: 0, padding: '2px 8px', border: '2px solid #14162B', borderRadius: 999, background: movingModeOf(nav) === 'car' ? '#2F3CF0' : '#7BD4A0', color: movingModeOf(nav) === 'car' ? '#FFFFFF' : INK, fontSize: 12, fontWeight: 700 }}>{movingModeOf(nav) === 'car' ? '차량' : '도보'}</div>
         )}
       </div>
 

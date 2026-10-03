@@ -185,6 +185,10 @@ export const fmtStay = (m: number): string => {
 // 실제 길 기준 시간(RouteLeg)이 있으면: 걸어서 이 시간 안이면 도보, 넘으면 차량 시간.
 // 없으면(서버 오류, 좌표 없음) 직선거리 추정.
 export const WALK_MAX_MIN = 20;
+// OSRM 차량 시간은 신호·정체 없이 제한속도로 달린다고 본 값이라 도심에서 크게 짧다 (예: 9.9km 13분).
+// 실제에 가깝게 이만큼 늘려 쓴다. 이동 안내 중에는 실제 이동 속도로 다시 계산한다.
+export const CAR_TRAFFIC_FACTOR = 1.5;
+export const carMins = (osrmMin: number): number => Math.max(1, Math.round(osrmMin * CAR_TRAFFIC_FACTOR));
 export type TravelMode = 'walk' | 'car' | 'est';
 export interface Travel {
   mins: number;
@@ -194,7 +198,7 @@ export type LegLookup = (a: Place, b: Place) => RouteLeg | undefined;
 
 export const travelBetween = (a: Place, b: Place, legOf?: LegLookup): Travel => {
   const leg = legOf?.(a, b);
-  if (leg) return leg.walkMin <= WALK_MAX_MIN ? { mins: Math.max(1, leg.walkMin), mode: 'walk' } : { mins: Math.max(1, leg.driveMin), mode: 'car' };
+  if (leg) return leg.walkMin <= WALK_MAX_MIN ? { mins: Math.max(1, leg.walkMin), mode: 'walk' } : { mins: carMins(leg.driveMin), mode: 'car' };
   return { mins: travelMins(a, b), mode: 'est' };
 };
 
