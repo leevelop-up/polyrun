@@ -13,6 +13,9 @@ const CACHE_SECONDS: Record<string, number> = {
   '/api/place': 7 * 86400
 };
 
+// 결과를 만드는 방식이 바뀌면 올린다: 엣지에 캐시된 예전 결과를 쓰지 않게 (검색 중복 정리 → 2)
+const CACHE_VERSION = '2';
+
 type Ctx = { waitUntil(p: Promise<unknown>): void };
 type EdgeCache = { match(req: Request): Promise<Response | undefined>; put(req: Request, res: Response): Promise<void> };
 
@@ -22,8 +25,9 @@ export default {
     const url = new URL(request.url);
     const ttl = request.method === 'GET' ? CACHE_SECONDS[url.pathname] : undefined;
     const cache = (globalThis as unknown as { caches?: { default?: EdgeCache } }).caches?.default;
+    const cacheKey = new Request(url.toString() + (url.search ? '&' : '?') + '_cv=' + CACHE_VERSION, { method: 'GET' });
     if (ttl && cache) {
-      const hit = await cache.match(request);
+      const hit = await cache.match(cacheKey);
       if (hit) return hit;
     }
 
@@ -42,7 +46,7 @@ export default {
     const headers: Record<string, string> = { ...RESPONSE_HEADERS };
     if (cacheable) headers['Cache-Control'] = 'public, max-age=' + ttl;
     const res = new Response(result.status === 204 ? null : JSON.stringify(result.body), { status: result.status, headers });
-    if (cacheable && cache) ctx.waitUntil(cache.put(request, res.clone()));
+    if (cacheable && cache) ctx.waitUntil(cache.put(cacheKey, res.clone()));
     return res;
   }
 };

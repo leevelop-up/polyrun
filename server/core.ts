@@ -399,12 +399,19 @@ const citySearch = async (q: string): Promise<SearchResult[]> => {
   return results;
 };
 
-// 같은 이름이 약 100m 이내에 겹치면(버스정류장/역 건물 등) 하나만 남긴다
+// 같은 이름이 약 100m 이내에 겹치면 하나만 남긴다.
+// 정류장·역 출입구(교통)는 이름이 장소 이름을 따라 붙어서 "광화문"을 찾으면 길 양쪽 정류장까지 4~5개가 나온다:
+// 같은 이름의 장소(관광 등)가 1km 안에 있으면 교통은 빼고, 교통끼리는 1km 안이면 하나만 (큰 역은 출입구·정류장이 700m 넘게 퍼져 있다).
+// (같은 이름의 식당·가게 지점은 서로 다른 곳이라 그대로 둔다)
 const dedupe = (results: SearchResult[]): SearchResult[] => {
   const out: SearchResult[] = [];
   for (const r of results) {
-    const dup = out.some((o) => o.name === r.name && Math.hypot(o.lat - r.lat, o.lng - r.lng) < 0.001);
-    if (!dup) out.push(r);
+    const km = (o: SearchResult) => distanceKm(o.lat, o.lng, r.lat, r.lng);
+    const sameName = (o: SearchResult) => o.name === r.name;
+    if (out.some((o) => sameName(o) && km(o) < 0.1)) continue;
+    if (r.cat === '교통' && results.some((o) => o !== r && sameName(o) && o.cat !== '교통' && km(o) < 1)) continue;
+    if (r.cat === '교통' && out.some((o) => sameName(o) && o.cat === '교통' && km(o) < 1)) continue;
+    out.push(r);
   }
   return out.slice(0, 8);
 };
