@@ -6,6 +6,7 @@ import { backupJson, fmtWon, parseBackup, RETENTION_DAYS, spentOf, tripExpiresAt
 import { Capacitor } from '@capacitor/core';
 import { Directory, Encoding, Filesystem } from '@capacitor/filesystem';
 import { Share } from '@capacitor/share';
+import { findTodayTrip, placesLine } from '../utils/today';
 
 const isNative = Capacitor.isNativePlatform();
 const isIOS = Capacitor.getPlatform() === 'ios';
@@ -219,6 +220,8 @@ const MyTrips: React.FC = () => {
   };
 
   const target = trips.find((t) => t.id === confirmId);
+  // 여행 중이거나 내일 출발하는 일정: 맨 위에 오늘 일정 바로가기
+  const today = findTodayTrip(trips);
 
   const openTrip = (id: string) => {
     setActiveTrip(id);
@@ -257,6 +260,26 @@ const MyTrips: React.FC = () => {
               </svg>
             </button>
           </div>
+        )}
+
+        {today && (
+          <button
+            type="button"
+            onClick={() => history.push('/today?trip=' + encodeURIComponent(today.trip.id))}
+            style={{ display: 'flex', alignItems: 'center', gap: 12, padding: '14px 14px 14px 16px', border: '2px solid #14162B', borderRadius: 10, background: today.kind === 'during' ? '#2F3CF0' : '#FFD84A', color: today.kind === 'during' ? '#FFFFFF' : INK, boxShadow: '4px 4px 0 #14162B', textAlign: 'left', cursor: 'pointer' }}
+          >
+            <div style={{ flexGrow: 1, minWidth: 0, display: 'flex', flexDirection: 'column', gap: 3 }}>
+              <div style={{ fontFamily: "'Black Han Sans', sans-serif", fontSize: 19 }}>
+                {today.kind === 'during' ? tripTitle(today.trip) + ' · 오늘 일정 보기' : '내일 출발 · ' + tripTitle(today.trip)}
+              </div>
+              <div style={{ fontSize: 13, opacity: 0.85, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
+                {today.day + 1}일차 · {placesLine(today.trip.days[today.day] || [])}
+              </div>
+            </div>
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2.6} strokeLinecap="square" style={{ flexShrink: 0 }} aria-hidden="true">
+              <path d="M4 12h16M13 5l7 7-7 7" />
+            </svg>
+          </button>
         )}
 
         {trips.map((t) => {

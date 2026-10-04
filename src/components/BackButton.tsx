@@ -11,6 +11,7 @@ const parentOf = (pathname: string, search: string): string | null => {
       return '/main';
     case '/itinerary':
     case '/map':
+    case '/today':
       return '/my-trips';
     case '/add-place':
       return '/itinerary' + (day ? '?day=' + day : '');

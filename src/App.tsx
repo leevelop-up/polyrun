@@ -3,13 +3,16 @@ import { Redirect, Route } from 'react-router-dom';
 import { IonApp, IonRouterOutlet, setupIonicReact } from '@ionic/react';
 import { IonReactRouter } from '@ionic/react-router';
 import { StatusBar, Style } from '@capacitor/status-bar';
-import { TripProvider } from './context/TripContext';
+import { TripProvider, useTrip } from './context/TripContext';
 import { NavProvider } from './context/NavContext';
 import Main from './pages/Main';
 import AddPlace from './pages/AddPlace';
 import MyTrips from './pages/MyTrips';
 import Itinerary from './pages/Itinerary';
 import Map from './pages/Map';
+import Today from './pages/Today';
+import TripReminders from './components/TripReminders';
+import { findTodayTrip } from './utils/today';
 import MovePrompt from './components/MovePrompt';
 import AdBanner from './components/AdBanner';
 import BackButton from './components/BackButton';
@@ -27,6 +30,12 @@ import '@ionic/react/css/typography.css';
 import './theme/variables.css';
 
 setupIonicReact();
+
+// 앱을 열 때: 여행 중이면 오늘 일정, 아니면 첫 화면
+const StartRedirect: React.FC = () => {
+  const { trips, activeTripId } = useTrip();
+  return <Redirect to={findTodayTrip(trips, activeTripId)?.kind === 'during' ? '/today' : '/main'} />;
+};
 
 const App: React.FC = () => {
   useEffect(() => {
@@ -50,7 +59,10 @@ const App: React.FC = () => {
         <IonReactRouter>
           <IonRouterOutlet>
             <Route exact path="/">
-              <Redirect to="/main" />
+              <StartRedirect />
+            </Route>
+            <Route exact path="/today">
+              <Today />
             </Route>
             <Route exact path="/main">
               <Main />
@@ -73,6 +85,8 @@ const App: React.FC = () => {
           </IonRouterOutlet>
           {/* 이동을 감지하면 어느 화면에서든 아래에 "이동 중이신가요?" */}
           <MovePrompt />
+          {/* 출발 전날 저녁·여행 중 아침 알림 예약, 알림을 누르면 오늘 일정 */}
+          <TripReminders />
           {/* AdMob 하단 배너 (안드로이드, 내 일정·목록 화면) */}
           <AdBanner />
           {/* 안드로이드 뒤로가기: 위 페이지로 */}

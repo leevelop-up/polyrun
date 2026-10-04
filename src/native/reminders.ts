@@ -1,0 +1,63 @@
+// 여행 알림: 출발 전날 저녁, 여행 중 아침에 그날 일정을 알려 준다 (기기 안에서 예약, 서버 없음).
+import { Capacitor } from '@capacitor/core';
+import { LocalNotifications } from '@capacitor/local-notifications';
+import type { Trip } from '../context/TripContext';
+import { reminderPlan } from '../utils/today';
+
+const isNative = Capacitor.isNativePlatform();
+// 이동 안내(2001, 3001)와 겹치지 않는 번호대
+const FIRST_ID = 5000;
+const MAX = 200;
+const KIND = 'trip-reminder';
+const SMALL_ICON = 'ic_stat_walk';
+// 알림 권한은 한 번만 묻는다 (거절하면 다시 묻지 않음)
+const ASKED_KEY = 'runtrip_reminder_asked';
+
+const askOnce = async (): Promise<boolean> => {
+  const perm = await LocalNotifications.checkPermissions();
+  if (perm.display === 'granted') return true;
+  if (perm.display === 'denied') return false;
+  try {
+    if (window.localStorage.getItem(ASKED_KEY)) return false;
+    window.localStorage.setItem(ASKED_KEY, '1');
+  } catch {
+    // localStorage 를 못 쓰면 매번 묻지 않도록 그냥 묻는다
+  }
+  return (await LocalNotifications.requestPermissions()).display === 'granted';
+};
+
+// 일정이 바뀔 때마다 예약한 여행 알림을 모두 지우고 다시 예약한다
+export const syncReminders = async (trips: Trip[]): Promise<void> => {
+  if (!isNative) return;
+  try {
+    const plan = reminderPlan(trips).slice(0, MAX);
+    const pending = (await LocalNotifications.getPending()).notifications.filter((n) => n.extra?.kind === KIND || (n.id >= FIRST_ID && n.id < FIRST_ID + MAX));
+    if (pending.length) await LocalNotifications.cancel({ notifications: pending.map((n) => ({ id: n.id })) });
+    if (!plan.length || !(await askOnce())) return;
+    await LocalNotifications.schedule({
+      notifications: plan.map((r, i) => ({
+        id: FIRST_ID + i,
+        title: r.title,
+        body: r.body,
+        largeBody: r.body,
+        smallIcon: SMALL_ICON,
+        schedule: { at: new Date(r.at), allowWhileIdle: true },
+        extra: { kind: KIND, tripId: r.tripId, day: r.day }
+      }))
+    });
+  } catch (e) {
+    console.warn('reminder sync failed', e);
+  }
+};
+
+// 여행 알림을 눌렀을 때 (앱이 꺼져 있다가 알림으로 켜진 경우도)
+export const onReminderTap = (cb: (tripId: string) => void): (() => void) => {
+  if (!isNative) return () => undefined;
+  const handle = LocalNotifications.addListener('localNotificationActionPerformed', (a) => {
+    const x = a.notification.extra;
+    if (x?.kind === KIND && typeof x.tripId === 'string') cb(x.tripId);
+  });
+  return () => {
+    handle.then((h) => h.remove()).catch(() => undefined);
+  };
+};
