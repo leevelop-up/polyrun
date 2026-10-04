@@ -29,6 +29,13 @@
 	<true/>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>이동 안내 중 다음 장소까지 남은 거리와 시간을 보여주기 위해 현재 위치를 사용해요.</string>
+	<!-- 이동 안내: 잠금화면·다이내믹 아일랜드 실시간 현황, 앱이 뒤로 가도 위치 받기 (LiveActivityPlugin.swift) -->
+	<key>NSSupportsLiveActivities</key>
+	<true/>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>location</string>
+	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>

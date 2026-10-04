@@ -153,13 +153,20 @@ export const NavProvider: React.FC<{ children: React.ReactNode }> = ({ children 
     const target = places[k];
     let title = '🚶 이동 안내 중';
     let body = '현재 위치를 찾고 있어요';
+    // 게이지: 이번 구간에서 온 비율 (0~1). 모르면 null
+    let progress: number | null = null;
+    let short = '';
     if (n.status === 'done') {
       title = '🎉 오늘 일정 끝';
       body = '마지막 장소에 도착했어요';
+      progress = 1;
+      short = '끝';
     } else if (target && n.status === 'arrived') {
       const nextPlace = places[k + 1];
       title = '📍 ' + target.name + ' 도착!';
       body = nextPlace ? '다음: ' + nextPlace.name + ' · 출발하면 자동으로 안내해요' : '오늘의 마지막 장소예요';
+      progress = 1;
+      short = '도착';
     } else if (target && n.status === 'routing') {
       title = '🚶 ' + target.name + '(으)로 가는 길 찾는 중';
       body = '';
@@ -168,17 +175,21 @@ export const NavProvider: React.FC<{ children: React.ReactNode }> = ({ children 
       if (r && n.leg?.far) {
         title = '📍 ' + target.name + '까지 ' + fmtKm(r.m);
         body = '여행지에 도착하면 길 안내를 시작해요';
-      } else if (r) {
+        short = fmtKm(r.m);
+      } else if (r && n.leg) {
         title = '🚶 ' + target.name + '까지 ' + r.min + '분';
         body = fmtKm(r.m) + ' 남음 · ' + (movingModeOf(n) === 'car' ? '차량' : '도보') + (n.speed === null ? ' 예상' : ' · 실제 속도 기준');
+        progress = n.leg.total > 0 ? Math.min(1, Math.max(0, n.along / n.leg.total)) : 0;
+        short = r.min + '분';
       }
     }
-    const text = title + '|' + body;
+    // 게이지는 5% 단위로 바뀔 때만 다시 그린다 (알림을 너무 자주 고치지 않게)
+    const text = title + '|' + body + '|' + (progress === null ? '' : Math.floor(progress * 20));
     const now = Date.now();
     const last = lastNotice.current;
     if (text === last.text || (last.status === n.status && now - last.at < NOTICE_MS)) return;
     lastNotice.current = { text, at: now, status: n.status };
-    updateNotice(title, body);
+    updateNotice({ title, body, progress, short });
   }, []);
 
   // 현재 위치에서 목적지까지 길을 받아 새 구간을 시작한다

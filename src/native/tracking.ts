@@ -1,9 +1,11 @@
 // 이동 중 위치 추적. 안드로이드에서는 포그라운드 서비스(상단 알림)를 띄워 화면이 꺼지거나
-// 다른 앱으로 넘어가도 위치를 계속 받는다. 웹에서는 브라우저 위치 API를 쓴다(탭이 보일 때만).
+// 다른 앱으로 넘어가도 위치를 계속 받는다. 아이폰은 실시간 현황(Live Activity)과 백그라운드 위치(앱 안 플러그인).
+// 웹에서는 브라우저 위치 API를 쓴다(탭이 보일 때만).
 import { Capacitor, PluginListenerHandle } from '@capacitor/core';
 import { Geolocation } from '@capacitor/geolocation';
 import { LocalNotifications } from '@capacitor/local-notifications';
 import { ForegroundService, ServiceType } from '@capawesome-team/capacitor-android-foreground-service';
+import { hasLiveActivity, LiveActivity, LiveContent, NavNotice } from './liveNotice';
 
 export type Fix = { lat: number; lng: number; accuracy: number; at: number };
 
@@ -25,6 +27,10 @@ const ensureLocationPermission = async () => {
 };
 
 const startNotice = async (title: string, body: string) => {
+  if (hasLiveActivity()) {
+    await LiveActivity.start({ title, body, progress: null, short: '' }).catch((e) => console.warn('live activity start failed', e));
+    return;
+  }
   if (!isAndroid) return;
   try {
     // 안드로이드 13+ 알림 권한. 거절해도 서비스는 돌지만 알림이 보이지 않는다.
@@ -44,13 +50,23 @@ const startNotice = async (title: string, body: string) => {
   }
 };
 
-// 상단 알림 내용 바꾸기
-export const updateNotice = async (title: string, body: string) => {
+// 상단 알림(아이폰은 실시간 현황) 내용 바꾸기. progress(0~1)가 있으면 게이지를 채운다
+export const updateNotice = async (c: LiveContent) => {
+  if (hasLiveActivity()) {
+    await LiveActivity.update(c).catch(() => undefined);
+    return;
+  }
   if (!isAndroid) return;
   try {
-    await ForegroundService.updateForegroundService({ id: NOTICE_ID, title, body, smallIcon: SMALL_ICON, serviceType: ServiceType.Location, silent: true, buttons: [{ id: STOP_BUTTON, title: '안내 종료' }] });
+    const progress = c.progress === null ? -1 : Math.round(c.progress * 100);
+    await NavNotice.update({ id: NOTICE_ID, title: c.title, body: c.body, progress, smallIcon: SMALL_ICON, stopButtonId: STOP_BUTTON, stopButtonTitle: '안내 종료' });
   } catch {
-    // 서비스가 이미 멈췄으면 무시
+    // 앱 안 플러그인이 없으면(예전 빌드) 막대 없이
+    try {
+      await ForegroundService.updateForegroundService({ id: NOTICE_ID, title: c.title, body: c.body, smallIcon: SMALL_ICON, serviceType: ServiceType.Location, silent: true, buttons: [{ id: STOP_BUTTON, title: '안내 종료' }] });
+    } catch {
+      // 서비스가 이미 멈췄으면 무시
+    }
   }
 };
 
@@ -70,6 +86,17 @@ export const startTracking = async (opts: {
     listener = await ForegroundService.addListener('buttonClicked', (e) => {
       if (e.buttonId === STOP_BUTTON) opts.onStop();
     }).catch(() => null);
+  }
+
+  // 아이폰: 앱이 뒤로 가도 위치를 받도록 앱 안 플러그인이 위치를 보낸다
+  if (hasLiveActivity()) {
+    const fixListener = await LiveActivity.addListener('fix', opts.onFix);
+    await LiveActivity.startLocation();
+    return async () => {
+      await LiveActivity.stopLocation().catch(() => undefined);
+      await fixListener.remove().catch(() => undefined);
+      await LiveActivity.end({ title: '이동 안내 종료', body: '' }).catch(() => undefined);
+    };
   }
 
   const watchId = await Geolocation.watchPosition({ enableHighAccuracy: true, timeout: 20000, maximumAge: 3000 }, (pos, err) => {

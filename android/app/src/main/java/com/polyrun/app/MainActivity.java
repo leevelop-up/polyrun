@@ -15,6 +15,8 @@ import com.getcapacitor.BridgeActivity;
 public class MainActivity extends BridgeActivity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
+        // 앱 안에 둔 플러그인: 이동 안내 알림의 진행 막대
+        registerPlugin(NavNoticePlugin.class);
         super.onCreate(savedInstanceState);
 
         // 하단 네비게이션 바 배경색을 흰색으로 설정
