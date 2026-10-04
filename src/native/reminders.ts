@@ -12,6 +12,13 @@ const KIND = 'trip-reminder';
 const SMALL_ICON = 'ic_stat_walk';
 // 알림 권한은 한 번만 묻는다 (거절하면 다시 묻지 않음)
 const ASKED_KEY = 'runtrip_reminder_asked';
+// 여행 알림 채널: 기본 채널(중요도 보통)은 위에 뜨지 않고 알림창에만 쌓인다. 높음으로 만들어 화면 위에 띄운다
+const CHANNEL = 'trip';
+let channelReady: Promise<void> | null = null;
+const ensureChannel = () =>
+  (channelReady ??= Capacitor.getPlatform() === 'android'
+    ? LocalNotifications.createChannel({ id: CHANNEL, name: '여행 일정 알림', description: '출발 전날과 여행 중 아침에 그날 일정을 알려 줘요', importance: 4, visibility: 1 }).catch(() => undefined)
+    : Promise.resolve());
 
 const askOnce = async (): Promise<boolean> => {
   const perm = await LocalNotifications.checkPermissions();
@@ -34,6 +41,7 @@ export const syncReminders = async (trips: Trip[]): Promise<void> => {
     const pending = (await LocalNotifications.getPending()).notifications.filter((n) => n.extra?.kind === KIND || (n.id >= FIRST_ID && n.id < FIRST_ID + MAX));
     if (pending.length) await LocalNotifications.cancel({ notifications: pending.map((n) => ({ id: n.id })) });
     if (!plan.length || !(await askOnce())) return;
+    await ensureChannel();
     await LocalNotifications.schedule({
       notifications: plan.map((r, i) => ({
         id: FIRST_ID + i,
@@ -41,6 +49,7 @@ export const syncReminders = async (trips: Trip[]): Promise<void> => {
         body: r.body,
         largeBody: r.body,
         smallIcon: SMALL_ICON,
+        channelId: CHANNEL,
         schedule: { at: new Date(r.at), allowWhileIdle: true },
         extra: { kind: KIND, tripId: r.tripId, day: r.day }
       }))
