@@ -22,9 +22,12 @@ type SearchOpts = { full?: boolean; city?: boolean; near?: SearchArea; signal?: 
 export const searchPlaces = async (q: string, opts: SearchOpts = {}): Promise<GeoSearchResult[]> => (await searchPlacesDetailed(q, opts)).results;
 
 // partial: 검색 서버 하나가 응답하지 않아 결과가 빠졌을 수 있음
+const SEARCH_VERSION = '2';
 export const searchPlacesDetailed = async (q: string, opts: SearchOpts = {}): Promise<{ results: GeoSearchResult[]; partial: boolean }> => {
   const params = new URLSearchParams({ q });
   if (opts.full) params.set('full', '1');
+  // 검색 결과 형식이 바뀌면 올린다: 앱(WebView)에 저장된 예전 응답을 쓰지 않게
+  params.set('v', SEARCH_VERSION);
   if (opts.city) params.set('kind', 'city');
   if (opts.near) {
     params.set('lat', opts.near.lat.toFixed(4));

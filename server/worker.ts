@@ -44,7 +44,8 @@ export default {
     // 검색 서버 하나가 응답하지 않아 결과가 빠졌으면(partial) 캐시하지 않는다
     const cacheable = !!ttl && result.status === 200 && !(result.body as { partial?: boolean } | null)?.partial;
     const headers: Record<string, string> = { ...RESPONSE_HEADERS };
-    if (cacheable) headers['Cache-Control'] = 'public, max-age=' + ttl;
+    // 엣지(s-maxage)는 오래, 앱·브라우저(max-age)는 5분만: 서버에서 결과를 고쳐도 앱이 예전 결과를 하루 동안 쓰지 않게
+    if (cacheable) headers['Cache-Control'] = 'public, max-age=' + Math.min(ttl, 300) + ', s-maxage=' + ttl;
     const res = new Response(result.status === 204 ? null : JSON.stringify(result.body), { status: result.status, headers });
     if (cacheable && cache) ctx.waitUntil(cache.put(cacheKey, res.clone()));
     return res;
