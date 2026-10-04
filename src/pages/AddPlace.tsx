@@ -9,7 +9,8 @@ import { findTripDestination, loadPicks, matchPick, PlacePick } from '../data/de
 import { usePlaceSearch } from '../hooks/usePlaceSearch';
 import PlaceDetail from '../components/PlaceDetail';
 import { tripBooking } from '../utils/booking';
-import { dayDate, fmtDay, readDayParam, tripCenter, tripRange, tripRegion, tripSearchArea } from '../utils/trip';
+import { distM, LatLng } from '../utils/nav';
+import { dayDate, fmtDay, readDayParam, sortByCat, tripCenter, tripRange, tripRegion, tripSearchArea } from '../utils/trip';
 
 type Candidate = { name: string; cat: Category; lat: number; lng: number; wd?: string; area?: string; aliases?: string[] };
 
@@ -84,7 +85,9 @@ const AddPlace: React.FC = () => {
 
   const qTrim = q.trim().toLowerCase();
   // 검색어가 있으면 지역과 상관없이 전체 추천 장소에서 찾는다
-  const shownPicks = picks.filter((p) => matchPick(p, q) && (qTrim !== '' || !area || p.area === area));
+  // 검색 중에는 관광지 먼저, 식당은 맨 뒤
+  const matched = picks.filter((p) => matchPick(p, q) && (qTrim !== '' || !area || p.area === area));
+  const shownPicks = qTrim ? sortByCat(matched) : matched;
   // "전체" 보기에서는 지역별로 묶어서 보여준다
   // 지역 칩에 없는 관광지(도시별 관광지 파일)는 맨 뒤 "더 많은 관광지"로 모은다
   const groups = !qTrim && !area && areas.length > 1
@@ -94,9 +97,12 @@ const AddPlace: React.FC = () => {
         .filter((g) => g.items.length)
     : [{ area: '', items: shownPicks }];
   const pickNames = new Set(shownPicks.map((p) => p.name));
-  const apiResults = search.results.filter((r) => !pickNames.has(r.name));
+  const apiResults = sortByCat(search.results.filter((r) => !pickNames.has(r.name)));
 
-  const findAdded = (name: string) => list.find((x) => x.name === name);
+  // 이미 담은 장소인지: 이름이 같고 위치도 같은 곳(150m 안). 이름만 보면 다른 "경복궁"(식당 등)까지 담긴 것으로 보인다.
+  // 위치를 모르는 예전 장소는 이름만 본다
+  const findAdded = (c: { name: string; lat?: number; lng?: number }) =>
+    list.find((x) => x.name === c.name && (typeof x.lat !== 'number' || typeof c.lat !== 'number' || distM(x as LatLng, c as LatLng) < 150));
 
   const showToast = (text: string) => {
     clearTimeout(toastTimer.current);
@@ -107,7 +113,7 @@ const AddPlace: React.FC = () => {
   // 추가/빼기는 바로 일정에 저장한다 (뒤로가기해도 사라지지 않음)
   const toggle = (c: Candidate) => {
     if (!activeTrip) return;
-    const existing = findAdded(c.name);
+    const existing = findAdded(c);
     if (existing) {
       removePlaceFromDay(activeTrip.id, day, existing.id);
     } else {
@@ -231,7 +237,7 @@ const AddPlace: React.FC = () => {
   const date = dayDate(activeTrip, day);
 
   const renderRow = (key: string, c: Candidate, sub: string) => {
-    const added = !!findAdded(c.name);
+    const added = !!findAdded(c);
     return (
       <div key={key} style={{ flexShrink: 0, display: 'flex', alignItems: 'center', gap: 10, padding: '8px 8px 8px 14px', background: '#FFFFFF', border: '2px solid #14162B', borderRadius: 8 }}>
         <div style={{ width: 12, height: 12, flexShrink: 0, border: '2px solid #14162B', background: CAT_COLORS[c.cat][0] }} />
@@ -514,7 +520,7 @@ const AddPlace: React.FC = () => {
           region={activeTrip ? tripRegion(activeTrip) : undefined}
           booking={activeTrip ? tripBooking(activeTrip) : undefined}
           onClose={() => setDetail(null)}
-          action={{ label: findAdded(detail.name) ? '추가됨' : day + 1 + '일차에 추가', active: !!findAdded(detail.name), onClick: () => toggle(detail) }}
+          action={{ label: findAdded(detail) ? '추가됨' : day + 1 + '일차에 추가', active: !!findAdded(detail), onClick: () => toggle(detail) }}
         />
       )}
 

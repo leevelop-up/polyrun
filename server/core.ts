@@ -28,6 +28,9 @@ const WIKIDATA_URL = 'https://www.wikidata.org/w/api.php';
 type Category = '식당' | '관광' | '쇼핑' | '숙박' | '교통';
 type SearchResult = { name: string; label: string; lat: number; lng: number; cat: Category };
 
+// 검색 결과 순서: 관광 → 쇼핑 → 숙박 → 교통 → 식당
+const CAT_RANK: Record<Category, number> = { 관광: 0, 쇼핑: 1, 숙박: 2, 교통: 3, 식당: 4 };
+
 // OSM 태그(key/value)로 앱의 장소 카테고리를 추정한다
 const FOOD = new Set(['restaurant', 'cafe', 'fast_food', 'bar', 'pub', 'food_court', 'ice_cream', 'biergarten']);
 const LODGING = new Set(['hotel', 'hostel', 'guest_house', 'motel', 'apartment', 'chalet']);
@@ -413,7 +416,8 @@ const dedupe = (results: SearchResult[]): SearchResult[] => {
     if (r.cat === '교통' && out.some((o) => sameName(o) && o.cat === '교통' && km(o) < 1)) continue;
     out.push(r);
   }
-  return out.slice(0, 8);
+  // 관광지를 먼저, 식당은 맨 뒤 (같은 종류 안에서는 원래 순서 = 여행지에서 가까운 순)
+  return out.sort((a, b) => CAT_RANK[a.cat] - CAT_RANK[b.cat]).slice(0, 8);
 };
 
 // 여행지 기준 검색 반경. 앱이 radius 로 여행지에 맞는 값(도시 150km, 여러 도시 묶음 800km)을 보내고,

@@ -156,6 +156,14 @@ export const travelMins = (a: Place, b: Place): number => {
 
 // ---------- 하루 시간표 ----------
 // 카테고리별 기본 머무는 시간(분)
+// 검색 결과 순서: 관광 → 쇼핑 → 숙박 → 교통 → 식당 (서버 server/core.ts 의 CAT_RANK 와 같게)
+export const CAT_RANK: Record<Category, number> = { 관광: 0, 쇼핑: 1, 숙박: 2, 교통: 3, 식당: 4 };
+// 종류를 모르는 결과는 관광으로 본다
+const catRank = (c?: Category) => (c ? CAT_RANK[c] : 0);
+const byCat = <T extends { cat?: Category }>(a: T, b: T) => catRank(a.cat) - catRank(b.cat);
+// 검색 결과를 관광지 먼저로 (같은 종류 안에서는 원래 순서)
+export const sortByCat = <T extends { cat?: Category }>(l: T[]): T[] => [...l].sort(byCat);
+
 export const DEFAULT_STAY: Record<Category, number> = { 식당: 60, 관광: 90, 쇼핑: 60, 숙박: 0, 교통: 15 };
 // 첫 장소에 도착 시각을 정하지 않았을 때의 하루 시작 시각
 export const DAY_START = '10:00';

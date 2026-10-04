@@ -13,8 +13,8 @@ const CACHE_SECONDS: Record<string, number> = {
   '/api/place': 7 * 86400
 };
 
-// 결과를 만드는 방식이 바뀌면 올린다: 엣지에 캐시된 예전 결과를 쓰지 않게 (검색 중복 정리 → 2)
-const CACHE_VERSION = '2';
+// 결과를 만드는 방식이 바뀌면 올린다: 엣지에 캐시된 예전 결과를 쓰지 않게 (검색 중복 정리 → 2, 관광지 먼저 → 3)
+const CACHE_VERSION = '3';
 
 type Ctx = { waitUntil(p: Promise<unknown>): void };
 type EdgeCache = { match(req: Request): Promise<Response | undefined>; put(req: Request, res: Response): Promise<void> };
