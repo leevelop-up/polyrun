@@ -527,17 +527,35 @@ const osrmLegs = async (profile: 'foot' | 'car', pts: [number, number][]): Promi
   return data.routes[0].legs;
 };
 
-const routeLegs = async (pts: [number, number][]): Promise<RouteLeg[]> => {
+// 길로 이어지지 않는 구간 (섬: 우도, 마라도 등). 다시 묻지 않는다
+const noRouteCache = new TtlCache<true>(30 * DAY, 5000);
+
+// 구간마다 시간. 길로 갈 수 없는 구간(섬)은 null (앱은 직선거리로 추정)
+const routeLegs = async (pts: [number, number][]): Promise<(RouteLeg | null)[]> => {
   const keys = pts.slice(1).map((p, i) => legKey(pts[i], p));
-  const cached = keys.map((k) => legCache.get(k));
-  if (cached.every((c) => c !== undefined)) return cached as RouteLeg[];
-  // 여러 지점을 한 번에 경로로 요청하면 구간(leg)별 시간이 나온다 (구간마다 요청하지 않음)
-  const [foot, car] = await Promise.all([osrmLegs('foot', pts), osrmLegs('car', pts)]);
-  return keys.map((k, i) => {
-    const leg = { walkMin: Math.round(foot[i].duration / 60), driveMin: Math.round(car[i].duration / 60), km: Math.round(car[i].distance / 100) / 10 };
-    legCache.set(k, leg);
-    return leg;
-  });
+  const cached = keys.map((k) => (noRouteCache.get(k) ? null : legCache.get(k)));
+  if (cached.every((c) => c !== undefined)) return cached as (RouteLeg | null)[];
+  try {
+    // 여러 지점을 한 번에 경로로 요청하면 구간(leg)별 시간이 나온다 (구간마다 요청하지 않음)
+    const [foot, car] = await Promise.all([osrmLegs('foot', pts), osrmLegs('car', pts)]);
+    return keys.map((k, i) => {
+      const leg = { walkMin: Math.round(foot[i].duration / 60), driveMin: Math.round(car[i].duration / 60), km: Math.round(car[i].distance / 100) / 10 };
+      legCache.set(k, leg);
+      return leg;
+    });
+  } catch (e) {
+    // 400 = 길을 못 찾는 지점이 섞임 (섬). 그 하나 때문에 하루 전체가 추정으로 나오지 않게 구간마다 따로 묻는다
+    if (!/-> 400$/.test((e as Error).message)) throw e;
+    if (pts.length === 2) {
+      noRouteCache.set(keys[0], true);
+      return [null];
+    }
+    const out: (RouteLeg | null)[] = [];
+    for (let i = 0; i < keys.length; i++) {
+      out.push(cached[i] !== undefined ? (cached[i] as RouteLeg | null) : (await routeLegs([pts[i], pts[i + 1]]))[0]);
+    }
+    return out;
+  }
 };
 
 // 모든 지점 쌍의 시간/거리 (OSRM table). 자동 정렬이 순서를 고를 때 쓴다.

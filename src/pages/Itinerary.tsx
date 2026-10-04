@@ -159,8 +159,8 @@ const Itinerary: React.FC = () => {
     sorting.current = true;
     if (toastTimer.current) clearTimeout(toastTimer.current);
     setToast({ text: '실제 길 기준으로 동선 계산 중…', undo: false, sort: false, prev: null });
-    // 모든 장소 쌍의 실제 이동 시간(OSRM)을 받아 와서 그걸로 비교한다. 못 받으면 직선거리 추정.
-    const real = await loadAllLegs(list);
+    // 모든 장소 쌍의 실제 이동 시간(OSRM)을 받아 와서 그걸로 비교한다. 못 받거나 12초 넘게 걸리면 직선거리 추정.
+    const real = await loadAllLegs(list).catch(() => false);
     sorting.current = false;
     // 계산하는 동안 일정을 고쳤거나 다른 일차로 넘어갔으면 정렬하지 않는다
     if (latestList.current !== list) {

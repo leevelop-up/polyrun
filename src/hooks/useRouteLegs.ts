@@ -5,7 +5,8 @@ import type { LegLookup } from '../utils/trip';
 
 // 실제 길 기준 이동 시간: 일차별 장소 목록에서 연속한 두 곳 사이 시간을 서버(OSRM)에서 받아 온다.
 // 받은 구간은 앱이 켜져 있는 동안 기억해서, 순서를 바꾸거나 일차를 오가도 다시 묻지 않는다.
-const cache = new Map<string, RouteLeg>();
+// null: 길로 갈 수 없는 구간(섬). 다시 묻지 않고 직선거리로 추정한다
+const cache = new Map<string, RouteLeg | null>();
 // 실패한 요청은 잠시 다시 묻지 않는다 (서버 장애 중 화면이 바뀔 때마다 요청하지 않도록)
 const failedUntil = new Map<string, number>();
 const RETRY_MS = 60000;
@@ -25,6 +26,8 @@ const pendingDays = (days: Place[][]): string[] =>
 // 자동 정렬 전에 장소들 사이 모든 구간의 시간을 한 번에 받아 둔다 (OSRM table).
 // 이미 다 알고 있으면 묻지 않는다. 받지 못하면 false (호출한 쪽은 직선거리 추정으로 정렬).
 const MAX_MATRIX_POINTS = 30;
+// 길 찾기 서버가 느리면 이만큼만 기다리고 직선거리 추정으로 정렬한다 ("동선 계산 중…"이 계속 떠 있지 않게)
+const MATRIX_WAIT_MS = 12000;
 export async function loadAllLegs(places: Place[]): Promise<boolean> {
   const seen = new Set<string>();
   const pts = places.filter(hasCoord).filter((p) => {
@@ -36,12 +39,16 @@ export async function loadAllLegs(places: Place[]): Promise<boolean> {
   if (pts.length < 2) return false;
   if (pts.every((a) => pts.every((b) => a === b || cache.has(legKey(a, b))))) return true;
   if (pts.length > MAX_MATRIX_POINTS) return false;
+  const ctrl = new AbortController();
+  const timer = setTimeout(() => ctrl.abort(), MATRIX_WAIT_MS);
   try {
-    const legs = await fetchRouteMatrix(pts);
+    const legs = await fetchRouteMatrix(pts, ctrl.signal);
     legs.forEach((row, i) => row.forEach((leg, j) => leg && cache.set(legKey(pts[i], pts[j]), leg)));
     return true;
   } catch {
     return false;
+  } finally {
+    clearTimeout(timer);
   }
 }
 
@@ -77,5 +84,5 @@ export function useRouteLegs(days: Place[][]): LegLookup {
     };
   }, [reqKey]);
 
-  return useCallback((a: Place, b: Place) => (hasCoord(a) && hasCoord(b) ? cache.get(legKey(a, b)) : undefined), []);
+  return useCallback((a: Place, b: Place) => (hasCoord(a) && hasCoord(b) ? cache.get(legKey(a, b)) || undefined : undefined), []);
 }

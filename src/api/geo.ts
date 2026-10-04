@@ -43,11 +43,12 @@ export const searchPlacesDetailed = async (q: string, opts: SearchOpts = {}): Pr
 // 연속한 두 지점 사이 실제 길 기준 이동 시간
 export type RouteLeg = { walkMin: number; driveMin: number; km: number };
 
-export const fetchRouteLegs = async (points: { lat: number; lng: number }[], signal?: AbortSignal): Promise<RouteLeg[]> => {
+// 길로 갈 수 없는 구간(섬)은 null
+export const fetchRouteLegs = async (points: { lat: number; lng: number }[], signal?: AbortSignal): Promise<(RouteLeg | null)[]> => {
   const q = points.map((p) => p.lat.toFixed(5) + ',' + p.lng.toFixed(5)).join(';');
   const res = await fetch(`${API_BASE}/api/route?points=${encodeURIComponent(q)}`, { signal });
   if (!res.ok) throw new Error('route failed');
-  return ((await res.json()) as { legs: RouteLeg[] }).legs;
+  return ((await res.json()) as { legs: (RouteLeg | null)[] }).legs;
 };
 
 // 모든 지점 쌍 사이 이동 시간: legs[i][j] 는 i -> j (같은 지점이거나 길을 못 찾으면 null)
