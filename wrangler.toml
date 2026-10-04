@@ -6,4 +6,4 @@ compatibility_date = "2025-09-01"
 
 [vars]
 # Nominatim 이용 정책: 앱을 알아볼 수 있는 이름 + 연락처(이메일이나 웹사이트)를 넣어야 한다
-GEO_USER_AGENT = "runtrip/0.0.8 (contact: CHANGE-ME)"
+GEO_USER_AGENT = "runtrip/0.0.8 (contact: outputloggy@gmail.com)"
