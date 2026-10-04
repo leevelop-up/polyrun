@@ -9,7 +9,10 @@ const isNative = Capacitor.isNativePlatform();
 const FIRST_ID = 5000;
 const MAX = 200;
 const KIND = 'trip-reminder';
-const SMALL_ICON = 'ic_stat_walk';
+// 상태줄 비행기 아이콘(앱 색으로 칠함), 알림 오른쪽에 앱 아이콘 (android/app/src/main/res/drawable*/)
+const SMALL_ICON = 'ic_stat_trip';
+const LARGE_ICON = 'ic_notif_app';
+const ICON_COLOR = '#2F3CF0';
 // 알림 권한은 한 번만 묻는다 (거절하면 다시 묻지 않음)
 const ASKED_KEY = 'runtrip_reminder_asked';
 // 여행 알림 채널: 기본 채널(중요도 보통)은 위에 뜨지 않고 알림창에만 쌓인다. 높음으로 만들어 화면 위에 띄운다
@@ -49,6 +52,8 @@ export const syncReminders = async (trips: Trip[]): Promise<void> => {
         body: r.body,
         largeBody: r.body,
         smallIcon: SMALL_ICON,
+        largeIcon: LARGE_ICON,
+        iconColor: ICON_COLOR,
         channelId: CHANNEL,
         schedule: { at: new Date(r.at), allowWhileIdle: true },
         extra: { kind: KIND, tripId: r.tripId, day: r.day }
