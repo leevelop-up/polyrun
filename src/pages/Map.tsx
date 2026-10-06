@@ -4,7 +4,7 @@ import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import { Place, useTrip } from '../context/TripContext';
 import { CAT_COLORS, INK, PAPER } from '../theme/palette';
-import { dayDate, fmtDay, readDayParam, tripCenter, tripRange, tripSearchArea, tripTitle } from '../utils/trip';
+import { dayDate, fmtDay, readDayParam, tripCenter, tripRange, tripRegion, tripSearchArea, tripTitle } from '../utils/trip';
 import DayGrid from '../components/DayGrid';
 import NavCard from '../components/NavCard';
 import { walkerClass, walkerSvg } from '../components/walkerSvg';
@@ -12,6 +12,8 @@ import { useNav } from '../context/NavContext';
 import { getCurrentFix, LocationDeniedError } from '../native/tracking';
 import { pointAt } from '../utils/nav';
 import { searchPlaces } from '../api/geo';
+import PlaceDetail from '../components/PlaceDetail';
+import { tripBooking } from '../utils/booking';
 
 // 마커끼리 이 픽셀 거리보다 가까우면 겹치지 않게 옆으로 펼친다
 const MARKER_GAP = 30;
@@ -56,6 +58,8 @@ const MapPage: React.FC = () => {
   const markerPlacesRef = useRef<{ place: Place; num: number }[]>([]);
   // 목록에서 고른 장소 (초록색 강조 + 지도 가운데)
   const [pickedId, setPickedId] = useState<string | null>(null);
+  // 상세정보 시트에 띄운 장소
+  const [detail, setDetail] = useState<Place | null>(null);
   const pickedRef = useRef<string | null>(null);
   pickedRef.current = pickedId;
   // 현재 위치 점과 GPS 오차 원
@@ -416,7 +420,7 @@ const MapPage: React.FC = () => {
   };
 
   return (
-    <div style={{ width: '100%', maxWidth: 390, height: 'calc(100vh - var(--ad-h, 0px))', maxHeight: 844, margin: '0 auto', boxSizing: 'border-box', background: PAPER, display: 'flex', flexDirection: 'column', overflow: 'hidden' }}>
+    <div style={{ width: '100%', maxWidth: 390, height: 'calc(100vh - var(--ad-h, 0px))', maxHeight: 844, margin: '0 auto', boxSizing: 'border-box', background: PAPER, display: 'flex', flexDirection: 'column', overflow: 'hidden', position: 'relative' }}>
       {!bigMap && (
       <>
       <div style={{ flexShrink: 0, background: '#2F3CF0', borderBottom: '2px solid #14162B', padding: '14px 20px 18px', display: 'flex', flexDirection: 'column', gap: 8, color: '#FFFFFF' }}>
@@ -586,6 +590,18 @@ const MapPage: React.FC = () => {
                     여기로 안내
                   </button>
                 )}
+                {/* 장소 상세정보 (위키백과 사진·설명, 구글 지도) */}
+                <button
+                  type="button"
+                  aria-label={p.name + ' 상세정보'}
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    setDetail(p);
+                  }}
+                  style={{ flexShrink: 0, width: 30, height: 30, padding: 0, border: '2px solid #14162B', borderRadius: '50%', background: '#FFFFFF', color: INK, fontFamily: "'DM Mono', monospace", fontSize: 14, fontWeight: 700, lineHeight: 1, cursor: 'pointer' }}
+                >
+                  i
+                </button>
               </div>
             ))}
             {list.length === 0 && <div style={{ fontSize: 14, color: '#4A4D66', padding: '8px 0' }}>이 날은 아직 장소가 없어요.</div>}
@@ -593,6 +609,8 @@ const MapPage: React.FC = () => {
           </div>
         </div>
       )}
+
+      {detail && <PlaceDetail place={detail} region={tripRegion(activeTrip)} booking={tripBooking(activeTrip)} onClose={() => setDetail(null)} />}
 
       {grid && (
         <DayGrid
