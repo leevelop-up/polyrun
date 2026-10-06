@@ -37,3 +37,13 @@ scripts/.geocode-cache.json
 
 # 관광지 데이터 생성 중 받은 Wikidata 원본 (scripts/build-places.mjs)
 scripts/.wikidata-cache/
+
+# 서명·인증서 (Play 업로드 인증서 등)
+*.pem
+*.p12
+
+# Firebase 설정 (빌드는 android/app/google-services.json 을 씀)
+/google-services.json
+
+# 작업용 이미지
+/f-la-*.png
