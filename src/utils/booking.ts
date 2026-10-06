@@ -5,7 +5,7 @@ import { findTripDestination } from '../data/destinations';
 
 export const AFFILIATE = {
   // 아고다 파트너스(partners.agoda.com) 사이트 ID → 링크의 cid
-  agodaCid: '',
+  agodaCid: '1739459',
   // 클룩 어필리에이트(affiliate.klook.com) 파트너 ID → 링크의 aid
   klookAid: '',
   // 트립닷컴 어필리에이트(www.trip.com/partners) Alliance ID, SID
