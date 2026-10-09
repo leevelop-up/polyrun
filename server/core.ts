@@ -13,7 +13,7 @@
 // 실행 환경의 설정값 (Node: process.env, Workers: wrangler.toml 의 vars)
 export type ApiConfig = { GEO_USER_AGENT?: string; NOMINATIM_URL?: string; PHOTON_URL?: string; ROUTING_URL?: string };
 // Nominatim 이용 정책상 앱을 식별할 수 있는 User-Agent 필수
-let USER_AGENT = 'runtrip/0.0.8 (contact: outputloggy@gmail.com)';
+let USER_AGENT = 'runtrip/0.0.9 (contact: outputloggy@gmail.com)';
 let NOMINATIM_URL = 'https://nominatim.openstreetmap.org';
 let PHOTON_URL = 'https://photon.komoot.io';
 // 길찾기: OSRM (FOSSGIS 공개 서버)
