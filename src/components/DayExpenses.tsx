@@ -6,7 +6,7 @@ import { fmtWon, spentOf } from '../utils/trip';
 const MAX_AMOUNT = 999999999;
 
 // 목록 화면 아래: 그 일차에 쓴 돈을 항목·금액으로 적고 합계를 보여준다
-const DayExpenses: React.FC<{ trip: Trip; day: number }> = ({ trip, day }) => {
+const DayExpenses: React.FC<{ trip: Trip; day: number; indent?: boolean }> = ({ trip, day, indent = true }) => {
   const { addExpense, removeExpense } = useTrip();
   const [title, setTitle] = useState('');
   // 숫자만 들고 있고 화면에는 쉼표를 넣어 보여준다
@@ -24,7 +24,7 @@ const DayExpenses: React.FC<{ trip: Trip; day: number }> = ({ trip, day }) => {
   const field: React.CSSProperties = { minWidth: 0, height: 44, boxSizing: 'border-box', padding: '0 10px', border: '2px solid #14162B', borderRadius: 8, background: '#FFFFFF', color: INK, fontSize: 14 };
 
   return (
-    <div style={{ flexShrink: 0, display: 'flex', flexDirection: 'column', gap: 8, margin: '4px 0 14px 32px' }}>
+    <div style={{ flexShrink: 0, display: 'flex', flexDirection: 'column', gap: 8, margin: '4px 0 14px ' + (indent ? 32 : 0) + 'px' }}>
       <div style={{ display: 'flex', alignItems: 'baseline', justifyContent: 'space-between', gap: 8 }}>
         <div style={{ fontFamily: "'DM Mono', monospace", fontSize: 11, letterSpacing: '0.12em', color: '#4A4D66' }}>SPEND · {day + 1}일차 사용 금액</div>
         <div style={{ fontFamily: "'DM Mono', monospace", fontSize: 15, fontWeight: 500 }}>{fmtWon(spentOf(trip, day))}</div>

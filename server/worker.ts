@@ -10,7 +10,8 @@ const CACHE_SECONDS: Record<string, number> = {
   '/api/path': 86400,
   '/api/reverse': 7 * 86400,
   '/api/search': 86400,
-  '/api/place': 7 * 86400
+  '/api/place': 7 * 86400,
+  '/api/weather': 3600
 };
 
 // 결과를 만드는 방식이 바뀌면 올린다: 엣지에 캐시된 예전 결과를 쓰지 않게 (검색 중복 정리 → 2, 관광지 먼저 → 3)

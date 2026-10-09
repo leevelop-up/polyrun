@@ -17,6 +17,8 @@ const parentOf = (pathname: string, search: string): string | null => {
       return '/itinerary' + (day ? '?day=' + day : '');
     case '/edit-trip':
       return '/itinerary';
+    case '/checklist':
+      return new URLSearchParams(search).get('from') === 'today' ? '/today' : '/itinerary?tab=prep';
     default:
       return null;
   }

@@ -14,6 +14,7 @@ import { pointAt } from '../utils/nav';
 import { searchPlaces } from '../api/geo';
 import PlaceDetail from '../components/PlaceDetail';
 import { tripBooking } from '../utils/booking';
+import TripTabs from '../components/TripTabs';
 
 // 마커끼리 이 픽셀 거리보다 가까우면 겹치지 않게 옆으로 펼친다
 const MARKER_GAP = 30;
@@ -436,10 +437,7 @@ const MapPage: React.FC = () => {
         {activeTrip.title && <div style={{ fontSize: 13, fontWeight: 700, opacity: 0.85 }}>여행지 · {activeTrip.destination}</div>}
       </div>
 
-      <div style={{ flexShrink: 0, height: 48, boxSizing: 'border-box', display: 'grid', gridTemplateColumns: 'repeat(2, minmax(0, 1fr))', margin: '16px 20px 0', border: '2px solid #14162B', borderRadius: 10, overflow: 'hidden' }}>
-        <button type="button" onClick={() => history.push('/itinerary?day=' + day)} style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', height: 44, borderRight: '2px solid #14162B', background: '#FFFFFF', color: INK, fontFamily: "'Black Han Sans', sans-serif", fontSize: 16, cursor: 'pointer' }}>목록</button>
-        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', height: 44, background: '#FFD84A', color: INK, fontFamily: "'Black Han Sans', sans-serif", fontSize: 16 }}>지도</div>
-      </div>
+      <TripTabs current="map" day={day} />
       </>
       )}
 

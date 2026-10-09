@@ -9,6 +9,10 @@ import { tripBooking } from '../utils/booking';
 import { useRouteLegs } from '../hooks/useRouteLegs';
 import { LocationDeniedError } from '../native/tracking';
 import PlaceDetail from '../components/PlaceDetail';
+import WeatherBadge from '../components/WeatherBadge';
+import FlightCard from '../components/FlightCard';
+import { flightsOnDay } from '../utils/flight';
+import { useWeather } from '../hooks/useWeather';
 
 // 다녀온 장소 체크 (이 기기에서만): { 일정 id: [장소 id] }
 const DONE_KEY = 'runtrip_done';
@@ -37,6 +41,7 @@ const Today: React.FC = () => {
   const list = trip?.days[day] || [];
   const legOf = useRouteLegs(trip ? trip.days : []);
   const schedule = daySchedule(list, legOf);
+  const weather = useWeather(trip);
 
   // 이 화면에서 고른 여행을 지금 일정으로 (일정·지도 화면이 같은 여행을 보도록)
   useEffect(() => {
@@ -69,6 +74,7 @@ const Today: React.FC = () => {
   const navHere = !!nav && nav.tripId === trip.id && nav.day === day;
   const date = dayDate(trip, day);
   const isTomorrow = today.kind === 'tomorrow';
+  const packLeft = (trip.checklist || []).filter((c) => !c.done).length;
 
   const guide = async (p: Place) => {
     setMsg(null);
@@ -98,6 +104,7 @@ const Today: React.FC = () => {
           {isTomorrow ? '내일 출발 · 1일차 미리 보기' : day + 1 + '일차 · ' + (date ? fmtDay(date) : '')}
         </div>
         <h1 style={{ margin: 0, fontFamily: "'Black Han Sans', sans-serif", fontSize: 34, lineHeight: 1.1, fontWeight: 400 }}>{tripTitle(trip)}</h1>
+        {weather.get(day) && <WeatherBadge w={weather.get(day)!} color="#FFFFFF" size={13} />}
       </div>
 
       <div style={{ flexGrow: 1, minHeight: 0, overflowY: 'auto', display: 'flex', flexDirection: 'column', gap: 18, padding: '18px 20px 12px' }}>
@@ -147,6 +154,23 @@ const Today: React.FC = () => {
           </div>
         ) : (
           <div style={{ border: '2px solid #14162B', borderRadius: 12, background: '#FFD84A', padding: '16px', fontFamily: "'Black Han Sans', sans-serif", fontSize: 20 }}>오늘 일정을 모두 다녀왔어요 🎉</div>
+        )}
+
+        {flightsOnDay(trip, day).map((k) => <FlightCard key={k} trip={trip} kind={k} indent={false} hideEmpty />)}
+
+        {isTomorrow && (
+          <button type="button" onClick={() => history.push('/checklist?from=today')} style={{ display: 'flex', alignItems: 'center', gap: 12, minHeight: 60, padding: '10px 14px', border: '2px solid #14162B', borderRadius: 12, background: packLeft ? '#FFD84A' : '#FFFFFF', color: INK, textAlign: 'left', cursor: 'pointer' }}>
+            <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#14162B" strokeWidth={2.2} strokeLinecap="square" aria-hidden="true">
+              <path d="M5 8h14l-1 13H6L5 8zM9 8V5h6v3M9 14l2 2 4-4" />
+            </svg>
+            <div style={{ flexGrow: 1, minWidth: 0 }}>
+              <div style={{ fontFamily: "'Black Han Sans', sans-serif", fontSize: 17 }}>준비물 챙기기</div>
+              <div style={{ fontSize: 13, color: MUTED }}>{!trip.checklist ? '여행지에 맞는 기본 목록을 만들어 드려요' : packLeft ? packLeft + '개 아직 안 챙겼어요' : '다 챙겼어요'}</div>
+            </div>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#14162B" strokeWidth={2.6} strokeLinecap="square" aria-hidden="true">
+              <path d="M9 5l7 7-7 7" />
+            </svg>
+          </button>
         )}
 
         {list.length > 0 && (

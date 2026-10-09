@@ -1,6 +1,7 @@
 import type { Category, Place, Trip } from '../context/TripContext';
 import { DESTINATIONS, findTripDestination } from '../data/destinations';
 import type { RouteLeg, SearchArea } from '../api/geo';
+import { normalizeFlightNo } from './flight';
 
 const DAY_MS = 86400000;
 const DAY_LABELS = ['일', '월', '화', '수', '목', '금', '토'];
@@ -126,6 +127,23 @@ export const parseBackup = (text: string): Trip[] | null => {
       trip.expenses = (t.expenses as Record<string, unknown>[]).flatMap((e) =>
         typeof e?.id === 'string' && num(e.day) && num(e.amount) && e.amount >= 0
           ? [{ id: e.id, day: Math.min(n - 1, Math.max(0, Math.round(e.day))), title: typeof e.title === 'string' ? e.title : '', amount: Math.round(e.amount) }]
+          : []
+      );
+    }
+    if (t.flights && typeof t.flights === 'object') {
+      const f = t.flights as Record<string, { no?: unknown; time?: unknown }>;
+      trip.flights = {};
+      for (const k of ['out', 'back'] as const) {
+        const no = typeof f[k]?.no === 'string' ? normalizeFlightNo(f[k].no as string) : null;
+        if (!no) continue;
+        trip.flights[k] = { no };
+        if (typeof f[k].time === 'string' && parseHM(f[k].time as string) !== null) trip.flights[k]!.time = f[k].time as string;
+      }
+    }
+    if (Array.isArray(t.checklist)) {
+      trip.checklist = (t.checklist as Record<string, unknown>[]).flatMap((c) =>
+        typeof c?.id === 'string' && typeof c.text === 'string' && c.text.trim()
+          ? [{ id: c.id, text: c.text.trim().slice(0, 40), done: c.done === true, group: typeof c.group === 'string' && c.group ? c.group.slice(0, 20) : '내가 추가' }]
           : []
       );
     }

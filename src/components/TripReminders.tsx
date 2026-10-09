@@ -7,8 +7,8 @@ import { onReminderTap, syncReminders } from '../native/reminders';
 const TripReminders: React.FC = () => {
   const history = useHistory();
   const { trips } = useTrip();
-  // 알림 내용에 들어가는 것만 본다 (메모·금액을 고칠 때마다 다시 예약하지 않게)
-  const sig = JSON.stringify(trips.map((t) => [t.id, t.title, t.destination, t.startDate, t.endDate, t.days.map((d) => d.map((p) => p.name))]));
+  // 알림 내용에 들어가는 것만 본다 (메모·금액을 고칠 때마다 다시 예약하지 않게). 준비물은 남은 개수만
+  const sig = JSON.stringify(trips.map((t) => [t.id, t.title, t.destination, t.startDate, t.endDate, t.days.map((d) => d.map((p) => p.name)), (t.checklist || []).filter((c) => !c.done).length, t.flights]));
 
   useEffect(() => {
     const h = setTimeout(() => syncReminders(trips), 1500);

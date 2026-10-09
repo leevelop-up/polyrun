@@ -11,6 +11,7 @@ import MyTrips from './pages/MyTrips';
 import Itinerary from './pages/Itinerary';
 import Map from './pages/Map';
 import Today from './pages/Today';
+import Checklist from './pages/Checklist';
 import TripReminders from './components/TripReminders';
 import { findTodayTrip } from './utils/today';
 import MovePrompt from './components/MovePrompt';
@@ -81,6 +82,9 @@ const App: React.FC = () => {
             </Route>
             <Route exact path="/map">
               <Map />
+            </Route>
+            <Route exact path="/checklist">
+              <Checklist />
             </Route>
           </IonRouterOutlet>
           {/* 이동을 감지하면 어느 화면에서든 아래에 "이동 중이신가요?" */}

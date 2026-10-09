@@ -85,3 +85,14 @@ export const fetchPlaceInfo = async (p: { name: string; lat?: number; lng?: numb
   if (!res.ok) throw new Error('place info failed');
   return ((await res.json()) as { info: PlaceInfo | null }).info;
 };
+
+// 날씨 예보 (MET Norway): 앞으로 약 9일, 현지 날짜("2026-10-09")별 하루 요약. rain 은 하루 강수량(mm)
+export type WeatherKind = 'clear' | 'partly' | 'cloudy' | 'fog' | 'rain' | 'snow' | 'thunder';
+export type DayWeather = { date: string; kind: WeatherKind; max: number; min: number; rain: number };
+
+export const fetchWeather = async (lat: number, lng: number, signal?: AbortSignal): Promise<DayWeather[]> => {
+  // 서버·엣지 캐시를 같이 쓰도록 1km 단위로 묶는다
+  const res = await fetch(`${API_BASE}/api/weather?lat=${lat.toFixed(2)}&lng=${lng.toFixed(2)}`, { signal });
+  if (!res.ok) throw new Error('weather failed');
+  return ((await res.json()) as { days: DayWeather[] }).days;
+};

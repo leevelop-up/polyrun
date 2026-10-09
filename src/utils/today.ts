@@ -1,6 +1,7 @@
 // 여행 당일·전날: "오늘 일정" 화면에 띄울 여행과, 미리 예약해 둘 알림 목록
 import type { Place, Trip } from '../context/TripContext';
 import { tripStatus } from './trip';
+import { flightLine } from './flight';
 
 const DAY_MS = 86400000;
 // 전날 저녁 알림, 여행 중 아침 알림 시각
@@ -44,10 +45,15 @@ export const reminderPlan = (trips: Trip[], now = Date.now()): Reminder[] => {
     const name = t.title?.trim() || t.destination.split(',')[0].trim();
     const start = new Date(t.startDate);
     const eve = new Date(start.getFullYear(), start.getMonth(), start.getDate() - 1, EVE_HOUR).getTime();
-    out.push({ at: eve, title: '내일 ' + name + ' 여행을 떠나요 ✈️', body: '1일차 · ' + placesLine(t.days[0] || []), tripId: t.id, day: 0 });
+    const packLeft = (t.checklist || []).filter((c) => !c.done).length;
+    const packLine = packLeft ? '\n준비물 ' + packLeft + '개 아직 안 챙겼어요' : '';
+    const outLine = flightLine(t, 'out');
+    out.push({ at: eve, title: '내일 ' + name + ' 여행을 떠나요 ✈️', body: (outLine ? outLine + '\n' : '') + '1일차 · ' + placesLine(t.days[0] || []) + packLine, tripId: t.id, day: 0 });
     t.days.forEach((list, i) => {
       const at = new Date(start.getFullYear(), start.getMonth(), start.getDate() + i, MORNING_HOUR).getTime();
-      out.push({ at, title: name + ' ' + (i + 1) + '일차 · 오늘 일정', body: placesLine(list), tripId: t.id, day: i });
+      // 마지막 날 아침에는 돌아오는 항공편도
+      const backLine = i === t.days.length - 1 && i > 0 ? flightLine(t, 'back') : '';
+      out.push({ at, title: name + ' ' + (i + 1) + '일차 · 오늘 일정', body: (backLine ? backLine + '\n' : '') + placesLine(list), tripId: t.id, day: i });
     });
   }
   return out.filter((r) => r.at > now && r.at < until).sort((a, b) => a.at - b.at);

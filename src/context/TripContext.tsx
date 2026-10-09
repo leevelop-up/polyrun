@@ -37,6 +37,26 @@ export interface Trip {
   keep?: boolean;
   // 사용 금액 (일차별로 적는다)
   expenses?: Expense[];
+  // 준비물 체크리스트. 없으면 처음 열 때 여행지에 맞는 기본 목록을 넣는다
+  checklist?: CheckItem[];
+  // 항공편: 가는 편(1일차), 오는 편(마지막 날)
+  flights?: Partial<Record<FlightKind, FlightInfo>>;
+}
+
+export type FlightKind = 'out' | 'back';
+export interface FlightInfo {
+  // IATA 편명 (KE123, 7C1101)
+  no: string;
+  // 출발 시각 "HH:MM" (현지 시각)
+  time?: string;
+}
+
+export interface CheckItem {
+  id: string;
+  text: string;
+  done: boolean;
+  // 묶음 이름 (서류·돈, 전자기기 …). 직접 추가한 것은 '내가 추가'
+  group: string;
 }
 
 export interface Expense {
@@ -65,6 +85,9 @@ interface TripContextValue {
   updateDayItems: (tripId: string, dayIdx: number, items: Place[]) => void;
   addExpense: (tripId: string, dayIdx: number, title: string, amount: number) => void;
   removeExpense: (tripId: string, expenseId: string) => void;
+  setChecklist: (tripId: string, items: CheckItem[]) => void;
+  // info 가 null 이면 그 항공편을 지운다
+  setFlight: (tripId: string, kind: FlightKind, info: FlightInfo | null) => void;
 }
 
 const TripContext = createContext<TripContextValue | undefined>(undefined);
@@ -217,11 +240,27 @@ export const TripProvider: React.FC<{ children: React.ReactNode }> = ({ children
     setTrips((prev) => prev.map((t) => (t.id === tripId ? { ...t, expenses: (t.expenses || []).filter((e) => e.id !== expenseId) } : t)));
   };
 
+  const setChecklist = (tripId: string, items: CheckItem[]) => {
+    setTrips((prev) => prev.map((t) => (t.id === tripId ? { ...t, checklist: items } : t)));
+  };
+
+  const setFlight = (tripId: string, kind: FlightKind, info: FlightInfo | null) => {
+    setTrips((prev) =>
+      prev.map((t) => {
+        if (t.id !== tripId) return t;
+        const flights = { ...t.flights };
+        if (info) flights[kind] = info;
+        else delete flights[kind];
+        return { ...t, flights };
+      })
+    );
+  };
+
   const activeTrip = trips.find((t) => t.id === activeTripId) || null;
 
   return (
     <TripContext.Provider
-      value={{ trips, activeTripId, activeTrip, createTrip, updateTrip, setKeep, importTrips, deleteTrip, setActiveTrip, addPlacesToDay, removePlaceFromDay, updateDayItems, addExpense, removeExpense }}
+      value={{ trips, activeTripId, activeTrip, createTrip, updateTrip, setKeep, importTrips, deleteTrip, setActiveTrip, addPlacesToDay, removePlaceFromDay, updateDayItems, addExpense, removeExpense, setChecklist, setFlight }}
     >
       {children}
     </TripContext.Provider>

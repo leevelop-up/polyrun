@@ -5,6 +5,7 @@
 // - GET /api/matrix?points=lat,lng;lat,lng  모든 지점 쌍의 도보/차량 이동 시간 (자동 정렬용)
 // - GET /api/path?points=lat,lng;lat,lng&profile=foot|car  두 지점 사이 실제 길 모양 (이동 중 화면용)
 // - GET /api/place?name=&lat=&lng=&wd=&alt=&region=  장소 상세정보 (위키백과 요약·사진·링크)
+// - GET /api/weather?lat=&lng=          앞으로 약 9일 날씨 (날짜별 하늘·최고/최저 기온·강수량)
 // 이 파일은 실행 환경과 상관없는 로직만 담는다. 실행은
 // - 로컬 개발: server/index.ts (npm run server)
 // - 배포: server/worker.ts (Cloudflare Workers, npm run api:deploy)
@@ -697,6 +698,97 @@ const placeInfo = async (name: string, alt: string[], region: string[], lat?: nu
   return info;
 };
 
+// ---------- 날씨 예보 ----------
+// MET Norway(노르웨이 기상청) Locationforecast: 무료·상업 이용 가능(CC BY 4.0, 출처 표시), 앱 식별 User-Agent 필수.
+// 앞으로 약 9일. 1시간(앞 2~3일) / 6시간 간격 예보를 현지 날짜별로 묶어 하루 요약을 만든다.
+const MET_URL = 'https://api.met.no/weatherapi/locationforecast/2.0/compact';
+export type WeatherKind = 'clear' | 'partly' | 'cloudy' | 'fog' | 'rain' | 'snow' | 'thunder';
+export type DayWeather = { date: string; kind: WeatherKind; max: number; min: number; rain: number };
+const weatherCache = new TtlCache<DayWeather[]>(60 * 60 * 1000, 2000);
+
+type MetStep = { summary?: { symbol_code?: string }; details?: { precipitation_amount?: number; air_temperature_max?: number; air_temperature_min?: number } };
+type MetEntry = { time: string; data: { instant?: { details?: { air_temperature?: number } }; next_1_hours?: MetStep; next_6_hours?: MetStep } };
+
+// "lightrainshowers_day" → rain
+const symbolKind = (s: string): WeatherKind => {
+  if (s.includes('thunder')) return 'thunder';
+  if (s.includes('snow') || s.includes('sleet')) return 'snow';
+  if (s.includes('rain')) return 'rain';
+  if (s.startsWith('fog')) return 'fog';
+  if (s.startsWith('cloudy')) return 'cloudy';
+  if (s.startsWith('clearsky')) return 'clear';
+  return 'partly';
+};
+
+// 현지 날짜는 경도로 어림한 시차(경도 15도 = 1시간)로 나눈다. 하루 최고·최저가 한두 시간 어긋나는 정도라 요약에는 충분하다
+const summarizeWeather = (series: MetEntry[], lng: number): DayWeather[] => {
+  const offsetMs = Math.round(lng / 15) * 3600000;
+  type Acc = { max: number; min: number; rain: number; samples: number; kinds: Partial<Record<WeatherKind, number>> };
+  const days = new Map<string, Acc>();
+  let coveredUntil = 0;
+  for (const e of series) {
+    const t = Date.parse(e.time);
+    if (!Number.isFinite(t)) continue;
+    const local = new Date(t + offsetMs);
+    const date = local.toISOString().slice(0, 10);
+    const hour = local.getUTCHours();
+    let d = days.get(date);
+    if (!d) days.set(date, (d = { max: -Infinity, min: Infinity, rain: 0, samples: 0, kinds: {} }));
+    const temp = e.data.instant?.details?.air_temperature;
+    if (typeof temp === 'number') {
+      d.max = Math.max(d.max, temp);
+      d.min = Math.min(d.min, temp);
+      d.samples++;
+    }
+    const step = e.data.next_1_hours || e.data.next_6_hours;
+    const hours = e.data.next_1_hours ? 1 : 6;
+    if (!step) continue;
+    const tmax = step.details?.air_temperature_max;
+    const tmin = step.details?.air_temperature_min;
+    if (typeof tmax === 'number') d.max = Math.max(d.max, tmax);
+    if (typeof tmin === 'number') d.min = Math.min(d.min, tmin);
+    // 강수량은 겹치는 구간을 두 번 세지 않는다
+    if (t >= coveredUntil) {
+      d.rain += step.details?.precipitation_amount || 0;
+      coveredUntil = t + hours * 3600000;
+    }
+    // 하늘 상태는 낮(8~20시) 예보로 정한다
+    const sym = step.summary?.symbol_code;
+    if (sym && hour >= 8 && hour < 20) {
+      const k = symbolKind(sym);
+      d.kinds[k] = (d.kinds[k] || 0) + hours;
+    }
+  }
+  const out: DayWeather[] = [];
+  for (const [date, d] of days) {
+    // 예보 끝자락처럼 값이 한두 개뿐인 날은 뺀다
+    if (d.samples < 2 || !Number.isFinite(d.max)) continue;
+    const rain = Math.round(d.rain * 10) / 10;
+    const w = (k: WeatherKind) => d.kinds[k] || 0;
+    let kind: WeatherKind;
+    if (w('thunder')) kind = 'thunder';
+    else if (rain >= 1) kind = w('snow') > w('rain') ? 'snow' : 'rain';
+    else {
+      // 비가 조금(1mm 미만) 오는 날은 흐림으로 본다
+      const sky: [WeatherKind, number][] = [['partly', w('partly')], ['clear', w('clear')], ['cloudy', w('cloudy') + w('rain') + w('snow')], ['fog', w('fog')]];
+      kind = sky.reduce((best, s) => (s[1] > best[1] ? s : best))[0];
+    }
+    out.push({ date, kind, max: Math.round(d.max), min: Math.round(d.min), rain });
+  }
+  return out;
+};
+
+const weatherForecast = async (lat: number, lng: number): Promise<DayWeather[]> => {
+  // 1km 정도로 묶어 캐시를 같이 쓴다 (MET 도 소수점 4자리 이하를 요구)
+  const key = lat.toFixed(2) + ',' + lng.toFixed(2);
+  const cached = weatherCache.get(key);
+  if (cached) return cached;
+  const data = await fetchJson(`${MET_URL}?lat=${lat.toFixed(2)}&lon=${lng.toFixed(2)}`, {}, 8000);
+  const days = summarizeWeather((data?.properties?.timeseries || []) as MetEntry[], lng);
+  weatherCache.set(key, days);
+  return days;
+};
+
 // ---------- 요청 처리 (Node 서버와 Cloudflare Workers 공통) ----------
 export const RESPONSE_HEADERS = {
   'Content-Type': 'application/json; charset=utf-8',
@@ -768,6 +860,11 @@ export const handleApi = async (method: string, url: URL, isClosed: () => boolea
     const region = url.searchParams.getAll('region').map((a) => a.trim().slice(0, 40)).filter(Boolean).slice(0, 4);
     if (!name && !wd) return send(400, { error: 'name or wd required' });
     return send(200, { info: await placeInfo(name, alt, region, lat, lng, wd) });
+  }
+
+  if (url.pathname === '/api/weather') {
+    if (lat === undefined || lng === undefined) return send(400, { error: 'lat, lng required' });
+    return send(200, { days: await weatherForecast(lat, lng) });
   }
 
   if (url.pathname === '/api/health') return send(200, { ok: true });

@@ -1,15 +1,19 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { useHistory, useLocation } from 'react-router-dom';
 import { Place, useTrip } from '../context/TripContext';
-import { CAT_COLORS, INK, PAPER } from '../theme/palette';
+import { CAT_COLORS, INK, MUTED, PAPER } from '../theme/palette';
 import { dayDate, daySchedule, fmtDay, fmtTravel, readDayParam, travelBetween, tripRange, tripRegion, tripTitle } from '../utils/trip';
 import { loadAllLegs, useRouteLegs } from '../hooks/useRouteLegs';
 import DayGrid from '../components/DayGrid';
-import DayExpenses from '../components/DayExpenses';
 import PlaceDetail from '../components/PlaceDetail';
-import BookingLinks from '../components/BookingLinks';
-import { agodaHotelsUrl, klookUrl, tripActivitiesUrl, tripBooking } from '../utils/booking';
+import TripPrep from '../components/TripPrep';
+import TripMoney from '../components/TripMoney';
+import TripTabs from '../components/TripTabs';
+import { tripBooking } from '../utils/booking';
 import { findTripDestination, loadPicks } from '../data/destinations';
+import { useWeather } from '../hooks/useWeather';
+import WeatherBadge from '../components/WeatherBadge';
+import FlightCard from '../components/FlightCard';
 import { daySpreadKm, Pace, PACE_LABEL, PACE_SIGHTS, recommendDays } from '../utils/recommend';
 
 // 두 장소 사이 이동 시간(분)
@@ -83,12 +87,23 @@ function bestOrder(l: Place[], cost: Cost, fixStart: boolean, fixEnd: boolean): 
   return head.concat(bl, foot);
 }
 
+type Tab = 'plan' | 'prep' | 'money';
+const TABS: Tab[] = ['plan', 'prep', 'money'];
+const readTab = (search: string): Tab => {
+  const t = new URLSearchParams(search).get('tab') as Tab;
+  return TABS.includes(t) ? t : 'plan';
+};
+
 const Itinerary: React.FC = () => {
   const history = useHistory();
   const location = useLocation();
   const { activeTrip, updateDayItems } = useTrip();
   const [day, setDay] = useState(() => readDayParam(location.search, activeTrip ? activeTrip.days.length : 1));
   const [grid, setGrid] = useState(false);
+  // 일정(장소) / 준비(항공편·준비물·날씨·예약) / 경비. 지도는 따로 화면
+  const [tab, setTab] = useState<Tab>(() => readTab(location.search));
+  // 장소 줄의 ⋯ 메뉴 (상세정보, 다른 날로, 삭제)
+  const [menu, setMenu] = useState<Place | null>(null);
   const [moving, setMoving] = useState<{ day: number; id: string } | null>(null);
   // prevAll: 여러 날을 한꺼번에 바꾼 경우(추천 일정) 되돌릴 전체 일정
   const [toast, setToast] = useState<{ text: string; undo: boolean; sort: boolean; prev: Place[] | null; prevAll?: Place[][] } | null>(null);
@@ -108,6 +123,8 @@ const Itinerary: React.FC = () => {
   const suppressSwipe = useRef(false);
   // 실제 길 기준 이동 시간 (받기 전/실패 시에는 직선거리 추정)
   const legOf = useRouteLegs(activeTrip ? activeTrip.days : []);
+  // 일차별 날씨 예보 (출발 약 9일 전부터)
+  const weather = useWeather(activeTrip);
   // 자동 정렬이 실제 이동 시간을 받는 중인지, 받는 동안 보던 일차 목록이 바뀌었는지 확인용
   const sorting = useRef(false);
   const latestList = useRef<Place[] | null>(null);
@@ -116,6 +133,7 @@ const Itinerary: React.FC = () => {
   useEffect(() => {
     if (location.pathname !== '/itinerary') return;
     setDay(readDayParam(location.search, activeTrip ? activeTrip.days.length : 1));
+    setTab(readTab(location.search));
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [location.pathname, location.search, activeTrip?.id]);
 
@@ -194,7 +212,6 @@ const Itinerary: React.FC = () => {
 
   const dest = findTripDestination(activeTrip);
   const booking = tripBooking(activeTrip);
-  const hotelsUrl = agodaHotelsUrl(booking);
   const emptyDays = days.map((d, i) => (d.length ? -1 : i)).filter((i) => i >= 0);
   const openRec = () => setRec({ pace: 'normal', scope: emptyDays.length > 1 ? 'empty' : 'day' });
 
@@ -343,7 +360,7 @@ const Itinerary: React.FC = () => {
               <path d="M20 12H4M11 5l-7 7 7 7" />
             </svg>
           </button>
-          <div style={{ flexGrow: 1, minWidth: 0, fontFamily: "'DM Mono', monospace", fontSize: 12, letterSpacing: '0.12em' }}>
+          <div style={{ flexGrow: 1, minWidth: 0, fontFamily: "'DM Mono', monospace", fontSize: 12, letterSpacing: '0.12em', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
             {tripRange(activeTrip)} · {activeTrip.pax}명
           </div>
           <button type="button" onClick={() => history.push('/edit-trip')} style={{ flexShrink: 0, display: 'flex', alignItems: 'center', gap: 4, height: 32, padding: '0 10px', marginRight: -6, border: '2px solid #FFFFFF', borderRadius: 6, background: 'transparent', color: '#FFFFFF', fontSize: 12, fontWeight: 700, cursor: 'pointer' }}>
@@ -357,11 +374,16 @@ const Itinerary: React.FC = () => {
         {activeTrip.title && <div style={{ fontSize: 13, fontWeight: 700, opacity: 0.85 }}>여행지 · {activeTrip.destination}</div>}
       </div>
 
-      <div style={{ flexShrink: 0, height: 48, boxSizing: 'border-box', display: 'grid', gridTemplateColumns: 'repeat(2, minmax(0, 1fr))', margin: '16px 20px 0', border: '2px solid #14162B', borderRadius: 10, overflow: 'hidden' }}>
-        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', height: 44, borderRight: '2px solid #14162B', background: '#FFD84A', color: INK, fontFamily: "'Black Han Sans', sans-serif", fontSize: 16 }}>목록</div>
-        <button type="button" onClick={() => history.push('/map?day=' + day)} style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', height: 44, border: 0, background: '#FFFFFF', color: INK, fontFamily: "'Black Han Sans', sans-serif", fontSize: 16, cursor: 'pointer' }}>지도</button>
-      </div>
+      <TripTabs
+        current={tab}
+        day={day}
+        onSelect={(k) => {
+          setTab(k);
+          setGrid(false);
+        }}
+      />
 
+      {tab !== 'prep' && (
       <div style={{ flexShrink: 0, display: 'flex', alignItems: 'center', gap: 8, padding: '14px 20px 0' }}>
         <div style={{ flexGrow: 1, minWidth: 0, display: 'flex', gap: 8, overflowX: 'auto', padding: '2px 2px 8px' }}>
           {days.map((_, i) => (
@@ -375,6 +397,7 @@ const Itinerary: React.FC = () => {
             </button>
           ))}
         </div>
+        {tab === 'plan' && (
         <button
           type="button"
           aria-label="전체 일차 보기"
@@ -385,9 +408,11 @@ const Itinerary: React.FC = () => {
             <rect x="3" y="3" width="7" height="7" /><rect x="14" y="3" width="7" height="7" /><rect x="3" y="14" width="7" height="7" /><rect x="14" y="14" width="7" height="7" />
           </svg>
         </button>
+        )}
       </div>
+      )}
 
-      {!grid && (
+      {tab === 'plan' && !grid && (
         <div style={{ flexGrow: 1, minHeight: 0, display: 'flex', flexDirection: 'column', touchAction: 'pan-y', userSelect: 'none' }} onTouchStart={onSwipeStart} onTouchEnd={onSwipeEnd} onMouseDown={onSwipeStart} onMouseUp={onSwipeEnd}>
           <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 8, padding: '4px 20px 8px' }}>
             <div style={{ display: 'flex', flexDirection: 'column', gap: 2, minWidth: 0 }}>
@@ -395,6 +420,7 @@ const Itinerary: React.FC = () => {
                 {day + 1}일차
               </div>
               <div style={{ fontFamily: "'DM Mono', monospace", fontSize: 11, color: '#4A4D66' }}>{dayDateLabel} · {list.length}곳</div>
+              {weather.get(day) && <WeatherBadge w={weather.get(day)!} size={11} color="#4A4D66" />}
             </div>
             {dest && (
               <button type="button" onClick={openRec} style={{ flexShrink: 0, marginLeft: 'auto', display: 'flex', alignItems: 'center', gap: 4, height: 44, padding: '0 10px', border: '2px solid #14162B', borderRadius: 8, background: '#FFFFFF', color: INK, fontFamily: "'Black Han Sans', sans-serif", fontSize: 15, cursor: 'pointer' }}>
@@ -412,6 +438,7 @@ const Itinerary: React.FC = () => {
             </button>
           </div>
           <div ref={scrollRef} style={{ flexGrow: 1, minHeight: 0, overflowY: 'auto', display: 'flex', flexDirection: 'column', padding: '0 20px' }}>
+            {day === 0 && <FlightCard trip={activeTrip} kind="out" hideEmpty />}
             {list.map((it, k) => {
               const row = schedule[k];
               const shift = dragShift(k);
@@ -453,14 +480,9 @@ const Itinerary: React.FC = () => {
                     <div style={{ fontSize: 15, fontWeight: 700 }}>{it.name}</div>
                     <div style={{ fontSize: 12, color: '#4A4D66' }}>{k === 0 ? it.cat + ' · 이 날의 첫 장소' : it.cat + ' · ' + fmtTravel({ mins: row.travel, mode: row.mode })}</div>
                   </button>
-                  {days.length > 1 && (
-                    <button type="button" aria-label={it.name + ' 다른 일차로 옮기기'} onClick={() => setMoving({ day, id: it.id })} style={{ flexShrink: 0, height: 32, padding: '0 8px', margin: '0 4px', border: '2px solid #14162B', borderRadius: 6, background: '#FFFFFF', color: INK, fontSize: 12, fontWeight: 700, cursor: 'pointer', whiteSpace: 'nowrap' }}>
-                      다른 날로
-                    </button>
-                  )}
-                  <button type="button" aria-label={it.name + ' 삭제'} onClick={() => removeItem(it)} style={{ flexShrink: 0, width: 44, height: 44, border: 0, background: 'transparent', cursor: 'pointer', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-                    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#14162B" strokeWidth={2.2} strokeLinecap="square" aria-hidden="true">
-                      <path d="M4 7h16M9 7V4h6v3M6 7l1 13h10l1-13M10 11v6M14 11v6" />
+                  <button type="button" aria-label={it.name + ' 메뉴 (다른 날로, 빼기)'} onClick={() => setMenu(it)} style={{ flexShrink: 0, width: 44, height: 44, border: 0, background: 'transparent', cursor: 'pointer', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                    <svg width="22" height="22" viewBox="0 0 24 24" fill="#14162B" aria-hidden="true">
+                      <circle cx="5" cy="12" r="2" /><circle cx="12" cy="12" r="2" /><circle cx="19" cy="12" r="2" />
                     </svg>
                   </button>
                 </div>
@@ -480,6 +502,7 @@ const Itinerary: React.FC = () => {
                 )}
               </div>
             )}
+            {day === days.length - 1 && days.length > 1 && <FlightCard trip={activeTrip} kind="back" hideEmpty />}
             <button
               type="button"
               aria-label={day + 1 + '일차에 장소 추가'}
@@ -488,17 +511,6 @@ const Itinerary: React.FC = () => {
             >
               + {day + 1}일차에 장소 추가
             </button>
-            <DayExpenses trip={activeTrip} day={day} />
-            <div style={{ flexShrink: 0, margin: '14px 0 16px', paddingTop: 14, borderTop: '2px solid #14162B' }}>
-              <BookingLinks
-                title={booking.city + ' 숙소 · 투어 예약'}
-                links={[
-                  ...(hotelsUrl ? [{ label: '숙소', site: '아고다', href: hotelsUrl }] : []),
-                  { label: '투어·입장권', site: '클룩', href: klookUrl(booking.city) },
-                  { label: '투어·입장권', site: '트립닷컴', href: tripActivitiesUrl(booking.city) }
-                ]}
-              />
-            </div>
           </div>
           <button
             type="button"
@@ -511,15 +523,46 @@ const Itinerary: React.FC = () => {
         </div>
       )}
 
-      {grid && (
+      {tab === 'plan' && grid && (
         <DayGrid
           trip={activeTrip}
           day={day}
+          weather={weather}
           onPick={(i) => {
             setDay(i);
             setGrid(false);
           }}
         />
+      )}
+
+      {tab === 'prep' && <TripPrep trip={activeTrip} weather={weather} onChecklist={() => history.push('/checklist')} />}
+      {tab === 'money' && <TripMoney trip={activeTrip} day={day} onPickDay={setDay} />}
+
+      {menu && (
+        <>
+          <div onClick={() => setMenu(null)} style={{ position: 'absolute', left: 0, top: 0, right: 0, bottom: 0, background: 'rgba(20,22,43,0.45)' }} />
+          <div role="dialog" aria-label={menu.name + ' 메뉴'} style={{ position: 'absolute', left: 0, right: 0, bottom: 0, display: 'flex', flexDirection: 'column', gap: 8, padding: '18px 20px 20px', borderTop: '2px solid #14162B', background: PAPER }}>
+            <div style={{ fontFamily: "'Black Han Sans', sans-serif", fontSize: 20, marginBottom: 4, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{menu.name}</div>
+            {([
+              ['상세정보', () => setDetail(menu)],
+              ...(days.length > 1 ? [['다른 날로 옮기기', () => setMoving({ day, id: menu.id })]] : []),
+              ['일정에서 빼기', () => removeItem(menu)]
+            ] as [string, () => void][]).map(([label, act]) => (
+              <button
+                key={label}
+                type="button"
+                onClick={() => {
+                  setMenu(null);
+                  act();
+                }}
+                style={{ height: 52, padding: '0 16px', border: '2px solid #14162B', borderRadius: 10, background: '#FFFFFF', color: label === '일정에서 빼기' ? '#FF5A3C' : INK, fontFamily: "'Black Han Sans', sans-serif", fontSize: 17, textAlign: 'left', cursor: 'pointer' }}
+              >
+                {label}
+              </button>
+            ))}
+            <button type="button" onClick={() => setMenu(null)} style={{ height: 48, marginTop: 4, border: 0, background: 'transparent', color: MUTED, fontSize: 15, fontWeight: 700, cursor: 'pointer' }}>닫기</button>
+          </div>
+        </>
       )}
 
       {toast && (

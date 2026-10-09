@@ -2,12 +2,14 @@ import React from 'react';
 import type { Trip } from '../context/TripContext';
 import { CAT_COLORS, INK } from '../theme/palette';
 import { dayDate, fmtDay } from '../utils/trip';
+import type { DayWeather } from '../api/geo';
+import { WeatherIcon } from './WeatherBadge';
 
 // 처음 몇 곳만 이름으로 보여주고 나머지는 "외 N곳"
 const PREVIEW = 3;
 
 // 전체 일차 한눈에 보기: 일차마다 날짜, 장소 수, 장소 이름
-const DayGrid: React.FC<{ trip: Trip; day: number; onPick: (day: number) => void }> = ({ trip, day, onPick }) => (
+const DayGrid: React.FC<{ trip: Trip; day: number; weather?: Map<number, DayWeather>; onPick: (day: number) => void }> = ({ trip, day, weather, onPick }) => (
   <div style={{ flexGrow: 1, minHeight: 0, overflowY: 'auto', display: 'flex', flexDirection: 'column', gap: 12, padding: '12px 20px 20px' }}>
     <div style={{ fontFamily: "'DM Mono', monospace", fontSize: 11, letterSpacing: '0.12em', color: '#4A4D66' }}>
       ALL DAYS · 전체 {trip.days.length}일 · {trip.days.reduce((s, d) => s + d.length, 0)}곳
@@ -17,6 +19,7 @@ const DayGrid: React.FC<{ trip: Trip; day: number; onPick: (day: number) => void
         const dd = dayDate(trip, i);
         const on = i === day;
         const sub = on ? '#FFD84A' : '#4A4D66';
+        const w = weather?.get(i);
         return (
           <button
             key={i}
@@ -28,8 +31,14 @@ const DayGrid: React.FC<{ trip: Trip; day: number; onPick: (day: number) => void
               <span style={{ fontFamily: "'Black Han Sans', sans-serif", fontSize: 20, color: on ? '#FFD84A' : INK }}>{i + 1}일차</span>
               <span style={{ fontFamily: "'DM Mono', monospace", fontSize: 11, color: sub }}>{dd ? fmtDay(dd) : ''}</span>
             </div>
-            <div style={{ fontFamily: "'DM Mono', monospace", fontSize: 11, color: sub }}>
-              {list.length ? list.length + '곳' : '아직 비어 있어요'}
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 6, fontFamily: "'DM Mono', monospace", fontSize: 11, color: sub }}>
+              <span style={{ whiteSpace: 'nowrap' }}>{list.length ? list.length + '곳' : '비어 있어요'}</span>
+              {w && (
+                <span style={{ display: 'inline-flex', alignItems: 'center', gap: 3 }}>
+                  <WeatherIcon kind={w.kind} size={15} color={on ? '#FFFFFF' : '#14162B'} />
+                  {w.max}°/{w.min}°
+                </span>
+              )}
             </div>
             <div style={{ display: 'flex', flexDirection: 'column', gap: 4 }}>
               {list.slice(0, PREVIEW).map((p) => (
